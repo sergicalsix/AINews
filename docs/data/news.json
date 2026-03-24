@@ -136,6 +136,33 @@
       "category": "company_blog"
     },
     {
+      "title": "Microsoft: Secure Agentic AI End-to-End at RSAC 2026",
+      "title_ja": "Microsoft、RSAC 2026でエージェントAIのセキュリティ新機能を発表",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/",
+      "date": "2026-03-20",
+      "summary": "RSAC 2026でMicrosoftがエージェントAIのセキュリティ確保のための新機能を発表。Agent 365が5月1日に一般提供開始し、IT・セキュリティ・ビジネスチームにエージェントの可視化・保護・ガバナンスツールを提供。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft: Zero Trust for AI (ZT4AI)",
+      "title_ja": "Microsoft、Zero Trust for AIを発表",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
+      "date": "2026-03-19",
+      "summary": "MicrosoftがAIライフサイクル全体にゼロトラスト原則を拡張するZT4AIを発表。データ取り込み、モデル訓練、デプロイメント、エージェント動作までカバーする新リファレンスアーキテクチャとアセスメントツールを提供。",
+      "category": "company_blog"
+    },
+    {
+      "title": "What 81,000 People Want from AI",
+      "title_ja": "Anthropic、81,000人のAIに対する意識調査を公開",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/81k-interviews",
+      "date": "2026-03-18",
+      "summary": "Claude.aiユーザー約81,000人を対象とした史上最大規模の定性的AI調査結果を公開。81%がAIが自身のビジョンに向けた一歩を踏み出したと回答。地域によりAIへの懸念レベルに大きな差があることも判明。",
+      "category": "company_blog"
+    },
+    {
       "title": "Sakana AI Develops AB-MCTS: New Inference-Time Scaling Algorithm",
       "title_ja": "Sakana AI、推論時スケーリングアルゴリズム「AB-MCTS」を開発",
       "source": "Sakana AI",
@@ -256,6 +283,33 @@
       "category": "international"
     },
     {
+      "title": "Announcing Copilot Leadership Update",
+      "title_ja": "Microsoft、Copilot組織を再編",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
+      "date": "2026-03-17",
+      "summary": "MicrosoftがCopilot組織を再編。コマーシャルとコンシューマーのCopilotを統合し、Copilot体験、プラットフォーム、M365アプリ、AIモデルの4つの柱で構成。Jacob AndreouがEVPとしてCopilot体験を統括。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Alibaba Sets Up 'Token Hub' AI Business Unit",
+      "title_ja": "Alibaba、AI事業を「Token Hub」として統合再編",
+      "source": "Alibaba / Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits",
+      "date": "2026-03-17",
+      "summary": "AlibabaがQwen研究チーム、消費者向けアプリ、主要AI製品を「Alibaba Token Hub」として統合。CEO Eddie Wuが統括し、AIインフラ・開発に530億ドル以上を投資予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google DeepMind: AI for Math Initiative",
+      "title_ja": "Google DeepMind、AI for Math Initiativeを発表",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+      "date": "2026-03-16",
+      "summary": "Google DeepMindとGoogle.orgがAI for Math Initiativeを発表。世界有数の5つの研究機関と連携し、AIを活用した数学研究の加速を目指す先駆的プロジェクト。",
+      "category": "company_blog"
+    },
+    {
       "title": "Microsoft Deploys Hundreds of Thousands of Grace Blackwell GPUs",
       "title_ja": "Microsoft、Grace Blackwell GPUを数十万基導入",
       "source": "Microsoft / NVIDIA",
@@ -274,12 +328,12 @@
       "category": "company_blog"
     },
     {
-      "title": "Anthropic Partners with Mozilla Firefox",
-      "title_ja": "Anthropic、Mozilla Firefoxと提携",
+      "title": "Anthropic Partners with Mozilla: 22 Firefox Vulnerabilities Found",
+      "title_ja": "Anthropic、Mozillaと協力しFirefoxの22件の脆弱性を発見",
       "source": "Anthropic",
-      "url": "https://anthropic.com/news",
-      "date": "2026-03-14",
-      "summary": "AnthropicがMozilla Firefoxとパートナーシップを発表。Firefoxブラウザ内でClaudeのAI機能を統合し、プライバシー重視のAIブラウジング体験を提供。オープンウェブの価値観を共有する両社の協業として注目される。",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "date": "2026-03-06",
+      "summary": "Claude Opus 4.6がMozillaとの協力で2週間にFirefoxの22件の脆弱性を発見。うち14件が高重要度と評価され、2025年に修正された高重要度脆弱性のほぼ5分の1に相当。修正はFirefox 148で数億人のユーザーに配信。",
       "category": "company_blog"
     },
     {
@@ -301,12 +355,48 @@
       "category": "japan"
     },
     {
+      "title": "Anthropic Opens Sydney Office as 4th APAC Location",
+      "title_ja": "Anthropic、アジア太平洋4拠点目のシドニーオフィスを開設",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "date": "2026-03-10",
+      "summary": "Anthropicがシドニーにアジア太平洋地域で4番目（東京、ベンガルール、ソウルに次ぐ）のオフィスを開設。金融サービス、農業技術、クリーンエネルギー、医療分野でのAI活用を支援。",
+      "category": "company_blog"
+    },
+    {
       "title": "Anthropic Launches Anthropic Institute for AI Safety",
       "title_ja": "Anthropic、AI安全性研究機関「Anthropic Institute」を設立",
       "source": "Anthropic",
-      "url": "https://anthropic.com/news",
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
       "date": "2026-03-11",
-      "summary": "AnthropicがAI安全性研究を推進する「Anthropic Institute」を設立。独立した研究機関として、AI安全性の基礎研究と政策提言を行う。翌日には1億ドル規模の「Claude Partner Network」も発表。",
+      "summary": "Anthropicが強力なAIが社会にもたらす課題に取り組む「Anthropic Institute」を設立。フロンティアレッドチーム、社会的影響チーム、経済研究の3チームをML・経済学・社会科学の学際的チームで統合・拡大。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Invests $100M into Claude Partner Network",
+      "title_ja": "Anthropic、Claude Partner Networkに1億ドル投資",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "date": "2026-03-12",
+      "summary": "Anthropicが2026年にClaude Partner Networkへ1億ドルの初期投資を発表。パートナー向けトレーニング、技術サポート、共同マーケティングを提供し、初のClaude技術認定資格とコードモダナイゼーションスターターキットも開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "DeepMind: AlphaGo at 10 and the Path to AGI",
+      "title_ja": "AlphaGo 10周年: AIイノベーションからAGIへの道",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "date": "2026-03-10",
+      "summary": "Demis HassabisがAlphaGoの10周年を振り返りAGIへの道筋を解説。AlphaProofによる数学的証明、Deep ThinkモードのIMO金メダルレベル達成など、AlphaGoの探索・計画技術がGeminiの世界モデルと組み合わさりAGI実現の鍵となることを展望。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft Introduces Frontier Suite (M365 E7)",
+      "title_ja": "Microsoft、Frontier Suite（M365 E7）を発表",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+      "date": "2026-03-09",
+      "summary": "MicrosoftがM365 E7「Frontier Suite」を発表。M365 E5、Copilot、Agent 365を統合し5月1日に月額$99/ユーザーで提供開始。Claude やOpenAI次世代モデルを含むモデル多様性拡大と、Copilot Coworkによる長時間マルチステップタスク自動化も発表。",
       "category": "company_blog"
     },
     {
@@ -316,6 +406,24 @@
       "url": "https://openai.com/index/openai-to-acquire-promptfoo/",
       "date": "2026-03-09",
       "summary": "OpenAIがAIセキュリティプラットフォームPromptfooの買収を発表。Promptfooの技術をOpenAI Frontierプラットフォームに統合し、企業のAIエージェント展開における評価・セキュリティ・コンプライアンスを強化。Fortune 500企業の25%以上が利用するツール。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google Workspace: Gemini Updates to Docs, Sheets, Slides",
+      "title_ja": "Google Workspace、Gemini新機能をDocs/Sheets/Slidesに追加",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
+      "date": "2026-03-15",
+      "summary": "Google WorkspaceにGeminiの新機能を追加。AI UltraおよびProサブスクライバー向けにDocs、Sheets、Slidesでパーソナライズされたドキュメント作成を支援。Google Driveが「Ask Gemini」機能で情報検索のアクティブなコラボレーターに進化。",
+      "category": "company_blog"
+    },
+    {
+      "title": "DeepMind: UK Government Partnership for AI Research",
+      "title_ja": "Google DeepMind、英国政府と提携し自動化研究所を設立",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+      "date": "2026-03-12",
+      "summary": "Google DeepMindが2026年に英国初の自動化研究所を材料科学に特化して設立。AlphaFoldが英国だけで19万人近くの研究者に活用。教育分野ではGeminiが教師の事務作業を週10時間削減する成果。",
       "category": "company_blog"
     },
     {
@@ -344,6 +452,15 @@
       "date": "2026-03-06",
       "summary": "デジタル庁がガバメントAIで試用する国産LLMを7件選定。NTTデータの「tsuzumi 2」、KDDI/ELYZAの「Llama-3.1-ELYZA-JP-70B」、PFNの「PLaMo 2.0 Prime」などが含まれる。2026年8月頃に試用を開始し、全府省庁39機関・約18万人規模で実証予定。",
       "category": "japan"
+    },
+    {
+      "title": "Anthropic: Where Things Stand with the Department of War",
+      "title_ja": "Anthropic CEO、国防総省との対立について声明",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "date": "2026-03-05",
+      "summary": "AnthropicのCEO Dario Amodeiが国防総省との対立について声明を発表。大規模国内監視と完全自律型兵器の2つのレッドラインを堅持し、サプライチェーンリスク指定に対して法的に争う方針を表明。",
+      "category": "company_blog"
     },
     {
       "title": "Introducing Claude Sonnet 4.6",
@@ -380,6 +497,33 @@
       "date": "2026-03-01",
       "summary": "PFNの日本語翻訳特化LLM「PLaMo翻訳」がデジタル庁のガバメントAI「源内」に導入済みで、2026年から他府省庁へ展開開始。国産LLMは7モデルが選定され、全府省庁39機関・約18万人規模での実証が予定。",
       "category": "japan"
+    },
+    {
+      "title": "Introducing Gemini 3 Flash",
+      "title_ja": "Google DeepMind、Gemini 3 Flashを発表",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "date": "2026-03-03",
+      "summary": "Google DeepMindがGemini 3 Flashを発表。Pro級の推論能力をFlash級の速度と低コストで提供。GPQA Diamond 90.4%、Humanity's Last Exam 33.7%でフロンティア性能を達成。テキスト・画像・音声・コード・動画のマルチモーダル理解に対応。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Alibaba Qwen AI Chief Steps Down Amid Leadership Reshuffle",
+      "title_ja": "Alibaba Qwen技術責任者が退任、株価5.3%下落",
+      "source": "AlphaMatch AI",
+      "url": "https://www.alphamatch.ai/blog/alibaba-qwen-lin-departure-march-2026",
+      "date": "2026-03-03",
+      "summary": "Alibaba QwenのJunyang Linが退任を発表、同日にYu Bowenも辞任。2023年以来400以上のオープンソースモデルをリリースし10億回以上ダウンロードされたQwenの主要アーキテクトの離脱で株価が最大5.3%下落。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Cohere Launches Tiny Aya: Open Multilingual Models for 70+ Languages",
+      "title_ja": "Cohere、70言語以上対応のオープン多言語モデルTiny Ayaを発表",
+      "source": "Cohere",
+      "url": "https://cohere.com/blog/tiny-aya",
+      "date": "2026-02-17",
+      "summary": "CohereがインドAIサミットでTiny Ayaファミリーを発表。70以上の言語をサポートするオープンウェイト多言語モデルで、ラップトップなど日常デバイスでインターネット不要で動作可能。アフリカ、南アジア、アジア太平洋の地域別バリアントも提供。",
+      "category": "company_blog"
     },
     {
       "title": "Japan's AI Basic Plan: Targeting 'Trustworthy AI'",

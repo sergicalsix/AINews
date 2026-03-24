@@ -57,6 +57,76 @@
       "category": "arxiv"
     },
     {
+      "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
+      "title_ja": "マルコフ状態の再導入によるLLM事後学習の能力上限突破",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.19987",
+      "date": "2026-03-20",
+      "authors": "Yurun Yuan et al.",
+      "summary": "LLMのRL事後学習における「能力の天井」問題を特定。拡大し続くアクション履歴への依存が原因と解明し、古典的RLのマルコフ状態を再導入することで論理パズルにおいて標準的なRL事後学習の性能限界を突破できることを実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Semantic Token Clustering for Efficient Uncertainty Quantification in LLMs",
+      "title_ja": "LLMの効率的な不確実性定量化のためのセマンティックトークンクラスタリング",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.20161",
+      "date": "2026-03-20",
+      "authors": "Qi Cao, Andrew Gambardella, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa",
+      "summary": "LLM内在の意味情報を活用した効率的な不確実性定量化手法STCを提案。トークンを意味的クラスタにグループ化し、単一の生成のみで補助モデルなしに不確実性を定量化。東大松尾研との共同研究。",
+      "category": "arxiv"
+    },
+    {
+      "title": "FormalEvolve: Neuro-Symbolic Evolutionary Search for Autoformalization",
+      "title_ja": "FormalEvolve: 自動形式化のためのニューロシンボリック進化的探索",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.19828",
+      "date": "2026-03-20",
+      "authors": "Haijian Lu, Wei Wang, Jing Liu",
+      "summary": "ニューロシンボリック手法と進化的探索を組み合わせた自動形式化手法FormalEvolveを提案。非形式的な数学記述を形式的で機械検証可能な表現に自動変換する新アプローチ。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Are Complicated Loss Functions Necessary for Teaching LLMs to Reason?",
+      "title_ja": "LLMに推論を教えるのに複雑な損失関数は必要か？",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.18756",
+      "date": "2026-03-19",
+      "authors": "Anonymous et al.",
+      "summary": "LLMの数学的推論訓練で負のフィードバックは不可欠だがPPOスタイルのクリッピングは不要と発見。簡素化REINFORCE変種RGRAを提案し、GRPOを上回る性能を達成。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Advancing Multimodal Agent Reasoning with Neuro-Symbolic Memory (NS-Mem)",
+      "title_ja": "ニューロシンボリックメモリによるマルチモーダルエージェント推論の進展",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.15280",
+      "date": "2026-03-18",
+      "authors": "Anonymous et al.",
+      "summary": "長期ニューロシンボリックメモリフレームワークNS-Memを提案。ニューラルメモリとシンボリック構造を統合し、制約付き推論クエリで最大12.5%の改善を達成。",
+      "category": "arxiv"
+    },
+    {
+      "title": "SFT vs RL: A Comprehensive Study of Post-Training Methods for LLMs",
+      "title_ja": "SFT対RL: LLM事後学習手法の包括的研究",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.13985",
+      "date": "2026-03-14",
+      "authors": "Haitao Jiang et al.",
+      "summary": "LLM事後学習におけるSFTとRLの統一的視点を提示。ハイブリッド学習パイプラインを強調し、2023-2025年の応用研究からハイブリッド事後学習パラダイムへの急速なシフトを特定。",
+      "category": "arxiv"
+    },
+    {
+      "title": "PostTrainBench: Can LLM Agents Automate LLM Post-Training?",
+      "title_ja": "PostTrainBench: LLMエージェントはLLM事後学習を自動化できるか？",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2603.08640",
+      "date": "2026-03-11",
+      "authors": "Anonymous et al.",
+      "summary": "LLMエージェントがLLMの事後学習を自動化できるかを評価するベンチマーク。Claude Code、Codex CLI等の自律エージェントがSFT、RLHF等の改善プロセスをどの程度遂行できるかを検証。",
+      "category": "arxiv"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "title_ja": "OpenAI、GPT-5.4 miniとnanoを発表",
       "source": "OpenAI",

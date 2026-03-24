@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News Research</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>AI News Research</h1>
+      <p class="subtitle">Claude Codeによる最新AI/LLMニュースリサーチ</p>
+      <p class="updated" id="lastUpdated"></p>
+    </div>
+  </header>
+
+  <nav>
+    <div class="container">
+      <button class="tab active" data-category="all">すべて</button>
+      <button class="tab" data-category="japan">日本のAI/LLM</button>
+      <button class="tab" data-category="international">海外AI/LLM</button>
+      <button class="tab" data-category="company_blog">企業ブログ</button>
+      <button class="tab" data-category="arxiv">arXiv論文</button>
+    </div>
+  </nav>
+
+  <main>
+    <div class="container">
+      <div id="newsContainer"></div>
+      <div id="loading" class="loading">ニュースを読み込み中...</div>
+      <div id="empty" class="empty" style="display:none;">ニュースが見つかりませんでした。</div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Powered by <a href="https://claude.ai" target="_blank">Claude Code</a> |
+        ソース: OpenAI, Anthropic, Google, DeepMind, Microsoft, Cohere, Qwen, Alibaba, arXiv 等</p>
+      <p class="footer-note">このサイトはClaude Codeで自動リサーチした結果をGitHub Pagesで公開しています。</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

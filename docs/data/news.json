@@ -1,0 +1,140 @@
+{
+  "lastUpdated": "2026-03-24 10:00 (JST)",
+  "articles": [
+    {
+      "title": "NVIDIA GTC 2026: Vera Rubin Platform and Agentic AI Take Center Stage",
+      "title_ja": "NVIDIA GTC 2026: Vera RubinプラットフォームとエージェントAIが主役に",
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "date": "2026-03-16",
+      "summary": "NVIDIAは3月16-19日のGTC 2026で次世代プラットフォーム「Vera Rubin」を発表。72基のRubin GPUと36基のVera CPUを搭載し、前世代Grace Blackwellの10倍のワット性能を実現。Jensen Huang CEOは2025-2027年の累計受注が1兆ドルに達する見通しを示した。エージェントAIが「転換点」に達したと宣言し、NemoClaw等のエージェント開発ツールも発表。",
+      "category": "international"
+    },
+    {
+      "title": "Xiaomi Launches MiMo-V2-Pro: Trillion-Parameter Agent Model",
+      "title_ja": "Xiaomi MiMo-V2-Pro発表: 1兆パラメータのエージェントモデル",
+      "source": "Xiaomi",
+      "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
+      "date": "2026-03-18",
+      "summary": "Xiaomiは旗艦AIモデル「MiMo-V2-Pro」を発表。総パラメータ数1T超（アクティブ42B）で、100万トークンのコンテキストウィンドウを持つ。OpenRouterで「Hunter Alpha」として匿名リリースし、1T以上のトークンを処理してから正体が判明。コーディング能力はClaude 4.6 Sonnetを超え、エージェント性能はOpus 4.6に迫る。",
+      "category": "international"
+    },
+    {
+      "title": "Google DeepMind AlphaGenome: Commercial Offering in Testing",
+      "title_ja": "Google DeepMind AlphaGenome: 商用版テスト開始",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "date": "2026-03-17",
+      "summary": "Google DeepMindのAlphaGenomeが商用版の早期テストを開始。DNA配列の機能予測AIで、160カ国の約3,000人の科学者が利用し、1日約100万リクエストを処理。がん、神経変性疾患、感染症の研究に活用されている。Nature誌での論文発表後、26項目中25項目で競合モデルを上回る性能を示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "PLaMo 2.0 Prime Selected for Japan's Government AI 'Gennai'",
+      "title_ja": "PLaMo 2.0 Prime、デジタル庁ガバメントAI「源内」の試用モデルに選定",
+      "source": "デジタル庁 / PFN",
+      "url": "https://www.preferred.jp/ja/news/783",
+      "date": "2026-03-06",
+      "summary": "PFNの国産LLM「PLaMo 2.0 Prime」がデジタル庁のガバメントAI「源内」の試用モデルに選定。2026年8月頃から全府省庁39機関・約18万人規模で実証予定。また、PLaMo 3.0 PretrainedがNICTと共同開発で2026年春に公開予定。PLaMo 2.2 PrimeはJFBenchでGPT-5.1に匹敵する日本語性能を達成。",
+      "category": "japan"
+    },
+    {
+      "title": "Sakana AI Signs Defense Research Contract with ATLA",
+      "title_ja": "Sakana AI、防衛装備庁と委託研究契約を締結",
+      "source": "Sakana AI",
+      "url": "https://sakana.ai/atla-contract-2026/",
+      "date": "2026-03-13",
+      "summary": "Sakana AIが防衛装備庁防衛イノベーション科学技術研究所と複数年の委託研究契約を締結。陸海空全領域のデータを統合分析する指揮統制システム（C2システム）の高度化を目指す。エッジデバイス向け小規模視覚言語モデル（SVLM）も活用。企業価値は約26億ドル（約4000億円）。",
+      "category": "japan"
+    },
+    {
+      "title": "Sakana AI Develops AB-MCTS: New Inference-Time Scaling Algorithm",
+      "title_ja": "Sakana AI、推論時スケーリングアルゴリズム「AB-MCTS」を開発",
+      "source": "Sakana AI",
+      "url": "https://sakana.ai/blog/",
+      "date": "2026-03-19",
+      "summary": "Sakana AIが新しい推論時スケーリングアルゴリズム「AB-MCTS」を開発。複数のフロンティアAIモデルを協調させ、ARC-AGI-2ベンチマークで有望な初期結果を達成。また「Continuous Thought Machine（CTM）」という、ニューロンダイナミクス間の同期を利用してタスクを解く新しいニューラルネットワークも発表。",
+      "category": "japan"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.3 Instant, GPT-5.4 Thinking, GPT-5.4 Pro",
+      "title_ja": "OpenAI、GPT-5.3 Instant・GPT-5.4 Thinking・GPT-5.4 Pro を発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/blog",
+      "date": "2026-03-05",
+      "summary": "OpenAIが新モデルファミリーを発表。GPT-5.3 Instantは高速推論、GPT-5.4 ThinkingとGPT-5.4 Proは高度な推論能力を備える。科学・数学分野でのインタラクティブな利用に特化した機能も3月16日に追加発表。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Launches Anthropic Institute",
+      "title_ja": "Anthropic、AI安全性研究機関「Anthropic Institute」を設立",
+      "source": "Anthropic",
+      "url": "https://anthropic.com/news",
+      "date": "2026-03-11",
+      "summary": "AnthropicがAI安全性研究を推進する「Anthropic Institute」を設立。独立した研究機関として、AI安全性の基礎研究と政策提言を行う。また3月12日には1億ドル規模の「Claude Partner Network」を発表し、パートナーエコシステムの拡大を図る。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Partners with Mozilla Firefox",
+      "title_ja": "Anthropic、Mozilla Firefoxと提携",
+      "source": "Anthropic",
+      "url": "https://anthropic.com/news",
+      "date": "2026-03-14",
+      "summary": "AnthropicがMozilla Firefoxとパートナーシップを発表。Firefoxブラウザ内でClaudeのAI機能を統合し、プライバシー重視のAIブラウジング体験を提供。オープンウェブの価値観を共有する両社の協業として注目される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA Uber Partnership: Autonomous Ride-Hail in 28 Cities by 2028",
+      "title_ja": "NVIDIAとUber提携: 2028年までに28都市で自動運転配車",
+      "source": "NVIDIA / Uber",
+      "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
+      "date": "2026-03-16",
+      "summary": "NVIDIA GTC 2026でUberがNVIDIAのDrive AVソフトウェアを搭載した自動運転配車サービスを2028年までに4大陸28都市で展開すると発表。日産、BYD、Geely、いすゞ、現代もNVIDIA Drive Hyperionでレベル4自動運転車を開発中。",
+      "category": "international"
+    },
+    {
+      "title": "NVIDIA NemoClaw: Enterprise AI Agent Platform",
+      "title_ja": "NVIDIA NemoClaw: エンタープライズAIエージェントプラットフォーム",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/ai-agents",
+      "date": "2026-03-17",
+      "summary": "NVIDIAがエンタープライズ向けAIエージェントプラットフォーム「NemoClaw」を発表。OpenClawの上にNVIDIAのソフトウェアスタックを重ねた構成。NVIDIA Agent ToolkitとOpenShellも発表され、ポリシーベースのセキュリティガードレールで安全なエージェント運用を実現。",
+      "category": "international"
+    },
+    {
+      "title": "PLaMo Translation Expands to All Government Ministries",
+      "title_ja": "PLaMo翻訳、2026年より全府省庁へ展開開始",
+      "source": "PFN / デジタル庁",
+      "url": "https://www.preferred.jp/ja/news/pr20251202",
+      "date": "2026-03-01",
+      "summary": "PFNの日本語翻訳特化LLM「PLaMo翻訳」がデジタル庁のガバメントAI「源内」に導入済みで、2026年から他府省庁へ展開開始。AnthropicやOpenAIのLLMも「源内」に採用されており、国産LLMは7モデルが選定。全府省庁39機関・約18万人規模での実証が予定。",
+      "category": "japan"
+    },
+    {
+      "title": "Agentic AI Reaches Inflection Point - GTC 2026 Theme",
+      "title_ja": "エージェントAIが転換点に到達 - GTC 2026のテーマ",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/20/nvidia-gtc-2026-agentic-ai-chips-tech-download.html",
+      "date": "2026-03-20",
+      "summary": "NVIDIA GTC 2026では「エージェントAI」が中心テーマに。Jensen Huang CEOはエージェントAIが「転換点」に達したと宣言。AI-Q Blueprintは DeepResearch Bench精度リーダーボードでトップを獲得。フロンティアモデルとオープンモデルのハイブリッドアプローチでクエリコストを半減。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Deploys Hundreds of Thousands of Grace Blackwell GPUs",
+      "title_ja": "Microsoft、Grace Blackwell GPUを数十万基導入",
+      "source": "Microsoft / NVIDIA",
+      "url": "https://blogs.microsoft.com/ai/",
+      "date": "2026-03-16",
+      "summary": "Microsoftが世界のデータセンターに液冷NVIDIA Grace Blackwell GPUを1年未満で数十万基導入。Azureは新しいNVIDIA Vera Rubin NVL72システムを最初に稼働させたハイパースケールクラウドプロバイダーとなった。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Continuous Thought Machine: A New Neural Network Architecture",
+      "title_ja": "Continuous Thought Machine: 新しいニューラルネットワークアーキテクチャ",
+      "source": "Sakana AI",
+      "url": "https://sakana.ai/blog/",
+      "date": "2026-03-23",
+      "summary": "Sakana AIが「Continuous Thought Machine（CTM）」を発表。ニューロンダイナミクス間の同期を利用してタスクを解く新しいニューラルネットワークアーキテクチャ。従来のTransformerとは異なるアプローチで、生物学的な神経回路の動作原理に着想を得ている。",
+      "category": "arxiv"
+    }
+  ]
+}

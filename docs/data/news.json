@@ -20,6 +20,24 @@
       "category": "international"
     },
     {
+      "title": "UK ICO and Ofcom Issue Formal Demand to xAI Over Grok Safety",
+      "title_ja": "英国ICOとOfcom、xAI社のGrokに安全性の正式要求",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/03/19/ai-regulation-us-draft-ai-act-emerges-as-uk-government-u-turns/",
+      "date": "2026-03-19",
+      "summary": "英国のICOとOfcomがイーロン・マスクのxAI社に対し、AIモデル「Grok」の画像生成機能に関する正式な要求を発出。非合意の性的コンテンツやディープフェイク生成への悪用リスクが懸念され、英国政府はAI規制法案の範囲拡大も検討中。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Partners with Google Gemini for AI-Powered Siri in iOS 26.4",
+      "title_ja": "Apple、Google Geminiを活用したAI搭載Siriを発表",
+      "source": "Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "date": "2026-03-19",
+      "summary": "AppleはGoogleの1.2兆パラメータGeminiモデルを活用した新しいAI搭載Siriを発表。iOS 26.4と共にリリース予定。Appleのプライベートクラウドコンピュート上で動作し、厳格なプライバシー基準を維持しながら高度なAI機能を実現する。",
+      "category": "international"
+    },
+    {
       "title": "Agentic AI Reaches Inflection Point - GTC 2026 Theme",
       "title_ja": "エージェントAIが転換点に到達 - GTC 2026のテーマ",
       "source": "CNBC",
@@ -93,6 +111,24 @@
       "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
       "date": "2026-03-18",
       "summary": "Xiaomiは旗艦AIモデル「MiMo-V2-Pro」を発表。総パラメータ数1T超（アクティブ42B）で、100万トークンのコンテキストウィンドウを持つ。OpenRouterで「Hunter Alpha」として匿名リリースし1兆トークン以上を処理。エージェント性能はClaude Opus 4.6に迫り、価格はSonnet 4.6の1/3〜1/5。",
+      "category": "international"
+    },
+    {
+      "title": "Robotics AI Startups Raise Over $1.2B in a Single Week",
+      "title_ja": "AIロボティクススタートアップ、1週間で12億ドル超を調達",
+      "source": "AI Funding Tracker",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "date": "2026-03-18",
+      "summary": "Mind Robotics（5億ドル）、Rhoda AI（4.5億ドル）、Sunday（1.65億ドル）、Oxa（1.03億ドル）の4社が1週間で合計12億ドル超を調達。産業用・家庭用・物流用AIロボットに資金が集中し、2026年のロボティクス投資は200億ドル超のペースで推移。",
+      "category": "international"
+    },
+    {
+      "title": "AMI Labs Raises $1.03B in Largest European Seed Round",
+      "title_ja": "ヤン・ルカン率いるAMI Labs、欧州史上最大のシードラウンドで10.3億ドル調達",
+      "source": "Intellizence",
+      "url": "https://intellizence.com/insights/startup-funding/the-weeks-5-biggest-funding-rounds-raised-over-3b-to-scale-the-next-wave-of-ai-innovation/",
+      "date": "2026-03-17",
+      "summary": "ヤン・ルカン率いるAMI LabsがJEPA（Joint Embedding Predictive Architecture）に基づくワールドモデル構築を目指し、欧州史上最大のシードラウンドで10.3億ドルを調達。Bezos、NVIDIA、Samsung、Temasekが出資。LLMパラダイムへの最大の挑戦と注目。",
       "category": "international"
     },
     {
@@ -173,7 +209,7 @@
       "source": "EU Council",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/",
       "date": "2026-03-13",
-      "summary": "EU理事会がAI Act規則の簡素化に合意。AI開発企業の規制負担を軽減しつつ、安全性要件を維持する方針。欧州のAI産業競争力強化を目指す動きとして注目される。",
+      "summary": "EU理事会はAI法の規則簡素化に関する立場に合意。高リスクAIシステム規則の適用期限を最大16か月延長し、中小企業への規制免除を拡大。非合意の性的コンテンツや児童性的虐待素材のAI生成を禁止する新規定も追加された。",
       "category": "international"
     },
     {
@@ -202,6 +238,15 @@
       "date": "2026-03-09",
       "summary": "OpenAIがAIセキュリティプラットフォームPromptfooの買収を発表。Promptfooの技術をOpenAI Frontierプラットフォームに統合し、企業のAIエージェント展開における評価・セキュリティ・コンプライアンスを強化。Fortune 500企業の25%以上が利用するツール。",
       "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Super Leads Open-Weight Models on SWE-Bench",
+      "title_ja": "NVIDIA Nemotron 3 Super、オープンウェイトモデルでSWE-Bench首位",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+      "date": "2026-03-11",
+      "summary": "NVIDIAのNemotron 3 SuperがSWE-Bench Verifiedで60.47%を達成し、オープンウェイトモデルで首位に。120Bパラメータのハイブリッド型Mamba-Transformer MoEアーキテクチャで12Bアクティブパラメータ、100万トークンコンテキスト、GPT-OSS-120B比2.2倍のスループットを実現。",
+      "category": "international"
     },
     {
       "title": "NEC's cotomi v3 Selected for Government AI Trials",

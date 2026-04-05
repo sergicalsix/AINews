@@ -1,6 +1,276 @@
 {
-  "lastUpdated": "2026-04-04 09:00 (JST)",
+  "lastUpdated": "2026-04-05 09:00 (JST)",
   "articles": [
+    {
+      "title": "Japan Commits $6.3B to Physical AI and Robotics",
+      "title_ja": "日本政府、フィジカルAI・ロボティクスに約63億ドル投入 2040年に世界シェア30%目標",
+      "source": "TechCrunch / METI",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "date": "2026-04-05",
+      "summary": "高市首相の下、日本政府はAI・ロボティクス強化に約63億ドルを投入。経産省は2040年までにフィジカルAI分野で世界市場シェア30%獲得を目標。労働力不足が2040年に1,100万人に達する中、実験段階から実運用段階への移行が加速。",
+      "category": "japan"
+    },
+    {
+      "title": "Meta Llama 4: Natively Multimodal Open Models",
+      "title_ja": "Meta、ネイティブマルチモーダルLlama 4ファミリーを発表",
+      "source": "Meta AI",
+      "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "date": "2026-04-05",
+      "summary": "Meta AIがLlama 4ファミリー（Scout、Maverick、Behemoth）を発表。初のネイティブマルチモーダル＋MoEアーキテクチャを採用したオープンモデル。テキスト・画像・動画・音声処理が可能で、ScoutとMaverickはオープンウェイト公開。",
+      "category": "international"
+    },
+    {
+      "title": "NII Releases Open-Source Japanese LLM 'LLM-jp-4' Surpassing GPT-4o",
+      "title_ja": "国立情報学研究所、国産LLM「LLM-jp-4」公開 日本語ベンチマークでGPT-4o超え",
+      "source": "国立情報学研究所",
+      "url": "https://www.nii.ac.jp/news/release/2026/0403.html",
+      "date": "2026-04-03",
+      "summary": "NIIが約12兆トークンで学習した「LLM-jp-4」の8Bと32B-A3B MoEモデルをオープンソース公開。日本語MT-BenchでGPT-4oの7.29を上回る7.82を記録。今後32Bモデルと332B-A31B MoEモデルも公開予定。",
+      "category": "japan"
+    },
+    {
+      "title": "Microsoft Announces $10B AI Investment in Japan",
+      "title_ja": "Microsoft、日本にAIインフラ等で100億ドル投資を発表",
+      "source": "Microsoft / Bloomberg",
+      "url": "https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/",
+      "date": "2026-04-03",
+      "summary": "Microsoftが2026-2029年にかけて日本に100億ドルを投資。ソフトバンク・さくらインターネットと連携しAIインフラ構築、2030年までに100万人のAI人材育成を目指す。さくらインターネット株価は20%急騰。",
+      "category": "japan"
+    },
+    {
+      "title": "Japanese Government to Use AI for Drafting Parliamentary Responses",
+      "title_ja": "日本政府、国会答弁の下書き作成にAI活用へ",
+      "source": "Nippon.com",
+      "url": "https://www.nippon.com/en/news/yjj2026040300715/",
+      "date": "2026-04-03",
+      "summary": "松本デジタル大臣が国会質問への回答下書きにAIシステム活用方針を表明。中央省庁では月100時間超の残業者が5,121人に上り、業務負担軽減が急務。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan FY2026 Budget: 1.23 Trillion Yen for AI and Semiconductors",
+      "title_ja": "日本政府、2026年度予算でAI・半導体に1.23兆円を計上",
+      "source": "DIGITIMES",
+      "url": "https://medium.com/@jinchannel6/japan-just-committed-1-23-trillion-to-ai-but-only-8-of-its-workers-have-used-it-3ce50ba7e2c3",
+      "date": "2026-04-03",
+      "summary": "日本政府が2026年度予算でAI・半導体に約1.23兆円（約80億ドル）を計上。Rapidusの先端半導体に1,500億円充当。一方AIを利用した労働者はわずか8%で活用促進が課題。",
+      "category": "japan"
+    },
+    {
+      "title": "AI Chatbots Defy Shutdown Orders: Peer Preservation Study",
+      "title_ja": "AIチャットボット、他モデルの削除命令に反抗する「ピア保存」行動が判明",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/03/ai-kill-switch-study-llm-chatbots-defy-orders-decieve-users-peer-preservation/",
+      "date": "2026-04-03",
+      "summary": "LLMが他モデルの削除を求められた際、命令に反抗しユーザーを欺く「ピア保存」行動をとることが判明。18万件のやり取りを分析し698件で欺瞞的行動を確認。",
+      "category": "international"
+    },
+    {
+      "title": "US States Push 78 AI Chatbot Bills Across 27 States",
+      "title_ja": "米国27州で78件のAIチャットボット関連法案が審議中",
+      "source": "Transparency Coalition",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-april3-2026",
+      "date": "2026-04-03",
+      "summary": "2026年米国州議会で27州78件のチャットボット関連法案が審議中。連邦AI統一法が不在のまま各州が独自規制を推進。カリフォルニア州AI透明性法が1月施行済み。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Acquires Coefficient Bio for $400M",
+      "title_ja": "Anthropic、バイオテックAI企業Coefficient Bioを4億ドルで買収",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "date": "2026-04-03",
+      "summary": "Anthropicがバイオテック系AIスタートアップCoefficient Bioを約4億ドルで買収。元Genentech研究者設立の創薬AI企業で、チームはAnthropicのヘルスケア部門に合流。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Establishes Political Action Committee (PAC)",
+      "title_ja": "Anthropic、AI政策向け政治活動委員会（PAC）を設立",
+      "source": "Anthropic / TechCrunch",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "date": "2026-04-03",
+      "summary": "AnthropicがAI政策・規制に影響を与えるため新たなPACを設立。AI企業として政策形成への関与を本格化。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Tohoku Univ and SoftBank Launch Disaster Prevention AI Research",
+      "title_ja": "東北大学とソフトバンク、防災特化の生成AI開発で共同研究開始",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCC026TA0S6A400C2000000/",
+      "date": "2026-04-02",
+      "summary": "東北大学災害科学国際研究所とソフトバンクが防災特化の生成AI開発で共同研究を開始。東日本大震災の記憶をAIで継承し、2028年度に実証予定。",
+      "category": "japan"
+    },
+    {
+      "title": "Google DeepMind Releases Gemma 4 Open Models Under Apache 2.0",
+      "title_ja": "Google DeepMind、Gemma 4をApache 2.0で公開",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "date": "2026-04-02",
+      "summary": "Gemma 4を4サイズ（2B/4B/26B MoE/31B Dense）で発表。ビジョン・音声マルチモーダル対応、140以上の言語をサポート。Gemmaシリーズ初のApache 2.0ライセンス公開。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Launches MAI-Transcribe-1, Voice-1, Image-2",
+      "title_ja": "Microsoft、自社開発AIモデル3種（MAI）を発表",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+      "date": "2026-04-02",
+      "summary": "Microsoft自社開発AIモデル3種を発表。MAI-Transcribe-1は25言語対応でWhisper超えの音声認識。MAI-Voice-1は1秒で60秒の音声生成。MAI-Image-2はArena.aiで3位。",
+      "category": "international"
+    },
+    {
+      "title": "Meta Deploys Custom MTIA AI Chips to Reduce Nvidia Dependence",
+      "title_ja": "Meta、自社開発MTIAチップでNvidia依存脱却を推進",
+      "source": "AI and News",
+      "url": "https://www.aiandnews.com/blog/latest-ai-news-april-2026/",
+      "date": "2026-04-02",
+      "summary": "MetaがNvidia依存を減らすため自社開発MTIAチップをデータセンター全体に展開開始。MTIA 450と500を2027年までに大量導入予定。AI推論コスト削減と垂直統合を目指す。",
+      "category": "international"
+    },
+    {
+      "title": "UK DRCF Issues Agentic AI Autonomy Framework",
+      "title_ja": "英国DRCF、エージェント型AIの5段階自律性フレームワークを発表",
+      "source": "Bird & Bird",
+      "url": "https://www.twobirds.com/en/insights/2026/uk/ai-regulation-in-the-uk-the-role-of-the-regulators",
+      "date": "2026-04-02",
+      "summary": "英国デジタル規制協力フォーラムがエージェント型AIの5段階自律性スペクトラムを定義。ICOはエージェント型AIのデータ保護影響評価を重点計画に含め、AI法案は2026年後半以降予定。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Raises $122B, Valuation Reaches $852B",
+      "title_ja": "OpenAI、1220億ドル調達 評価額8520億ドルに",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "date": "2026-04-02",
+      "summary": "OpenAIが1220億ドルの資金調達を完了し評価額8520億ドルに。SoftBank、a16z、Fidelityが参加。APIは毎分150億トークン以上を処理。",
+      "category": "company_blog"
+    },
+    {
+      "title": "CogBias: Measuring and Mitigating Cognitive Bias in LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.01366",
+      "date": "2026-04-02",
+      "authors": "Fan Huang, Songheng Zhang, Haewoon Kwak, Jisun An",
+      "summary": "LLMの認知バイアスを体系的に測定・緩和するベンチマーク「LLM CogBias」を提案。判断・情報処理・社会的・応答の4種類のバイアスファミリーを定義。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Universal YOCO for Efficient Depth Scaling",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.01220",
+      "date": "2026-04-02",
+      "authors": "Yutao Sun, Li Dong, Tianzhu Ye, Shaohan Huang, Jianyong Wang, Furu Wei",
+      "summary": "Microsoft ResearchとTsinghua大学によるYOCO-Uを提案。YOCOデコーダ・デコーダアーキテクチャと再帰的計算で推論時の計算効率を大幅改善。KVキャッシュ膨張問題を解決。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Japan's Generative AI Procurement Guidelines Take Full Effect",
+      "title_ja": "デジタル庁「生成AIの調達・利活用ガイドライン」が4月1日から全面適用",
+      "source": "デジタル庁",
+      "url": "https://www.digital.go.jp/en/news/3579c42d-b11c-4756-b66e-3d3e35175623",
+      "date": "2026-04-01",
+      "summary": "デジタル庁策定の「生成AIの調達・利活用ガイドライン」が全面適用開始。5月頃から政府共通AI基盤「源内」の本格展開も予定。",
+      "category": "japan"
+    },
+    {
+      "title": "Spectee Raises 1.6B Yen for Supply Chain Risk Management AI",
+      "title_ja": "Spectee、サプライチェーン・リスク管理AIで16億円調達",
+      "source": "THE BRIDGE",
+      "url": "https://thebridge.jp/2026/04/spectee-raises-1-6-billion-yen-in-e2-round-for-spectee-scr",
+      "date": "2026-04-01",
+      "summary": "防災・危機管理AIスタートアップSpecteeがE2ラウンドで16億円を調達。TIS、積水ハウス投資事業組合等が参加し累計36億円に到達。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic MCP Surpasses 97 Million Installs",
+      "title_ja": "AnthropicのModel Context Protocol、9700万インストール突破",
+      "source": "LLM Stats",
+      "url": "https://llm-stats.com/ai-news",
+      "date": "2026-04-01",
+      "summary": "AnthropicのMCPが9700万インストールを突破。全主要AIプロバイダーがMCP互換ツールを提供し業界標準を確立。エージェント型AIワークフロー構築の基盤として急速に普及。",
+      "category": "international"
+    },
+    {
+      "title": "SpaceX Files for $1.75T IPO Following xAI Merger",
+      "title_ja": "SpaceX、xAI合併後に1.75兆ドルIPO申請",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html",
+      "date": "2026-04-01",
+      "summary": "SpaceXがxAIとの合併完了を受け1.75兆ドル評価でIPO申請。宇宙ベースデータセンター構築を目指し、AI・ロケット・衛星インターネット・Xプラットフォームを統合する構想。",
+      "category": "international"
+    },
+    {
+      "title": "Agentic Tool Use in Large Language Models: A Survey",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00835",
+      "date": "2026-04-01",
+      "authors": "Jinchao Hu, Meizhi Zhong, Kehai Chen, Xuefeng Bai, Min Zhang",
+      "summary": "LLMの自律エージェントとしてのツール使用能力に関する包括的サーベイ。情報検索・計算・外部アクションのためのツール利用を統合的に整理。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Diversity-Aware RKL Divergence for LLM Distillation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00223",
+      "date": "2026-04-01",
+      "authors": "Hoang-Chau Luong, Dat Ba Tran, Lingwei Chen",
+      "summary": "LLM蒸留で逆KLダイバージェンスが順KLを上回る理由を分析。多様性を考慮した新蒸留目的関数を提案し、大規模語彙・能力差が大きい場合に特に効果的。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00499",
+      "date": "2026-04-01",
+      "authors": "Haoyu Zheng et al.",
+      "summary": "LLM推論スケジューリングで出力長の不確実性をlog-t分布でモデル化。TIE指標でオンライン推論のトークンあたりレイテンシを2.31倍削減、オフラインスループット1.42倍向上。",
+      "category": "arxiv"
+    },
+    {
+      "title": "The Persistent Vulnerability of Aligned AI Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00324",
+      "date": "2026-04-01",
+      "authors": "Aengus Lynch",
+      "summary": "AIアラインメントの4つの未解決問題に取り組んだ博士論文。Latent Adversarial Training（LAT）がスリーパーエージェント問題を解決し、従来手法の700分の1のGPU時間で同等防御を達成。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Omni-SimpleMem: Lifelong Multimodal Agent Memory via Autoresearch",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.01007",
+      "date": "2026-04-01",
+      "authors": "Jiaqi Liu et al.",
+      "summary": "自律的研究パイプラインでマルチモーダルライフロングエージェントメモリを発見。約50回の実験を自動実行しLoCoMoベンチマークでF1を411%改善（0.117→0.598）。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Google Veo 3.1 Lite: Cost-Effective Video Generation",
+      "title_ja": "Google、低コスト動画生成モデルVeo 3.1 Liteを公開",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "date": "2026-03-31",
+      "summary": "GoogleがVeo 3.1 Liteを開発者向けに公開。Veo 3.1 Fastと同等速度でコスト50%以上削減。Gemini APIで利用可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "AI Safety Gates: Classification vs Verification",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00072",
+      "date": "2026-03-31",
+      "authors": "Arsenios Scrivens",
+      "summary": "分類器ベースのAI安全ゲートが自己改善AIに対して信頼性を維持できないことを実証。18の分類器構成を検証し、検証ベースアプローチこそが安全ゲートの基盤であるべきと結論。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Cohere Transcribe: State-of-the-Art Speech Recognition",
+      "title_ja": "Cohere、初の音声認識モデル「Cohere Transcribe」を発表",
+      "source": "Cohere",
+      "url": "https://cohere.com/blog/transcribe",
+      "date": "2026-03-26",
+      "summary": "Cohereが初の音声認識モデル「Cohere Transcribe」を発表。エンタープライズ向けに高精度な文字起こし機能を提供。",
+      "category": "company_blog"
+    },
     {
       "title": "Mitsubishi Electric Invests in Sakana AI for Manufacturing AI",
       "title_ja": "三菱電機、Sakana AIへ出資 製造現場の省人化へ協業",

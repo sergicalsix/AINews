@@ -11,15 +11,6 @@
       "category": "japan"
     },
     {
-      "title": "Meta Llama 4: Natively Multimodal Open Models",
-      "title_ja": "Meta、ネイティブマルチモーダルLlama 4ファミリーを発表",
-      "source": "Meta AI",
-      "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
-      "date": "2026-04-05",
-      "summary": "Meta AIがLlama 4ファミリー（Scout、Maverick、Behemoth）を発表。初のネイティブマルチモーダル＋MoEアーキテクチャを採用したオープンモデル。テキスト・画像・動画・音声処理が可能で、ScoutとMaverickはオープンウェイト公開。",
-      "category": "international"
-    },
-    {
       "title": "NII Releases Open-Source Japanese LLM 'LLM-jp-4' Surpassing GPT-4o",
       "title_ja": "国立情報学研究所、国産LLM「LLM-jp-4」公開 日本語ベンチマークでGPT-4o超え",
       "source": "国立情報学研究所",

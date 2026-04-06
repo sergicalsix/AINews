@@ -17,11 +17,23 @@
 
   <nav>
     <div class="container">
-      <button class="tab active" data-category="all">すべて</button>
-      <button class="tab" data-category="japan">日本のAI/LLM</button>
-      <button class="tab" data-category="international">海外AI/LLM</button>
-      <button class="tab" data-category="company_blog">企業ブログ</button>
-      <button class="tab" data-category="arxiv">arXiv論文</button>
+      <div class="nav-tabs">
+        <button class="tab active" data-category="all">すべて</button>
+        <button class="tab" data-category="japan">日本のAI/LLM</button>
+        <button class="tab" data-category="international">海外AI/LLM</button>
+        <button class="tab" data-category="company_blog">企業ブログ</button>
+        <button class="tab" data-category="arxiv">arXiv論文</button>
+      </div>
+      <div class="date-filter">
+        <label for="dateRange">期間:</label>
+        <select id="dateRange">
+          <option value="3" selected>3日以内</option>
+          <option value="7">7日以内</option>
+          <option value="14">14日以内</option>
+          <option value="30">30日以内</option>
+          <option value="0">すべて</option>
+        </select>
+      </div>
     </div>
   </nav>
 

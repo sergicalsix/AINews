@@ -7,6 +7,7 @@ const CATEGORY_LABELS = {
 
 let allNews = [];
 let currentCategory = 'all';
+let currentMaxDays = 3;
 
 async function loadNews() {
   const loading = document.getElementById('loading');
@@ -34,9 +35,21 @@ function renderNews() {
   const container = document.getElementById('newsContainer');
   const empty = document.getElementById('empty');
 
-  const filtered = currentCategory === 'all'
+  let filtered = currentCategory === 'all'
     ? allNews
     : allNews.filter(n => n.category === currentCategory);
+
+  if (currentMaxDays > 0) {
+    const now = new Date();
+    now.setHours(23, 59, 59, 999);
+    const cutoff = new Date(now);
+    cutoff.setDate(cutoff.getDate() - currentMaxDays);
+    filtered = filtered.filter(n => {
+      if (!n.date) return false;
+      const d = new Date(n.date);
+      return d >= cutoff;
+    });
+  }
 
   if (filtered.length === 0) {
     container.innerHTML = '';
@@ -81,6 +94,12 @@ document.querySelectorAll('.tab').forEach(tab => {
     currentCategory = tab.dataset.category;
     renderNews();
   });
+});
+
+// Date filter
+document.getElementById('dateRange').addEventListener('change', (e) => {
+  currentMaxDays = parseInt(e.target.value, 10);
+  renderNews();
 });
 
 loadNews();

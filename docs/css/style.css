@@ -65,9 +65,43 @@ nav {
 
 nav .container {
   display: flex;
-  gap: 8px;
+  align-items: center;
+  gap: 12px;
   overflow-x: auto;
   scrollbar-width: none;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+}
+
+.date-filter {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.date-filter select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.date-filter select:hover,
+.date-filter select:focus {
+  border-color: var(--accent);
 }
 
 nav .container::-webkit-scrollbar { display: none; }

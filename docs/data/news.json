@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05 09:00 (JST)",
+  "lastUpdated": "2026-04-06 09:00 (JST)",
   "articles": [
     {
       "title": "Japan Commits $6.3B to Physical AI and Robotics",
@@ -9,6 +9,46 @@
       "date": "2026-04-05",
       "summary": "高市首相の下、日本政府はAI・ロボティクス強化に約63億ドルを投入。経産省は2040年までにフィジカルAI分野で世界市場シェア30%獲得を目標。労働力不足が2040年に1,100万人に達する中、実験段階から実運用段階への移行が加速。",
       "category": "japan"
+    },
+    {
+      "title": "Microsoft Copilot Terms of Service Describe Product as 'For Entertainment Purposes Only'",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "date": "2026-04-05",
+      "summary": "Microsoftの生成AIアシスタント「Copilot」の利用規約に「娯楽目的のみ」という文言が含まれていることが広く注目を集めた。エンタープライズ向けに月額30ドルで販売されている製品としては異例の免責事項であり、Microsoftは「レガシーな表現」として今後更新すると回答。",
+      "category": "international"
+    },
+    {
+      "title": "AI Retail Startups Tackle Returns Problem with Virtual Try-On Technology",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+      "date": "2026-04-05",
+      "summary": "AIスタートアップ各社がバーチャル試着技術を活用し、オンラインショッピングの返品問題に取り組んでいる。Googleは4月30日からバーチャル試着機能を商品検索結果に直接統合する予定で、主要小売業者の数十億点の商品に対応する。",
+      "category": "international"
+    },
+    {
+      "title": "Goldman Sachs: AI Demand to Drive 49% Surge in Semiconductor Revenues",
+      "source": "ANI News",
+      "url": "https://www.aninews.in/news/business/ai-led-demand-to-drive-sharp-surge-in-semiconductor-revenues-goldman-sachs20260405145721/",
+      "date": "2026-04-05",
+      "summary": "ゴールドマン・サックスのレポートによると、AI需要の加速により半導体業界の売上高が2026年末までに現行水準から49%増加し、AI関連ハードウェア収益は7000億ドル超に達する見通し。米国のAI関連投資は2022年比で3250億ドル増加。",
+      "category": "international"
+    },
+    {
+      "title": "Vibe Coding: The AI Programming Trend Creating New Developer FOMO",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-05/what-is-vibe-coding-the-ai-trend-fueling-a-new-kind-of-fomo",
+      "date": "2026-04-05",
+      "summary": "AIを活用した「バイブコーディング」がプログラミングの新トレンドとして急速に広がり、開発者コミュニティに新たなFOMOを生み出している。自然言語でAIに指示するだけでコードを生成する手法が普及し、従来のプログラミングスキルの価値が問い直されている。",
+      "category": "international"
+    },
+    {
+      "title": "AI Makes Crypto Security Attacks Cheaper and Easier, Warns Ledger CTO",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
+      "date": "2026-04-05",
+      "summary": "ハードウェアウォレットメーカーLedgerのCTOが、AIにより暗号資産プラットフォームへのサイバー攻撃のコストと難易度が大幅に低下していると警告。従来は数ヶ月かかっていたリバースエンジニアリングが数秒で可能になっている。",
+      "category": "international"
     },
     {
       "title": "NII Releases Open-Source Japanese LLM 'LLM-jp-4' Surpassing GPT-4o",
@@ -83,6 +123,32 @@
       "category": "company_blog"
     },
     {
+      "title": "Sakura Internet and Microsoft Japan Announce AI Infrastructure Collaboration",
+      "title_ja": "さくらインターネットと日本マイクロソフト、国内AIインフラ選択肢拡大で協業を正式発表",
+      "source": "さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/04/03/1968224185/",
+      "date": "2026-04-03",
+      "summary": "さくらインターネットと日本マイクロソフトが、Azure利用者がさくらのGPU計算基盤を活用できるソリューションの共同開発検討を開始。データ主権を確保しつつAzureの拡張性を維持し、国産LLM開発やフィジカルAI分野の事業者向けに国内完結型のAIインフラを提供する。株価は4月3日に20%ストップ高を記録。",
+      "category": "japan"
+    },
+    {
+      "title": "AI Companies Building Massive Natural Gas Power Plants for Data Centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "date": "2026-04-03",
+      "summary": "MicrosoftがChevronと共同でテキサス州西部に最大5GWの天然ガス発電所を建設中であり、GoogleもCrusoe Energyと提携して933MWのガス発電所を計画。MetaもルイジアナのHyperionデータセンターを7.46GWに拡張する。AI需要によるエネルギー消費の急増が環境目標との矛盾を深めている。",
+      "category": "international"
+    },
+    {
+      "title": "Adam's Law: Textual Frequency Law on Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.02176",
+      "date": "2026-04-03",
+      "authors": "Hongyuan Adam Lu, Z.L., Victor Wei, et al.",
+      "summary": "テキスト頻度法則（TFL）を提案し、頻出テキストデータがLLMのプロンプトとファインチューニングの両方で好まれるべきことを示す。入力をより頻出な表現にパラフレーズする手法とTextual Frequency Distillation（TFD）による性能向上を実証。",
+      "category": "arxiv"
+    },
+    {
       "title": "Tohoku Univ and SoftBank Launch Disaster Prevention AI Research",
       "title_ja": "東北大学とソフトバンク、防災特化の生成AI開発で共同研究開始",
       "source": "日本経済新聞",
@@ -152,6 +218,31 @@
       "date": "2026-04-02",
       "authors": "Yutao Sun, Li Dong, Tianzhu Ye, Shaohan Huang, Jianyong Wang, Furu Wei",
       "summary": "Microsoft ResearchとTsinghua大学によるYOCO-Uを提案。YOCOデコーダ・デコーダアーキテクチャと再帰的計算で推論時の計算効率を大幅改善。KVキャッシュ膨張問題を解決。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Bring State-of-the-Art Agentic Skills to the Edge with Gemma 4",
+      "source": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/",
+      "date": "2026-04-02",
+      "summary": "Google Developers BlogがGemma 4のエージェント機能を詳細解説。Agent Development Kit（ADK）SkillToolsetによる「段階的開示」アーキテクチャで、AIエージェントがドメイン専門知識をオンデマンドで読み込み、トークン使用量を最大90%削減可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 in Microsoft Foundry",
+      "source": "Microsoft",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787",
+      "date": "2026-04-02",
+      "summary": "Microsoftが自社開発の3つの基盤モデルを発表。MAI-Transcribe-1は25言語で業界最高精度の音声認識、MAI-Voice-1は1秒で60秒分の高忠実度音声生成、MAI-Image-2はArena.aiリーダーボードで3位にデビュー。Microsoft Foundryで提供開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.01599",
+      "date": "2026-04-02",
+      "authors": "Andy Nguyen, Danh Doan, et al.",
+      "summary": "エージェントネイティブのメモリアーキテクチャを提案。タスクを推論するLLM自身が知識のキュレーション・構造化・検索を管理する階層的ファイルベースのContext Treeを導入。LoCoMoで96.1%の精度を達成し、1.6秒のクエリ遅延を実現。",
       "category": "arxiv"
     },
     {
@@ -233,6 +324,95 @@
       "date": "2026-04-01",
       "authors": "Jiaqi Liu et al.",
       "summary": "自律的研究パイプラインでマルチモーダルライフロングエージェントメモリを発見。約50回の実験を自動実行しLoCoMoベンチマークでF1を411%改善（0.117→0.598）。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Salesforce Unveils 30 New AI Features for Slack, Transforms Slackbot Into Autonomous Agent",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "date": "2026-04-01",
+      "summary": "SalesforceがSlackに30の新AI機能を発表し、SlackbotをMCP（Model Context Protocol）クライアントとして外部サービスと連携できる自律型エージェントに進化させた。一部社員は1日最大90分の時間節約を報告。",
+      "category": "international"
+    },
+    {
+      "title": "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00007",
+      "date": "2026-04-01",
+      "authors": "Jaeik Kim, Woojin Kim, et al.",
+      "summary": "テキスト・画像・音声の理解と生成、および動画理解を単一アーキテクチャで統合する、初のマスク拡散ベースのオムニモーダル基盤モデル。従来の個別モデルと異なり、統一フレームワークにより複数モダリティを同時に処理可能。",
+      "category": "arxiv"
+    },
+    {
+      "title": "OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00688",
+      "date": "2026-04-01",
+      "authors": "Han Zhu, Lingwei Ye, Wei Kang, et al.",
+      "summary": "600以上の言語に対応する大規模多言語ゼロショットTTSモデル。拡散言語モデルスタイルの離散非自己回帰アーキテクチャを採用し、テキストからマルチコードブック音響トークンへの直接マッピングを実現。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Asymmetric Actor-Critic for Multi-turn LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00304",
+      "date": "2026-04-01",
+      "authors": "Shuli Jiang, Zhaoyang Zhang, Yi Zhang, et al.",
+      "summary": "信頼性の高い対話エージェントのための非対称Actor-Criticフレームワークを提案。強力なプロプライエタリLLMがアクターとして機能し、小型オープンソースモデルがクリティックとしてリアルタイム監視を行い、必要に応じて介入する設計。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00344",
+      "date": "2026-04-01",
+      "authors": "Eric Hanchen Jiang, Levina Li, Rui Sun, et al.",
+      "summary": "LLMマルチエージェントシステムにおけるトポロジー選択を協調型マルチエージェント強化学習問題として再定式化。QMIXの値分解を使用し、ラウンドごとの通信グラフを動的に生成する分散型意思決定フレームワーク。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Competition and Cooperation of LLM Agents in Games",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00487",
+      "date": "2026-04-01",
+      "authors": "Not specified",
+      "summary": "ゲーム環境におけるLLMエージェントの競争と協力の行動パターンを分析。マルチラウンドプロンプトと非ゼロサムコンテキストではLLMエージェントが協力する傾向があることを発見。公正さに関する推論が協力行動の中心であることを明らかにした。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00824",
+      "date": "2026-04-01",
+      "authors": "Yang Ye, Jingyuan Tan, et al.",
+      "summary": "「Less-Is-More」仮説をエージェントシナリオに拡張し、高品質な軌跡データの厳選によりエージェント能力を効率的に引き出せることを実証。STITCHフレームワークを提案し、低価値ノイズをフィルタリングするエンドツーエンドの訓練手法を開発。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Multimodal Language Models Cannot Spot Spatial Inconsistencies",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00799",
+      "date": "2026-04-01",
+      "authors": "Om Khangaonkar, Hadi J. Rad, Hamed Pirsiavash",
+      "summary": "マルチモーダルLLMの3D空間整合性理解能力を評価する新タスクを提案。同一シーンの2つのビューから3D動き整合性に違反するオブジェクトを特定するタスクで、最先端MLLMが人間に比べ大幅に劣ることを実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LinguDistill: Recovering Linguistic Ability in Vision-Language Models via Selective Cross-Modal Distillation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00829",
+      "date": "2026-04-01",
+      "authors": "Patrick Irawan, Erland Hilman Fuadi, et al.",
+      "summary": "視覚言語モデル適応時に失われる言語能力を回復するアダプタフリーの蒸留手法を提案。凍結した元の言語モデルを教師として使用し、レイヤーごとのKVキャッシュ共有による視覚条件付き教師監督を導入。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Hierarchical Pre-Training of Vision Encoders with Large Language Models (HIVE)",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.00086",
+      "date": "2026-04-01",
+      "authors": "Eugene Lee, Ting-Yu Chang, et al.",
+      "summary": "視覚エンコーダとLLM間の階層的クロスアテンションを導入し、視覚言語アラインメントを強化するHIVEフレームワークを提案。MME・GQA・OK-VQA・ScienceQAなどのベンチマークで自己注意ベース手法を上回る性能。",
       "category": "arxiv"
     },
     {

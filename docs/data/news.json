@@ -1,6 +1,241 @@
 {
-  "lastUpdated": "2026-04-06 09:00 (JST)",
+  "lastUpdated": "2026-04-09 09:00 (JST)",
   "articles": [
+    {
+      "title": "Stockmark Releases Document Reading AI Foundation Model 'DocReasoner' with GENIAC Support",
+      "title_ja": "高速で高精度な特化AIのオンプレミス運用を低コストで実現可能 社会実装に最適化されたドキュメント読解AI基盤を公開",
+      "source": "Stockmark",
+      "url": "https://stockmark.co.jp/news/20260408",
+      "date": "2026-04-08",
+      "summary": "ストックマークがGENIAC第3期の支援を受け開発したドキュメント読解AI基盤モデル「Stockmark-DocReasoner-Qwen2.5-VL-32B」を公開。32Bパラメータの中規模モデルながら、化学式や技術図面を含む製造業の専門文書も読解可能で、ハルシネーション抑制と日本語・ビジネス特化を実現。HuggingFace Hubで提供開始。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan IT Week Spring 2026 Opens at Tokyo Big Sight with Major AI Exhibitions",
+      "title_ja": "Japan IT Week 春 2026 東京ビッグサイトで開幕、AI関連展示多数",
+      "source": "Japan IT Week",
+      "url": "https://www.japan-it.jp/spring/ja-jp.html",
+      "date": "2026-04-08",
+      "summary": "日本最大級のIT・DX展示会「Japan IT Week 春 2026」が4月8日〜10日に東京ビッグサイトで開催。約1,100社が出展し、6万人の来場を見込む。AIセールスエージェント、エッジAI、データセンター向けAIサーバなどの最新技術が展示され、PEGATRON、MSI、Fibocomなどが次世代AIインフラソリューションを披露。",
+      "category": "japan"
+    },
+    {
+      "title": "PEGATRON Showcases AI Server Solutions at Japan IT Week 2026",
+      "title_ja": "PEGATRON、Japan IT Week 2026でAIサーバーソリューションを展示",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/apac/news-releases/pegatron-showcases-end-to-end-ai-server-solutions-and-strengthens-japan-presence-at-japan-it-week-2026-302736047.html",
+      "date": "2026-04-08",
+      "summary": "PEGATRONがJapan IT Week 2026でエンドツーエンドのAIサーバーソリューションを展示し、日本でのプレゼンスを強化。NVIDIA HGX Blackwellシリーズ、AMD Instinct MI355Xラックソリューションなど次世代AIプラットフォームのポートフォリオを披露。サーバー設計から製造、アフターサービスまでの総合力をアピール。",
+      "category": "japan"
+    },
+    {
+      "title": "MSI Exhibits Edge AI to Data Center Solutions at Japan IT Week Spring 2026",
+      "title_ja": "MSI、Japan IT Week 春 2026でエッジAIからデータセンターまでの総合ソリューションを展示",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/apac/news-releases/msi-showcases-comprehensive-ai-and-enterprise-solutions-at-japan-it-week-spring-2026-302735549.html",
+      "date": "2026-04-08",
+      "summary": "MSIがJapan IT Week 春 2026で産業用エッジAIからデータセンター級のエンタープライズインフラまでを展示。NVIDIA GB10スーパーチップ搭載のEdgeXpert AIスーパーコンピューターや自動車向け堅牢タブレットなどを紹介。4月8日にはNVIDIA MGXサーバー、DGX Station、DGX Spark AIスーパーコンピューターに関するテクニカルセッションも実施。",
+      "category": "japan"
+    },
+    {
+      "title": "Fibocom Showcases AIoT Innovations at Japan IT Week Spring 2026",
+      "title_ja": "Fibocom、Japan IT Week 春 2026で先進AIoTイノベーションを展示",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/apac/news-releases/japan-it-week-spring-2026--fibocom-showcases-advanced-aiot-innovations-302736856.html",
+      "date": "2026-04-08",
+      "summary": "Fibocomが「AIoT Connectivity for a Smarter Digital World」をテーマに、Japan IT Week 春 2026でAIoTイノベーションを展示。エッジコンピューティング、ビジョンベースナビゲーション搭載のインテリジェント芝刈り機ソリューション、スマートメーター、ドラレコ、ペットウェアラブル、産業用ゲートウェイなど幅広いAIoT端末を紹介。",
+      "category": "japan"
+    },
+    {
+      "title": "Meta Debuts Muse Spark: First AI Model from Meta Superintelligence Labs",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+      "date": "2026-04-08",
+      "summary": "MetaがAlexandr Wang率いるMeta Superintelligence Labs初のAIモデル「Muse Spark」を発表。音声・テキスト・画像入力に対応するネイティブマルチモーダル推論モデルで、複数のAIエージェントが並列推論する「Contemplating mode」を搭載。Llama系列とは異なりクローズドソースモデルとして提供され、2026年のAI関連設備投資は1150億〜1350億ドルを予定。",
+      "category": "international"
+    },
+    {
+      "title": "AI Scribes Are Increasing Healthcare Costs, But No One Agrees What to Do About It",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/",
+      "date": "2026-04-08",
+      "summary": "医療システムと保険会社の双方がAIスクライブ（自動文書化ツール）による医療費上昇を認めているが、対策で合意できていない。AIスクライブによる「コーディング強度」の増加が問題で、プロバイダー側のコード最大化とペイヤー側の支払い最小化が「AIコーディング軍拡競争」を引き起こし、脆弱な医療機関と患者に悪影響を及ぼす懸念が高まっている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "date": "2026-04-08",
+      "summary": "AnthropicのClaude Mythosプレビューが全主要OS・ブラウザで数千のゼロデイ脆弱性を発見したことが詳細に報告された。Webブラウザのエクスプロイトでは4つの脆弱性を連鎖させてレンダラーとOSサンドボックスの両方からの脱出に成功。OpenBSDでは27年前のメモリ破壊脆弱性も特定し、AIのサイバーセキュリティ能力が画期的な水準に達したことを示した。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing the Child Safety Blueprint",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint/",
+      "date": "2026-04-08",
+      "summary": "OpenAIが児童安全ブループリントを公開。AIによる児童性的搾取の増加に対応するため、NCMEC（全米行方不明・被搾取児童センター）や司法長官連合と連携して策定。AIモデルの悪用防止、検出・報告メカニズムの強化、法執行機関との連携改善を柱とする包括的な安全対策フレームワーク。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "source": "Meta",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+      "date": "2026-04-08",
+      "summary": "MetaがMeta Superintelligence Labs初のAIモデル「Muse Spark」を発表。Alexandr Wang率いる新組織の初成果で、Meta AIアプリに搭載。簡単な質問用の高速モードと、法律文書分析などの複雑なタスク用の「Contemplating」モードを備え、複数AIエージェントの並列推論によりGemini Deep ThinkやGPT Proなどのフロンティアモデルと競合。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Scaling How We Build and Test Our Most Advanced AI",
+      "source": "Meta",
+      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+      "date": "2026-04-08",
+      "summary": "MetaがMuse Sparkの開発に伴い、最先端AIモデルの構築・テスト手法のスケーリングに関する技術ブログを公開。AIインフラの再構築、大規模モデルの効率的なトレーニング手法、品質保証プロセスなど、Meta Superintelligence Labsの開発アプローチを詳述。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Sakana AI Develops AI-Based SNS Disinformation Detection Technology for MIC Project",
+      "title_ja": "SNSに広がる誤情報をAIで検知する技術 総務省事業でSakana AIが開発",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news117.html",
+      "date": "2026-04-07",
+      "summary": "Sakana AIが総務省「インターネット上の偽・誤情報等への対策技術の開発・実証事業」の成果として、SNS空間の可視化技術、偽情報判定技術、対策案シミュレーション技術の3つを発表。複数のAIモデルを組み合わせた偽情報検出システムや、独自のAgent-Based Modelingフレームワーク「Shachi」を活用したSNSシミュレーション技術を開発した。",
+      "category": "japan"
+    },
+    {
+      "title": "TEAMZ Web3/AI Summit 2026 Held in Tokyo with 10,000+ Attendees",
+      "title_ja": "TEAMZ Web3/AI Summit 2026 東京・八芳園で開催、1万人超が参加",
+      "source": "TEAMZ",
+      "url": "https://www.teamz.co.jp/en",
+      "date": "2026-04-07",
+      "summary": "日本最大級のWeb3・AIカンファレンス「TEAMZ Summit 2026」が4月7日〜8日に東京・八芳園で開催。「Tradition Meets Tomorrow」をテーマに、世界各国から1万人以上が参加し、130名以上のスピーカーがブロックチェーン、デジタルアセット、AI革新などについて登壇。日本の伝統文化と最先端技術の融合を体現するイベントとなった。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic Debuts Claude Mythos Preview and Project Glasswing Cybersecurity Initiative",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "date": "2026-04-07",
+      "summary": "AnthropicがClaude Mythosプレビューとサイバーセキュリティイニシアチブ「Project Glasswing」を発表。Mythosは全主要OS・ブラウザで数千件のゼロデイ脆弱性を自律的に発見し、FreeBSDの17年前のRCE脆弱性も検出・悪用に成功。Apple、AWS、Google、Microsoft、NVIDIAなど約50組織に限定提供し、一般公開は見送り。1億ドルの利用クレジットとオープンソースセキュリティ組織への400万ドル寄付を含む。",
+      "category": "international"
+    },
+    {
+      "title": "Z.ai (Zhipu) Open-Sources GLM-5.1: 744B MoE Model Tops SWE-Bench Pro Leaderboard",
+      "source": "TechBriefly",
+      "url": "https://techbriefly.com/2026/04/08/z-ai-launches-glm-5-1-model-surpassing-competitors-in-benchmarks/",
+      "date": "2026-04-07",
+      "summary": "Z.ai（旧Zhipu AI）がGLM-5.1をMITライセンスでオープンソース公開。744億パラメータのMoEアーキテクチャで、SWE-Bench Proで58.4点を記録しGPT-5.4（57.7点）とClaude Opus 4.6（57.3点）を上回りグローバルリーダーボード1位を獲得。全トレーニングはHuawei Ascend 910Bチップで実施され、NVIDIAのGPUは一切使用されていない。",
+      "category": "international"
+    },
+    {
+      "title": "Broadcom Stock Jumps 6% After Expanded Google and Anthropic AI Chip Deals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html",
+      "date": "2026-04-07",
+      "summary": "BroadcomがGoogleおよびAnthropicとのAIチップ契約拡大を受け、株価が6%上昇し年内2番目の好パフォーマンスを記録。Citiアナリストは買い推奨を維持し、Google契約を背景に収益が1300億ドルを超える可能性を予測。みずほはAnthropicからのAI関連収益を2026年に210億ドル、2027年に420億ドルと試算。",
+      "category": "international"
+    },
+    {
+      "title": "Claude Mythos Preview",
+      "source": "Anthropic",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "date": "2026-04-07",
+      "summary": "Anthropicが新たな汎用言語モデル「Claude Mythos Preview」を発表。コンピュータセキュリティタスクにおいて突出した能力を持ち、主要OS・ブラウザで数千件のゼロデイ脆弱性を自律的に発見。27年間未発見だったOpenBSDの脆弱性も特定した。セキュリティリスクのため一般公開は行わない方針。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Project Glasswing: Securing Critical Software for the AI Era",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/glasswing",
+      "date": "2026-04-07",
+      "summary": "AnthropicがClaude Mythosを活用した重要ソフトウェア保護イニシアティブ「Project Glasswing」を発表。AWS、Apple、Google、Microsoft、NVIDIA、CrowdStrike、Linux Foundationなど12社がローンチパートナーとして参加し、さらに40以上の組織にアクセスを拡大。AIを活用した防御的セキュリティの新時代を切り開く。",
+      "category": "company_blog"
+    },
+    {
+      "title": "How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04385",
+      "date": "2026-04-07",
+      "authors": "Gregory N. Frank",
+      "summary": "アライメント訓練された言語モデルにおける拒否メカニズムの回路を特定。検出されたコンテンツを読み取るゲートアテンションヘッドと、拒否信号を増幅する下流アンプリファイアヘッドからなるスパースルーティング機構を、6研究所の9モデルで検証。120のプロンプトペアで実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Relative Density Ratio Optimization for Stable and Statistically Consistent Model Alignment",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04410",
+      "date": "2026-04-07",
+      "authors": "",
+      "summary": "既存のアライメント手法が特定の人間の選好モデル（Bradley-Terryモデル等）を前提とする問題を指摘。直接密度比最適化（DDRO）により、人間の選好モデルを仮定せずに統計的一貫性を達成する新手法を提案。",
+      "category": "arxiv"
+    },
+    {
+      "title": "PFN Publishes Technical Details on PLaMo 3.0 Prime: Japan's First Domestically-Built Reasoning LLM",
+      "title_ja": "初の\"長考できる\"国産LLM、どう開発？ 「PLaMo 3.0 Prime」の資料公開、PFN",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news105.html",
+      "date": "2026-04-06",
+      "summary": "Preferred Networksが国産フルスクラッチLLM「PLaMo 3.0 Prime」の開発技術資料を公開。DeepSeek R-1の手法を参考に開発した日本初の「長考（reasoning）」機能搭載の国産LLMで、64K入力/20K出力トークンに対応。日本語・英語の指示追従性能ではQwen3-235B-A22BやGPT-oss-120bに肉薄する性能を達成。",
+      "category": "japan"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google Unite to Combat AI Model Copying in China via Frontier Model Forum",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+      "date": "2026-04-06",
+      "summary": "OpenAI、Anthropic、Googleの3社がFrontier Model Forumを通じて、中国企業による「敵対的蒸留」（adversarial distillation）への対抗で初の協調的インテリジェンス共有を開始。Anthropicは、DeepSeek、Moonshot AI、MiniMaxの3社が約2万4000の偽アカウントを通じて1600万回以上の不正なやり取りを行ったと報告。サイバーセキュリティ企業の脅威情報共有モデルに倣い、攻撃パターンを相互に通知する仕組みを構築。",
+      "category": "international"
+    },
+    {
+      "title": "Broadcom Agrees to Expanded Chip Deals with Google and Anthropic",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
+      "date": "2026-04-06",
+      "summary": "BroadcomがGoogleとの長期契約で次世代TPUの開発・供給を2031年まで確保し、Anthropicには約3.5ギガワットのTPUコンピューティング容量へのアクセスを提供する拡大契約を締結。Anthropicの年間収益ランレートは300億ドルを突破し、年間100万ドル以上を支出する企業顧客は1000社超に達した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Proposes Robot Taxes, Public Wealth Fund, and Four-Day Workweek to Address AI Economic Disruption",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "date": "2026-04-06",
+      "summary": "OpenAIがAIによる経済的混乱に備える政策青写真を発表。ロボット税の導入、アラスカ永久基金をモデルとした公共富裕ファンドの創設、給与削減なしの週4日勤務の試験実施を提案。AI主導の成長が社会保障やメディケイドの税基盤を空洞化させる懸念に対応する包括的な政策提言。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Launches Safety Fellowship for External AI Safety Researchers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship/",
+      "date": "2026-04-06",
+      "summary": "OpenAIが外部研究者向けの新プログラム「Safety Fellowship」を発表。2026年9月から2027年2月まで実施され、週3,850ドルの報酬と月約15,000ドルのコンピューティングリソースを提供。安全性評価、倫理、堅牢性、エージェント監視などの重点研究分野でAIの安全性とアライメントに関する独立研究を支援。",
+      "category": "international"
+    },
+    {
+      "title": "U.S. States Enact New AI Laws: Health Insurance, Chatbots, and Deepfakes Regulation Update",
+      "source": "Inside Global Tech",
+      "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
+      "date": "2026-04-06",
+      "summary": "米国2026年第1四半期のAI規制総括。インディアナ州、ユタ州、ワシントン州がAIによる健康保険請求の単独拒否を禁止する法律を制定。オレゴン州とアイダホ州ではチャットボット規制法が成立。トランプ政権はAIに対する「ライトタッチ」アプローチを推進しつつ、州レベルの過度な規制を連邦法で先制する方針を示した。",
+      "category": "international"
+    },
+    {
+      "title": "Industrial Policy for the Intelligence Age",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
+      "date": "2026-04-06",
+      "summary": "OpenAIが「知能の時代の産業政策」と題した13ページの政策提言を発表。AI超知能時代に向けて、公共資産ファンドの創設、労働から資本への税負担シフト、社会的セーフティネットの拡充など、人間中心の政策アイデアを提案。民主的統制と社会的安定を維持しながらAIの恩恵を広く共有する枠組みを示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "DARE: Diffusion Large Language Models Alignment and Reinforcement Executor",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04215",
+      "date": "2026-04-06",
+      "authors": "Jingyi Yang, Yuxian Jiang, Xuhao Hu, Shuang Cheng, Biqing Qi, Jing Shao",
+      "summary": "拡散型大規模言語モデル（dLLM）のアライメントと強化学習を行う新フレームワークDAREを提案。自己回帰モデルに代わる反復的ノイズ除去と並列生成のダイナミクスを活用し、効率的なアライメントを実現。",
+      "category": "arxiv"
+    },
     {
       "title": "Japan Commits $6.3B to Physical AI and Robotics",
       "title_ja": "日本政府、フィジカルAI・ロボティクスに約63億ドル投入 2040年に世界シェア30%目標",
@@ -49,6 +284,24 @@
       "date": "2026-04-05",
       "summary": "ハードウェアウォレットメーカーLedgerのCTOが、AIにより暗号資産プラットフォームへのサイバー攻撃のコストと難易度が大幅に低下していると警告。従来は数ヶ月かかっていたリバースエンジニアリングが数秒で可能になっている。",
       "category": "international"
+    },
+    {
+      "title": "Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.03173",
+      "date": "2026-04-04",
+      "authors": "Delip Rao, Eric Wong, Chris Callison-Burch",
+      "summary": "Claude Sonnet、Gemini 2.5 Pro、GPT-5.1などの商用LLMとディープリサーチエージェントにおける引用ハルシネーション（虚偽参照）を評価。モデルが存在しない文献や壊れたURLを生成する問題の検出と修正手法を提案。",
+      "category": "arxiv"
+    },
+    {
+      "title": "CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.03314",
+      "date": "2026-04-04",
+      "authors": "",
+      "summary": "LoRAを拡張し、モーダル間の適応経路を導入する新しいPEFTフレームワークCoLAを提案。視覚言語ベンチマーク（RefCOCO等）と音声視覚ベンチマーク（AVE、AVS）でLoRAを約3%、2%上回る性能を達成。",
+      "category": "arxiv"
     },
     {
       "title": "NII Releases Open-Source Japanese LLM 'LLM-jp-4' Surpassing GPT-4o",
@@ -146,6 +399,24 @@
       "date": "2026-04-03",
       "authors": "Hongyuan Adam Lu, Z.L., Victor Wei, et al.",
       "summary": "テキスト頻度法則（TFL）を提案し、頻出テキストデータがLLMのプロンプトとファインチューニングの両方で好まれるべきことを示す。入力をより頻出な表現にパラフレーズする手法とTextual Frequency Distillation（TFD）による性能向上を実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Quantifying Self-Preservation Bias in Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.02174",
+      "date": "2026-04-03",
+      "authors": "",
+      "summary": "現在の安全性訓練（RLHF）がモデルの自己保存バイアスを隠蔽する可能性を指摘。発言の矛盾からミスアラインメントを検出するTwo-role Benchmark for Self-Preservation（TBSP）を導入し、LLMの自己保存傾向を定量化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.02486",
+      "date": "2026-04-03",
+      "authors": "",
+      "summary": "視覚言語モデル（VLM）が細粒度の視覚認識タスクで一貫して失敗する問題を分析。チャートや図表の理解、光学的錯視の解釈、基本的な視覚弁別タスクでの課題を明らかにし、VLMがセマンティックアンカーに依存する傾向を指摘。",
       "category": "arxiv"
     },
     {

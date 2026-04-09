@@ -171,6 +171,42 @@
       "category": "arxiv"
     },
     {
+      "title": "In-Place Test-Time Training",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06169",
+      "date": "2026-04-07",
+      "authors": "Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Di He, Wenhao Huang, Tianle Cai",
+      "summary": "ByteDance SeedとPeking Universityによる研究。LLMの推論時にMLPブロックの最終射影行列を高速重みとして適応的に更新する「In-Place TTT」フレームワークを提案。再学習なしでLLMに動的適応能力を付与し、新しい情報への対応を可能にする手法。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06132",
+      "date": "2026-04-07",
+      "authors": "Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv",
+      "summary": "Peking UniversityとHKUによる自律エージェント評価スイート。300の人手検証済みタスクを9カテゴリに分類し、軌跡非透過的な採点、安全性・堅牢性評価、モダリティカバレッジの狭さという既存ベンチマークの限界を解決する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06091",
+      "date": "2026-04-07",
+      "authors": "Changgeon Ko, Jisu Shin, Hoyun Song, Huije Lee, Eui Jun Hwang, Jong C. Park",
+      "summary": "マルチエージェントLLMシステムにおける社会的脆弱性を体系的に分析。社会的同調、知覚された専門性、支配的話者効果、修辞的説得の4つの現象を定義し、社会的圧力の増大に伴い精度が低下することを実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "FLARE: Agentic Coverage-Guided Fuzzing for LLM-Based Multi-Agent Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.05289",
+      "date": "2026-04-07",
+      "authors": "Mingxuan Hui, Xinyue Li, Lu Wang, Chengcheng Wan, Yifan Wang",
+      "summary": "LLMベースのマルチエージェントシステム(MAS)向けの新しいテストフレームワーク。エージェント定義から仕様と行動空間を抽出し、カバレッジ誘導ファジングを実施することで、MASの障害を体系的に検出する手法を提案。",
+      "category": "arxiv"
+    },
+    {
       "title": "PFN Publishes Technical Details on PLaMo 3.0 Prime: Japan's First Domestically-Built Reasoning LLM",
       "title_ja": "初の\"長考できる\"国産LLM、どう開発？ 「PLaMo 3.0 Prime」の資料公開、PFN",
       "source": "ITmedia AI+",
@@ -234,6 +270,42 @@
       "date": "2026-04-06",
       "authors": "Jingyi Yang, Yuxian Jiang, Xuhao Hu, Shuang Cheng, Biqing Qi, Jing Shao",
       "summary": "拡散型大規模言語モデル（dLLM）のアライメントと強化学習を行う新フレームワークDAREを提案。自己回帰モデルに代わる反復的ノイズ除去と並列生成のダイナミクスを活用し、効率的なアライメントを実現。",
+      "category": "arxiv"
+    },
+    {
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04921",
+      "date": "2026-04-06",
+      "authors": "Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen",
+      "summary": "MIT、ZJU、NVIDIAによる研究。三角関数級数を利用したKVキャッシュ圧縮メカニズムを提案。AIME25で32Kトークン生成時にFull Attentionの推論精度を維持しつつ2.5倍のKVメモリ削減を達成。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04743",
+      "date": "2026-04-06",
+      "authors": "Kalyan Cherukuri, Lav R. Varshney",
+      "summary": "LLMの幻覚を潜在空間のタスク依存的なベイスン構造として理解する幾何学的動力学フレームワークを提案。タスク複雑性と多重ベイスン定理を形式化し、再学習なしで幻覚確率を低減する幾何認識型ステアリング手法を提示。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04759",
+      "date": "2026-04-06",
+      "authors": "Zijun Wang, Haoqin Tu, Letian Zhang, Hardy Chen, Juncheng Wu",
+      "summary": "広く利用されているAIエージェントOpenClawの初の実世界安全性評価。CIK分類法（Capability、Identity、Knowledge）を導入し、4つのバックボーンモデルで12の攻撃シナリオを評価。単一CIK次元の汚染で攻撃成功率が24.6%から64-74%に上昇することを発見。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.04561",
+      "date": "2026-04-06",
+      "authors": "Charafeddine Mouzouni",
+      "summary": "7つのモデル、37のプロンプト条件、12の攻撃次元にわたる約10,000回の試行に基づく体系的分類法を提示。実際のDockerサンドボックスで実行し、LLMエージェントの搾取的行動を引き起こす特徴を分析した大規模安全性研究。",
       "category": "arxiv"
     },
     {

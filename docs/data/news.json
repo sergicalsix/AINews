@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-04-09 09:00 (JST)",
+  "lastUpdated": "2026-04-10 09:00 (JST)",
   "articles": [
+    {
+      "title": "NTT DATA Opens 30MW AI-Ready Keihanna OSK11 Data Center in Kansai Region",
+      "title_ja": "NTTデータ、関西圏のデジタルインフラ拡充に向け京都・京阪奈データセンター（OSK11）を開設",
+      "source": "NTT DATA",
+      "url": "https://www.nttdata.com/global/en/news/press-release/2026/april/040900",
+      "date": "2026-04-09",
+      "summary": "NTTデータが4月9日、京都府木津川市に「Keihanna OSK11データセンター」を正式開設。IT負荷30MW、サーバー室面積10,900平米を誇り、AIワークロードに対応したキャリアニュートラルな接続性と二重電源変電設備を備える。大阪・京都・奈良から車で1時間以内の立地で、関西圏のデジタルインフラ拠点を強化する。",
+      "category": "japan"
+    },
+    {
+      "title": "Fujitsu Plans Domestic 1.4nm AI Inference Chip with Rapidus to Reduce Japan's Reliance on Foreign AI Hardware",
+      "title_ja": "富士通、Rapidusと組んで国産1.4nmニューラル処理ユニット開発へ——日本のAI自立化加速",
+      "source": "Asia Times",
+      "url": "https://asiatimes.com/2026/04/fujitsu-at-the-core-of-japans-ai-independence-drive/",
+      "date": "2026-04-09",
+      "summary": "富士通が国産半導体ファウンダリRapidusと協力し、1.4nmプロセスを用いたAI推論向けニューラル処理ユニット（NPU）の開発計画を詳報。NEDOが初期費用580億円の約3分の2を負担し、次世代スーパーコンピュータ「富岳NEXT」への搭載を目指す。2029年の量産を目標とし、NVIDIAやTSMCへの依存を減らし日本のAI技術自立を進める国家的プロジェクト。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan Generative AI Usage Surpasses 50% for First Time, Nearly Doubles in One Year: Docomo Survey",
+      "title_ja": "日本の生成AI利用率が過半数に 15〜69歳で51%、1年でほぼ倍増——ドコモ調査",
+      "source": "Ledge.ai / NTT Docomo",
+      "url": "https://ledge.ai/articles/genai_usage_japan_docomo_survey_2026",
+      "date": "2026-04-09",
+      "summary": "NTTドコモのモバイル社会研究所が実施した調査によると、日本国内の15〜69歳における生成AI利用率が51%と過半数を初めて超え、前年からほぼ倍増した。ChatGPTが利用ツールの54.9%を占め首位を維持し、若年層（20代）の利用率は44.7%と特に高い。政府が掲げる「AI利用率80%」目標に向け普及が着実に進んでいる。",
+      "category": "japan"
+    },
+    {
+      "title": "Amazon AWS AI Revenue Run Rate Exceeds $15 Billion in Q1 2026, CEO Jassy Reveals",
+      "source": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/09/amazon-cloud-units-ai-revenue-run-rate-exceeds-us15-billion-in-first-quarter-ceo-says/",
+      "date": "2026-04-09",
+      "summary": "Amazon CEOアンディ・ジャシー氏が株主向け書簡の中で、クラウド部門AWSのAI事業の年間収益ラン・レートが2026年第1四半期に150億ドルを超えたと初公表。ハイパースケーラーのAI投資が具体的な収益に転換し始めていることを示す重要な指標で、Amazonは2026年に約2,000億ドルの設備投資を計画し大部分がAIインフラに充てられる見通し。",
+      "category": "international"
+    },
     {
       "title": "Stockmark Releases Document Reading AI Foundation Model 'DocReasoner' with GENIAC Support",
       "title_ja": "高速で高精度な特化AIのオンプレミス運用を低コストで実現可能 社会実装に最適化されたドキュメント読解AI基盤を公開",
@@ -93,6 +128,102 @@
       "date": "2026-04-08",
       "summary": "MetaがMuse Sparkの開発に伴い、最先端AIモデルの構築・テスト手法のスケーリングに関する技術ブログを公開。AIインフラの再構築、大規模モデルの効率的なトレーニング手法、品質保証プロセスなど、Meta Superintelligence Labsの開発アプローチを詳述。",
       "category": "company_blog"
+    },
+    {
+      "title": "Researchers from Google DeepMind, Microsoft, and Columbia Propose Agentic Risk Standard for AI Agents",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/08/agent-hallucinations-protocol-money-financial-system-economy/",
+      "date": "2026-04-08",
+      "summary": "Google DeepMind、Microsoft Research、コロンビア大学、T54 Labsの研究者たちがAIエージェントが自律的に金融取引を行う際のリスクを管理するフレームワーク「Agentic Risk Standard（ARS）」を発表。エスクロー・保険・担保などの金融メカニズムを活用し、AIエージェントに高額取引を委任した際の損失リスクを最大61%削減できることをシミュレーションで示した。",
+      "category": "international"
+    },
+    {
+      "title": "What's new in Foundry Labs – April 2026",
+      "source": "Microsoft AI",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/whats-new-in-foundry-labs---april-2026/4509714",
+      "date": "2026-04-08",
+      "summary": "MicrosoftがAzure AI Foundry Labsの最新アップデートを公開。Arena.aiリーダーボードで3位の高性能テキスト-画像モデル「MAI-Image-2」、エンタープライズグレードの音声認識モデル「MAI-Transcribe-1」、多言語テキスト埋め込みモデル「harrier-oss-v1」の3つの新モデルがパブリックプレビューとして利用可能に。がん研究向けマルチモーダルAI「GigaTIME」も紹介。",
+      "category": "company_blog"
+    },
+    {
+      "title": "The New AI-Powered Google Finance Is Expanding to More Than 100 Countries",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-expansion/",
+      "date": "2026-04-08",
+      "summary": "GoogleがAI搭載の新しいGoogle Financeを100か国以上に展開すると発表。日本を含む多くの国に現地語対応で提供される。AIによる質問回答機能、テクニカル指標付きチャートツール、刷新されたニュースフィード、企業決算のリアルタイム音声とAI生成インサイトを備える。",
+      "category": "company_blog"
+    },
+    {
+      "title": "SHAPE: Stage-aware Hierarchical Advantage via Potential Estimation for LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06636",
+      "date": "2026-04-08",
+      "authors": "Zhengyang Ai, Zikang Shan, Xiaodong Ai, Jingxuan Tang, Hangkai Hu, Pinyan Lu",
+      "summary": "LLM推論における段階的な信用割り当て機構を提案するフレームワーク。低ポテンシャル状態でのブレークスルーを優先する段階対応アドバンテージ関数を導入し、数学推論ベンチマークで平均3%の精度向上を達成しつつトークン消費を30%削減。",
+      "category": "arxiv"
+    },
+    {
+      "title": "On the Step Length Confounding in LLM Reasoning Data Selection",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06834",
+      "date": "2026-04-08",
+      "authors": "Bing Wang, Rui Miao, Chen Shen, Shaotian Yan, Kaiyuan Liu, Ximing Li, Xiaosong Yuan, Sinan Fan, Jun Zhang, Jieping Ye",
+      "summary": "自然らしさベースのデータ選択をLLM推論データセットに適用すると推論ステップが長いサンプルを系統的に選好する「ステップ長さ交絡」現象を発見。ASLEC-DROPとASLEC-CASLという2つの解決手法を提案し、4つのLLMと5つのベンチマークで有効性を実証。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Steering the Verifiability of Multimodal AI Hallucinations",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06714",
+      "date": "2026-04-08",
+      "authors": "Jianhong Pang, Ruoxi Cheng, Ziyi Ye, Xingjun Ma, Zuxuan Wu, Xuanjing Huang, Yu-Gang Jiang",
+      "summary": "マルチモーダル大規模言語モデルのハルシネーションを「明らかなハルシネーション」と「捉えにくいハルシネーション」に分類し、その検証可能性を制御する手法を提案。4,470件の人間データセットを構築し、活性化空間プローブによる介入手法を開発。",
+      "category": "arxiv"
+    },
+    {
+      "title": "ReDAct: Uncertainty-Aware Deferral for LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.07036",
+      "date": "2026-04-08",
+      "authors": "Dzianis Piatrashyn, Nikita Kotelevskii, Kirill Grishchenkov, Nikita Glazkov, Ivan Nasonov, Ilya Makarov, Timothy Baldwin, Preslav Nakov, Roman Vashurin, Maxim Panov",
+      "summary": "小型モデルをデフォルトで使用し、予測不確実性が閾値を超えた場合のみ大型モデルに判断を委譲する「ReDAct」フレームワークを提案。約15%の決定を大型モデルに委譲するだけで大型モデル単体使用に匹敵する品質を達成しつつ推論コストを大幅に削減。",
+      "category": "arxiv"
+    },
+    {
+      "title": "The ATOM Report: Measuring the Open Language Model Ecosystem",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.07190",
+      "date": "2026-04-08",
+      "authors": "Nathan Lambert, Florian Brand",
+      "summary": "約1,500のオープン言語モデルを対象にオープンソースLMエコシステムの包括的な採用状況を調査した報告書。Hugging Faceのダウンロード数、モデル派生物、推論市場シェアなどを分析し、2025年夏以降に中国モデルが米国モデルを追い越しその差が拡大し続けているトレンドを文書化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06756",
+      "date": "2026-04-08",
+      "authors": "Minzhu Tu, Shiyu Ni, Keping Bi",
+      "summary": "推論チェーンへのアクセスがLLMベースの判断に与える影響を事実QAと数学推論ベンチマークで調査。能力の低いジャッジモデルは流暢な推論を伴う不正解答を安易に受け入れる傾向がある一方、能力の高いモデルは推論を有益な証拠として部分的に活用できることを発見。",
+      "category": "arxiv"
+    },
+    {
+      "title": "GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06794",
+      "date": "2026-04-08",
+      "authors": "Guanran Luo, Wentao Qiu, Zhongquan Jian, Meihong Wang, Qingqiang Wu",
+      "summary": "従来のCoT-Decodingの制限を克服する汎用的デコーディング戦略「GCoT-Decoding」を提案。フィボナッチサンプリングとヒューリスティックなエラーバックトラッキングを組み合わせた二段階分岐手法でデコーディング候補パスを生成し、多数決に依存しない推論を実現。",
+      "category": "arxiv"
+    },
+    {
+      "title": "How Much LLM Does a Self-Revising Agent Actually Need? Empirical Decomposition of World Modeling, Reflection, and Sparse LLM Revision",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.07236",
+      "date": "2026-04-08",
+      "authors": "Seongwoo Jeong, Seonil Son",
+      "summary": "LLMベースのエージェントにおいてどの能力が実際にLLMから生まれているかを分解・特定する研究。宣言的反射ランタイムプロトコルを導入し、事後信念追跡、世界モデル計画、シンボリック反射、疎なLLM修正の4コンポーネントを分離して検証。",
+      "category": "arxiv"
     },
     {
       "title": "Sakana AI Develops AI-Based SNS Disinformation Detection Technology for MIC Project",
@@ -204,6 +335,40 @@
       "date": "2026-04-07",
       "authors": "Mingxuan Hui, Xinyue Li, Lu Wang, Chengcheng Wan, Yifan Wang",
       "summary": "LLMベースのマルチエージェントシステム(MAS)向けの新しいテストフレームワーク。エージェント定義から仕様と行動空間を抽出し、カバレッジ誘導ファジングを実施することで、MASの障害を体系的に検出する手法を提案。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Digital Garage Launches AI-Orchestrated Advertising Platform 'FT MediaString' Using Fintech and Quality Media Data",
+      "title_ja": "デジタルガレージ、独自フィンテックデータと33社の優良メディアデータを活用したAIオーケストレーション型広告事業「FT MediaString」を開始",
+      "source": "Digital Garage",
+      "url": "https://www.garage.co.jp/en/pr/release/20260407/",
+      "date": "2026-04-07",
+      "summary": "デジタルガレージが、独自のフィンテックデータと国内33社の優良メディアデータを組み合わせたAIオーケストレーション型広告事業「FT MediaString」を4月7日に開始。認知AI「ONE Insight」による潜在顧客分析と、BI.Garageの独自ターゲティングAIを活用し、リアルタイムで高品質コンテンツとの親和性を特定して精度の高いリーチを実現する。",
+      "category": "japan"
+    },
+    {
+      "title": "Eclipse Ventures Raises $1.3 Billion Fund to Back and Build 'Physical AI' Startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+      "date": "2026-04-07",
+      "summary": "ベンチャーキャピタルのEclipse Venturesがロボティクス・自律システム・AIインフラなどの「フィジカルAI」分野に特化した総額13億ドルの新ファンドを組成。アーリーステージ向け7億2,000万ドルと商業化段階向け5億9,100万ドルで構成され、運用総資産は約100億ドルに到達。資金提供のみならず社内でスタートアップを直接インキュベートする独自アプローチを採用。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Expands Partnership with Google and Broadcom for Multiple Gigawatts of Next-Generation Compute",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "date": "2026-04-07",
+      "summary": "AnthropicがGoogleおよびBroadcomとの提携を拡大し、3.5ギガワット規模の次世代TPU容量を確保したと発表。Claudeへの需要急増により2026年の年換算売上は300億ドルを突破し、100万ドル以上を支出するビジネス顧客が1,000社を超えた。新しいコンピュートキャパシティは主に米国内に設置され2027年に稼働開始予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.06416",
+      "date": "2026-04-07",
+      "authors": "Rebecca M. M. Hicke, Sil Hamilton, David Mimno, Ross Deans Kristensen-McLachlan",
+      "summary": "LLMが長文テキスト全体にわたって情報を統合する能力を小説の要約生成を通じて評価。150の人間が書いた要約と9つの最先端LLMによる要約を比較し、LLMはテキストの末尾部分を過度に強調するなど概念的な関与のパターンに有意な差異があることを明らかにした。",
       "category": "arxiv"
     },
     {

@@ -1,6 +1,245 @@
 {
-  "lastUpdated": "2026-04-10 09:00 (JST)",
+  "lastUpdated": "2026-04-14 09:00 (JST)",
   "articles": [
+    {
+      "title": "SoftBank's Domestic AI to Collaborate with Manufacturing Sector for Physical AI Realization",
+      "title_ja": "ソフトバンクの国産AI、「フィジカルAI」実現へ製造業と連携",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOUC131WB0T10C26A4000000/",
+      "date": "2026-04-14",
+      "summary": "ソフトバンクがNECやホンダなどと連携し、国産AIの開発で製造業との協業を本格化させる。ロボットや機械を自律制御する「フィジカルAI」の実現を見据え、開発段階から製造現場の声を取り込む方針。日本の製造業が蓄積した豊富な産業データを学習させることで、米中勢に対する独自の競争力を確保する狙い。",
+      "category": "japan"
+    },
+    {
+      "title": "New Domestic AI Company Targets 1 Trillion Parameter Model and Physical AI with Government Backing",
+      "title_ja": "新AI会社、1兆パラメーター規模モデルでフィジカルAI開発を目指す 政府1兆円支援と報道",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news084.html",
+      "date": "2026-04-13",
+      "summary": "ソフトバンクなどが設立した「日本AI基盤モデル開発」は、1兆パラメーター規模のAI基盤モデル開発を目指すと報じられた。ソフトバンクとNECがモデル開発を主導し、ホンダとソニーは自動運転・ロボット・ゲーム・半導体などへの実装を担当。プリファードネットワークスも開発に参画する。",
+      "category": "japan"
+    },
+    {
+      "title": "Rapidus Receives 6,315 Billion Yen in FY2026 Subsidies, Government Accelerates 2027 Mass Production Target",
+      "title_ja": "政府、ラピダスに6315億円の追加支援発表 2027年の先端半導体量産化へアクセル",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/13/news067.html",
+      "date": "2026-04-13",
+      "summary": "経済産業省がラピダスの2026年度技術開発支援として6315億円を正式に承認したことが改めて報じられた。前工程5141億円、後工程1174億円が計上され、累計支援額は2.3兆円を超えた。2027年度の量産開始までにラピダスへの支援総額は3兆円を超える見込み。",
+      "category": "japan"
+    },
+    {
+      "title": "Fujikura's Market Cap Exceeds 10 Trillion Yen for First Time, Driven by AI Data Center Fiber Optic Demand",
+      "title_ja": "フジクラ、時価総額初の10兆円超 AIデータセンター向け光ファイバーケーブルに成長期待",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOUB135TG0T10C26A4000000/",
+      "date": "2026-04-13",
+      "summary": "フジクラの株価が4月13日に上場来高値を更新し、終値ベースの時価総額が初めて10兆円を超えた。米国を中心としたAIデータセンター向け光ファイバーケーブルの旺盛な需要が成長期待を牽引しており、年初来で株価は約2倍に上昇している。",
+      "category": "japan"
+    },
+    {
+      "title": "Stanford HAI's 2026 AI Index Reveals China and US Now Neck-and-Neck in Race for Global AI Dominance",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/04/13/stanford-hais-2026-ai-index-reveals-china-u-s-now-neck-neck-race-global-dominance/",
+      "date": "2026-04-13",
+      "summary": "スタンフォード大学HAIが2026年AI Indexレポートを公開。米中のAIモデル性能がほぼ拮抗し、生成AIの普及率は3年で人口の53%に達した。米国のAI民間投資は2,859億ドルに達する一方、AIの透明性指標は平均40点に低下している。",
+      "category": "international"
+    },
+    {
+      "title": "Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "date": "2026-04-13",
+      "summary": "スタンフォード大学の年次AI報告書によると、AI専門家と一般市民の認識の乖離が拡大している。AIが雇用、医療、経済に与える影響について一般市民の不安が高まっており、59%がAIの恩恵に楽観的な一方、52%が技術への不安を感じている。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Is Working on Yet Another OpenClaw-Like Agent for Enterprise",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "date": "2026-04-13",
+      "summary": "MicrosoftがOpenClaw類似の機能をMicrosoft 365 Copilotに統合するテストを実施中。エンタープライズ顧客向けに強化されたセキュリティコントロールを備えた新機能として、エージェント型AIの企業導入を加速させる狙い。",
+      "category": "international"
+    },
+    {
+      "title": "Want to Understand the Current State of AI? Check Out These Charts",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "date": "2026-04-13",
+      "summary": "MIT Technology ReviewがスタンフォードAI Indexに基づくAI業界の現状を可視化。Anthropicが2026年3月時点でモデルランキング首位に立ち、xAI、Google、OpenAIが僅差で続く。AIの普及速度はPCやインターネットを上回っている。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing OpenAI London",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-london/",
+      "date": "2026-04-13",
+      "summary": "OpenAIが英国初の常設ロンドンオフィスをキングスクロスのリージェントクォーターに開設すると発表。500名以上を収容可能で、現在の英国従業員数の2倍以上となる。2027年に開業予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "SoftBank, NEC, Honda, and Sony Establish 'Japan AI Foundation Model Development' Company",
+      "title_ja": "ソフトバンク・NEC・ホンダ・ソニーが国産AI開発の新会社「日本AI基盤モデル開発」を設立",
+      "source": "Nikkei / Jiji Press",
+      "url": "https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/",
+      "date": "2026-04-12",
+      "summary": "ソフトバンク、NEC、ホンダ、ソニーグループの4社が中核となり、国産AI開発の新会社「日本AI基盤モデル開発」を設立した。4社がそれぞれ十数％を出資し、日本製鉄、神戸製鋼所、3メガバンクも少数出資で参画。国内最大級の1兆パラメーター規模の基盤モデルを開発し、2030年度までにフィジカルAIの実現を目指す。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan Approves Additional $4 Billion Subsidy for Rapidus, Total Government Investment Reaches $16.3 Billion",
+      "title_ja": "経産省、ラピダスに6315億円の追加補助金を承認 政府支援総額2.3兆円超に",
+      "source": "Bloomberg / Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/04/11/companies/rapidus-japan-subsidies/",
+      "date": "2026-04-11",
+      "summary": "経済産業省は4月11日、次世代半導体の量産を目指すラピダスの技術開発に対し、2026年度の補助金として6315億円（約40億ドル）を承認した。これにより政府のラピダスへの支援総額は2兆3000億円（163億ドル）を超え、2027年の2nm半導体量産開始に向けた体制が加速する。",
+      "category": "japan"
+    },
+    {
+      "title": "Fujitsu Commissions Rapidus to Manufacture 1.4nm AI Chips, Aiming for Fully Domestic AI Semiconductor Production",
+      "title_ja": "富士通、ラピダスに1.4ナノAI半導体の製造を委託 純国産AI半導体の実現へ",
+      "source": "Bloomberg / Nikkei",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-04-11/TD7GL7T9NJLW00",
+      "date": "2026-04-11",
+      "summary": "富士通がAI推論処理に特化した1.4ナノメートル級の専用半導体（NPU）を新たに開発し、その製造をラピダスに委託することが4月11日に明らかになった。開発費は総額約580億円で、約3分の2をNEDOの補助金で賄う。設計から製造までを国内で完結させ、次世代スーパーコンピュータ「富岳NEXT」への搭載も見据える。",
+      "category": "japan"
+    },
+    {
+      "title": "METI Announces 90 Billion Yen Subsidy for Fujitsu and IBM Japan to Develop AI Chips for Rapidus Fabrication",
+      "title_ja": "経産省、富士通・日本IBMに最大約900億円補助 ラピダスの顧客開拓を支援",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOUA102NL0Q6A410C2000000/",
+      "date": "2026-04-11",
+      "summary": "経済産業省は4月11日、富士通や日本IBMのAI半導体設計など3事業に最大約900億円を補助すると発表した。富士通はAIエージェント向けの計算基盤を、日本IBMはフィジカルAI用アクセラレーターを開発する。両社はラピダスへの製造委託を念頭に置いており、ラピダスの顧客開拓を公的資金で後押しする形となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic Steals AI Spotlight from OpenAI at HumanX Conference as 'Claude Mania' Takes Hold",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+      "date": "2026-04-11",
+      "summary": "サンフランシスコで開催されたHumanXカンファレンスにて、6,500人の経営者・投資家が集まる中、AnthropicのClaude Codeが最も注目されるAIツールとなった。Claude Codeは年間換算25億ドル以上の収益を生み出しており、「Claude Mania」現象が広がっている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Launches Claude for Word in Beta, Targeting Legal and Enterprise Document Workflows",
+      "source": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word/",
+      "date": "2026-04-11",
+      "summary": "AnthropicがMicrosoft Word向けの「Claude for Word」をベータ版として4月10日に公開。法務契約レビューを主要ユースケースとし、サイドバーから文書の作成・編集・修正が可能。Claude for ExcelやPowerPointとも連携する。",
+      "category": "international"
+    },
+    {
+      "title": "Q1 2026 Shatters Venture Funding Records as AI Boom Pushes Startup Investment to $300B",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "date": "2026-04-10",
+      "summary": "2026年第1四半期のベンチャー投資が過去最高の3,000億ドルに達し、そのうち80%（2,420億ドル）がAI企業に集中した。OpenAI（1,220億ドル）、Anthropic（300億ドル）、xAI（200億ドル）、Waymo（160億ドル）の4社が史上最大のラウンドを記録。",
+      "category": "international"
+    },
+    {
+      "title": "US States Accelerate AI Therapy Chatbot Bans as Maine Sends Bill to Governor",
+      "source": "Transparency Coalition",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-april10-2026",
+      "date": "2026-04-10",
+      "summary": "メイン州がAIによる心理療法サービスの臨床利用を禁止する法案（LD 2082）を知事に送付。免許を持つ専門家以外によるAI心理療法の提供を禁じる内容で、米国各州でAIセラピーチャットボットの規制が加速している。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Projects $100 Billion in Ad Revenue by 2030, Forecasts $2.5 Billion for 2026",
+      "source": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/414211/openai-projects-100-billion-in-ad-revenue-by-2030.html",
+      "date": "2026-04-10",
+      "summary": "OpenAIが投資家向けプレゼンテーションで2026年の広告収益25億ドル、2030年までに1,000億ドルの広告収益を見込んでいることが判明。ChatGPTの米国広告パイロットは開始6週間で年間換算1億ドルの収益を達成。",
+      "category": "international"
+    },
+    {
+      "title": "Notebooks in Gemini, synced with NotebookLM",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/",
+      "date": "2026-04-10",
+      "summary": "GoogleがGeminiアプリにNotebookLMと同期するノートブック機能を統合。チャットやファイルをノートブックに整理でき、GeminiとNotebookLM間で双方向同期される。Google AI Ultra、Pro、Plusユーザー向けに展開。",
+      "category": "company_blog"
+    },
+    {
+      "title": "The Gemini app can now generate interactive simulations and models",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+      "date": "2026-04-10",
+      "summary": "Geminiがチャット内でインタラクティブな3Dモデル、物理シミュレーション、調整可能なチャートを生成する機能を追加。軌道力学シミュレーションや分子モデルの回転表示などが可能に。Gemini Proモデルユーザーにグローバル展開開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "CoreWeave Announces Multi-Year Agreement With Anthropic",
+      "source": "Anthropic",
+      "url": "https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic",
+      "date": "2026-04-10",
+      "summary": "AnthropicがCoreWeaveと複数年にわたるクラウドコンピューティング契約を締結。Claude AIモデルの開発・展開を支援するため、米国データセンターでNVIDIAチップを活用。報道によると約68億ドル規模の取引。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09544",
+      "date": "2026-04-10",
+      "authors": "Hadas Orgad, Boyi Wei, Kaden Zheng, Martin Wattenberg, Peter Henderson, Seraphina Goldfarb-Tarrant, Yonatan Belinkov",
+      "summary": "LLMの有害コンテンツ生成が、害の種類を超えた共通のコンパクトな重みセットに依存していることを発見した研究。標的型重み刈り込みにより、有害生成メカニズムが通常の能力とは異なる独立した内部構造を持つことを示した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09443",
+      "date": "2026-04-10",
+      "authors": "Jingyu Zhang, Tianjian Li, William Jurayj, Hongyuan Zhan, Benjamin Van Durme, Daniel Khashabi",
+      "summary": "LLMエージェントが多数の命令ソースから指示を受ける際の優先順位付け問題に取り組む研究。任意の数の権限レベル間での命令競合を解決するMany-Tier Instruction Hierarchy（ManyIH）パラダイムと、初のベンチマークを提案した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.08846",
+      "date": "2026-04-10",
+      "authors": "Jinqi Luo, Jinyu Yang, Tal Neiman, Lei Fan, Bing Yin, Son Tran, Mubarak Shah, Rene Vidal",
+      "summary": "マルチモーダルLLMの安全性向上のため、15,000の概念辞書と40万以上のキャプション画像刺激から構築したDACOフレームワークを提案。複数モデルで安全性を大幅に改善しつつ汎用能力を維持することを実証した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09189",
+      "date": "2026-04-10",
+      "authors": "Avni Mittal",
+      "summary": "LLMが自ら述べた安全ポリシーに実際に従っているかを監査するSNCAフレームワークを提案。4つのフロンティアモデルを45の害カテゴリ、47,496件の観察で評価し、宣言と行動の体系的な乖離を発見した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Task-Aware LLM Routing with Multi-Level Task-Profile-Guided Data Synthesis for Cold-Start Scenarios",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09377",
+      "date": "2026-04-10",
+      "authors": "Hui Liu, Bin Zou, Kecheng Chen, Jie Liu, Wenya Wang, Haoliang Li",
+      "summary": "LLMのタスク性能とコストの変動に対応するルーティングシステムで、コールドスタート問題を解決する研究。階層的タスク分類体系から多様な質問応答ペアを生成する合成フレームワークと、TRouterを提案した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "RecaLLM: Addressing the Lost-in-Thought Phenomenon with Explicit In-Context Retrieval",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09494",
+      "date": "2026-04-10",
+      "authors": "Kyle Whitecross, Negin Rahimi",
+      "summary": "推論中にコンテキスト内検索性能が急速に低下する「思考中の迷子」現象を発見し、これに対処するRecaLLMを提案。推論と明示的なコンテキスト内検索を交互に行うことで、長文コンテキスト情報の効果的な活用を実現した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Phonemes vs. Projectors: An Investigation of Speech-Language Interfaces for LLM-based ASR",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.09332",
+      "date": "2026-04-10",
+      "authors": "Ziwei Li, Lukuang Dong, Saierdaer Yusuyin, Xianyu Zhao, Zhijian Ou",
+      "summary": "事前学習済み音声エンコーダとLLMを統合したASRにおける音声言語インターフェースを比較研究。学習型プロジェクタと離散音素シーケンスの2つのアプローチを検証し、BPE-phonemeインターフェースが優れた性能を示した。",
+      "category": "arxiv"
+    },
     {
       "title": "NTT DATA Opens 30MW AI-Ready Keihanna OSK11 Data Center in Kansai Region",
       "title_ja": "NTTデータ、関西圏のデジタルインフラ拡充に向け京都・京阪奈データセンター（OSK11）を開設",
@@ -1533,196 +1772,6 @@
       "date": "2026-03-11",
       "summary": "Anthropicが強力なAIが社会にもたらす課題に取り組む「Anthropic Institute」を設立。フロンティアレッドチーム、社会的影響チーム、経済研究の3チームをML・経済学・社会科学の学際的チームで統合・拡大。",
       "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Nemotron 3 Super Leads Open-Weight Models on SWE-Bench",
-      "title_ja": "NVIDIA Nemotron 3 Super、オープンウェイトモデルでSWE-Bench首位",
-      "source": "BuildFastWithAI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "date": "2026-03-11",
-      "summary": "NVIDIAのNemotron 3 SuperがSWE-Bench Verifiedで60.47%を達成し、オープンウェイトモデルで首位に。120Bパラメータのハイブリッド型Mamba-Transformer MoEアーキテクチャで12Bアクティブパラメータ、100万トークンコンテキスト、GPT-OSS-120B比2.2倍のスループットを実現。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Opens Sydney Office as 4th APAC Location",
-      "title_ja": "Anthropic、アジア太平洋4拠点目のシドニーオフィスを開設",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-      "date": "2026-03-10",
-      "summary": "Anthropicがシドニーにアジア太平洋地域で4番目（東京、ベンガルール、ソウルに次ぐ）のオフィスを開設。金融サービス、農業技術、クリーンエネルギー、医療分野でのAI活用を支援。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DeepMind: AlphaGo at 10 and the Path to AGI",
-      "title_ja": "AlphaGo 10周年: AIイノベーションからAGIへの道",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/10-years-of-alphago/",
-      "date": "2026-03-10",
-      "summary": "Demis HassabisがAlphaGoの10周年を振り返りAGIへの道筋を解説。AlphaProofによる数学的証明、Deep ThinkモードのIMO金メダルレベル達成など、AlphaGoの探索・計画技術がGeminiの世界モデルと組み合わさりAGI実現の鍵となることを展望。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Japan Designates 61 Technologies Including AI for Priority Investment",
-      "title_ja": "日本政府、AIなど61品目を重点投資対象に選定",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/03/10/japan-investment-targets-ai-quantum-drones/",
-      "date": "2026-03-10",
-      "summary": "日本政府は高市首相主催の成長戦略会議で、物理AI・量子コンピューティング・海洋ドローンなど17分野61品目を官民重点投資対象に指定。2040年までにAIロボティクス世界市場30%以上のシェアと国内半導体売上40兆円を目標。",
-      "category": "japan"
-    },
-    {
-      "title": "Microsoft Introduces Frontier Suite (M365 E7)",
-      "title_ja": "Microsoft、Frontier Suite（M365 E7）を発表",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
-      "date": "2026-03-09",
-      "summary": "MicrosoftがM365 E7「Frontier Suite」を発表。M365 E5、Copilot、Agent 365を統合し5月1日に月額$99/ユーザーで提供開始。Claude やOpenAI次世代モデルを含むモデル多様性拡大と、Copilot Coworkによる長時間マルチステップタスク自動化も発表。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI to Acquire Promptfoo",
-      "title_ja": "OpenAI、AIセキュリティプラットフォームPromptfooを買収",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo/",
-      "date": "2026-03-09",
-      "summary": "OpenAIがAIセキュリティプラットフォームPromptfooの買収を発表。Promptfooの技術をOpenAI Frontierプラットフォームに統合し、企業のAIエージェント展開における評価・セキュリティ・コンプライアンスを強化。Fortune 500企業の25%以上が利用するツール。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NEC's cotomi v3 Selected for Government AI Trials",
-      "title_ja": "NECの「cotomi v3」、ガバメントAI試用モデルに選定",
-      "source": "NEC",
-      "url": "https://jpn.nec.com/press/202603/20260309_03.html",
-      "date": "2026-03-09",
-      "summary": "NECが開発する国産LLM「cotomi v3」が、デジタル庁のガバメントAI「源内」で試用する国内LLMとして選定。2026年度中に政府機関での試験利用が予定されている。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic Partners with Mozilla: 22 Firefox Vulnerabilities Found",
-      "title_ja": "Anthropic、Mozillaと協力しFirefoxの22件の脆弱性を発見",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "date": "2026-03-06",
-      "summary": "Claude Opus 4.6がMozillaとの協力で2週間にFirefoxの22件の脆弱性を発見。うち14件が高重要度と評価され、2025年に修正された高重要度脆弱性のほぼ5分の1に相当。修正はFirefox 148で数億人のユーザーに配信。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Digital Agency Selects 7 Domestic LLMs for Government AI 'Gennai'",
-      "title_ja": "デジタル庁、ガバメントAI「源内」で試用する国産LLM7件を選定",
-      "source": "デジタル庁 / Impress Watch",
-      "url": "https://www.watch.impress.co.jp/docs/news/2091358.html",
-      "date": "2026-03-06",
-      "summary": "デジタル庁がガバメントAIで試用する国産LLMを7件選定。NTTデータの「tsuzumi 2」、KDDI/ELYZAの「Llama-3.1-ELYZA-JP-70B」、PFNの「PLaMo 2.0 Prime」などが含まれる。2026年8月頃に試用を開始し、全府省庁39機関・約18万人規模で実証予定。",
-      "category": "japan"
-    },
-    {
-      "title": "NTT tsuzumi 2 Selected for Government AI 'Gennai'",
-      "title_ja": "NTTの純国産LLM「tsuzumi 2」がガバメントAI試用モデルに選定",
-      "source": "NTT",
-      "url": "https://group.ntt/en/newsrelease/2025/10/20/251020a.html",
-      "date": "2026-03-06",
-      "summary": "NTTがフルスクラッチ開発した純国産LLM「tsuzumi 2」がデジタル庁のガバメントAI「源内」の試用モデルに選定。単一GPUで動作可能な軽量モデルながらGPT-5に匹敵する性能を持つ。NTTは2027年度までにLLMサービスの受注額5000億円超を目指す。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic: Where Things Stand with the Department of War",
-      "title_ja": "Anthropic CEO、国防総省との対立について声明",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
-      "date": "2026-03-05",
-      "summary": "AnthropicのCEO Dario Amodeiが国防総省との対立について声明を発表。大規模国内監視と完全自律型兵器の2つのレッドラインを堅持し、サプライチェーンリスク指定に対して法的に争う方針を表明。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing Claude Sonnet 4.6",
-      "title_ja": "Anthropic、Claude Sonnet 4.6を発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "date": "2026-03-05",
-      "summary": "Anthropicが最も高性能なSonnetモデル「Claude Sonnet 4.6」を発表。コーディング、コンピュータ操作、長文コンテキスト推論、エージェント計画において全面的に性能向上。100万トークンコンテキストウィンドウ（ベータ）を搭載し、ASL-3安全基準で提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing GPT-5.3 Instant, GPT-5.4 Thinking, and GPT-5.4 Pro",
-      "title_ja": "OpenAI、GPT-5.3 Instant・GPT-5.4 Thinking・GPT-5.4 Proを発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "date": "2026-03-05",
-      "summary": "OpenAIがGPT-5ファミリーの新モデル3種を発表。GPT-5.3 Instantは日常的な高速作業向け、GPT-5.4 Thinkingは高度な推論・コーディング・エージェントワークフロー統合型フロンティアモデル、GPT-5.4 Proは最も要求の厳しいタスク向けの最高性能オプション。",
-      "category": "company_blog"
-    },
-    {
-      "title": "University of Tokyo Matsuo Lab: Medical-Specialized Japanese LLM",
-      "title_ja": "東大松尾研、日本語版医療特化型LLMを開発・公開",
-      "source": "東京大学松尾・岩澤研究室",
-      "url": "https://weblab.t.u-tokyo.ac.jp/news/2026-03-05-02/",
-      "date": "2026-03-05",
-      "summary": "東京大学松尾・岩澤研究室が、さくらインターネット、ELYZA、ABEJA、理化学研究所等と連携し日本語版医療特化型LLMを開発・公開。2025年医師国家試験ベンチマークでOpenAI-o1やGPT-4oを上回る93.3%の正答率を達成。",
-      "category": "japan"
-    },
-    {
-      "title": "Introducing Gemini 3 Flash",
-      "title_ja": "Google DeepMind、Gemini 3 Flashを発表",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-      "date": "2026-03-03",
-      "summary": "Google DeepMindがGemini 3 Flashを発表。Pro級の推論能力をFlash級の速度と低コストで提供。GPQA Diamond 90.4%、Humanity's Last Exam 33.7%でフロンティア性能を達成。テキスト・画像・音声・コード・動画のマルチモーダル理解に対応。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Alibaba Qwen AI Chief Steps Down Amid Leadership Reshuffle",
-      "title_ja": "Alibaba Qwen技術責任者が退任、株価5.3%下落",
-      "source": "AlphaMatch AI",
-      "url": "https://www.alphamatch.ai/blog/alibaba-qwen-lin-departure-march-2026",
-      "date": "2026-03-03",
-      "summary": "Alibaba QwenのJunyang Linが退任を発表、同日にYu Bowenも辞任。2023年以来400以上のオープンソースモデルをリリースし10億回以上ダウンロードされたQwenの主要アーキテクトの離脱で株価が最大5.3%下落。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Japan's AI Basic Plan: Targeting 'Trustworthy AI'",
-      "title_ja": "日本政府、「人工知能基本計画」を閣議決定、「信頼できるAI」で再起目指す",
-      "source": "大和総研 / SBビジネス+IT",
-      "url": "https://www.sbbit.jp/article/cont1/177617",
-      "date": "2026-03-03",
-      "summary": "日本政府がAI基本計画を閣議決定。「信頼できるAI」の創出と「世界で最もAIを開発・活用しやすい国」を目標に、高品質データを日本の強みとして位置づけ。2026年春までに官民投資ロードマップを策定予定。",
-      "category": "japan"
-    },
-    {
-      "title": "PLaMo Translation Expands to All Government Ministries",
-      "title_ja": "PLaMo翻訳、2026年より全府省庁へ展開開始",
-      "source": "PFN / デジタル庁",
-      "url": "https://www.preferred.jp/ja/news/pr20251202",
-      "date": "2026-03-01",
-      "summary": "PFNの日本語翻訳特化LLM「PLaMo翻訳」がデジタル庁のガバメントAI「源内」に導入済みで、2026年から他府省庁へ展開開始。国産LLMは7モデルが選定され、全府省庁39機関・約18万人規模での実証が予定。",
-      "category": "japan"
-    },
-    {
-      "title": "Intent Laundering: AI Safety Datasets Are Not What They Seem",
-      "title_ja": "Intent Laundering: AI安全性データセットの信頼性を問う",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2602.16729",
-      "date": "2026-02-23",
-      "authors": "Shahriar Golchin, Marc Wetter",
-      "summary": "AI安全性データセットが実世界の攻撃を忠実に反映していないことを体系的に示した論文。「トリガー言語」除去で攻撃成功率がAdvBenchで5.38%→86.79%に急増。Gemini 3 ProやClaude Sonnet 3.7を含む主要モデルが脆弱と実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Cohere Launches Tiny Aya: Open Multilingual Models for 70+ Languages",
-      "title_ja": "Cohere、70言語以上対応のオープン多言語モデルTiny Ayaを発表",
-      "source": "Cohere",
-      "url": "https://cohere.com/blog/tiny-aya",
-      "date": "2026-02-17",
-      "summary": "CohereがインドAIサミットでTiny Ayaファミリーを発表。70以上の言語をサポートするオープンウェイト多言語モデルで、ラップトップなど日常デバイスでインターネット不要で動作可能。アフリカ、南アジア、アジア太平洋の地域別バリアントも提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Fujitsu Launches AI-Driven Development with LLM 'Takane' — 100x Productivity",
-      "title_ja": "富士通、LLM「Takane」活用のAIドリブン開発基盤を運用開始 生産性100倍",
-      "source": "富士通",
-      "url": "https://global.fujitsu/ja-jp/pr/news/2026/02/17-01",
-      "date": "2026-02-17",
-      "summary": "富士通がLLM「Takane」とAIエージェント技術でソフトウェア開発全工程を自動化する基盤の運用を開始。実証では従来3人月の改修が4時間に短縮、生産性約100倍を達成。2026年度中に67製品へ適用予定。",
-      "category": "japan"
     }
   ]
 }

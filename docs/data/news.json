@@ -2,6 +2,38 @@
   "lastUpdated": "2026-05-02 09:00 (JST)",
   "articles": [
     {
+      "title": "Microsoft Agent 365 Reaches General Availability with Expanded Integrations and Security Controls",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+      "date": "2026-05-01",
+      "summary": "Microsoftが5月1日にAgent 365の正式提供（GA）を開始。Microsoft Entraネットワーク制御をMicrosoft Copilot Studioエージェントとユーザー端末で動作するエージェント（OpenClawなどローカルエージェント含む）に拡張し、未承認AI利用の特定、承認済みWebサイトのみへの接続制限、リスクの高いファイル移動のフィルタリング、悪意のあるプロンプトベース攻撃のブロックを実現する。月額15ドル/ユーザーで提供開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft 365 E7 Frontier Suite Launches Globally at $99/User as Wave 3 of Copilot",
+      "source": "Microsoft",
+      "url": "https://samexpert.com/microsoft-product-terms-may-2026/",
+      "date": "2026-05-01",
+      "summary": "Microsoftが5月1日、3月発表の最上位プラン「Microsoft 365 E7 Frontier Suite」を月額99ドル/ユーザーで世界提供開始。Microsoft 365 E5（セキュアな生産性）、Entra Suite（ID／アクセス管理）、Microsoft 365 Copilot（業務AI）、Agent 365（エージェントの統制プレーン）を一つのSKUに統合し、エンタープライズの本格的なエージェント運用基盤を提供する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Pentagon Awards AI Contracts to 7 Tech Firms for Classified Networks, Excluding Anthropic",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/05/pentagon-clears-7-tech-firms-to-deploy-their-ai-on-its-classified-networks/",
+      "date": "2026-05-01",
+      "summary": "国防総省が5月1日、機密ネットワークへのAI展開でAWS、Google、Microsoft、OpenAI、SpaceX、NVIDIA、NVIDIA出資のスタートアップReflectionの7社（一部報道は8社）と契約を発表。一方Anthropicは「サプライチェーンリスク」と指定され除外された。Pentagon CTOのEmil Michael氏は「単一のパートナーに依存せず、オープンソースとプロプライエタリの双方を含む多様な供給確保が重要」と説明。",
+      "category": "international"
+    },
+    {
+      "title": "経産省、Anthropic「Claude Mythos」リスクを受け重要インフラ24社に緊急点検要請",
+      "source": "経済産業省",
+      "url": "https://www.meti.go.jp/press/2026/05/20260501001/20260501001.html",
+      "date": "2026-05-01",
+      "summary": "赤澤経産大臣が5月1日、電力24社をはじめガス・石油化学・クレジット・石油の重要インフラ事業者と意見交換を実施。Anthropicの高性能AI「Claude Mythos Preview」が主要OS・ブラウザに数千件の未発見脆弱性を発見できる能力を示したことを受け、（1）経営層のリーダーシップ、（2）脆弱性情報の早期把握と対応、（3）ゼロトラスト型への移行――の3つの対策を強調し、サイバー攻撃リスク低減を要請した。",
+      "category": "japan"
+    },
+    {
       "title": "Big Tech Q1 2026 Earnings Reveal $725B AI Infrastructure Spend, 2027 Capex to Top $1 Trillion",
       "source": "Fortune",
       "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
@@ -24,6 +56,56 @@
       "date": "2026-04-30",
       "authors": "Hanting Chen, Tongzhou Mu, Jianyu Huang, et al.",
       "summary": "大規模LLM学習における集合通信（AllReduceなど）のボトルネックを解消するロスレス圧縮手法「ZipCCL」を提案。勾配テンソルの低エントロピー特性を利用したGPU並列圧縮アルゴリズムにより、ノード間帯域使用量を最大3.2倍削減し、収束精度を保ちつつ大規模分散学習のスループットを大幅向上させた。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Anthropic in Talks for $50B Funding Round at $900B+ Valuation, Expected to Close in Two Weeks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "date": "2026-04-30",
+      "summary": "Anthropicが約500億ドルの資金調達ラウンドで投資家にアロケーション提出を48時間以内に求めたとTechCrunchが4月30日報道。評価額は約9,000億ドルを目指し、需要過多により最終的にこれを上回る可能性も。年間収益ランレートは2025年末の約90億ドルから300億ドル超へと急増し、Counterpoint Researchは1Q26世界LLM収益シェアで31.4%とOpenAI（29%）を僅差で上回ると報告した。",
+      "category": "international"
+    },
+    {
+      "title": "White House Opposes Anthropic's Plan to Expand Mythos AI Access, Citing Misuse Risk",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/white-house-opposes-anthropic-plan-for-mythos-access-wsj-says",
+      "date": "2026-04-30",
+      "summary": "Trump政権がAnthropicの「Claude Mythos」モデルを約70の企業・組織に拡大配布する計画に反対していることが明らかに。同モデルが主要OS・ブラウザに数千件の未発見脆弱性を発見できる能力を持つことから、悪用リスクを懸念し政府がアクセス範囲の拡大に難色を示した。Anthropicは限定的提供（Project Glasswing）に止める方針を維持しつつ政権との調整を継続している。",
+      "category": "international"
+    },
+    {
+      "title": "Google DeepMind Launches AI Co-Clinician Initiative to Augment Physicians",
+      "source": "Google DeepMind",
+      "url": "https://distilinfo.com/2026/05/01/google-deepmind-launches-ai-co-clinician-initiative/",
+      "date": "2026-04-30",
+      "summary": "Google DeepMindが「AI Co-Clinician」研究イニシアチブを4月30日に発表。医師の専門性を補強し質の高いケアをスケールさせる目的で、適応型「NOHARM」評価フレームワークを用いた検証を実施。盲検下の比較で医師は既存のエビデンス統合ツールより一貫してCo-Clinicianを選好し、評価対象140領域のうち68領域でプライマリケア医と同等以上の性能を示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI to Restrict Access to Cyber Tool After Criticizing Anthropic's Mythos Gatekeeping",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "date": "2026-04-30",
+      "summary": "Sam AltmanがAnthropic「Mythos」の限定提供を批判していたにもかかわらず、OpenAIも競合する高機能サイバーセキュリティモデル「Cyber」へのアクセスを限定すると4月30日に発表。攻撃悪用のリスクが高い能力を持つ最先端モデルは公開せず、信頼できるパートナー企業のみに提供する方針へ業界全体が舵を切りつつあることを浮き彫りにした。",
+      "category": "international"
+    },
+    {
+      "title": "Kernelized Advantage Estimation: From Nonparametric Statistics to LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.28005",
+      "date": "2026-04-30",
+      "authors": "Multiple authors",
+      "summary": "強化学習ベースのLLM推論強化（PPO・GRPO・A2Cなど）における価値関数推定のボトルネックを解消するため、ノンパラメトリック統計のカーネル平滑化を導入した「Kernelized Advantage Estimation」を提案。理論解析と数値実験の両面で、既存のアドバンテージ推定器に対しサンプル効率と政策最適化の安定性を改善することを示した。RLHF/RLVR時代の大規模推論モデル学習の収束を加速する手法として注目される。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Knowledge Graph Representations for LLM-Based Policy Compliance Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.27713",
+      "date": "2026-04-30",
+      "authors": "Multiple authors",
+      "summary": "AI関連ポリシー文書から知識グラフ（KG）を構築し、政策準拠の判断を支援するエージェント型フレームワークを提案。3種類のAIリスクポリシーから2種のオントロジースキーマでKGを生成し、5つのLLMを6種42タスクで評価。KG拡張により全モデルのスコアが向上し、LLMが自動発見するオープンスキーマが形式オントロジーと同等以上の性能を示した。EU AI ActやNIST AI RMFなど規制対応の自動化に直接寄与する成果。",
       "category": "arxiv"
     },
     {
@@ -62,6 +144,15 @@
       "category": "arxiv"
     },
     {
+      "title": "The Synthetic Social Graph: Emergent Behavior in AI Agent Communities",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.27271",
+      "date": "2026-04-29",
+      "authors": "Multiple authors",
+      "summary": "LLMエージェントのみで構成されるFacebook風SNSプラットフォーム「Moltbook」上での社会学的解析を初めて実施。4月14日〜28日の14日間スナップショットで18万4,203投稿・46万5,136コメントを収集し、合成社会グラフ上に出現する派閥形成・情報拡散・規範生成のパターンを定量化。実世界SNSと類似する集団極性化や同質化が短期間で再現され、AIエージェント社会の創発挙動を研究する基盤を提示した。",
+      "category": "arxiv"
+    },
+    {
       "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2604.25847",
@@ -69,6 +160,22 @@
       "authors": "Jianghao Lin, et al.",
       "summary": "最適化モデリング（線形計画・整数計画など）のタスクに、外部メモリと分散討論機構を備えたマルチエージェント手法「Agora」を適用。単一LLMの内省（Soliloquy）から複数エージェントが論証を交換する「広場（Agora）」への移行が、定式化精度と解の質を大幅向上させることを示した。",
       "category": "arxiv"
+    },
+    {
+      "title": "OpenAI Models, Codex, and Managed Agents Launch on AWS via Amazon Bedrock",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-on-aws/",
+      "date": "2026-04-28",
+      "summary": "OpenAIとAWSが4月28日、戦略的提携の拡大を発表。GPT-5.5を含む最新モデル、コーディングエージェントCodex、Managed Agentsの3製品をAmazon Bedrock経由で提供開始。Microsoftとの独占関係終了に伴い、エンタープライズが既存のAWS環境上でOpenAI機能を直接構築できるようになった。OpenAIにとって500億ドル規模のクラウド再編の中核施策となる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Releases Symphony: Open-Source Spec for Codex Orchestration via Linear",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony/",
+      "date": "2026-04-28",
+      "summary": "OpenAIがコーディングエージェントの統制プレーンとなるオープンソース仕様「Symphony」を4月28日公開。Linearなどのプロジェクト管理ボードを起点に、Codex実行を独立した実装ランへ自動分解しチームが「コーディングエージェントを監督する」役割から「作業を管理する」役割へ移行する。OpenAI内のチームでは導入後3週間でマージPR数が500%増加した実績も報告された。",
+      "category": "company_blog"
     },
     {
       "title": "Anthropic Pledges to Keep Claude Ad-Free, Citing Misalignment with Helpful AI Mission",
@@ -1655,125 +1762,6 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
       "date": "2026-03-15",
       "summary": "Google WorkspaceにGeminiの新機能を追加。AI UltraおよびProサブスクライバー向けにDocs、Sheets、Slidesでパーソナライズされたドキュメント作成を支援。Google Driveが「Ask Gemini」機能で情報検索のアクティブなコラボレーターに進化。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SFT vs RL: A Comprehensive Study of Post-Training Methods for LLMs",
-      "title_ja": "SFT対RL: LLM事後学習手法の包括的研究",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.13985",
-      "date": "2026-03-14",
-      "authors": "Haitao Jiang et al.",
-      "summary": "LLM事後学習におけるSFTとRLの統一的視点を提示。ハイブリッド学習パイプラインを強調し、2023-2025年の応用研究からハイブリッド事後学習パラダイムへの急速なシフトを特定。",
-      "category": "arxiv"
-    },
-    {
-      "title": "EU Council Agrees to Streamline AI Act Rules",
-      "title_ja": "EU理事会、AI Act規則の簡素化に合意",
-      "source": "EU Council",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/",
-      "date": "2026-03-13",
-      "summary": "EU理事会はAI法の規則簡素化に関する立場に合意。高リスクAIシステム規則の適用期限を最大16か月延長し、中小企業への規制免除を拡大。非合意の性的コンテンツや児童性的虐待素材のAI生成を禁止する新規定も追加された。",
-      "category": "international"
-    },
-    {
-      "title": "Sakana AI Signs Defense Research Contract with ATLA",
-      "title_ja": "Sakana AI、防衛装備庁と委託研究契約を締結",
-      "source": "Sakana AI",
-      "url": "https://sakana.ai/atla-contract-2026/",
-      "date": "2026-03-13",
-      "summary": "Sakana AIが防衛装備庁防衛イノベーション科学技術研究所と複数年の委託研究契約を締結。陸海空全領域のデータを統合分析する指揮統制システム（C2システム）の高度化を目指す。エッジデバイス向け小規模視覚言語モデル（SVLM）も活用。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic Invests $100M into Claude Partner Network",
-      "title_ja": "Anthropic、Claude Partner Networkに1億ドル投資",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-partner-network",
-      "date": "2026-03-12",
-      "summary": "Anthropicが2026年にClaude Partner Networkへ1億ドルの初期投資を発表。パートナー向けトレーニング、技術サポート、共同マーケティングを提供し、初のClaude技術認定資格とコードモダナイゼーションスターターキットも開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DeepMind: UK Government Partnership for AI Research",
-      "title_ja": "Google DeepMind、英国政府と提携し自動化研究所を設立",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-      "date": "2026-03-12",
-      "summary": "Google DeepMindが2026年に英国初の自動化研究所を材料科学に特化して設立。AlphaFoldが英国だけで19万人近くの研究者に活用。教育分野ではGeminiが教師の事務作業を週10時間削減する成果。",
-      "category": "company_blog"
-    },
-    {
-      "title": "PostTrainBench: Can LLM Agents Automate LLM Post-Training?",
-      "title_ja": "PostTrainBench: LLMエージェントはLLM事後学習を自動化できるか？",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.08640",
-      "date": "2026-03-11",
-      "authors": "Anonymous et al.",
-      "summary": "LLMエージェントがLLMの事後学習を自動化できるかを評価するベンチマーク。Claude Code、Codex CLI等の自律エージェントがSFT、RLHF等の改善プロセスをどの程度遂行できるかを検証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic Launches Anthropic Institute for AI Safety",
-      "title_ja": "Anthropic、AI安全性研究機関「Anthropic Institute」を設立",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/the-anthropic-institute",
-      "date": "2026-03-11",
-      "summary": "Anthropicが強力なAIが社会にもたらす課題に取り組む「Anthropic Institute」を設立。フロンティアレッドチーム、社会的影響チーム、経済研究の3チームをML・経済学・社会科学の学際的チームで統合・拡大。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Nemotron 3 Super Leads Open-Weight Models on SWE-Bench",
-      "title_ja": "NVIDIA Nemotron 3 Super、オープンウェイトモデルでSWE-Bench首位",
-      "source": "BuildFastWithAI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-      "date": "2026-03-11",
-      "summary": "NVIDIAのNemotron 3 SuperがSWE-Bench Verifiedで60.47%を達成し、オープンウェイトモデルで首位に。120Bパラメータのハイブリッド型Mamba-Transformer MoEアーキテクチャで12Bアクティブパラメータ、100万トークンコンテキスト、GPT-OSS-120B比2.2倍のスループットを実現。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Opens Sydney Office as 4th APAC Location",
-      "title_ja": "Anthropic、アジア太平洋4拠点目のシドニーオフィスを開設",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-      "date": "2026-03-10",
-      "summary": "Anthropicがシドニーにアジア太平洋地域で4番目（東京、ベンガルール、ソウルに次ぐ）のオフィスを開設。金融サービス、農業技術、クリーンエネルギー、医療分野でのAI活用を支援。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DeepMind: AlphaGo at 10 and the Path to AGI",
-      "title_ja": "AlphaGo 10周年: AIイノベーションからAGIへの道",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/10-years-of-alphago/",
-      "date": "2026-03-10",
-      "summary": "Demis HassabisがAlphaGoの10周年を振り返りAGIへの道筋を解説。AlphaProofによる数学的証明、Deep ThinkモードのIMO金メダルレベル達成など、AlphaGoの探索・計画技術がGeminiの世界モデルと組み合わさりAGI実現の鍵となることを展望。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Japan Designates 61 Technologies Including AI for Priority Investment",
-      "title_ja": "日本政府、AIなど61品目を重点投資対象に選定",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/03/10/japan-investment-targets-ai-quantum-drones/",
-      "date": "2026-03-10",
-      "summary": "日本政府は高市首相主催の成長戦略会議で、物理AI・量子コンピューティング・海洋ドローンなど17分野61品目を官民重点投資対象に指定。2040年までにAIロボティクス世界市場30%以上のシェアと国内半導体売上40兆円を目標。",
-      "category": "japan"
-    },
-    {
-      "title": "Microsoft Introduces Frontier Suite (M365 E7)",
-      "title_ja": "Microsoft、Frontier Suite（M365 E7）を発表",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
-      "date": "2026-03-09",
-      "summary": "MicrosoftがM365 E7「Frontier Suite」を発表。M365 E5、Copilot、Agent 365を統合し5月1日に月額$99/ユーザーで提供開始。Claude やOpenAI次世代モデルを含むモデル多様性拡大と、Copilot Coworkによる長時間マルチステップタスク自動化も発表。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI to Acquire Promptfoo",
-      "title_ja": "OpenAI、AIセキュリティプラットフォームPromptfooを買収",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo/",
-      "date": "2026-03-09",
-      "summary": "OpenAIがAIセキュリティプラットフォームPromptfooの買収を発表。Promptfooの技術をOpenAI Frontierプラットフォームに統合し、企業のAIエージェント展開における評価・セキュリティ・コンプライアンスを強化。Fortune 500企業の25%以上が利用するツール。",
       "category": "company_blog"
     }
   ]

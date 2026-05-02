@@ -109,6 +109,14 @@
       "category": "arxiv"
     },
     {
+      "title": "OpenAI and Yubico Partner to Bring Custom Phishing-Resistant YubiKeys to OpenAI Users",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260430610986/en/OpenAI-and-Yubico-Partner-to-Bring-Custom-Phishing-Resistant-YubiKeys-to-OpenAI-Users",
+      "date": "2026-04-30",
+      "summary": "OpenAIが4月30日、Yubicoとの提携でカスタム仕様のフィッシング耐性ハードウェアキー「YubiKey」をOpenAIユーザーに提供開始。Advanced Account Securityに対応し、Eメール・SMSによるリカバリーを無効化、バックアップパスキー、セキュリティキー、リカバリーキーといった強固な手段への移行を促す。サプライチェーン攻撃やアカウント乗っ取りリスクが高まる中、エンタープライズ顧客の認証強化を後押しする。",
+      "category": "international"
+    },
+    {
       "title": "OpenAI Issues Urgent Security Alert: macOS Users Must Update ChatGPT, Codex, and Atlas Apps by May 8",
       "source": "OpenAI",
       "url": "https://openai.com/news/security-alert-macos-april-29-2026",
@@ -153,6 +161,23 @@
       "category": "arxiv"
     },
     {
+      "title": "SoftBank Reportedly Plans $100B IPO for New AI-Robotics Spinout 'Roze' to Build Data Centers",
+      "title_ja": "ソフトバンク、AI×ロボティクスの新会社「Roze」設立し1,000億ドル規模で米国IPO計画と報道",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "date": "2026-04-29",
+      "summary": "TechCrunchが4月29日、ソフトバンクグループが新たなAI・ロボティクスのスピンアウト企業「Roze」を設立し、米国IPOで最大1,000億ドルの評価額を目指していると報道。Rozeは自律ロボットによるデータセンター建設・組立・溶接の自動化を担い、AIインフラ構築の高速化と低コスト化を狙う。孫正義CEOが主導し、ABB Roboticsの買収資産を統合する見込みで、2026年下期の上場を目指すとされる。",
+      "category": "international"
+    },
+    {
+      "title": "SoftBank Aims to Create and List AI Firm Roze in the U.S., Targets $100B Valuation",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/softbank-aims-to-create-and-list-ai-firm-roze-in-the-us-ft-says",
+      "date": "2026-04-29",
+      "summary": "Bloombergが4月29日、ソフトバンクのAI・ロボティクス新会社「Roze」の米国上場計画を報じた。エネルギー、土地、インフラ資産にABB Robotics事業を組み合わせる構想で、AIデータセンターの物理建設に焦点を当てる。一部経営幹部は中東情勢の不確実性等から計画を野心的とみるが、孫正義氏は2026年下期の上場と1,000億ドル評価を視野に推進している。",
+      "category": "international"
+    },
+    {
       "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2604.25847",
@@ -178,6 +203,31 @@
       "category": "company_blog"
     },
     {
+      "title": "Anthropic Releases 9 Claude Connectors for Creative Tools Including Adobe, Blender, Autodesk and Ableton",
+      "title_ja": "Anthropicが Adobe/Blender/Autodesk/Ableton 等9つのクリエイティブ連携を追加、Claudeから直接操作可能に",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "date": "2026-04-28",
+      "summary": "Anthropicが4月28日、「Claude for Creative Work」を発表し、Adobe Creative Cloud、Blender、Autodesk Fusion、Ableton、Splice、Affinity by Canva、Resolume、SketchUpの9つのコネクタを公開。Model Context Protocol (MCP)を介してClaudeがプロ向けクリエイティブソフトを直接操作できる。AdobeコネクタはPhotoshop、Illustrator、Premiere Pro、Lightroom、Firefly、InDesign、Adobe Stock等で50超のツールにアクセス可能。RISD、Ringling、Goldsmiths芸術大学が学術ローンチパートナー。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Adobe Launches Creative Cloud Connector for Claude, Bringing 50+ Pro Tools to Anthropic AI",
+      "source": "Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2026/04/28/adobe-for-creativity-connector",
+      "date": "2026-04-28",
+      "summary": "Adobeが4月28日、Anthropic Claude向けの「Adobe for creativity」コネクタを全世界で提供開始。Photoshop、Illustrator、Firefly、Express、Premiere、Lightroom、InDesign、Stockに跨がる50以上のプロ用ツールにClaudeから直接アクセス可能となり、複数アプリをまたぐマルチステップのクリエイティブワークフローをAIが自動編成する。ClaudeアカウントとAdobeサインインによりプロ機能と作業の永続化が利用可能になる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Elon Musk Testifies in OpenAI Lawsuit, Seeks $130B and Return to Nonprofit Structure",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai",
+      "date": "2026-04-28",
+      "summary": "イーロン・マスク氏が4月28日、OpenAIとサム・アルトマンCEOらに対する訴訟で証言。OpenAIが当初の非営利ミッションを裏切り、自身を欺いたと主張し、1,300億ドル規模の損害賠償と非営利組織への回帰を求めている。AI業界全体の在り方を問う裁判として注目を集め、提携・再編が進む大手AI各社の事業環境にも波及する可能性がある。",
+      "category": "international"
+    },
+    {
       "title": "Anthropic Pledges to Keep Claude Ad-Free, Citing Misalignment with Helpful AI Mission",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-ad-free-commitment",
@@ -201,6 +251,32 @@
       "date": "2026-04-27",
       "authors": "Multiple authors",
       "summary": "ロボティクス分野で急速に発展するVision-Language-Action（VLA）モデルの研究動向を網羅したサーベイ論文。主要データセット、ベンチマーク、合成データエンジンを体系化し、ヒューマノイドロボットや産業用マニピュレータ向け基盤モデルの設計指針を提示。VLAスケーリング法則と現実環境への汎化評価の課題を整理している。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Microsoft and OpenAI Announce Next Phase of Partnership, Removing Cloud Exclusivity and AGI Clause",
+      "title_ja": "Microsoftと OpenAI が提携を再構築──クラウド独占とAGI条項を撤廃",
+      "source": "Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "date": "2026-04-27",
+      "summary": "Microsoftが4月27日、OpenAIとの提携契約を改訂したことを発表。Azureクラウド独占条項を撤廃し、OpenAIはAWSやGoogle Cloud等の他クラウドへも自社製品を提供可能になる。Microsoftが受けていたOpenAIからの収益分配は2030年まで継続するが上限を設定。AGI（汎用人工知能）達成判定に関する条項も撤廃され、両社の関係はより独立した協業に進化した。MicrosoftはOpenAI知財に対するライセンスを2032年まで維持するが非排他的となる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Breaks Cloud Exclusivity with Microsoft, Caps Revenue Share Payments",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+      "date": "2026-04-27",
+      "summary": "CNBCがMicrosoft-OpenAI提携改訂の詳細を報道。2019年から続いてきたOpenAI製品のAzure独占配信が解除され、Amazonやその他クラウドへの展開が可能に。Microsoftが負担していた収益分配支払いも停止し、提携関係はより対等な構造に再構成された。OpenAIの独立性確保とMicrosoftの投資保護を両立する歴史的な合意とされる。",
+      "category": "international"
+    },
+    {
+      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.24954",
+      "date": "2026-04-27",
+      "authors": "NVIDIA Nemotron Team",
+      "summary": "NVIDIAが4月27日に投稿した「Nemotron 3 Nano Omni」の技術報告。マルチモーダルトークン削減技術により同規模モデル比で推論レイテンシを大幅低減し、数倍のスループットを達成。視覚・音声・テキストを統合的に扱い、効率的かつオープンに公開された30Bパラメータ級MoEモデルとして、Hugging FaceでBF16・FP8・NVFP4の各精度版が提供されている。",
       "category": "arxiv"
     },
     {
@@ -238,6 +314,14 @@
       "category": "international"
     },
     {
+      "title": "デジタル庁、ガバメントAI「源内」をOSSとして公開──18万人の政府職員大規模実証の一環",
+      "source": "Impress Watch",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2104549.html",
+      "date": "2026-04-24",
+      "summary": "デジタル庁が4月24日、政府生成AI利用環境「源内（Gennai）」のWebインターフェースと主要AIアプリの開発テンプレートをGitHubでMITライセンスのもと無償公開した。商用利用も可能で、地方自治体や民間企業への展開を後押し。2026年5月から2027年3月まで全府省庁約18万人の政府職員を対象とした大規模実証（リリース2.0）を予定し、国産LLMの本格運用と高度AIアプリ開発を加速する。",
+      "category": "japan"
+    },
+    {
       "title": "NEC Announces Strategic Collaboration with Anthropic Focused on Enterprise AI in Japan",
       "title_ja": "NEC、Anthropicとの戦略的協業を発表——エンタープライズAIで日本市場を強化",
       "source": "NEC",
@@ -264,6 +348,15 @@
       "category": "arxiv"
     },
     {
+      "title": "IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.22861",
+      "date": "2026-04-23",
+      "authors": "Anonymous Authors",
+      "summary": "学術文献からの細粒度情報検索を行うLLMエージェント「IntrAgent」を提案。新タスク「IntraView」では文献内のサブセクション単位で根拠付き情報抽出を行い、最先端のRAGおよび研究エージェントベースラインに対して平均13.2%高いクロスドメイン精度を達成。文献レビュー支援や科学的発見の自動化に向けた基盤技術として位置付けられる。",
+      "category": "arxiv"
+    },
+    {
       "title": "Google Cloud Next 2026: Introducing Gemini Enterprise Agent Platform",
       "source": "Google Cloud",
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
@@ -278,6 +371,24 @@
       "date": "2026-04-22",
       "summary": "GoogleがCloud Next '26で12万社のパートナーエコシステム向けに7億5,000万ドルのファンドを発表。エージェント型AIによる顧客変革を加速するための投資・インセンティブ・教育プログラムを提供する。Gemini Enterprise Agent Platformの普及と、AIエージェントによる業務自動化を促進するためのチャネル戦略の中核となる施策。",
       "category": "international"
+    },
+    {
+      "title": "R³AG: Retriever Routing for Retrieval-Augmented Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.22849",
+      "date": "2026-04-22",
+      "authors": "Tong Zhao, Yutao Zhu, Yucheng Tian, et al.",
+      "summary": "RAGの「one-size-fits-all」検索パラダイムを打破し、クエリごとに最適なリトリーバを動的選択する新フレームワーク「R³AG」を提案。リトリーバ能力を「検索品質」と「生成有用性」の2学習次元に分解し、生成タスクへの寄与を踏まえた動的整合を実現。複数のRAGベンチマークで既存ルーティング手法を上回り、知識集約タスクのエンドツーエンド精度を向上させた。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.18788",
+      "date": "2026-04-21",
+      "authors": "Anonymous Authors",
+      "summary": "Apple Silicon NPU上でのMoE LLM推論を加速する実行エンジン「NPUMoE」を提案。密で静的な計算をNPUにオフロードしつつ、動的演算はCPU/GPUにフォールバックするハイブリッド設計により、オンデバイス推論のレイテンシとエネルギー効率を改善。Mac/iPhone等のApple Silicon環境でのMoE展開を実用域に押し上げる成果として注目される。",
+      "category": "arxiv"
     },
     {
       "title": "Alibaba Releases Qwen 3.6 Max Preview with 256K Context, Tops Six Coding Benchmarks",
@@ -295,6 +406,15 @@
       "date": "2026-04-20",
       "summary": "ソフトバンクが4月17日に開催した発表会で、AIをすべての人の日常の道具として届ける戦略を発表。新サービス「だれでもAI」と新デバイス「Natural AI Phone」（4月24日発売）を披露。Natural AI PhoneはGmail、Google Maps、YouTube、LINE、食べログ、Amazon、楽天市場などのアプリを横断操作可能。新世代の汎用AIエージェント体験を消費者に届ける戦略の一環となる。",
       "category": "japan"
+    },
+    {
+      "title": "AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.07815",
+      "date": "2026-04-19",
+      "authors": "Anonymous Authors",
+      "summary": "長文脈LLM推論の効率化のために、粗粒度ブロックフィルタリングと細粒度トークン選択を組み合わせる階層型スパースアテンション「AsyncTLS」を提案。非同期オフロード機構によりKVキャッシュ転送と計算をオーバーラップさせ、精度と効率のバランスを実現。長コンテキスト推論におけるレイテンシ削減と高スループットを両立する点で、エージェント・コーディング用途に有用な手法。",
+      "category": "arxiv"
     },
     {
       "title": "NTT DATA Opens 30MW AI-Ready Keihanna OSK11 Data Center in Kansai Region",
@@ -1636,133 +1756,6 @@
       "date": "2026-03-17",
       "summary": "ヤン・ルカン率いるAMI LabsがJEPA（Joint Embedding Predictive Architecture）に基づくワールドモデル構築を目指し、欧州史上最大のシードラウンドで10.3億ドルを調達。Bezos、NVIDIA、Samsung、Temasekが出資。LLMパラダイムへの最大の挑戦と注目。",
       "category": "international"
-    },
-    {
-      "title": "Rakuten AI 3.0: Japan's Largest Open-Source LLM with 700B MoE Parameters",
-      "title_ja": "楽天、国内最大規模AIモデル「Rakuten AI 3.0」をApache 2.0で無償公開",
-      "source": "楽天グループ",
-      "url": "https://global.rakuten.com/corp/news/press/2026/0317_01.html",
-      "date": "2026-03-17",
-      "summary": "楽天グループは経済産業省・NEDOの「GENIAC」プロジェクトの一環として、約700BパラメータのMoEモデル「Rakuten AI 3.0」を提供開始。Apache 2.0ライセンスで無償公開。日本語ベンチマークではGPT-4oを上回る性能を示し、日本の大手企業による唯一の完全オープンソースフロンティアクラスLLM。",
-      "category": "japan"
-    },
-    {
-      "title": "Google DeepMind AlphaGenome: Commercial Offering in Testing",
-      "title_ja": "Google DeepMind AlphaGenome: 商用版テスト開始",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "date": "2026-03-17",
-      "summary": "Google DeepMindのAlphaGenomeが商用版の早期テストを開始。DNA配列の機能予測AIで、160カ国の約3,000人の科学者が利用し、1日約100万リクエストを処理。Nature誌での論文発表後、26項目中25項目で競合モデルを上回る性能を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA NemoClaw: Enterprise AI Agent Platform",
-      "title_ja": "NVIDIA NemoClaw: エンタープライズAIエージェントプラットフォーム",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/ai-agents",
-      "date": "2026-03-17",
-      "summary": "NVIDIAがエンタープライズ向けAIエージェントプラットフォーム「NemoClaw」を発表。OpenClawの上にNVIDIAのソフトウェアスタックを重ねた構成。NVIDIA Agent ToolkitとOpenShellも発表され、ポリシーベースのセキュリティガードレールで安全なエージェント運用を実現。",
-      "category": "international"
-    },
-    {
-      "title": "Announcing Copilot Leadership Update",
-      "title_ja": "Microsoft、Copilot組織を再編",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
-      "date": "2026-03-17",
-      "summary": "MicrosoftがCopilot組織を再編。コマーシャルとコンシューマーのCopilotを統合し、Copilot体験、プラットフォーム、M365アプリ、AIモデルの4つの柱で構成。Jacob AndreouがEVPとしてCopilot体験を統括。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Alibaba Sets Up 'Token Hub' AI Business Unit",
-      "title_ja": "Alibaba、AI事業を「Token Hub」として統合再編",
-      "source": "Alibaba / Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits",
-      "date": "2026-03-17",
-      "summary": "AlibabaがQwen研究チーム、消費者向けアプリ、主要AI製品を「Alibaba Token Hub」として統合。CEO Eddie Wuが統括し、AIインフラ・開発に530億ドル以上を投資予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DeepMind: Measuring Progress Towards AGI with Cognitive Framework",
-      "title_ja": "Google DeepMind、AGI進捗を測定する認知的フレームワークを発表",
-      "source": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "date": "2026-03-17",
-      "summary": "Google DeepMindがAGIへの進捗を測定する認知的フレームワークを発表。心理学・神経科学に基づき10の認知能力を定義し、Kaggleハッカソンで評価手法の構築を募集。賞金総額20万ドル。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Meta Ranking Engineer Agent (REA) for Autonomous Ads Optimization",
-      "title_ja": "Meta、広告ランキング自律AIエージェント「REA」を発表",
-      "source": "Meta AI",
-      "url": "https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/",
-      "date": "2026-03-17",
-      "summary": "Metaが広告ランキングモデルのMLライフサイクルを自律的に実行するAIエージェント「REA」を発表。仮説生成からトレーニング、デバッグ、反復まで自動化し、初の本番展開でベースライン比2倍のモデル精度を達成。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Towards Next-Generation LLM Training: Data-Centric Perspective",
-      "title_ja": "次世代LLM学習: データ中心の視点から",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.14712",
-      "date": "2026-03-17",
-      "authors": "Hao Liang, Zhengyang Zhao et al.",
-      "summary": "次世代LLM学習をデータ中心の視点から論じた論文。エージェントベースの自動データ準備システムと、学習中にデータとモデルが動的に相互作用する統合パラダイムの2方向を提案。",
-      "category": "arxiv"
-    },
-    {
-      "title": "NVIDIA GTC 2026: Vera Rubin Platform Unveiled",
-      "title_ja": "NVIDIA GTC 2026: Vera Rubinプラットフォーム発表",
-      "source": "NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
-      "date": "2026-03-16",
-      "summary": "NVIDIAは3月16-19日のGTC 2026で次世代プラットフォーム「Vera Rubin」を発表。72基のRubin GPUと36基のVera CPUを搭載し、前世代Grace Blackwellの10倍のワット性能を実現。Jensen Huang CEOは2025-2027年の累計受注が1兆ドルに達する見通しを示した。",
-      "category": "international"
-    },
-    {
-      "title": "NVIDIA and Uber: Autonomous Ride-Hail in 28 Cities by 2028",
-      "title_ja": "NVIDIAとUber提携: 2028年までに28都市で自動運転配車",
-      "source": "NVIDIA / Uber",
-      "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
-      "date": "2026-03-16",
-      "summary": "NVIDIA GTC 2026でUberがNVIDIAのDrive AVソフトウェアを搭載した自動運転配車サービスを2028年までに4大陸28都市で展開すると発表。日産、BYD、Geely、いすゞ、現代もNVIDIA Drive Hyperionでレベル4自動運転車を開発中。",
-      "category": "international"
-    },
-    {
-      "title": "Google DeepMind: AI for Math Initiative",
-      "title_ja": "Google DeepMind、AI for Math Initiativeを発表",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
-      "date": "2026-03-16",
-      "summary": "Google DeepMindとGoogle.orgがAI for Math Initiativeを発表。世界有数の5つの研究機関と連携し、AIを活用した数学研究の加速を目指す先駆的プロジェクト。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft Deploys Hundreds of Thousands of Grace Blackwell GPUs",
-      "title_ja": "Microsoft、Grace Blackwell GPUを数十万基導入",
-      "source": "Microsoft / NVIDIA",
-      "url": "https://blogs.microsoft.com/ai/",
-      "date": "2026-03-16",
-      "summary": "Microsoftが世界のデータセンターに液冷NVIDIA Grace Blackwell GPUを1年未満で数十万基導入。Azureは新しいNVIDIA Vera Rubin NVL72システムを最初に稼働させたハイパースケールクラウドプロバイダーとなった。",
-      "category": "company_blog"
-    },
-    {
-      "title": "New Ways to Learn Math and Science in ChatGPT",
-      "title_ja": "ChatGPTに数学・科学の新しいインタラクティブ学習機能を導入",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/",
-      "date": "2026-03-16",
-      "summary": "ChatGPTに70以上の数学・科学トピックのインタラクティブな視覚的学習モジュールを導入。変数の調整やグラフの即時変化確認が可能で、抽象的な数式を実験的に体験できる。毎週1億4000万人が数学・科学の理解にChatGPTを利用。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google Workspace: Gemini Updates to Docs, Sheets, Slides",
-      "title_ja": "Google Workspace、Gemini新機能をDocs/Sheets/Slidesに追加",
-      "source": "Google",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
-      "date": "2026-03-15",
-      "summary": "Google WorkspaceにGeminiの新機能を追加。AI UltraおよびProサブスクライバー向けにDocs、Sheets、Slidesでパーソナライズされたドキュメント作成を支援。Google Driveが「Ask Gemini」機能で情報検索のアクティブなコラボレーターに進化。",
-      "category": "company_blog"
     }
   ]
 }

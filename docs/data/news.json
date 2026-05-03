@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-02 09:00 (JST)",
+  "lastUpdated": "2026-05-03 09:00 (JST)",
   "articles": [
+    {
+      "title": "Replit Marks 10th Anniversary by Offering Free Agent Access for 24 Hours, Unveils Slides and Enterprise Push",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/private-companies/replit-marks-10th-anniversary-with-ai-features-developer-buildathon-and-enterprise-focus",
+      "date": "2026-05-02",
+      "summary": "ブラウザ完結の開発プラットフォームReplitが5月2日に創業10周年を祝い、全ユーザーにエージェント機能を24時間無料開放した（使用量上限なし）。同日、コーディング以外の用途を狙う新機能「Slides on Replit」をローンチし、エンタープライズ向け戦略の強化と開発者向け「10年Buildathon」を発表。CEOのAmjad Masad氏は「アイデアは君のもの、ビルドは無料」と表現し、AIネイティブ開発の民主化をアピールした。",
+      "category": "international"
+    },
+    {
+      "title": "Claude Code Ships Bedrock Service Tier Selection, Project Purge, and PR-Aware /resume Search",
+      "source": "Anthropic",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "date": "2026-05-02",
+      "summary": "AnthropicがClaude Codeに大型アップデートを配信。Amazon Bedrockのサービスティア選択、プロジェクト全状態を削除する`claude project purge [path]`、PR URLを貼り付けると該当セッションを発見できる/resume検索（GitHub/GitLab/Bitbucket対応）を追加した。さらに、Windowsクリップボードがプロセス引数経由でEDR/SIEMに漏れない安全化、PowerShellの`--`誤検知修正、並列ツール呼び出しでの不正ツール名によるAgent SDKハング修正など信頼性改善も実施。OpenTelemetryロギングも拡張された。",
+      "category": "company_blog"
+    },
     {
       "title": "Microsoft Agent 365 Reaches General Availability with Expanded Integrations and Security Controls",
       "source": "Microsoft",
@@ -31,6 +47,15 @@
       "url": "https://www.meti.go.jp/press/2026/05/20260501001/20260501001.html",
       "date": "2026-05-01",
       "summary": "赤澤経産大臣が5月1日、電力24社をはじめガス・石油化学・クレジット・石油の重要インフラ事業者と意見交換を実施。Anthropicの高性能AI「Claude Mythos Preview」が主要OS・ブラウザに数千件の未発見脆弱性を発見できる能力を示したことを受け、（1）経営層のリーダーシップ、（2）脆弱性情報の早期把握と対応、（3）ゼロトラスト型への移行――の3つの対策を強調し、サイバー攻撃リスク低減を要請した。",
+      "category": "japan"
+    },
+    {
+      "title": "デジタル庁、ガバメントAI「源内」の全府省庁18万人規模の大規模実証を5月から本格稼働",
+      "title_ja": "デジタル庁、ガバメントAI「源内」の全府省庁18万人規模の大規模実証を5月から本格稼働",
+      "source": "デジタル庁",
+      "url": "https://www.digital.go.jp/en/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
+      "date": "2026-05-01",
+      "summary": "デジタル庁は5月から、政府共通の生成AI基盤「源内（GENNAI）」の大規模実証を全府省庁39機関の国家公務員約18万人を対象に本格稼働させる。試用する国産LLMはNTTデータ、NEC、富士通、PFNなど7件が選定済みで、政府職員の業務へ生成AIを実装するための土台となる。高市総理が指示した「ガバメントAI源内の徹底活用」方針のもと、本年夏以降は希望府省庁への本格展開と業務変革が進む見通し。",
       "category": "japan"
     },
     {
@@ -117,6 +142,14 @@
       "category": "international"
     },
     {
+      "title": "Apple Q2 2026: Record $111B Revenue and $11.4B R&D Spend Reflect Accelerated AI Investment",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
+      "date": "2026-04-30",
+      "summary": "Appleが4月30日、3月期決算を発表。売上高は前年同期比17%増の過去最高1,112億ドル、EPSは22%増の2.01ドルで3月期記録を更新。R&D費用は前年比34%増の114億ドルと四半期史上最高で、Tim Cook CEOは「AIが重要な投資領域であり、製品ロードマップに加えて段階的に投資を強化する」と説明。Siri刷新でGoogle Geminiモデルを採用するパートナーシップも順調に進捗していると述べた。iPhone収益は22%増、サービス収益は310億ドルと過去最高を記録。",
+      "category": "international"
+    },
+    {
       "title": "OpenAI Issues Urgent Security Alert: macOS Users Must Update ChatGPT, Codex, and Atlas Apps by May 8",
       "source": "OpenAI",
       "url": "https://openai.com/news/security-alert-macos-april-29-2026",
@@ -178,6 +211,14 @@
       "category": "international"
     },
     {
+      "title": "Mistral Releases 128B Dense Medium 3.5 with Vibe Remote Coding Agents and Le Chat Work Mode",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "date": "2026-04-29",
+      "summary": "Mistral AIが4月29日、新フラッグシップモデル「Mistral Medium 3.5」を公開。命令追従・推論・コーディングを単一の128Bデンスモデル（256kコンテキスト）に統合し、SWE-Bench Verifiedで77.6%を達成、Devstral 2やQwen3.5 397B A17Bを上回った。修正MITライセンスでオープンウェイト化され、Hugging Faceで提供。同日、コーディングエージェント基盤Vibeにリモートエージェントが追加され、Le Chatの新「Work mode」では並列マルチステップのエージェント実行（メール・カレンダー・Jira・Slack横断）が可能になった。",
+      "category": "company_blog"
+    },
+    {
       "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2604.25847",
@@ -226,6 +267,24 @@
       "date": "2026-04-28",
       "summary": "イーロン・マスク氏が4月28日、OpenAIとサム・アルトマンCEOらに対する訴訟で証言。OpenAIが当初の非営利ミッションを裏切り、自身を欺いたと主張し、1,300億ドル規模の損害賠償と非営利組織への回帰を求めている。AI業界全体の在り方を問う裁判として注目を集め、提携・再編が進む大手AI各社の事業環境にも波及する可能性がある。",
       "category": "international"
+    },
+    {
+      "title": "Don't Make the LLM Read the Graph: Make the Graph Think — Belief Graphs for Multi-Agent LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.23057",
+      "date": "2026-04-28",
+      "authors": "Various Researchers",
+      "summary": "協調型カードゲームHanabi上で、明示的な「信念グラフ（belief graph）」がマルチエージェントLLMの協調推論をどの程度向上させるかを3,000試行超で検証。LLMにグラフをそのまま読ませるのではなく、グラフ側で推論を進めて結果を返す設計が、4種のLLMファミリーで一貫して性能を改善することを示した。エージェント協調設計におけるアーキテクチャ統合の指針を提示する研究。",
+      "category": "arxiv"
+    },
+    {
+      "title": "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.23747",
+      "date": "2026-04-28",
+      "authors": "Various Researchers",
+      "summary": "近年提案されたmixed-policy最適化手法（SFTとRLを混合する手法）の多くがDeepSpeedとOpenRLHFのバグに起因する誤ったベースラインに依存していたことを指摘。修正済み実験の下では、シンプルな「SFT先行→RL後行（SFT-then-RL）」がmixed-policy法を上回ることを示し、推論用ポストトレーニングのベストプラクティスを再定義した。再現性危機への警鐘も含む実証研究。",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic Pledges to Keep Claude Ad-Free, Citing Misalignment with Helpful AI Mission",
@@ -277,6 +336,15 @@
       "date": "2026-04-27",
       "authors": "NVIDIA Nemotron Team",
       "summary": "NVIDIAが4月27日に投稿した「Nemotron 3 Nano Omni」の技術報告。マルチモーダルトークン削減技術により同規模モデル比で推論レイテンシを大幅低減し、数倍のスループットを達成。視覚・音声・テキストを統合的に扱い、効率的かつオープンに公開された30Bパラメータ級MoEモデルとして、Hugging FaceでBF16・FP8・NVFP4の各精度版が提供されている。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.23374",
+      "date": "2026-04-25",
+      "authors": "Various Researchers",
+      "summary": "LLMエージェント向けのテイントトラッキング手法「NeuroTaint」を提案。意味変換、因果的影響、クロスセッション永続性を考慮し、従来の情報フロー追跡では捕捉できないエージェント特有のリーク経路を可視化する。プロンプトインジェクションやデータ漏えいリスクのアセスメントに有用なAIセキュリティ研究。",
       "category": "arxiv"
     },
     {
@@ -379,6 +447,24 @@
       "date": "2026-04-22",
       "authors": "Tong Zhao, Yutao Zhu, Yucheng Tian, et al.",
       "summary": "RAGの「one-size-fits-all」検索パラダイムを打破し、クエリごとに最適なリトリーバを動的選択する新フレームワーク「R³AG」を提案。リトリーバ能力を「検索品質」と「生成有用性」の2学習次元に分解し、生成タスクへの寄与を踏まえた動的整合を実現。複数のRAGベンチマークで既存ルーティング手法を上回り、知識集約タスクのエンドツーエンド精度を向上させた。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.15726",
+      "date": "2026-04-22",
+      "authors": "Various Researchers",
+      "summary": "本論文は、大規模言語モデルの推論プロセスを表層的なChain-of-Thought（CoT）の出力ではなく、潜在状態の軌道形成として捉え直すべきだと主張するポジションペーパー。CoTが必ずしもモデル内部の推論を忠実に反映しないことを示し、潜在表現の動態に基づく評価・解釈フレームワークの必要性を提案する。AlignmentやInterpretability研究に対する新たな視座を与える内容。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2604.14853",
+      "date": "2026-04-22",
+      "authors": "Various Researchers",
+      "summary": "推論LLMにおいて、有限の推論時計算予算をどの入力に多く割り当てるかという「test-time compute allocation」問題を制約付きポリシー最適化として定式化。難易度の高い問題に動的により多くの計算を投じることで、固定予算下でも精度を有意に向上させた。test-time scalingの実用化に向けた重要な手法的貢献。",
       "category": "arxiv"
     },
     {
@@ -1662,100 +1748,6 @@
       "date": "2026-03-19",
       "summary": "GoogleがGemini Deep Researchエージェントの大幅アップグレードを発表。Interactions APIで開発者が自律型リサーチ機能をアプリに組み込み可能に。Humanity's Last ExamやDeepSearchQAで最高水準の性能を達成。",
       "category": "company_blog"
-    },
-    {
-      "title": "Memento-Skills: Let Agents Design Agents",
-      "title_ja": "Memento-Skills: エージェントがエージェントを設計する",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18743",
-      "date": "2026-03-19",
-      "authors": "Huichi Zhou, Siyuan Guo, Anjie Liu et al.",
-      "summary": "LLMパラメータ更新なしに外部スキルメモリで継続学習するエージェントシステム。Read-Write反省的学習でスキルライブラリを自律構築。GAIAベンチマーク13.7ポイント向上、Humanity's Last Exam 116.2%相対改善を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Expert Personas Improve LLM Alignment but Damage Accuracy (PRISM)",
-      "title_ja": "専門家ペルソナはLLMのアライメントを改善するが精度を損なう",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18507",
-      "date": "2026-03-19",
-      "authors": "Zizhao Hu, Mohammad Rostami, Jesse Thomason",
-      "summary": "LLMの専門家ペルソナ効果がタスクに依存することを発見。安全性タスクでは有効だが知識検索では精度低下。意図に応じてペルソナ使用を自動切替するPRISMを提案し、外部データなしでのブートストラッピングを実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Advancing Multimodal Agent Reasoning with Neuro-Symbolic Memory (NS-Mem)",
-      "title_ja": "ニューロシンボリックメモリによるマルチモーダルエージェント推論の進展",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.15280",
-      "date": "2026-03-18",
-      "authors": "Anonymous et al.",
-      "summary": "長期ニューロシンボリックメモリフレームワークNS-Memを提案。ニューラルメモリとシンボリック構造を統合し、制約付き推論クエリで最大12.5%の改善を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "What 81,000 People Want from AI",
-      "title_ja": "Anthropic、81,000人のAIに対する意識調査を公開",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/81k-interviews",
-      "date": "2026-03-18",
-      "summary": "Claude.aiユーザー約81,000人を対象とした史上最大規模の定性的AI調査結果を公開。81%がAIが自身のビジョンに向けた一歩を踏み出したと回答。地域によりAIへの懸念レベルに大きな差があることも判明。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Xiaomi MiMo-V2-Pro: 1T Parameter Model Revealed After Stealth Launch",
-      "title_ja": "Xiaomi MiMo-V2-Pro: ステルスローンチ後に正体判明した1兆パラメータモデル",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
-      "date": "2026-03-18",
-      "summary": "Xiaomiは旗艦AIモデル「MiMo-V2-Pro」を発表。総パラメータ数1T超（アクティブ42B）で、100万トークンのコンテキストウィンドウを持つ。OpenRouterで「Hunter Alpha」として匿名リリースし1兆トークン以上を処理。エージェント性能はClaude Opus 4.6に迫り、価格はSonnet 4.6の1/3〜1/5。",
-      "category": "international"
-    },
-    {
-      "title": "Robotics AI Startups Raise Over $1.2B in a Single Week",
-      "title_ja": "AIロボティクススタートアップ、1週間で12億ドル超を調達",
-      "source": "AI Funding Tracker",
-      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
-      "date": "2026-03-18",
-      "summary": "Mind Robotics（5億ドル）、Rhoda AI（4.5億ドル）、Sunday（1.65億ドル）、Oxa（1.03億ドル）の4社が1週間で合計12億ドル超を調達。産業用・家庭用・物流用AIロボットに資金が集中し、2026年のロボティクス投資は200億ドル超のペースで推移。",
-      "category": "international"
-    },
-    {
-      "title": "Japan Plans Over 7 Trillion Yen in AI/Semiconductor Support",
-      "title_ja": "国産AI計画に1兆円超の新規支援、AI半導体予算は累計7兆円に",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/articles/-/380511",
-      "date": "2026-03-18",
-      "summary": "日本政府が2021〜26年度の6年間でAI・半導体分野へ投じる支援額は累計7兆円超の見通し。ソフトバンクなど国内数十社が設立する新会社に対し、経産省が5年間で1兆円規模の支援を計画。ラピダスやソフトバンク、鴻海が主要プレイヤー。",
-      "category": "japan"
-    },
-    {
-      "title": "GMI Cloud Announces $12B Sovereign AI Infrastructure in Kagoshima",
-      "title_ja": "GMI Cloud、鹿児島に120億ドル・1GW規模のソブリンAIインフラ構築を発表",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/gmi-cloud-unveils-12-billion-1gw-sovereign-ai-infrastructure-initiative-in-japan-302715607.html",
-      "date": "2026-03-18",
-      "summary": "GMI CloudがNVIDIA GTCで鹿児島県薩摩川内市に120億ドル・1GW規模のAIファクトリー建設計画を発表。Wistronと提携し日本初の物理AI向けAIファクトリーとなり、2026年後半に着工予定。",
-      "category": "japan"
-    },
-    {
-      "title": "RAMP: Reinforcement Adaptive Mixed Precision Quantization for On-Device LLM",
-      "title_ja": "RAMP: デバイス上LLM推論のための強化学習ベース混合精度量子化",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.17891",
-      "date": "2026-03-18",
-      "authors": "Arpit Singh Gautam, Saurabh Jha",
-      "summary": "デバイス上LLM推論効率化のための強化学習ベース混合精度量子化フレームワーク。Soft Actor-Criticで層ごとのビット幅を自動割当し、Scale Foldingで活性化の外れ値を前処理。モデルファミリー間ゼロショット転移を実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "AMI Labs Raises $1.03B in Largest European Seed Round",
-      "title_ja": "ヤン・ルカン率いるAMI Labs、欧州史上最大のシードラウンドで10.3億ドル調達",
-      "source": "Intellizence",
-      "url": "https://intellizence.com/insights/startup-funding/the-weeks-5-biggest-funding-rounds-raised-over-3b-to-scale-the-next-wave-of-ai-innovation/",
-      "date": "2026-03-17",
-      "summary": "ヤン・ルカン率いるAMI LabsがJEPA（Joint Embedding Predictive Architecture）に基づくワールドモデル構築を目指し、欧州史上最大のシードラウンドで10.3億ドルを調達。Bezos、NVIDIA、Samsung、Temasekが出資。LLMパラダイムへの最大の挑戦と注目。",
-      "category": "international"
     }
   ]
 }

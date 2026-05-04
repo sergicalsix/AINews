@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-03 09:00 (JST)",
+  "lastUpdated": "2026-05-04 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "date": "2026-05-04",
+      "summary": "Anthropicが5月4日、Blackstone、Goldman Sachs、Hellman & Friedmanと組み、評価額15億ドルのエンタープライズAIサービス専業会社を立ち上げると発表。Anthropic・Blackstone・H&Fが各3億ドル、Goldman Sachsが約1.5億ドルを拠出し、Apollo・General Atlantic・GIC・Sequoia等もバッカーに名を連ねる。新会社はClaudeを軸に中堅企業へエンジニアを派遣し業務をエージェント中心に再設計、世界の大手コンサルティング会社と直接競合する戦略。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Finalizes $10B 'The Deployment Company' Joint Venture With TPG, Bain, Brookfield, Advent",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
+      "date": "2026-05-04",
+      "summary": "OpenAIが5月4日、TPGをアンカー出資者とする100億ドル規模の合弁会社「The Deployment Company」を最終確定。Bain Capital、Advent International、Brookfield Asset Management、Goanna Capitalなど計19社が約40億ドルを5年で拠出し、年率17.5%のリターンを保証する仕組み。OpenAI自身も最大15億ドルを拠出し、超多数決株でガバナンスを保持。OpenAIエンジニアをPEポートフォリオ企業（医療、物流、製造、金融）に常駐させ、エンタープライズ展開を加速する。",
+      "category": "international"
+    },
     {
       "title": "Replit Marks 10th Anniversary by Offering Free Agent Access for 24 Hours, Unveils Slides and Enterprise Push",
       "source": "TipRanks",
@@ -16,6 +32,15 @@
       "date": "2026-05-02",
       "summary": "AnthropicがClaude Codeに大型アップデートを配信。Amazon Bedrockのサービスティア選択、プロジェクト全状態を削除する`claude project purge [path]`、PR URLを貼り付けると該当セッションを発見できる/resume検索（GitHub/GitLab/Bitbucket対応）を追加した。さらに、Windowsクリップボードがプロセス引数経由でEDR/SIEMに漏れない安全化、PowerShellの`--`誤検知修正、並列ツール呼び出しでの不正ツール名によるAgent SDKハング修正など信頼性改善も実施。OpenTelemetryロギングも拡張された。",
       "category": "company_blog"
+    },
+    {
+      "title": "高市総理、ベトナムでAI協力を表明──「日・ASEAN・AI共創イニシアティブ」始動、母国語LLM・産業基盤モデル開発を支援",
+      "title_ja": "高市総理、ベトナムでAI協力を表明──「日・ASEAN・AI共創イニシアティブ」始動、母国語LLM・産業基盤モデル開発を支援",
+      "source": "外務省",
+      "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_02927.html",
+      "date": "2026-05-02",
+      "summary": "ベトナム訪問中の高市早苗首相が5月2日、ハノイのベトナム国家大学で外交政策スピーチを行い、「日・ASEAN・AI共創イニシアティブ」を通じたAI協力を強調。フン首相との首脳会談では、総務省と科学技術省の協力覚書を歓迎し、ベトナムの言語・文化を反映した母国語LLMや産業別基盤モデルの開発支援で合意。海底ケーブル、オープンRAN、衛星通信を含む「FOIPデジタル回廊」構想も発表し、自由で開かれたインド太平洋（FOIP）を進化させる方針を打ち出した。",
+      "category": "japan"
     },
     {
       "title": "Microsoft Agent 365 Reaches General Availability with Expanded Integrations and Security Controls",
@@ -57,6 +82,33 @@
       "date": "2026-05-01",
       "summary": "デジタル庁は5月から、政府共通の生成AI基盤「源内（GENNAI）」の大規模実証を全府省庁39機関の国家公務員約18万人を対象に本格稼働させる。試用する国産LLMはNTTデータ、NEC、富士通、PFNなど7件が選定済みで、政府職員の業務へ生成AIを実装するための土台となる。高市総理が指示した「ガバメントAI源内の徹底活用」方針のもと、本年夏以降は希望府省庁への本格展開と業務変革が進む見通し。",
       "category": "japan"
+    },
+    {
+      "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00425",
+      "date": "2026-05-01",
+      "summary": "Baidu等の研究チームが、マルチターンのエージェント型強化学習（agentic RL）における信用割り当て課題を、教師信号なしで解決する手法AEM（Adaptive Entropy Modulation）を提案。希薄な報酬下でも探索と活用のトレードオフを動的にエントロピーで制御し、プロセス報酬モデルや補助損失を不要にする。タスク横断での汎化性能を向上させ、複雑なRL設計の簡素化に寄与する。",
+      "authors": "Haotian Zhao, Yuxin Zhang, Songlin Zhou, Stephen S.-T. Yau, Wenyu Zhang, Lun Tian, Tianshu Zhu, Yifeng Huang, Yucheng Zeng, Jingnan Gu, Daxiang Dong, Jianmin Wu",
+      "category": "arxiv"
+    },
+    {
+      "title": "SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00528",
+      "date": "2026-05-01",
+      "summary": "AIエージェント／複合AIワークロードのGPUクラスタ向けに、ワークフロー単位（複数LLM呼び出しをまとめた論理単位）をアトミックにスケジューリングする「SAGA」を提案。オンラインのKVキャッシュ管理をオフライン最適のBélády方策に近づけ、エージェント・複合パイプラインのスループットとレイテンシを改善する。分散推論サービングと協調動作する設計で、現実のサービング環境での有効性を実証している。",
+      "authors": "（arXiv:2605.00528）",
+      "category": "arxiv"
+    },
+    {
+      "title": "MemRouter: Memory-as-Embedding Routing for Long-Term Conversational Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00356",
+      "date": "2026-05-01",
+      "summary": "長期対話エージェントの「どのターンを外部メモリに保存するか」という書き込み判断を、LLMによる逐次デコードからエンベディングベースの軽量分類に置き換える「MemRouter」を提案。各ターンと直近文脈を凍結LLMバックボーンに通し、わずか1,200万パラメータの軽量ヘッドで保存判断を実施。LoCoMoベンチマーク全カテゴリでLLMベースのメモリマネージャを上回り、メモリ管理レイテンシを970msから58msへ大幅削減した。",
+      "authors": "（arXiv:2605.00356）",
+      "category": "arxiv"
     },
     {
       "title": "Big Tech Q1 2026 Earnings Reveal $725B AI Infrastructure Spend, 2027 Capex to Top $1 Trillion",
@@ -1690,63 +1742,6 @@
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
       "date": "2026-03-19",
       "summary": "GPT-5.4 miniとnanoをAPIおよびChatGPTで提供開始。大規模GPT-5.4モデルの多くの強みを、高速かつ効率的なパッケージに凝縮し、大量処理ワークロードやコーディングアシスタントに最適化されたモデル。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft: Zero Trust for AI (ZT4AI)",
-      "title_ja": "Microsoft、Zero Trust for AIを発表",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
-      "date": "2026-03-19",
-      "summary": "MicrosoftがAIライフサイクル全体にゼロトラスト原則を拡張するZT4AIを発表。データ取り込み、モデル訓練、デプロイメント、エージェント動作までカバーする新リファレンスアーキテクチャとアセスメントツールを提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Sakana AI Develops AB-MCTS: New Inference-Time Scaling Algorithm",
-      "title_ja": "Sakana AI、推論時スケーリングアルゴリズム「AB-MCTS」を開発",
-      "source": "Sakana AI",
-      "url": "https://sakana.ai/blog/",
-      "date": "2026-03-19",
-      "summary": "Sakana AIが新しい推論時スケーリングアルゴリズム「AB-MCTS」を開発。複数のフロンティアAIモデルを協調させ、ARC-AGI-2ベンチマークで有望な初期結果を達成。モデル間の協調による推論能力の向上を実証。",
-      "category": "japan"
-    },
-    {
-      "title": "When Names Change Verdicts: Systematic Bias in LLM Decision-Making",
-      "title_ja": "LLMの意思決定における体系的バイアスの検出",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18530",
-      "date": "2026-03-19",
-      "authors": "Abhinaba Basu et al.",
-      "summary": "LLMの意思決定における体系的バイアスを検出するICE-Guardフレームワークを提案。3,000のシナリオと11のLLMを評価し、権威バイアス（平均5.8%）とフレーミングバイアス（5.0%）が人口統計バイアス（2.2%）を大幅に上回ることを発見。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Truncation Blind Spot: Decoding Strategies Exclude Human-Like Token Choices",
-      "title_ja": "切り捨て盲点: デコーディング戦略が人間らしいトークン選択を排除",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18482",
-      "date": "2026-03-19",
-      "authors": "Esteban Garces Arias, Nurzhan Sapargali, Christian Heumann, Matthias Aßenmacher",
-      "summary": "標準的なデコーディング戦略が人間らしいトークン選択を体系的に排除する「切り捨て盲点」を分析。180万以上のテキストを調査し、人間が選択するトークンの8〜18%が一般的な切り捨て境界の外にあることを発見。",
-      "category": "arxiv"
-    },
-    {
-      "title": "WASD: Locating Critical Neurons for Explaining and Controlling LLM Behavior",
-      "title_ja": "WASD: LLMの行動説明・制御のための重要ニューロン特定",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18474",
-      "date": "2026-03-19",
-      "authors": "Haonan Yu, Junhao Liu, Zhenyu Yan, Haoran Lin, Xin Zhang",
-      "summary": "LLMの行動を説明・制御するための重要ニューロンを特定するWASDフレームワークを提案。ニューロン活性化述語として候補条件を表現し、従来の帰属グラフよりも安定で正確かつ簡潔な説明を生成することを実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Build with Gemini Deep Research Agent",
-      "title_ja": "Google、Gemini Deep Researchエージェントの大幅アップグレードを発表",
-      "source": "Google",
-      "url": "https://blog.google/technology/developers/deep-research-agent-gemini-api/",
-      "date": "2026-03-19",
-      "summary": "GoogleがGemini Deep Researchエージェントの大幅アップグレードを発表。Interactions APIで開発者が自律型リサーチ機能をアプリに組み込み可能に。Humanity's Last ExamやDeepSearchQAで最高水準の性能を達成。",
       "category": "company_blog"
     }
   ]

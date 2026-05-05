@@ -2,6 +2,71 @@
   "lastUpdated": "2026-05-05 09:00 (JST)",
   "articles": [
     {
+      "title": "Agents for financial services and insurance",
+      "title_ja": "金融・保険向け Claude エージェント10種を提供開始",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "date": "2026-05-05",
+      "summary": "Anthropicが5月5日のニューヨーク開催「Briefing: Financial Services」で、銀行・資産運用・保険向けの即利用可能なエージェントテンプレート10種を発表。ピッチブック作成、KYC審査、月次決算、与信メモ、保険金請求などの定型業務を対象とし、Claude Cowork / Claude Code のプラグインおよび Claude Managed Agents の Cookbook として配布。各テンプレートは社内基準に合わせてカスタマイズ可能で、Moody's、Verisk、Dun & Bradstreetなどデータベンダーとの連携も同時拡大。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+      "date": "2026-05-05",
+      "summary": "Anthropicが5月5日に金融機関向けAIエージェント10種、Excel/PowerPoint/Word向け公式Add-inの一般提供、Moody's・Verisk・Dun & Bradstreetとのデータ提携を一挙発表。前日の15億ドル合弁会社設立と合わせ、金融業界へのフルスタック攻勢が鮮明化。JPMorgan ジェイミー・ダイモンCEOは『コアシステム以外の業務はAIで再構築』と従業員向けメモで明言した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Unveils AI Agents to Field Financial Services Tasks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks",
+      "date": "2026-05-05",
+      "summary": "Anthropicが5月5日、銀行・保険・資産運用・FinTech向けに10種類のAIエージェントを公開。ピッチデッキ作成、財務諸表レビュー、コンプライアンス審査の自動化を狙う。Claude Cowork内のプラグインとして配布し、エンタープライズ顧客は数日でClaudeを実業務に投入できると同社は説明。ウォール街取り込みを巡るOpenAIやGoogleとの競争が一段と激化。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic unleashes finance agents for Claude",
+      "source": "The Register",
+      "url": "https://www.theregister.com/2026/05/05/anthropic_unleashes_finance_agents_claude/",
+      "date": "2026-05-05",
+      "summary": "Anthropicが金融特化のClaudeエージェント群と、同社最新モデル「Claude Opus 4.7」の金融ベンチマークでのスコアを公開。Opus 4.7はGeneral Financeで0.813、Finance Agent v1.1で64.4%を達成し、前世代Opus 4.6を大きく上回った。価格は入力100万トークン5ドル/出力25ドルで、プロンプトキャッシュ利用時は最大90%、バッチ処理で50%のコスト削減が可能。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Targets Financial Services Space With New AI Agents",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-targets-financial-services-space-with-new-ai-agents/",
+      "date": "2026-05-05",
+      "summary": "AnthropicはClaudeを軸に金融エンタープライズ顧客拡大を加速。新たに10種のエージェントテンプレートをリリースし、ExcelやPowerPointなどMicrosoft製品との連携を強化。バンキング、保険、資産運用などの『最も時間のかかる業務』を自動化対象とし、フロント・ミドル・バックオフィスをまたぐClaude採用が広がっていることを強調した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic launches 10 AI agents for banks and insurers",
+      "source": "Yahoo Finance / Reuters",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-launches-10-ai-agents-153623834.html",
+      "date": "2026-05-05",
+      "summary": "Anthropicが銀行・保険向けの即利用可能なAIエージェント10種をリリースし、Wall Street攻勢を一段と加速。Claudeを既存業務システムに組み込みやすくするコネクタ群と合わせ、米英欧の大手銀行や保険会社への採用拡大を目指す。OpenAI・Microsoft・Googleの企業向けAIサービス競争に対抗する狙い。",
+      "category": "international"
+    },
+    {
+      "title": "Why private equity is making deals with the AI giants",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/05/openai-anthropic-private-equity",
+      "date": "2026-05-05",
+      "summary": "Anthropic（5月4日に15億ドルJV発表）とOpenAI（同日100億ドルJV最終確定）の連続発表を受け、PE大手がなぜAIギガラボとの合弁に殺到しているかを分析。LP資本のリターン保証構造、AI人材の囲い込み、ポートフォリオ企業へのエージェント常駐が3大インセンティブ。コンサルティング業界の収益モデルを大きく揺さぶる構図が浮かび上がっている。",
+      "category": "international"
+    },
+    {
+      "title": "Sam Altman teases GPT-5.5 launch celebration with AI-curated guest list",
+      "source": "MEXC News",
+      "url": "https://www.mexc.com/news/1064110",
+      "date": "2026-05-05",
+      "summary": "OpenAIのSam Altmanは5月5日17:55開催の社内『GPT-5.5ローンチパーティ』を告知し、招待者のキュレーションをCodexエージェントに任せた。Altman本人がGPT-5.5に式次第を相談したエピソードを披露し、新モデルが公開ローンチ間近であることを示唆。RSVPフォームは即時満員となり社内外で話題を呼んだ。",
+      "category": "international"
+    },
+    {
       "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
@@ -48,6 +113,38 @@
       "date": "2026-05-04",
       "authors": "Chenchen Zhang",
       "summary": "サブエージェントの生成、委任、通信、集約、停止判断を含むオーケストレーショントレースに基づくマルチエージェントLLMの強化学習を提案。並列高速化や集約品質などシステムレベル特性を最適化する報酬設計を体系化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Bret Taylor's Sierra raises nearly $1B in latest AI capital push",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+      "date": "2026-05-04",
+      "summary": "OpenAI会長 Bret TaylorとClay Bavor率いるSierraが5月4日、Tiger Globalと Google GV主導でシリーズEとして9.5億ドルを調達、ポストマネー評価額158億ドル。フォーチュン50社のうち約半数が同社のAIカスタマーサービスエージェントを採用、年間経常収益(ARR)1.5億ドルに到達。エンタープライズAI市場の覇権争いを象徴する案件となった。",
+      "category": "international"
+    },
+    {
+      "title": "AI agent startup Sierra valued at $15B in new $950M funding round",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/05/04/ai-agent-startup-sierra-valued-15b-new-950m-funding-round/",
+      "date": "2026-05-04",
+      "summary": "Bret Taylor率いるSierraが9.5億ドルを調達、ポストマネー158億ドルとなり創業3年での評価額急騰が話題に。Tiger Global, Google GVに加え Benchmark, Sequoia, Greenoaks等が参加。フォーチュン50の約半数が顧客でARR1.5億ドル、AIエージェントの企業導入が現実の業務量とともに拡大している証左と評価された。",
+      "category": "international"
+    },
+    {
+      "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02888",
+      "date": "2026-05-04",
+      "summary": "推論高速化のSpeculative Decodingにおいて、KVキャッシュ圧縮の有無を考慮しつつ各ステップごとに最適な投機長γを動的に選択する軽量コントローラ『SpecKV』を提案。ドラフトモデル自身から抽出した信号で受理確率を予測し、長文・圧縮環境でもスループットを安定化。LLaMA・Qwen系列で従来手法比1.4–1.9倍の高速化を実現した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Benchmarking Retrieval Strategies for Biomedical Retrieval-Augmented Generation: A Controlled Empirical Study",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02520",
+      "date": "2026-05-04",
+      "summary": "医療・生命科学分野RAGのリトリーバ手法を統制的に評価。BM25、Dense、Hybrid、Cross-Encoder Reranking、Late-Interactionなど主要戦略をMedQA、PubMedQAなど11ベンチで横断比較。Cross-Encoder Rerankingが総合スコア0.827・コンテキスト精度0.852で最高性能、クエリ・文書相互作用の重要性を実証した。",
       "category": "arxiv"
     },
     {
@@ -135,6 +232,22 @@
       "date": "2026-05-02",
       "authors": "Zebin Guo, Weidong Geng, Ruichen Mao",
       "summary": "表をエントリレベルの意味単位に分解し構造グラフを構築する細粒度RAGフレームワーク。構造的近傍展開とマルチモーダル融合により複雑な表推論性能を向上、9,870件の高難度QAベンチマークも公開。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01567",
+      "date": "2026-05-02",
+      "summary": "強化学習ベースのコーディングエージェントに対し、Model Context Protocol (MCP) ネイティブで動作する開発者メモリを提案。CIフィードバックで重要度を正規化し、安全ゲート付きで蓄積／検索することで、長期プロジェクトでも有効な改善知識のみを活用可能にする。SWE-Bench Verified および社内大規模リポジトリで成功率を最大11.2pt改善した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01704",
+      "date": "2026-05-02",
+      "summary": "同一モデルの複製同士による多段推論やマルチエージェント討論が、結論の正答率を維持したまま推論過程の多様性を著しく劣化させることを情報理論的に証明。閉鎖系では新規情報量に上限があるため『答えは合っているが理由は均質化する』現象を理論・実験で示した。多様な真の推論軌跡には外部知識／異質モデル混在が不可避と結論。",
       "category": "arxiv"
     },
     {
@@ -263,6 +376,22 @@
       "date": "2026-05-01",
       "authors": "Lu Dai, et al.",
       "summary": "RAGやエージェント検索でLLMが消費する情報検索は、人間とは異なり注意予算が限定的でノイズに脆弱であるため、ノイズ除去を第一義に据えた新しい検索パラダイムを提案する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Rethinking LLM Ensembling from the Perspective of Mixture Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00419",
+      "date": "2026-05-01",
+      "summary": "複数LLMのアンサンブル（多数決、ロジット平均、専門家混合）を確率的混合モデルとして再定式化。各構成要素の信頼度を学習可能な隠れ変数として扱う『Soft-Mixture Ensembling』を提案し、推論コストを線形に保ちつつ単独最良モデル比でMMLU+2.7、GSM8K+4.1の改善を確認。閉源モデルとオープンモデルの混成にも自然に対応。",
+      "category": "arxiv"
+    },
+    {
+      "title": "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01078",
+      "date": "2026-05-01",
+      "summary": "プロンプトインジェクション・ジェイルブレイク文を文間関係グラフとして表現し、悪性ノードを最小限に削除して入力をサニタイズする手法を提案。意味保存と安全性のトレードオフを最適化し、4種の最先端ジェイルブレイクベンチで攻撃成功率を平均73%低減しながらタスク精度低下を1ポイント以内に抑えた。",
       "category": "arxiv"
     },
     {
@@ -1579,149 +1708,6 @@
       "date": "2026-04-01",
       "summary": "AnthropicのMCPが9700万インストールを突破。全主要AIプロバイダーがMCP互換ツールを提供し業界標準を確立。エージェント型AIワークフロー構築の基盤として急速に普及。",
       "category": "international"
-    },
-    {
-      "title": "SpaceX Files for $1.75T IPO Following xAI Merger",
-      "title_ja": "SpaceX、xAI合併後に1.75兆ドルIPO申請",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html",
-      "date": "2026-04-01",
-      "summary": "SpaceXがxAIとの合併完了を受け1.75兆ドル評価でIPO申請。宇宙ベースデータセンター構築を目指し、AI・ロケット・衛星インターネット・Xプラットフォームを統合する構想。",
-      "category": "international"
-    },
-    {
-      "title": "Agentic Tool Use in Large Language Models: A Survey",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00835",
-      "date": "2026-04-01",
-      "authors": "Jinchao Hu, Meizhi Zhong, Kehai Chen, Xuefeng Bai, Min Zhang",
-      "summary": "LLMの自律エージェントとしてのツール使用能力に関する包括的サーベイ。情報検索・計算・外部アクションのためのツール利用を統合的に整理。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Diversity-Aware RKL Divergence for LLM Distillation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00223",
-      "date": "2026-04-01",
-      "authors": "Hoang-Chau Luong, Dat Ba Tran, Lingwei Chen",
-      "summary": "LLM蒸留で逆KLダイバージェンスが順KLを上回る理由を分析。多様性を考慮した新蒸留目的関数を提案し、大規模語彙・能力差が大きい場合に特に効果的。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00499",
-      "date": "2026-04-01",
-      "authors": "Haoyu Zheng et al.",
-      "summary": "LLM推論スケジューリングで出力長の不確実性をlog-t分布でモデル化。TIE指標でオンライン推論のトークンあたりレイテンシを2.31倍削減、オフラインスループット1.42倍向上。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Persistent Vulnerability of Aligned AI Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00324",
-      "date": "2026-04-01",
-      "authors": "Aengus Lynch",
-      "summary": "AIアラインメントの4つの未解決問題に取り組んだ博士論文。Latent Adversarial Training（LAT）がスリーパーエージェント問題を解決し、従来手法の700分の1のGPU時間で同等防御を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Omni-SimpleMem: Lifelong Multimodal Agent Memory via Autoresearch",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.01007",
-      "date": "2026-04-01",
-      "authors": "Jiaqi Liu et al.",
-      "summary": "自律的研究パイプラインでマルチモーダルライフロングエージェントメモリを発見。約50回の実験を自動実行しLoCoMoベンチマークでF1を411%改善（0.117→0.598）。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Salesforce Unveils 30 New AI Features for Slack, Transforms Slackbot Into Autonomous Agent",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "date": "2026-04-01",
-      "summary": "SalesforceがSlackに30の新AI機能を発表し、SlackbotをMCP（Model Context Protocol）クライアントとして外部サービスと連携できる自律型エージェントに進化させた。一部社員は1日最大90分の時間節約を報告。",
-      "category": "international"
-    },
-    {
-      "title": "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00007",
-      "date": "2026-04-01",
-      "authors": "Jaeik Kim, Woojin Kim, et al.",
-      "summary": "テキスト・画像・音声の理解と生成、および動画理解を単一アーキテクチャで統合する、初のマスク拡散ベースのオムニモーダル基盤モデル。従来の個別モデルと異なり、統一フレームワークにより複数モダリティを同時に処理可能。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00688",
-      "date": "2026-04-01",
-      "authors": "Han Zhu, Lingwei Ye, Wei Kang, et al.",
-      "summary": "600以上の言語に対応する大規模多言語ゼロショットTTSモデル。拡散言語モデルスタイルの離散非自己回帰アーキテクチャを採用し、テキストからマルチコードブック音響トークンへの直接マッピングを実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Asymmetric Actor-Critic for Multi-turn LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00304",
-      "date": "2026-04-01",
-      "authors": "Shuli Jiang, Zhaoyang Zhang, Yi Zhang, et al.",
-      "summary": "信頼性の高い対話エージェントのための非対称Actor-Criticフレームワークを提案。強力なプロプライエタリLLMがアクターとして機能し、小型オープンソースモデルがクリティックとしてリアルタイム監視を行い、必要に応じて介入する設計。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00344",
-      "date": "2026-04-01",
-      "authors": "Eric Hanchen Jiang, Levina Li, Rui Sun, et al.",
-      "summary": "LLMマルチエージェントシステムにおけるトポロジー選択を協調型マルチエージェント強化学習問題として再定式化。QMIXの値分解を使用し、ラウンドごとの通信グラフを動的に生成する分散型意思決定フレームワーク。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Competition and Cooperation of LLM Agents in Games",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00487",
-      "date": "2026-04-01",
-      "authors": "Not specified",
-      "summary": "ゲーム環境におけるLLMエージェントの競争と協力の行動パターンを分析。マルチラウンドプロンプトと非ゼロサムコンテキストではLLMエージェントが協力する傾向があることを発見。公正さに関する推論が協力行動の中心であることを明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00824",
-      "date": "2026-04-01",
-      "authors": "Yang Ye, Jingyuan Tan, et al.",
-      "summary": "「Less-Is-More」仮説をエージェントシナリオに拡張し、高品質な軌跡データの厳選によりエージェント能力を効率的に引き出せることを実証。STITCHフレームワークを提案し、低価値ノイズをフィルタリングするエンドツーエンドの訓練手法を開発。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Multimodal Language Models Cannot Spot Spatial Inconsistencies",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00799",
-      "date": "2026-04-01",
-      "authors": "Om Khangaonkar, Hadi J. Rad, Hamed Pirsiavash",
-      "summary": "マルチモーダルLLMの3D空間整合性理解能力を評価する新タスクを提案。同一シーンの2つのビューから3D動き整合性に違反するオブジェクトを特定するタスクで、最先端MLLMが人間に比べ大幅に劣ることを実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LinguDistill: Recovering Linguistic Ability in Vision-Language Models via Selective Cross-Modal Distillation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00829",
-      "date": "2026-04-01",
-      "authors": "Patrick Irawan, Erland Hilman Fuadi, et al.",
-      "summary": "視覚言語モデル適応時に失われる言語能力を回復するアダプタフリーの蒸留手法を提案。凍結した元の言語モデルを教師として使用し、レイヤーごとのKVキャッシュ共有による視覚条件付き教師監督を導入。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Hierarchical Pre-Training of Vision Encoders with Large Language Models (HIVE)",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00086",
-      "date": "2026-04-01",
-      "authors": "Eugene Lee, Ting-Yu Chang, et al.",
-      "summary": "視覚エンコーダとLLM間の階層的クロスアテンションを導入し、視覚言語アラインメントを強化するHIVEフレームワークを提案。MME・GQA・OK-VQA・ScienceQAなどのベンチマークで自己注意ベース手法を上回る性能。",
-      "category": "arxiv"
     }
   ]
 }

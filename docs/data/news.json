@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04 09:00 (JST)",
+  "lastUpdated": "2026-05-05 09:00 (JST)",
   "articles": [
     {
       "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
@@ -16,6 +16,83 @@
       "date": "2026-05-04",
       "summary": "OpenAIが5月4日、TPGをアンカー出資者とする100億ドル規模の合弁会社「The Deployment Company」を最終確定。Bain Capital、Advent International、Brookfield Asset Management、Goanna Capitalなど計19社が約40億ドルを5年で拠出し、年率17.5%のリターンを保証する仕組み。OpenAI自身も最大15億ドルを拠出し、超多数決株でガバナンスを保持。OpenAIエンジニアをPEポートフォリオ企業（医療、物流、製造、金融）に常駐させ、エンタープライズ展開を加速する。",
       "category": "international"
+    },
+    {
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "date": "2026-05-04",
+      "summary": "OpenAI会長ブレット・テイラーのAIエージェント企業Sierraが、Tiger GlobalとGV主導で9.5億ドルを調達。ポストマネー評価額は158億ドルとなり、企業向けAIエージェント市場の競争激化を浮き彫りにした。",
+      "category": "international"
+    },
+    {
+      "title": "Panthalassa Raises $140 Million to Power AI at Sea",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/data-centers-at-sea-oregons-panthalassa-nets-140m-led-by-peter-thiel-for-wave-powered-ai/",
+      "date": "2026-05-04",
+      "summary": "オレゴン州拠点のPanthalassaがピーター・ティール主導で1.4億ドルを調達。波力発電を利用した洋上AIデータセンターを開発し、海水冷却で電力・冷却課題を解決する。2026年に北太平洋でOcean-3パイロット展開予定。",
+      "category": "international"
+    },
+    {
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "date": "2026-05-04",
+      "summary": "AnthropicがBlackstone、Hellman & Friedman、Goldman Sachsと共同で約15億ドル規模のエンタープライズAIサービス会社を設立。中堅企業の業務にClaudeを組み込み、Anthropic所属のApplied AIエンジニアが顧客の現場で実装を支援する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02801",
+      "date": "2026-05-04",
+      "authors": "Chenchen Zhang",
+      "summary": "サブエージェントの生成、委任、通信、集約、停止判断を含むオーケストレーショントレースに基づくマルチエージェントLLMの強化学習を提案。並列高速化や集約品質などシステムレベル特性を最適化する報酬設計を体系化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "date": "2026-05-03",
+      "summary": "ハーバード大学の研究で、OpenAIのo1とGPT-4oモデルが救急患者76人の診断において人間の医師2名を上回る、または同等の精度を示した。特にトリアージ段階で差が顕著で、医療AI実装の議論を加速させる結果となった。",
+      "category": "international"
+    },
+    {
+      "title": "MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01687",
+      "date": "2026-05-03",
+      "authors": "Jialin Song, Xiaodong Liu, Weiwei Yang, Wuyang Chen, Mingqian Feng, et al.",
+      "summary": "10,389件の多ターン敵対的プロンプトと2,665種類の有害意図をカバーするスケーラブルかつ多様なジェイルブレイクベンチマークを提案。LLMの安全性を多ターン会話の文脈で包括的に評価する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01831",
+      "date": "2026-05-03",
+      "authors": "Yangyang Zhou, Yi-Chen Li",
+      "summary": "RLHFにおける報酬モデルの汎化性能を、Chat・Writing・Reasoning・Safetyの4領域1,097インスタンスで評価するベンチマーク。多様な選好に対する報酬モデルの一般化ギャップを明確化する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "A Language for Describing Agentic LLM Contexts",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01920",
+      "date": "2026-05-03",
+      "authors": "Noga Peleg Pelc, Gal A. Kaminka, Yoav Goldberg",
+      "summary": "エージェント型LLM入力コンテキストの構造と動的変化を精密かつ可読に記述する言語ACDLを提案。役割メッセージ列、動的内容、時間参照、条件・反復構造を表現でき、ホワイトボードでも形式言語でも記述可能。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02073",
+      "date": "2026-05-03",
+      "authors": "Arash Ahmadi, Sarah Sharif, Yaser Banad",
+      "summary": "報酬仕様自体を探索により最適化するフレームワークを提案。Llama-3.2-3BにGRPO+LoRAを適用し、GSM8KでF1=0.795を達成、ベースライン比+0.19のF1向上を実現。",
+      "category": "arxiv"
     },
     {
       "title": "Replit Marks 10th Anniversary by Offering Free Agent Access for 24 Hours, Unveils Slides and Enterprise Push",
@@ -41,6 +118,24 @@
       "date": "2026-05-02",
       "summary": "ベトナム訪問中の高市早苗首相が5月2日、ハノイのベトナム国家大学で外交政策スピーチを行い、「日・ASEAN・AI共創イニシアティブ」を通じたAI協力を強調。フン首相との首脳会談では、総務省と科学技術省の協力覚書を歓迎し、ベトナムの言語・文化を反映した母国語LLMや産業別基盤モデルの開発支援で合意。海底ケーブル、オープンRAN、衛星通信を含む「FOIPデジタル回廊」構想も発表し、自由で開かれたインド太平洋（FOIP）を進化させる方針を打ち出した。",
       "category": "japan"
+    },
+    {
+      "title": "GR-Ben: A General Reasoning Benchmark for Evaluating Process Reward Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01203",
+      "date": "2026-05-02",
+      "authors": "Zhouhao Sun, Xuan Zhang, Xiao Ding, Bibo Cai, Li Du, et al.",
+      "summary": "科学・論理を含む2大領域9サブ領域にわたるプロセス報酬モデル評価ベンチマーク。既存PRMが数学以外の推論タスクで誤り検出能力が顕著に弱まることを明らかにした。",
+      "category": "arxiv"
+    },
+    {
+      "title": "FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01495",
+      "date": "2026-05-02",
+      "authors": "Zebin Guo, Weidong Geng, Ruichen Mao",
+      "summary": "表をエントリレベルの意味単位に分解し構造グラフを構築する細粒度RAGフレームワーク。構造的近傍展開とマルチモーダル融合により複雑な表推論性能を向上、9,870件の高難度QAベンチマークも公開。",
+      "category": "arxiv"
     },
     {
       "title": "Microsoft Agent 365 Reaches General Availability with Expanded Integrations and Security Controls",
@@ -108,6 +203,66 @@
       "date": "2026-05-01",
       "summary": "長期対話エージェントの「どのターンを外部メモリに保存するか」という書き込み判断を、LLMによる逐次デコードからエンベディングベースの軽量分類に置き換える「MemRouter」を提案。各ターンと直近文脈を凍結LLMバックボーンに通し、わずか1,200万パラメータの軽量ヘッドで保存判断を実施。LoCoMoベンチマーク全カテゴリでLLMベースのメモリマネージャを上回り、メモリ管理レイテンシを970msから58msへ大幅削減した。",
       "authors": "（arXiv:2605.00356）",
+      "category": "arxiv"
+    },
+    {
+      "title": "ELYZA Announces New Management Structure and Executive Officer Appointments",
+      "title_ja": "ELYZA、新経営体制および執行役員4名の選任を発表",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000071.000047565.html",
+      "date": "2026-05-01",
+      "summary": "日本語LLM開発のELYZAは2026年5月1日、新経営体制と執行役員4名の選任を発表。『研究開発』『ソリューション』『プロダクト』の3事業を柱に、国産LLMの社会実装を加速する組織体制を整備する。デジタル庁の源内向けLLMにも採択された同社のさらなる成長を支える布陣となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Pentagon strikes deals with 8 Big Tech companies after shunning Anthropic",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
+      "date": "2026-05-01",
+      "summary": "米国防総省はOpenAI、Google、Microsoft、Amazon、Nvidia、SpaceX、Oracle、Reflection AIの8社と機密ネットワーク上でAIを展開する契約を締結。Anthropicは軍事利用条件をめぐる紛争でサプライチェーンリスクと指定され除外された。",
+      "category": "international"
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "date": "2026-05-01",
+      "summary": "国防総省はNvidia、Microsoft、AWS、OpenAI、Google、SpaceX、Reflection AIなどとIL6/IL7機密ネットワーク向けAI展開契約を結んだ。Anthropicは軍事用途条件を拒否し契約から除外。Reflection AIにとっては大型政府契約の足掛かりとなる。",
+      "category": "international"
+    },
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "date": "2026-05-01",
+      "summary": "MetaがロボティクススタートアップAssured Robot Intelligence (ARI) を買収し、Superintelligence Labs研究部門に統合。ヒューマノイドAI開発を加速する戦略の一環で、Alexandr Wang率いる新組織への投資を拡大している。",
+      "category": "international"
+    },
+    {
+      "title": "Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01147",
+      "date": "2026-05-01",
+      "authors": "Tanav Singh Bajaj, Nikhil Singh, Karan Anand, Eishkaran Singh",
+      "summary": "エージェント型AIの安全性と公平性は、モデル規模やアラインメントよりもエージェント間の相互作用トポロジーによって決まると主張。逐次審議や並列投票など情報フロー構造が結果を支配することを示す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01133",
+      "date": "2026-05-01",
+      "authors": "Lingxi Zhang, et al.",
+      "summary": "LLMマルチエージェントシステムでは埋め込みベースの防御が、悪意あるメッセージを良性メッセージに近い埋め込みに偽装する攻撃で容易に回避できることを示し、安全性設計の再考を促す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00505",
+      "date": "2026-05-01",
+      "authors": "Lu Dai, et al.",
+      "summary": "RAGやエージェント検索でLLMが消費する情報検索は、人間とは異なり注意予算が限定的でノイズに脆弱であるため、ノイズ除去を第一義に据えた新しい検索パラダイムを提案する。",
       "category": "arxiv"
     },
     {
@@ -202,6 +357,40 @@
       "category": "international"
     },
     {
+      "title": "GMO Internet Begins Offering Hermes Agent Startup Script for ConoHa VPS",
+      "title_ja": "GMOインターネット、『ConoHa VPS byGMO』で自己成長型AIエージェント『Hermes Agent』のスタートアップスクリプトを提供開始",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000005352.000000136.html",
+      "date": "2026-04-30",
+      "summary": "GMOインターネットは2026年4月30日、VPSサービス『ConoHa VPS byGMO』においてオープンソース自律型AIエージェント『Hermes Agent』の実行環境を自動構築するスタートアップスクリプトを無料で提供開始した。永続的なメモリやスキルシステムを備える自己成長型AIをVPS上で容易に稼働可能に。",
+      "category": "japan"
+    },
+    {
+      "title": "Rakuten Travel Adds Booking Function to Rakuten AI Hotel Recommendation Agent",
+      "title_ja": "楽天トラベル、AIエージェント『Rakuten AI』に予約機能を追加",
+      "source": "楽天グループ",
+      "url": "https://corp.rakuten.co.jp/news/press/2026/0430_01.html",
+      "date": "2026-04-30",
+      "summary": "楽天グループは2026年4月30日、楽天トラベルのAIエージェントに予約機能を追加したと発表。ユーザーが希望条件をAIに伝えると、複数候補から最適な宿泊プランを提案し、ボタン操作のみで決済まで完結する。予約履歴を踏まえた提案にも対応する。",
+      "category": "japan"
+    },
+    {
+      "title": "Introducing Advanced Account Security",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advanced-account-security/",
+      "date": "2026-04-30",
+      "summary": "OpenAIが攻撃リスクの高いユーザー向けにChatGPTのオプトイン型強化セキュリティを公開。パスワードログインを無効化しパスキー/物理キーを必須にし、メール・SMSによる復旧も廃止。短いセッションやログイン通知、自動的なモデル学習からの除外も提供。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Gemini Embedding 2 is now generally available",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/",
+      "date": "2026-04-30",
+      "summary": "GoogleがGemini Embedding 2を一般提供開始。テキスト・画像・動画・音声・PDFを単一の埋め込み空間にマッピングする初の統合マルチモーダル埋め込みモデルで、100以上の言語に対応。Matryoshka表現学習により3072次元から自由に切り詰めて利用可能。",
+      "category": "company_blog"
+    },
+    {
       "title": "OpenAI Issues Urgent Security Alert: macOS Users Must Update ChatGPT, Codex, and Atlas Apps by May 8",
       "source": "OpenAI",
       "url": "https://openai.com/news/security-alert-macos-april-29-2026",
@@ -271,6 +460,30 @@
       "category": "company_blog"
     },
     {
+      "title": "Microsoft, Meta, and Google just announced billions more in AI spending. Only Google convinced investors it's paying off.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/",
+      "date": "2026-04-29",
+      "summary": "Q1決算でMicrosoft、Meta、Alphabetが2026年AI設備投資ガイダンスを引き上げ、ハイパースケーラー4社合計で6500-7000億ドルに到達。Google Cloudは前年比63%成長で投資家を納得させたが、Metaは145億ドルへの増額で株価が約6%下落した。",
+      "category": "international"
+    },
+    {
+      "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+      "date": "2026-04-29",
+      "summary": "BMW i Venturesが3億ドルの新ファンドを立ち上げ、自動車業界をAIが再構築するという投資テーゼを掲げた。物理AI、エンタープライズソフトウェア、サプライチェーン技術への重点投資で、自動車OEMによるAI戦略の本格化を象徴する。",
+      "category": "international"
+    },
+    {
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+      "date": "2026-04-29",
+      "summary": "OpenAIがStargateの進捗を発表。2025年1月の発表以来、米国で10GWのAIインフラを確保する目標を1年余りで超過し、過去90日で3GWを追加。AGI実現に向けたコンピュート基盤拡張の戦略と次のフェーズについて説明している。",
+      "category": "company_blog"
+    },
+    {
       "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2604.25847",
@@ -337,6 +550,40 @@
       "authors": "Various Researchers",
       "summary": "近年提案されたmixed-policy最適化手法（SFTとRLを混合する手法）の多くがDeepSpeedとOpenRLHFのバグに起因する誤ったベースラインに依存していたことを指摘。修正済み実験の下では、シンプルな「SFT先行→RL後行（SFT-then-RL）」がmixed-policy法を上回ることを示し、推論用ポストトレーニングのベストプラクティスを再定義した。再現性危機への警鐘も含む実証研究。",
       "category": "arxiv"
+    },
+    {
+      "title": "GMO Pepabo Launches Japan's First Cloud Service Supporting Self-Improving AI Agent 'Hermes Agent'",
+      "title_ja": "GMOペパボ、国内初の自己成長型AIエージェント『Hermes Agent』対応クラウドサービスを提供開始",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2105785.html",
+      "date": "2026-04-28",
+      "summary": "GMOペパボは2026年4月28日、Nous Research開発のオープンソース自律型AIエージェント『Hermes Agent』に対応した『ロリポップ！AIエージェントクラウド byGMOペパボ』を国内ホスティングのマネージドサービスとして初めて提供開始した。月額1,200円で複雑なサーバー構築なしに24時間稼働可能。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT to Triple Domestic Data Center Capacity by FY2033 to Meet AI Demand",
+      "title_ja": "NTT、AI需要対応でデータセンター容量を2033年度に3倍超へ増強",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/28/news064.html",
+      "date": "2026-04-28",
+      "summary": "NTTはAI需要の急拡大に対応するため、国内データセンターのIT電力容量を現状の約300MWから2033年度に3倍超の約1GWへ拡張する計画を明らかにした。島田明社長は『推論用途が広がる』と述べ、AIネイティブインフラ『AIOWN』の展開を進める。",
+      "category": "japan"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-commitment-to-community-safety/",
+      "date": "2026-04-28",
+      "summary": "OpenAIがコミュニティ安全への取り組みを発表。乱射事件、公人への脅迫、爆発物計画など現実世界の暴力に関連する会話をChatGPTがどう識別し対応するかを説明し、暴力支援に対するゼロトレランス方針と関係機関との連携を強調した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Unlocking human ambition to drive business growth with AI",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/",
+      "date": "2026-04-28",
+      "summary": "Microsoft商用ビジネスCEOのJudson AlthoffがAIによる業務最適化と再構築の事例を紹介。BMW Groupが世界規模でMicrosoft 365 Copilotを大規模導入し、Accentureが74万人超の従業員にCopilotを展開した取り組みなど、Frontier Firm化に向けた顧客事例を解説。",
+      "category": "company_blog"
     },
     {
       "title": "Anthropic Pledges to Keep Claude Ad-Free, Citing Misalignment with Helpful AI Mission",
@@ -1475,274 +1722,6 @@
       "authors": "Eugene Lee, Ting-Yu Chang, et al.",
       "summary": "視覚エンコーダとLLM間の階層的クロスアテンションを導入し、視覚言語アラインメントを強化するHIVEフレームワークを提案。MME・GQA・OK-VQA・ScienceQAなどのベンチマークで自己注意ベース手法を上回る性能。",
       "category": "arxiv"
-    },
-    {
-      "title": "Google Veo 3.1 Lite: Cost-Effective Video Generation",
-      "title_ja": "Google、低コスト動画生成モデルVeo 3.1 Liteを公開",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "date": "2026-03-31",
-      "summary": "GoogleがVeo 3.1 Liteを開発者向けに公開。Veo 3.1 Fastと同等速度でコスト50%以上削減。Gemini APIで利用可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "AI Safety Gates: Classification vs Verification",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.00072",
-      "date": "2026-03-31",
-      "authors": "Arsenios Scrivens",
-      "summary": "分類器ベースのAI安全ゲートが自己改善AIに対して信頼性を維持できないことを実証。18の分類器構成を検証し、検証ベースアプローチこそが安全ゲートの基盤であるべきと結論。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Cohere Transcribe: State-of-the-Art Speech Recognition",
-      "title_ja": "Cohere、初の音声認識モデル「Cohere Transcribe」を発表",
-      "source": "Cohere",
-      "url": "https://cohere.com/blog/transcribe",
-      "date": "2026-03-26",
-      "summary": "Cohereが初の音声認識モデル「Cohere Transcribe」を発表。エンタープライズ向けに高精度な文字起こし機能を提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Mitsubishi Electric Invests in Sakana AI for Manufacturing AI",
-      "title_ja": "三菱電機、Sakana AIへ出資 製造現場の省人化へ協業",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC258LD0V20C26A3000000/",
-      "date": "2026-03-25",
-      "summary": "三菱電機はSakana AIへの出資を発表。Sakana AIの先進的なAI基盤モデル技術と三菱電機の製造業・社会インフラ分野のドメイン知識を組み合わせ、製造現場の省人化・無人化ソリューション開発を目指す。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI Shuts Down Sora, Hires Meta Ad Executive",
-      "title_ja": "OpenAI、動画生成Soraを閉鎖しMeta元広告幹部を採用",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-on-wednesday-march-25-2026-/",
-      "date": "2026-03-25",
-      "summary": "OpenAIが動画生成プラットフォームSoraを閉鎖し「Soraアプリにお別れを」と発表。同時にMeta元広告幹部Dave Duganをグローバル広告営業責任者として採用し、広告事業への本格参入を示唆。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Launches Auto Mode for Claude Code and Computer Use Preview",
-      "title_ja": "Anthropic、Claude Codeにオートモードとコンピュータユースプレビューを導入",
-      "source": "Crypto Integrated",
-      "url": "https://www.cryptointegrat.com/p/ai-news-march-25-2026",
-      "date": "2026-03-25",
-      "summary": "AnthropicがClaude Codeにオートモードを導入。手動承認を減らしつつ破壊的操作を自動検出する安全機構を搭載。またClaudeによるPC操作機能（コンピュータユース）のリサーチプレビューをmacOS向けに公開。",
-      "category": "international"
-    },
-    {
-      "title": "Sakana AI Launches Japan-Specific Model 'Namazu' and Free 'Sakana Chat'",
-      "title_ja": "Sakana AI、日本特化型AIモデル「Namazu」と無料チャット「Sakana Chat」を公開",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
-      "date": "2026-03-24",
-      "summary": "Sakana AIは海外基盤モデルを日本仕様に適応させた「Namazu」シリーズ（DeepSeek-V3.1-Terminus、Llama-3.1-405B、gpt-oss-120Bベース）を発表。日本語処理能力と回答の中立性・正確性を大幅に向上。Web検索統合チャット「Sakana Chat」を日本国内限定で無料公開。",
-      "category": "japan"
-    },
-    {
-      "title": "Google Releases TurboQuant: 6x LLM Compression with No Accuracy Loss",
-      "title_ja": "Google、LLMを6倍圧縮するTurboQuantを発表",
-      "source": "Labla.org",
-      "url": "https://www.labla.org/latest-ai-model-releases-past-24-hours/new-ai-tools-model-updates-march-24-2026/",
-      "date": "2026-03-24",
-      "summary": "GoogleがLLMのメモリを6倍圧縮し最大8倍高速化するTurboQuantを発表。精度を損なわずにスマートフォンや16GB Mac Miniなどのデバイス上でローカル実行可能にする技術。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft: AI for Nuclear Energy",
-      "title_ja": "Microsoft、NVIDIAと協力し原子力エネルギー向けAIツールを発表",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-      "date": "2026-03-24",
-      "summary": "MicrosoftがNVIDIAと協力し原子力エネルギー分野向けAIツールを発表。許認可効率化、設計加速、運用最適化をエンドツーエンドで支援。AIインフラのエネルギー需要増大に対応する取り組み。",
-      "category": "company_blog"
-    },
-    {
-      "title": "CAID: Effective Strategies for Asynchronous Software Engineering Agents",
-      "title_ja": "CAID: 非同期ソフトウェアエンジニアリングエージェントの効果的戦略",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.21489",
-      "date": "2026-03-24",
-      "authors": "Jiayi Geng et al.",
-      "summary": "git worktree・commit・mergeを活用したマルチエージェント協調パラダイム「CAID」を提案。中央管理者による依存関係考慮のタスク分解と分離ワークスペースでの非同期並列実行で、PaperBench 26.7%、Commit0-Lite 14.3%の精度向上を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana AI Publishes Continuous Thought Machine (CTM)",
-      "title_ja": "Sakana AI「Continuous Thought Machine（CTM）」を発表",
-      "source": "Sakana AI",
-      "url": "https://sakana.ai/blog/",
-      "date": "2026-03-23",
-      "summary": "Sakana AIが「Continuous Thought Machine（CTM）」を発表。ニューロンダイナミクス間の同期を利用してタスクを解く新しいニューラルネットワークアーキテクチャ。従来のTransformerとは異なるアプローチで、生物学的な神経回路の動作原理に着想を得ている。",
-      "category": "arxiv"
-    },
-    {
-      "title": "NTT Data's tsuzumi 2 Among 7 LLMs Selected for Government AI 'Gennai'",
-      "title_ja": "NTTデータ「tsuzumi 2」含む7件、ガバメントAI「源内」国産LLMに選定",
-      "source": "NTT DATA GROUP",
-      "url": "https://www.nttdata.com/global/ja/news/topics/2026/032302/",
-      "date": "2026-03-23",
-      "summary": "デジタル庁は「ガバメントAI（源内）」で試用する国産LLMとして、NTTの「tsuzumi 2」やPFN「PLaMo 2.0 Prime」、NEC「cotomi v3」など15件の応募から7件を選定。約18万人の政府職員向けに2026年8月頃から試用開始。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic Science: AI-Driven Research Blog Launch",
-      "title_ja": "Anthropic、科学ブログ「Anthropic Science」を開設",
-      "source": "Anthropic",
-      "url": "https://winbuzzer.com/2026/03/24/anthropic-launches-science-blog-ai-driven-research-xcxwbn/",
-      "date": "2026-03-23",
-      "summary": "Anthropicが科学ブログ「Anthropic Science」を立ち上げ。物理学者Matthew Schwartzが理論物理学の計算をClaudeと協力して行った実例を初回記事として公開。人間とAIの協調的な科学研究の文書化に注力。",
-      "category": "company_blog"
-    },
-    {
-      "title": "On the Direction of RLVR Updates for LLM Reasoning",
-      "title_ja": "LLM推論におけるRLVR更新の方向性の分析",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.22117",
-      "date": "2026-03-23",
-      "authors": "Kexin Huang, Haoming Meng, Junkang Wu et al.",
-      "summary": "検証可能な報酬によるRL（RLVR）がLLM推論に与える影響を「更新の方向」から分析。ポリシー更新の方向が推論に重要なトークンの特定に効果的であることを示し、テスト時外挿法でAvg@32スコアを最大2.92ポイント向上。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Trump Administration Unveils National AI Legislative Framework",
-      "title_ja": "トランプ政権、国家AI政策フレームワークを発表",
-      "source": "CNBC / White House",
-      "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
-      "date": "2026-03-20",
-      "summary": "トランプ政権は国家AI政策フレームワークを発表し、州法の統一的連邦基準への置き換え、新たなAI規制機関の不設置、規制サンドボックスの推進などを提案。AI開発者の責任免除を懸念する声もあり、議会での法制化に向けた議論が本格化する見込み。",
-      "category": "international"
-    },
-    {
-      "title": "Agentic AI Reaches Inflection Point - GTC 2026 Theme",
-      "title_ja": "エージェントAIが転換点に到達 - GTC 2026のテーマ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/20/nvidia-gtc-2026-agentic-ai-chips-tech-download.html",
-      "date": "2026-03-20",
-      "summary": "NVIDIA GTC 2026では「エージェントAI」が中心テーマに。Jensen Huang CEOはエージェントAIが「転換点」に達したと宣言。AI-Q BlueprintはDeepResearch Bench精度リーダーボードでトップを獲得。フロンティアモデルとオープンモデルのハイブリッドアプローチでクエリコストを半減。",
-      "category": "international"
-    },
-    {
-      "title": "Experience is the Best Teacher: HeRL Framework for LLM Reinforcement Learning",
-      "title_ja": "経験は最良の教師: LLM強化学習のためのHeRLフレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.20046",
-      "date": "2026-03-20",
-      "authors": "Wenjian Zhang, Kongcheng Zhang, Jiaxin Qi, Baisheng Lai, Jianqiang Huang",
-      "summary": "LLMの強化学習における効果的な探索を促進するHeRL（Hindsight experience guided RL）フレームワークを提案。失敗した軌跡と未達成の評価基準をヒンドサイト経験として活用し、ポリシーのインコンテキストガイダンスとして利用することで探索効率を改善。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
-      "title_ja": "マルコフ状態の再導入によるLLM事後学習の能力上限突破",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.19987",
-      "date": "2026-03-20",
-      "authors": "Yurun Yuan et al.",
-      "summary": "LLMのRL事後学習における「能力の天井」問題を特定。拡大し続くアクション履歴への依存が原因と解明し、古典的RLのマルコフ状態を再導入することで論理パズルにおいて標準的なRL事後学習の性能限界を突破できることを実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Semantic Token Clustering for Efficient Uncertainty Quantification in LLMs",
-      "title_ja": "LLMの効率的な不確実性定量化のためのセマンティックトークンクラスタリング",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.20161",
-      "date": "2026-03-20",
-      "authors": "Qi Cao, Andrew Gambardella, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa",
-      "summary": "LLM内在の意味情報を活用した効率的な不確実性定量化手法STCを提案。トークンを意味的クラスタにグループ化し、単一の生成のみで補助モデルなしに不確実性を定量化。東大松尾研との共同研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "FormalEvolve: Neuro-Symbolic Evolutionary Search for Autoformalization",
-      "title_ja": "FormalEvolve: 自動形式化のためのニューロシンボリック進化的探索",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.19828",
-      "date": "2026-03-20",
-      "authors": "Haijian Lu, Wei Wang, Jing Liu",
-      "summary": "ニューロシンボリック手法と進化的探索を組み合わせた自動形式化手法FormalEvolveを提案。非形式的な数学記述を形式的で機械検証可能な表現に自動変換する新アプローチ。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Microsoft: Secure Agentic AI End-to-End at RSAC 2026",
-      "title_ja": "Microsoft、RSAC 2026でエージェントAIのセキュリティ新機能を発表",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/",
-      "date": "2026-03-20",
-      "summary": "RSAC 2026でMicrosoftがエージェントAIのセキュリティ確保のための新機能を発表。Agent 365が5月1日に一般提供開始し、IT・セキュリティ・ビジネスチームにエージェントの可視化・保護・ガバナンスツールを提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ABEJA Achieves World-Class Japanese Performance with Compact LLM",
-      "title_ja": "ABEJA、GENIACプロジェクトで小型化LLMの日本語性能が世界最高水準を達成",
-      "source": "ABEJA",
-      "url": "https://www.abejainc.com/en/news",
-      "date": "2026-03-20",
-      "summary": "ABEJAはNEDO推進「GENIAC」プロジェクト第二期で小型化LLMの日本語性能が世界最高水準を達成。防衛装備庁との無人地上車両の自律走行AI適用検討契約も締結。2026年8月期第1四半期は売上高55.9%増と好調。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan AI Infrastructure Spending to Surpass $5.5B in 2026",
-      "title_ja": "日本のAIインフラ支出、2026年に55億ドル超へ 3年で7倍成長",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/",
-      "date": "2026-03-20",
-      "summary": "IDCの最新調査によると、日本のAIインフラ支出は2022年から3年間で7倍に拡大し2026年に55億ドル超の見通し。2028年にはAIインフラ支出が非AIインフラ支出を初めて上回る歴史的転換点を迎えると予測。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI Raises $110B at $730B Valuation",
-      "title_ja": "OpenAI、Amazon・NVIDIA・SoftBankから1100億ドル調達 評価額7300億ドル",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-      "date": "2026-03-20",
-      "summary": "OpenAIがAmazon、NVIDIA、SoftBankから1100億ドルを調達しプレマネー評価額7300億ドルに到達。年間売上250億ドル超で2026年後半のIPOも視野に。投資家には17.5%の保証リターンを提示。",
-      "category": "international"
-    },
-    {
-      "title": "Claude Code Channels: Code from Discord and Telegram",
-      "title_ja": "Anthropic、Claude Code ChannelsでDiscord/Telegramからコード生成可能に",
-      "source": "Anthropic",
-      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
-      "date": "2026-03-20",
-      "summary": "AnthropicがClaude Code Channelsを発表。DiscordやTelegramからClaude Codeに直接メッセージを送りコード作成を指示できる新機能。同期的な「質問して待つ」モデルから非同期・自律的なパートナーシップへの転換を図る。",
-      "category": "company_blog"
-    },
-    {
-      "title": "UK ICO and Ofcom Issue Formal Demand to xAI Over Grok Safety",
-      "title_ja": "英国ICOとOfcom、xAI社のGrokに安全性の正式要求",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/03/19/ai-regulation-us-draft-ai-act-emerges-as-uk-government-u-turns/",
-      "date": "2026-03-19",
-      "summary": "英国のICOとOfcomがイーロン・マスクのxAI社に対し、AIモデル「Grok」の画像生成機能に関する正式な要求を発出。非合意の性的コンテンツやディープフェイク生成への悪用リスクが懸念され、英国政府はAI規制法案の範囲拡大も検討中。",
-      "category": "international"
-    },
-    {
-      "title": "Apple Partners with Google Gemini for AI-Powered Siri in iOS 26.4",
-      "title_ja": "Apple、Google Geminiを活用したAI搭載Siriを発表",
-      "source": "Crescendo AI",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "date": "2026-03-19",
-      "summary": "AppleはGoogleの1.2兆パラメータGeminiモデルを活用した新しいAI搭載Siriを発表。iOS 26.4と共にリリース予定。Appleのプライベートクラウドコンピュート上で動作し、厳格なプライバシー基準を維持しながら高度なAI機能を実現する。",
-      "category": "international"
-    },
-    {
-      "title": "Are Complicated Loss Functions Necessary for Teaching LLMs to Reason?",
-      "title_ja": "LLMに推論を教えるのに複雑な損失関数は必要か？",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2603.18756",
-      "date": "2026-03-19",
-      "authors": "Anonymous et al.",
-      "summary": "LLMの数学的推論訓練で負のフィードバックは不可欠だがPPOスタイルのクリッピングは不要と発見。簡素化REINFORCE変種RGRAを提案し、GRPOを上回る性能を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "title_ja": "OpenAI、GPT-5.4 miniとnanoを発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
-      "date": "2026-03-19",
-      "summary": "GPT-5.4 miniとnanoをAPIおよびChatGPTで提供開始。大規模GPT-5.4モデルの多くの強みを、高速かつ効率的なパッケージに凝縮し、大量処理ワークロードやコーディングアシスタントに最適化されたモデル。",
-      "category": "company_blog"
     }
   ]
 }

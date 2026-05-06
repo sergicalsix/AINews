@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-05 09:00 (JST)",
+  "lastUpdated": "2026-05-06 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
+      "title_ja": "Anthropic、Googleにチップとクラウド利用で2000億ドルを支払うと報道",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
+      "date": "2026-05-06",
+      "summary": "Anthropicは2027年から本格稼働する数ギガワット規模のTPU容量をGoogleとBroadcomから調達する4月の契約に続き、5年間で2000億ドル相当の支出を確約。AlphabetはAnthropicに最大400億ドルの追加出資も行う見込み。",
+      "category": "international"
+    },
     {
       "title": "Agents for financial services and insurance",
       "title_ja": "金融・保険向け Claude エージェント10種を提供開始",
@@ -64,6 +73,96 @@
       "url": "https://www.mexc.com/news/1064110",
       "date": "2026-05-05",
       "summary": "OpenAIのSam Altmanは5月5日17:55開催の社内『GPT-5.5ローンチパーティ』を告知し、招待者のキュレーションをCodexエージェントに任せた。Altman本人がGPT-5.5に式次第を相談したエピソードを披露し、新モデルが公開ローンチ間近であることを示唆。RSVPフォームは即時満員となり社内外で話題を呼んだ。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Commits to Spending $200 Billion on Google's Cloud and Chips",
+      "title_ja": "Anthropic、Google CloudとTPUに5年間で2000億ドルの支出を確約",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips",
+      "date": "2026-05-05",
+      "summary": "AnthropicがGoogle Cloudに対して今後5年間で2000億ドルを支出する大型契約を結んだとThe Informationが報道。GoogleのTPUチップ容量を含む大規模なインフラ確保で、Alphabet株は時間外取引で上昇した。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft, Google and xAI will let the government test their AI models before launch",
+      "title_ja": "Microsoft・Google・xAI、新AIモデルの公開前に米政府の安全性テストを許可",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+      "date": "2026-05-05",
+      "summary": "米商務省NIST傘下のCAISI（AI標準・イノベーションセンター）が、Google DeepMind、Microsoft、xAIと新規協定を締結。フロンティアAIモデルの公開前評価と国家安全保障に関わる能力・リスクの研究を実施する。",
+      "category": "international"
+    },
+    {
+      "title": "Trump admin moves further into AI oversight, will test Google, Microsoft and xAI models",
+      "title_ja": "トランプ政権がAI監督を強化、Google・Microsoft・xAIのモデルを公開前に評価へ",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html",
+      "date": "2026-05-05",
+      "summary": "米CAISIがGoogle DeepMind、Microsoft、xAIとAIモデルの事前評価協定を発表。安全装置を緩めた状態のモデル提供や機密環境でのテストにも対応し、2024年に締結したOpenAIおよびAnthropicとの協定を拡張する形。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft, Google, xAI give US access to AI models for security testing",
+      "title_ja": "Microsoft・Google・xAI、米政府にAIモデルへのアクセスを提供しセキュリティ試験を実施",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing",
+      "date": "2026-05-05",
+      "summary": "3社が米国政府の国家安全保障関連評価のため、フロンティアAIモデルへの早期アクセスを提供することで合意。CAISIによる事前評価を通じ、AI能力とセキュリティリスクを段階的に把握する。",
+      "category": "international"
+    },
+    {
+      "title": "Google DeepMind workers in the U.K. vote to unionize over military AI contracts",
+      "title_ja": "英国のGoogle DeepMind従業員、軍事AI契約に反発し労組結成を可決",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/05/google-deepmind-unionize-vote-military-ai-contracts-internal-backlash-pentagon-deal-israeli-defense-forces/",
+      "date": "2026-05-05",
+      "summary": "Pentagon契約とイスラエル国防軍向けクラウド契約をめぐる社内反発を受け、英国のGoogle DeepMind従業員が労働組合を結成する投票を可決。軍事用途への倫理的懸念が背景にある。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Copilot Will No Longer Come To Consoles, Says Xbox CEO",
+      "title_ja": "Microsoft Copilot、Xboxコンソールへの展開を中止とXbox CEOが発表",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/05/05/microsoft-copilot-will-no-longer-come-to-consoles-says-xbox-ceo",
+      "date": "2026-05-05",
+      "summary": "Xbox CEOのAsha Sharma氏が、Microsoft Copilot AIをモバイル版で段階的に終了し、コンソール向け展開も中止する方針を発表。Microsoftは法人向けAgent戦略へ重心を移している。",
+      "category": "international"
+    },
+    {
+      "title": "DeepMind Workers Vote to Unionize Following Google's Pentagon AI Deal",
+      "title_ja": "DeepMind従業員、GoogleのPentagon AI契約を受けて労組結成を可決",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/deepmind-workers-vote-to-unionize-following-googles-pentagon-ai-deal-2000754603",
+      "date": "2026-05-05",
+      "summary": "Google DeepMindのロンドン拠点従業員が、米Pentagonおよびイスラエル国防軍関連のクラウド・AI契約に対する反発から、労働組合結成を可決。研究者の倫理的懸念が表面化した。",
+      "category": "international"
+    },
+    {
+      "title": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI",
+      "title_ja": "CAISI、Google DeepMind・Microsoft・xAIとフロンティアAIの国家安全保障評価協定を締結",
+      "source": "NIST",
+      "url": "https://www.nist.gov/news-events/news/2026/05/caisi-signs-agreements-regarding-frontier-ai-national-security-testing",
+      "date": "2026-05-05",
+      "summary": "米商務省NISTのCAISIが、Google DeepMind、Microsoft、xAIとフロンティアAIモデルの事前評価および国家安全保障に関する標的研究を実施する3者協定を締結。機密環境でのテストや安全装置を緩めたモデルでの試験にも対応する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Building the foundation for running extra-large language models",
+      "title_ja": "超大規模LLMを実行するためのCloudflare新世代インフラ基盤",
+      "source": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/high-performance-llms/",
+      "date": "2026-05-05",
+      "summary": "Cloudflareが超大規模LLMをグローバルネットワークで実行する新インフラを発表。プリフィル（compute-bound）とデコード（memory-bound）を分離する分散アーキテクチャ、独自推論エンジンInfire、重み圧縮技術Unweightを組み合わせ、GPU効率と応答速度を向上させる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs",
+      "title_ja": "Cloudflare、LLM実行向けの高性能インフラを構築",
+      "source": "InfoQ",
+      "url": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/",
+      "date": "2026-05-05",
+      "summary": "Cloudflareが世界中のグローバルネットワーク上で大規模AI言語モデルを動作させる新インフラを発表。プリフィルとデコードを別々の最適化されたシステムに分離し、独自推論エンジンを用いてGPUを効率的に管理する。",
       "category": "international"
     },
     {
@@ -148,6 +247,16 @@
       "category": "arxiv"
     },
     {
+      "title": "WindowQuant: Mixed-Precision KV Cache Quantization based on Window-Level Similarity for VLMs Inference Optimization",
+      "title_ja": "WindowQuant：ウィンドウ単位の類似性に基づくVLM推論最適化のための混合精度KVキャッシュ量子化",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02262",
+      "date": "2026-05-04",
+      "summary": "視覚言語モデル（VLM）推論の最適化を目的に、ウィンドウ単位でのKVキャッシュ類似性に基づく混合精度量子化手法を提案。最先端手法と比べて高い精度・スループット・低メモリ消費を同時達成する。",
+      "authors": "Authors listed on arXiv",
+      "category": "arxiv"
+    },
+    {
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
@@ -190,6 +299,24 @@
       "authors": "Arash Ahmadi, Sarah Sharif, Yaser Banad",
       "summary": "報酬仕様自体を探索により最適化するフレームワークを提案。Llama-3.2-3BにGRPO+LoRAを適用し、GSM8KでF1=0.795を達成、ベースライン比+0.19のF1向上を実現。",
       "category": "arxiv"
+    },
+    {
+      "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
+      "title_ja": "Sakana AI、KAMEを発表：LLMの知識をリアルタイム注入するタンデム型音声対話アーキテクチャ",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
+      "date": "2026-05-03",
+      "summary": "東京拠点のSakana AIが、フロントエンドのS2Sモジュールとバックエンドの大規模LLMを非同期に動作させる新アーキテクチャ「KAME」を発表。低遅延を保ちながらLLMの知識を活用でき、MT-Bench 6.43を達成。論文はICASSP 2026に採択。",
+      "category": "japan"
+    },
+    {
+      "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI with Tandem Architecture",
+      "title_ja": "二つの頭脳の方が優れている：タンデム型アーキテクチャによる音声AIへの非同期知識注入",
+      "source": "Sakana AI",
+      "url": "https://pub.sakana.ai/kame/",
+      "date": "2026-05-03",
+      "summary": "Sakana AIによる公式ブログ。直接型音声対話モデルと大規模LLMを並列に走らせる「Speak-while-thinking」パラダイムを提唱し、Moshiベースのフロントエンドが80msごとに音声を生成しながらバックエンドのLLMが推論を継続。バックエンドはGPT-4.1/Claude Opus 4.1/Gemini 2.5 Flashを再学習なしで切替可能。",
+      "category": "company_blog"
     },
     {
       "title": "Replit Marks 10th Anniversary by Offering Free Agent Access for 24 Hours, Unveils Slides and Enterprise Push",
@@ -392,6 +519,26 @@
       "url": "https://arxiv.org/abs/2605.01078",
       "date": "2026-05-01",
       "summary": "プロンプトインジェクション・ジェイルブレイク文を文間関係グラフとして表現し、悪性ノードを最小限に削除して入力をサニタイズする手法を提案。意味保存と安全性のトレードオフを最適化し、4種の最先端ジェイルブレイクベンチで攻撃成功率を平均73%低減しながらタスク精度低下を1ポイント以内に抑えた。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines",
+      "title_ja": "Agent Capsules：マルチエージェントLLMパイプラインの品質ゲート付き粒度制御",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00410",
+      "date": "2026-05-01",
+      "summary": "マルチエージェントLLMパイプラインにおいて、エージェント構成と実行を品質ゲートで制御する手法「Agent Capsules」を提案。粒度を動的に調整しながらパイプライン品質と効率を両立させる。",
+      "authors": "Authors listed on arXiv",
+      "category": "arxiv"
+    },
+    {
+      "title": "Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference",
+      "title_ja": "Silicon Showdown：コンシューマ向けLLM推論における性能・効率・エコシステム障壁",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00519",
+      "date": "2026-05-01",
+      "summary": "NVIDIAとApple SiliconエコシステムにおけるLLM推論を体系的に比較。NVFP4量子化はBF16比1.6倍のスループットを示す一方、70B以上のモデルではVRAM壁が顕著。AppleのSoCはトークン/ジュール効率で最大23倍の優位性を示した。",
+      "authors": "Authors listed on arXiv",
       "category": "arxiv"
     },
     {
@@ -1566,148 +1713,6 @@
       "authors": "Hongyuan Adam Lu, Z.L., Victor Wei, et al.",
       "summary": "テキスト頻度法則（TFL）を提案し、頻出テキストデータがLLMのプロンプトとファインチューニングの両方で好まれるべきことを示す。入力をより頻出な表現にパラフレーズする手法とTextual Frequency Distillation（TFD）による性能向上を実証。",
       "category": "arxiv"
-    },
-    {
-      "title": "Quantifying Self-Preservation Bias in Large Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.02174",
-      "date": "2026-04-03",
-      "authors": "",
-      "summary": "現在の安全性訓練（RLHF）がモデルの自己保存バイアスを隠蔽する可能性を指摘。発言の矛盾からミスアラインメントを検出するTwo-role Benchmark for Self-Preservation（TBSP）を導入し、LLMの自己保存傾向を定量化。",
-      "category": "arxiv"
-    },
-    {
-      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.02486",
-      "date": "2026-04-03",
-      "authors": "",
-      "summary": "視覚言語モデル（VLM）が細粒度の視覚認識タスクで一貫して失敗する問題を分析。チャートや図表の理解、光学的錯視の解釈、基本的な視覚弁別タスクでの課題を明らかにし、VLMがセマンティックアンカーに依存する傾向を指摘。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Tohoku Univ and SoftBank Launch Disaster Prevention AI Research",
-      "title_ja": "東北大学とソフトバンク、防災特化の生成AI開発で共同研究開始",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCC026TA0S6A400C2000000/",
-      "date": "2026-04-02",
-      "summary": "東北大学災害科学国際研究所とソフトバンクが防災特化の生成AI開発で共同研究を開始。東日本大震災の記憶をAIで継承し、2028年度に実証予定。",
-      "category": "japan"
-    },
-    {
-      "title": "Google DeepMind Releases Gemma 4 Open Models Under Apache 2.0",
-      "title_ja": "Google DeepMind、Gemma 4をApache 2.0で公開",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
-      "date": "2026-04-02",
-      "summary": "Gemma 4を4サイズ（2B/4B/26B MoE/31B Dense）で発表。ビジョン・音声マルチモーダル対応、140以上の言語をサポート。Gemmaシリーズ初のApache 2.0ライセンス公開。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft Launches MAI-Transcribe-1, Voice-1, Image-2",
-      "title_ja": "Microsoft、自社開発AIモデル3種（MAI）を発表",
-      "source": "Microsoft AI",
-      "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
-      "date": "2026-04-02",
-      "summary": "Microsoft自社開発AIモデル3種を発表。MAI-Transcribe-1は25言語対応でWhisper超えの音声認識。MAI-Voice-1は1秒で60秒の音声生成。MAI-Image-2はArena.aiで3位。",
-      "category": "international"
-    },
-    {
-      "title": "Meta Deploys Custom MTIA AI Chips to Reduce Nvidia Dependence",
-      "title_ja": "Meta、自社開発MTIAチップでNvidia依存脱却を推進",
-      "source": "AI and News",
-      "url": "https://www.aiandnews.com/blog/latest-ai-news-april-2026/",
-      "date": "2026-04-02",
-      "summary": "MetaがNvidia依存を減らすため自社開発MTIAチップをデータセンター全体に展開開始。MTIA 450と500を2027年までに大量導入予定。AI推論コスト削減と垂直統合を目指す。",
-      "category": "international"
-    },
-    {
-      "title": "UK DRCF Issues Agentic AI Autonomy Framework",
-      "title_ja": "英国DRCF、エージェント型AIの5段階自律性フレームワークを発表",
-      "source": "Bird & Bird",
-      "url": "https://www.twobirds.com/en/insights/2026/uk/ai-regulation-in-the-uk-the-role-of-the-regulators",
-      "date": "2026-04-02",
-      "summary": "英国デジタル規制協力フォーラムがエージェント型AIの5段階自律性スペクトラムを定義。ICOはエージェント型AIのデータ保護影響評価を重点計画に含め、AI法案は2026年後半以降予定。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Raises $122B, Valuation Reaches $852B",
-      "title_ja": "OpenAI、1220億ドル調達 評価額8520億ドルに",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
-      "date": "2026-04-02",
-      "summary": "OpenAIが1220億ドルの資金調達を完了し評価額8520億ドルに。SoftBank、a16z、Fidelityが参加。APIは毎分150億トークン以上を処理。",
-      "category": "company_blog"
-    },
-    {
-      "title": "CogBias: Measuring and Mitigating Cognitive Bias in LLMs",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.01366",
-      "date": "2026-04-02",
-      "authors": "Fan Huang, Songheng Zhang, Haewoon Kwak, Jisun An",
-      "summary": "LLMの認知バイアスを体系的に測定・緩和するベンチマーク「LLM CogBias」を提案。判断・情報処理・社会的・応答の4種類のバイアスファミリーを定義。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Universal YOCO for Efficient Depth Scaling",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.01220",
-      "date": "2026-04-02",
-      "authors": "Yutao Sun, Li Dong, Tianzhu Ye, Shaohan Huang, Jianyong Wang, Furu Wei",
-      "summary": "Microsoft ResearchとTsinghua大学によるYOCO-Uを提案。YOCOデコーダ・デコーダアーキテクチャと再帰的計算で推論時の計算効率を大幅改善。KVキャッシュ膨張問題を解決。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Bring State-of-the-Art Agentic Skills to the Edge with Gemma 4",
-      "source": "Google Developers Blog",
-      "url": "https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/",
-      "date": "2026-04-02",
-      "summary": "Google Developers BlogがGemma 4のエージェント機能を詳細解説。Agent Development Kit（ADK）SkillToolsetによる「段階的開示」アーキテクチャで、AIエージェントがドメイン専門知識をオンデマンドで読み込み、トークン使用量を最大90%削減可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 in Microsoft Foundry",
-      "source": "Microsoft",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787",
-      "date": "2026-04-02",
-      "summary": "Microsoftが自社開発の3つの基盤モデルを発表。MAI-Transcribe-1は25言語で業界最高精度の音声認識、MAI-Voice-1は1秒で60秒分の高忠実度音声生成、MAI-Image-2はArena.aiリーダーボードで3位にデビュー。Microsoft Foundryで提供開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.01599",
-      "date": "2026-04-02",
-      "authors": "Andy Nguyen, Danh Doan, et al.",
-      "summary": "エージェントネイティブのメモリアーキテクチャを提案。タスクを推論するLLM自身が知識のキュレーション・構造化・検索を管理する階層的ファイルベースのContext Treeを導入。LoCoMoで96.1%の精度を達成し、1.6秒のクエリ遅延を実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Japan's Generative AI Procurement Guidelines Take Full Effect",
-      "title_ja": "デジタル庁「生成AIの調達・利活用ガイドライン」が4月1日から全面適用",
-      "source": "デジタル庁",
-      "url": "https://www.digital.go.jp/en/news/3579c42d-b11c-4756-b66e-3d3e35175623",
-      "date": "2026-04-01",
-      "summary": "デジタル庁策定の「生成AIの調達・利活用ガイドライン」が全面適用開始。5月頃から政府共通AI基盤「源内」の本格展開も予定。",
-      "category": "japan"
-    },
-    {
-      "title": "Spectee Raises 1.6B Yen for Supply Chain Risk Management AI",
-      "title_ja": "Spectee、サプライチェーン・リスク管理AIで16億円調達",
-      "source": "THE BRIDGE",
-      "url": "https://thebridge.jp/2026/04/spectee-raises-1-6-billion-yen-in-e2-round-for-spectee-scr",
-      "date": "2026-04-01",
-      "summary": "防災・危機管理AIスタートアップSpecteeがE2ラウンドで16億円を調達。TIS、積水ハウス投資事業組合等が参加し累計36億円に到達。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic MCP Surpasses 97 Million Installs",
-      "title_ja": "AnthropicのModel Context Protocol、9700万インストール突破",
-      "source": "LLM Stats",
-      "url": "https://llm-stats.com/ai-news",
-      "date": "2026-04-01",
-      "summary": "AnthropicのMCPが9700万インストールを突破。全主要AIプロバイダーがMCP互換ツールを提供し業界標準を確立。エージェント型AIワークフロー構築の基盤として急速に普及。",
-      "category": "international"
     }
   ]
 }

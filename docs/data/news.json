@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-05-06 09:00 (JST)",
+  "lastUpdated": "2026-05-07 09:00 (JST)",
   "articles": [
+    {
+      "title": "Advancing voice intelligence with new models in the API",
+      "title_ja": "OpenAI、APIに新世代の音声モデル3種を投入",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+      "date": "2026-05-07",
+      "summary": "OpenAIがリアルタイム音声基盤モデル3種を公開。GPT-5級の推論を備える『GPT-Realtime-2』、70言語以上の入力を13言語に同時翻訳する『GPT-Realtime-Translate』、ストリーミング音声認識の『GPT-Realtime-Whisper』をAPI経由で提供開始。価格はGPT-Realtime-2が音声入力100万トークン32ドル/出力64ドル、Translateは1分0.034ドル、Whisperは0.017ドル。音声エージェントが対話中に推論・翻訳・記録を同時実行可能になる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI has new voice models that reason, translate, and transcribe as you speak",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/07/openai-has-new-voice-models-that-reason-translate-and-transcribe-as-you-speak/",
+      "date": "2026-05-07",
+      "summary": "OpenAIが5月7日に発表した3つの新リアルタイム音声モデルをレビュー。GPT-Realtime-2はGPT-5級の推論を備え会話中に複雑な指示を処理、Translateは70+言語を13言語へ低レイテンシ翻訳、Whisperはライブ書き起こし専用。Realtime APIに統合され、ChatGPTやAppleデバイス連携の音声体験を一段引き上げると評価。",
+      "category": "international"
+    },
     {
       "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
       "title_ja": "Anthropic、Googleにチップとクラウド利用で2000億ドルを支払うと報道",
@@ -17,6 +34,65 @@
       "date": "2026-05-06",
       "summary": "GPT-5.5 InstantがChatGPTのデフォルトモデルとして本格展開。OpenAIは医療・法律・金融など高リスク分野でハルシネーションを半減させたと公表し、長期記憶機能を強化してプロユーザー向けに会話・ファイル・接続済みGmailから文脈を取り込めるようにした。",
       "category": "international"
+    },
+    {
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "title_ja": "Claudeの利用上限引き上げとSpaceXとのコンピュート契約",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "date": "2026-05-06",
+      "summary": "Anthropicは『Code with Claude』カンファレンスでSpaceXとの新規コンピュート契約を発表。テネシー州メンフィスのColossus 1データセンターから300MW超・220,000枚以上のNVIDIA H200/Blackwell GB200にアクセスし、月内にClaude Pro/Maxの利用上限を倍増、Opus APIの上限も拡大、ピーク時間制限を撤廃。Code、Pro、Max、Team、Enterprise各プランで5時間レート上限が2倍に。",
+      "category": "company_blog"
+    },
+    {
+      "title": "New Compute Partnership with Anthropic",
+      "title_ja": "xAI、Colossus 1容量をAnthropicに全量提供",
+      "source": "xAI",
+      "url": "https://x.ai/news/anthropic-compute-partnership",
+      "date": "2026-05-06",
+      "summary": "xAIは5月6日、AnthropicとのコンピュートパートナーシップでColossus 1（メンフィス）の全容量を提供すると発表。300MW超・220,000基以上のH200/GB200を月内にClaudeの推論基盤として開放。AnthropicがSpaceXと宇宙空間でのギガワット級コンピュート開発も検討するとした。マスク氏は『Anthropicの幹部と直接話して非常に高い能力を確認した』と発言。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic, SpaceX Sign Deal to Boost AI Computing Power for Claude Software",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand",
+      "date": "2026-05-06",
+      "summary": "AnthropicがイーロンマスクのSpaceXと契約を結びColossus 1（メンフィス）の300MW超のコンピュート容量を確保。Claude需要急増に対応するためで、宇宙空間への計算容量拡張についても協議中と報じた。マスク氏が過去にAnthropicを批判していた経緯から業界に驚きを与えている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic, SpaceX announce compute deal that includes space development",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html",
+      "date": "2026-05-06",
+      "summary": "AnthropicとSpaceXが正式契約を発表。Colossus 1から月内に220,000基超のGPUと300MWの容量を提供し、AnthropicはClaude Pro/Maxの上限を倍増。さらに両社は『宇宙空間でのギガワット級コンピュート』開発に向けた検討も明記。マスク傘下のxAIと統合されたSpaceXがAnthropicに容量を売る形となり、業界の力学が大きく動いた。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic adding computing capacity from Musk's SpaceX",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5867940-musk-spacex-ai-anthropic/",
+      "date": "2026-05-06",
+      "summary": "AnthropicがSpaceXとの新契約により月内にメンフィスColossus 1の300MW超の容量を取得。Claudeのレート制限を倍増させ、コーディングや金融エージェントの需要急増に対応する。マスク氏との過去の対立構図にもかかわらず、AnthropicはSpaceXを『最も高密度なコンピュートを持つ事業者』と評価した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic to use all of SpaceX-xAI's Colossus 1 data center compute",
+      "source": "Data Center Dynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-to-use-all-of-spacex-xais-colossus-1-data-center-compute/",
+      "date": "2026-05-06",
+      "summary": "AnthropicはSpaceX-xAI傘下のColossus 1データセンターの全コンピュート容量を独占利用する大型契約を締結。300MW超の電力と220,000枚超のNVIDIA GPU（H200・GB200）にアクセスし、Claude Pro/Maxの利用上限を倍増、Opus APIの上限も拡大。地元メンフィスでの追加データセンター建設構想も同時進行中とした。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "title_ja": "OpenAI、ChatGPT Futures『Class of 2026』を発足",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026/",
+      "date": "2026-05-06",
+      "summary": "OpenAIは初代『ChatGPT Futures』として、AIを意欲的かつ人間中心に活用する大学生・若手ビルダー26名を表彰。MIT、スタンフォード、ハーバード、オックスフォード、UC Berkeley、東大など20以上の機関から選出され、各人に1万ドルの助成金とフロンティアモデルへのアクセスを提供。教育・メンタルヘルス・アクセシビリティ分野の応用が中心。",
+      "category": "company_blog"
     },
     {
       "title": "Agents for financial services and insurance",
@@ -248,6 +324,48 @@
       "category": "arxiv"
     },
     {
+      "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
+      "title_ja": "Microsoft 365 Copilotの新時代――人間主導とエージェント実行の融合",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
+      "date": "2026-05-05",
+      "summary": "Microsoftが10万件超のCopilotチャット分析と20,000名の調査をもとに、Microsoft 365 Copilotを『役割適応型エージェント』として再定義。Word、Excel、PowerPoint、Outlook、Teamsへの埋め込みを深化し、Anthropic Claude Opus 4.7をCopilot Cowork（Frontier）に追加。49%の会話が認知労働を支援していると分析した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
+      "date": "2026-05-05",
+      "summary": "MicrosoftはCopilot CoworkをiOS/Android対応のモバイルアプリとして提供開始し、Dynamics 365やFabricのネイティブプラグイン、LSEG・Miro・monday.comなどパートナー統合を拡充。会話駆動から成果駆動型のマルチステップ実行へCopilotを進化させ、ユーザーがゴールを定義してAIに作業を委任する運用モデルを実現する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
+      "date": "2026-05-05",
+      "summary": "Microsoft公式ブログがAI時代の『フロンティア企業』の組織モデルを解説。CopilotとAgent 365、Microsoft 365 E7 Frontier Suiteを軸に、Author/Editor/Director/Orchestratorの新ロール体系を提示。複数エージェントを束ねるオーケストレーションが企業オペレーションの新たな抽象層になると主張。",
+      "category": "company_blog"
+    },
+    {
+      "title": "高市早苗首相が帰国 ベトナム・オーストラリアと供給網の確保を確認",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA050980V00C26A5000000/",
+      "date": "2026-05-05",
+      "summary": "高市首相は5月1〜5日のベトナム・オーストラリア歴訪を終えて帰国。両国とAI・重要鉱物・エネルギー安全保障で協力を確認し、ベトナムにはアジア言語向け基盤モデルや産業別AIの共同開発で日本のLLM技術を提供。100億ドル規模の『高市イニシアチブ』を軸に、生成AIを含む経済安全保障パッケージのアジア展開を加速する。",
+      "category": "japan"
+    },
+    {
+      "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02967",
+      "date": "2026-05-05",
+      "summary": "RAGパイプラインのライフサイクル（構築・実行・評価・最適化）を宣言的に記述・自動化するフレームワーク。適応型ベイズ最適化エンジンを統合してハイパーパラメータを端から端まで調整し、検索戦略・分割サイズ・リランカ選択を自動決定。一般公開のRAGベンチで人手チューニングと同等以上の精度を達成した。",
+      "authors": "K. Iyer et al.",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
@@ -378,6 +496,24 @@
       "url": "https://arxiv.org/abs/2605.02348",
       "date": "2026-05-04",
       "summary": "プロセス報酬モデル(PRM)を用いて推論時にバイアスを軽減する手法を提案。バイアス軽減を候補トークン上の構造化探索として定式化し、Controlled Fill-in型タスクからOpen-Ended Generationまで一貫して扱える枠組みを示す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Measuring AI Reasoning: A Guide for Researchers",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02442",
+      "date": "2026-05-04",
+      "summary": "本論文は言語モデルの推論能力評価について研究者向けガイドラインを提示。最終回答の正解率ではなく適応的・多段階探索の証拠から推論を評価すべきと主張する。スケーラブルアーキテクチャの単一フォワードパスは可変深度計算の実現に構造的制約があり、中間デコードや外部化された推論トレースが適切な評価インターフェースになるとする。",
+      "authors": "M. Lampinen et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.02489",
+      "date": "2026-05-04",
+      "summary": "LLMエージェント・エコシステム向けのリアルタイム発見フレームワーク。SLM（小型言語モデル）による予測拡張、疑似ドキュメント生成、MaxSim共鳴によるファイングレイン照合を組み合わせ、発見遅延を400ms未満に抑えながら精度を維持。マルチエージェント市場でのエージェントマッチング基盤として位置付ける。",
+      "authors": "Y. Wang et al.",
       "category": "arxiv"
     },
     {
@@ -687,6 +823,24 @@
       "date": "2026-05-01",
       "summary": "NVIDIAとApple SiliconエコシステムにおけるLLM推論を体系的に比較。NVFP4量子化はBF16比1.6倍のスループットを示す一方、70B以上のモデルではVRAM壁が顕著。AppleのSoCはトークン/ジュール効率で最大23倍の優位性を示した。",
       "authors": "Authors listed on arXiv",
+      "category": "arxiv"
+    },
+    {
+      "title": "State Stream Transformer (SST) V2: Parallel Training of Nonlinear Recurrence for Latent Space Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.00206",
+      "date": "2026-05-01",
+      "summary": "SST V2は各デコーダ層でFFN駆動の非線形再帰を導入し、潜在状態を系列方向に水平にストリーミング。学習時はティーチャーフォースで並列化、推論時は同じ機構で位置ごとの連続的な潜在熟考を可能にし、トークン生成前に追加FLOPを推論探索に費やす。27Bバックボーンに小規模GSM8Kで共訓練したところ、GPQA-Diamondで微調整ベースラインに対し+15.15ポイント向上した。",
+      "authors": "T. Klimenko et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "LEAP: Layer-wise Exit-Aware Pretraining for Efficient Transformer Inference",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.01058",
+      "date": "2026-05-01",
+      "summary": "LEAPは層単位の早期終了機構と層整列蒸留の不整合を解消する補助学習目標。アーキテクチャ変更を伴わず、中間層が最終層表現を近似する単一制約を蒸留に追加するだけで、推論時のexit-awareプリトレーニングを実現。Transformer推論を最大3倍高速化し、精度劣化を1ポイント未満に抑えた。",
+      "authors": "S. Park et al.",
       "category": "arxiv"
     },
     {
@@ -1551,160 +1705,6 @@
       "authors": "Changgeon Ko, Jisu Shin, Hoyun Song, Huije Lee, Eui Jun Hwang, Jong C. Park",
       "summary": "マルチエージェントLLMシステムにおける社会的脆弱性を体系的に分析。社会的同調、知覚された専門性、支配的話者効果、修辞的説得の4つの現象を定義し、社会的圧力の増大に伴い精度が低下することを実証。",
       "category": "arxiv"
-    },
-    {
-      "title": "FLARE: Agentic Coverage-Guided Fuzzing for LLM-Based Multi-Agent Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.05289",
-      "date": "2026-04-07",
-      "authors": "Mingxuan Hui, Xinyue Li, Lu Wang, Chengcheng Wan, Yifan Wang",
-      "summary": "LLMベースのマルチエージェントシステム(MAS)向けの新しいテストフレームワーク。エージェント定義から仕様と行動空間を抽出し、カバレッジ誘導ファジングを実施することで、MASの障害を体系的に検出する手法を提案。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Digital Garage Launches AI-Orchestrated Advertising Platform 'FT MediaString' Using Fintech and Quality Media Data",
-      "title_ja": "デジタルガレージ、独自フィンテックデータと33社の優良メディアデータを活用したAIオーケストレーション型広告事業「FT MediaString」を開始",
-      "source": "Digital Garage",
-      "url": "https://www.garage.co.jp/en/pr/release/20260407/",
-      "date": "2026-04-07",
-      "summary": "デジタルガレージが、独自のフィンテックデータと国内33社の優良メディアデータを組み合わせたAIオーケストレーション型広告事業「FT MediaString」を4月7日に開始。認知AI「ONE Insight」による潜在顧客分析と、BI.Garageの独自ターゲティングAIを活用し、リアルタイムで高品質コンテンツとの親和性を特定して精度の高いリーチを実現する。",
-      "category": "japan"
-    },
-    {
-      "title": "Eclipse Ventures Raises $1.3 Billion Fund to Back and Build 'Physical AI' Startups",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
-      "date": "2026-04-07",
-      "summary": "ベンチャーキャピタルのEclipse Venturesがロボティクス・自律システム・AIインフラなどの「フィジカルAI」分野に特化した総額13億ドルの新ファンドを組成。アーリーステージ向け7億2,000万ドルと商業化段階向け5億9,100万ドルで構成され、運用総資産は約100億ドルに到達。資金提供のみならず社内でスタートアップを直接インキュベートする独自アプローチを採用。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Expands Partnership with Google and Broadcom for Multiple Gigawatts of Next-Generation Compute",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "date": "2026-04-07",
-      "summary": "AnthropicがGoogleおよびBroadcomとの提携を拡大し、3.5ギガワット規模の次世代TPU容量を確保したと発表。Claudeへの需要急増により2026年の年換算売上は300億ドルを突破し、100万ドル以上を支出するビジネス顧客が1,000社を超えた。新しいコンピュートキャパシティは主に米国内に設置され2027年に稼働開始予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06416",
-      "date": "2026-04-07",
-      "authors": "Rebecca M. M. Hicke, Sil Hamilton, David Mimno, Ross Deans Kristensen-McLachlan",
-      "summary": "LLMが長文テキスト全体にわたって情報を統合する能力を小説の要約生成を通じて評価。150の人間が書いた要約と9つの最先端LLMによる要約を比較し、LLMはテキストの末尾部分を過度に強調するなど概念的な関与のパターンに有意な差異があることを明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "PFN Publishes Technical Details on PLaMo 3.0 Prime: Japan's First Domestically-Built Reasoning LLM",
-      "title_ja": "初の\"長考できる\"国産LLM、どう開発？ 「PLaMo 3.0 Prime」の資料公開、PFN",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/06/news105.html",
-      "date": "2026-04-06",
-      "summary": "Preferred Networksが国産フルスクラッチLLM「PLaMo 3.0 Prime」の開発技術資料を公開。DeepSeek R-1の手法を参考に開発した日本初の「長考（reasoning）」機能搭載の国産LLMで、64K入力/20K出力トークンに対応。日本語・英語の指示追従性能ではQwen3-235B-A22BやGPT-oss-120bに肉薄する性能を達成。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google Unite to Combat AI Model Copying in China via Frontier Model Forum",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
-      "date": "2026-04-06",
-      "summary": "OpenAI、Anthropic、Googleの3社がFrontier Model Forumを通じて、中国企業による「敵対的蒸留」（adversarial distillation）への対抗で初の協調的インテリジェンス共有を開始。Anthropicは、DeepSeek、Moonshot AI、MiniMaxの3社が約2万4000の偽アカウントを通じて1600万回以上の不正なやり取りを行ったと報告。サイバーセキュリティ企業の脅威情報共有モデルに倣い、攻撃パターンを相互に通知する仕組みを構築。",
-      "category": "international"
-    },
-    {
-      "title": "Broadcom Agrees to Expanded Chip Deals with Google and Anthropic",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
-      "date": "2026-04-06",
-      "summary": "BroadcomがGoogleとの長期契約で次世代TPUの開発・供給を2031年まで確保し、Anthropicには約3.5ギガワットのTPUコンピューティング容量へのアクセスを提供する拡大契約を締結。Anthropicの年間収益ランレートは300億ドルを突破し、年間100万ドル以上を支出する企業顧客は1000社超に達した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Proposes Robot Taxes, Public Wealth Fund, and Four-Day Workweek to Address AI Economic Disruption",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "date": "2026-04-06",
-      "summary": "OpenAIがAIによる経済的混乱に備える政策青写真を発表。ロボット税の導入、アラスカ永久基金をモデルとした公共富裕ファンドの創設、給与削減なしの週4日勤務の試験実施を提案。AI主導の成長が社会保障やメディケイドの税基盤を空洞化させる懸念に対応する包括的な政策提言。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Launches Safety Fellowship for External AI Safety Researchers",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship/",
-      "date": "2026-04-06",
-      "summary": "OpenAIが外部研究者向けの新プログラム「Safety Fellowship」を発表。2026年9月から2027年2月まで実施され、週3,850ドルの報酬と月約15,000ドルのコンピューティングリソースを提供。安全性評価、倫理、堅牢性、エージェント監視などの重点研究分野でAIの安全性とアライメントに関する独立研究を支援。",
-      "category": "international"
-    },
-    {
-      "title": "U.S. States Enact New AI Laws: Health Insurance, Chatbots, and Deepfakes Regulation Update",
-      "source": "Inside Global Tech",
-      "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
-      "date": "2026-04-06",
-      "summary": "米国2026年第1四半期のAI規制総括。インディアナ州、ユタ州、ワシントン州がAIによる健康保険請求の単独拒否を禁止する法律を制定。オレゴン州とアイダホ州ではチャットボット規制法が成立。トランプ政権はAIに対する「ライトタッチ」アプローチを推進しつつ、州レベルの過度な規制を連邦法で先制する方針を示した。",
-      "category": "international"
-    },
-    {
-      "title": "Industrial Policy for the Intelligence Age",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
-      "date": "2026-04-06",
-      "summary": "OpenAIが「知能の時代の産業政策」と題した13ページの政策提言を発表。AI超知能時代に向けて、公共資産ファンドの創設、労働から資本への税負担シフト、社会的セーフティネットの拡充など、人間中心の政策アイデアを提案。民主的統制と社会的安定を維持しながらAIの恩恵を広く共有する枠組みを示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DARE: Diffusion Large Language Models Alignment and Reinforcement Executor",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04215",
-      "date": "2026-04-06",
-      "authors": "Jingyi Yang, Yuxian Jiang, Xuhao Hu, Shuang Cheng, Biqing Qi, Jing Shao",
-      "summary": "拡散型大規模言語モデル（dLLM）のアライメントと強化学習を行う新フレームワークDAREを提案。自己回帰モデルに代わる反復的ノイズ除去と並列生成のダイナミクスを活用し、効率的なアライメントを実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04921",
-      "date": "2026-04-06",
-      "authors": "Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen",
-      "summary": "MIT、ZJU、NVIDIAによる研究。三角関数級数を利用したKVキャッシュ圧縮メカニズムを提案。AIME25で32Kトークン生成時にFull Attentionの推論精度を維持しつつ2.5倍のKVメモリ削減を達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04743",
-      "date": "2026-04-06",
-      "authors": "Kalyan Cherukuri, Lav R. Varshney",
-      "summary": "LLMの幻覚を潜在空間のタスク依存的なベイスン構造として理解する幾何学的動力学フレームワークを提案。タスク複雑性と多重ベイスン定理を形式化し、再学習なしで幻覚確率を低減する幾何認識型ステアリング手法を提示。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04759",
-      "date": "2026-04-06",
-      "authors": "Zijun Wang, Haoqin Tu, Letian Zhang, Hardy Chen, Juncheng Wu",
-      "summary": "広く利用されているAIエージェントOpenClawの初の実世界安全性評価。CIK分類法（Capability、Identity、Knowledge）を導入し、4つのバックボーンモデルで12の攻撃シナリオを評価。単一CIK次元の汚染で攻撃成功率が24.6%から64-74%に上昇することを発見。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Mapping the Exploitation Surface: A 10,000-Trial Taxonomy of What Makes LLM Agents Exploit Vulnerabilities",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04561",
-      "date": "2026-04-06",
-      "authors": "Charafeddine Mouzouni",
-      "summary": "7つのモデル、37のプロンプト条件、12の攻撃次元にわたる約10,000回の試行に基づく体系的分類法を提示。実際のDockerサンドボックスで実行し、LLMエージェントの搾取的行動を引き起こす特徴を分析した大規模安全性研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Japan Commits $6.3B to Physical AI and Robotics",
-      "title_ja": "日本政府、フィジカルAI・ロボティクスに約63億ドル投入 2040年に世界シェア30%目標",
-      "source": "TechCrunch / METI",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "date": "2026-04-05",
-      "summary": "高市首相の下、日本政府はAI・ロボティクス強化に約63億ドルを投入。経産省は2040年までにフィジカルAI分野で世界市場シェア30%獲得を目標。労働力不足が2040年に1,100万人に達する中、実験段階から実運用段階への移行が加速。",
-      "category": "japan"
     }
   ]
 }

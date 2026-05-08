@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-07 09:00 (JST)",
+  "lastUpdated": "2026-05-08 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+      "title_ja": "Anthropic Mythosが煽る『サイバーセキュリティ・ヒステリア』、専門家は『危機は既に存在』と冷静視",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+      "date": "2026-05-08",
+      "summary": "Anthropicの非公開フロンティアモデル『Mythos』が世界の銀行・規制当局・テック大手を慌てさせた件をCNBCが検証。AmodeiCEOが警告した『6〜12ヶ月で数万件の脆弱性をパッチせよ』という時間軸に対し、複数の研究者が『同等の発見は既存モデルでも可能で過剰反応』と指摘。Project Glasswingでの限定提供（Apple, Amazon, JPMorgan, Palo Alto Networks等）の妥当性も問われている。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI tunes GPT-5.5-Cyber for more permissive security workflows",
+      "title_ja": "OpenAI、防御者向けに緩和した『GPT-5.5-Cyber』を限定プレビュー提供",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/05/08/openai-gpt-5-5-cyber-model/",
+      "date": "2026-05-08",
+      "summary": "OpenAIが重要インフラ防御担当者向けに『GPT-5.5-Cyber』を限定プレビューで提供開始。Trusted Access for Cyber（TAC）枠組みで認証された担当者にはPoC作成・マルウェア解析・バイナリリバース・検出エンジニアリング・パッチ検証など、通常はリフューズされる依頼が許可される。能力自体はGPT-5.5と同等水準で、攻撃用途への転用を防ぐ承認制が肝。",
+      "category": "international"
+    },
     {
       "title": "Advancing voice intelligence with new models in the API",
       "title_ja": "OpenAI、APIに新世代の音声モデル3種を投入",
@@ -17,6 +35,78 @@
       "date": "2026-05-07",
       "summary": "OpenAIが5月7日に発表した3つの新リアルタイム音声モデルをレビュー。GPT-Realtime-2はGPT-5級の推論を備え会話中に複雑な指示を処理、Translateは70+言語を13言語へ低レイテンシ翻訳、Whisperはライブ書き起こし専用。Realtime APIに統合され、ChatGPTやAppleデバイス連携の音声体験を一段引き上げると評価。",
       "category": "international"
+    },
+    {
+      "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut",
+      "title_ja": "OpenAI、Mythos公開から1ヶ月でサイバー防御チーム向け『GPT-5.5-Cyber』投入",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
+      "date": "2026-05-07",
+      "summary": "OpenAIが審査済みサイバーセキュリティチーム向けにGPT-5.5-Cyberを限定リリース。Mythos騒動を受けた防御側のテコ入れと位置付けられ、Trusted Access for Cyber枠組みで脆弱性のトリアージや対策の自動化に対応。AnthropicがMythosをClosed Releaseに留めた一方、OpenAIは『信頼ベースで広く防御者へ届ける』アプローチを選択した。",
+      "category": "international"
+    },
+    {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "title_ja": "OpenAI、GPT-5.5/GPT-5.5-CyberとTrusted Access for Cyberの拡張を発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "date": "2026-05-07",
+      "summary": "OpenAIがGPT-5.5の高度なサイバーセキュリティ能力を防御者へ届ける『Trusted Access for Cyber』を拡張。検証済みの担当者は脆弱性発見・トリアージ・マルウェア解析等での分類器拒否率が下がる。同時に、防御ワークフローでより寛容にチューニングされた限定プレビュー版『GPT-5.5-Cyber』を重要インフラ防御チームに提供開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "The state of global AI diffusion in 2026",
+      "title_ja": "Microsoft、2026年Q1のグローバルAI浸透レポートを公開",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/05/07/the-state-of-global-ai-diffusion-in-2026/",
+      "date": "2026-05-07",
+      "summary": "Microsoftが2026年Q1のAI浸透データを公開。世界の労働年齢人口に占める利用率が16.3%→17.8%へ拡大、26カ国で30%超に到達。首位はUAE 70.1%、米国は24位→21位（31.3%）。アジア言語性能の改善で日本・韓国・タイの伸びが大きい一方、Global North 27.5% vs Global Southの差はさらに開く傾向。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google starts rolling out Gemini Personal Intelligence in Europe",
+      "title_ja": "Google、Gemini『Personal Intelligence』を欧州にも展開開始",
+      "source": "NokiaPowerUser",
+      "url": "https://nokiapoweruser.com/gemini-personal-intelligence-europe-rollout/",
+      "date": "2026-05-07",
+      "summary": "Googleが2月以来段階展開してきたGeminiの長期記憶機能『Personal Intelligence』を欧州ユーザーへも提供開始。GDPR等のデータ移管要件に配慮した上での欧州投入で、過去のチャット文脈・Gmail/Calendar/Driveとの連携が可能になる。Gemini Liveへの統合も近く予定されている。",
+      "category": "international"
+    },
+    {
+      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06241",
+      "date": "2026-05-07",
+      "summary": "RL後訓練が新規能力獲得ではなく既存推論方策のスパースな選択に過ぎないと再定義。エントロピーゲートされた決定点でのみコントラスト損失を適用するRLフリー手法『ReasonMaxxer』を提案し、計算量を大幅削減しつつGRPO系と同等以上の数学・推論精度を達成したと報告。",
+      "authors": "Anonymous",
+      "category": "arxiv"
+    },
+    {
+      "title": "ReFlect: An Effective Harness System for Complex Long-Horizon LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05737",
+      "date": "2026-05-07",
+      "summary": "長時間ホライズン推論で発生する誤差伝搬を抑える『ReFlect』を提案。モデル本体に手を入れず、決定論的ラッパとして誤検出・回復ロジックを与えるハーネス設計で、多段ツール呼び出しを伴うエージェントタスクの完遂率を改善。",
+      "authors": "Fan Huang",
+      "category": "arxiv"
+    },
+    {
+      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06638",
+      "date": "2026-05-07",
+      "summary": "推論深さと論理表現力の2軸を独立に制御できる合成ベンチ『ScaleLogic』を構築。含意論理から一階論理まで段階的に難度を上げて検証し、RLが長時間ホライズン推論を教えられるかは『表現力』に依存することを示した。表現力が低いとRL効果は急速に頭打ちになる。",
+      "authors": "Tianle Wang et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Novelty-based Tree-of-Thought Search for LLM Reasoning and Planning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06040",
+      "date": "2026-05-07",
+      "summary": "Tree-of-Thought探索に『新規性（novelty）』の概念を持ち込み、LLM自身を新規性推定器として使うことで枝刈りを行う手法を提案。事前学習済み知識を活用し計画・推論タスクで探索範囲を圧縮、低コストで深い解探索を可能にする。",
+      "authors": "Leon Hamm, Zlatan Ajanovic",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
@@ -92,6 +182,32 @@
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026/",
       "date": "2026-05-06",
       "summary": "OpenAIは初代『ChatGPT Futures』として、AIを意欲的かつ人間中心に活用する大学生・若手ビルダー26名を表彰。MIT、スタンフォード、ハーバード、オックスフォード、UC Berkeley、東大など20以上の機関から選出され、各人に1万ドルの助成金とフロンティアモデルへのアクセスを提供。教育・メンタルヘルス・アクセシビリティ分野の応用が中心。",
+      "category": "company_blog"
+    },
+    {
+      "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
+      "title_ja": "Zyphra、AMD MI300Xクラスタ訓練の推論MoE『ZAYA1-8B』をApache 2.0で公開",
+      "source": "Zyphra",
+      "url": "https://www.zyphra.com/post/zaya1-8b",
+      "date": "2026-05-06",
+      "summary": "Zyphraが推論MoE『ZAYA1-8B』を発表。総パラメータ8.4B・アクティブ760Mの小型構成ながら、Markovian RSA・Compressed Convolutional Attention・MLP型エキスパートルーターなどの新機構で数学・推論ベンチマークでClaude 4.5 Sonnet/Gemini 2.5 Pro/DeepSeek-V3.2に並ぶか上回る。AMD Instinct MI300X+Pensando Pollara上でIBM Cloudにより訓練、重みはHugging FaceでApache 2.0公開。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
+      "date": "2026-05-06",
+      "summary": "Zyphraが公開した推論モデル『ZAYA1-8B』をVentureBeatが解説。アクティブ1B未満でClaude 4.5 SonnetやDeepSeek-V3.2級の数学・推論性能を出すMoE設計で、APEXショートリストではDeepSeek-V3.2やGPT-OSS-120Bを上回ったとされる。AMD GPU+Pollaraネットワーキングで訓練された点が、Nvidia依存への代替路を示す事例として注目される。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Finance Search in the Agent API",
+      "title_ja": "Perplexity、Agent APIに金融データ専用ツール『Finance Search』を追加",
+      "source": "Perplexity",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
+      "date": "2026-05-06",
+      "summary": "PerplexityがAgent APIにFinance Searchツールを追加。1コールで上場株/ETFの相場・財務諸表・主要指標・OHLCV・決算トランスクリプト・SEC提出書類・アナリスト予想・インサイダー活動等を引用付きで取得できる。FinSearchComp T1ベンチマークで上位の精度・低レイテンシを達成。価格は1,000リクエストあたり5ドルでモデルトークン課金とは別計上。",
       "category": "company_blog"
     },
     {
@@ -364,6 +480,24 @@
       "summary": "RAGパイプラインのライフサイクル（構築・実行・評価・最適化）を宣言的に記述・自動化するフレームワーク。適応型ベイズ最適化エンジンを統合してハイパーパラメータを端から端まで調整し、検索戦略・分割サイズ・リランカ選択を自動決定。一般公開のRAGベンチで人手チューニングと同等以上の精度を達成した。",
       "authors": "K. Iyer et al.",
       "category": "arxiv"
+    },
+    {
+      "title": "Deep Research Max: a step change for autonomous research agents",
+      "title_ja": "Google、Gemini APIに自律研究エージェント『Deep Research Max』を追加",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+      "date": "2026-05-05",
+      "summary": "GoogleがGemini APIで『Deep Research』および『Deep Research Max』を有償プレビュー公開。Gemini 3.1 Pro基盤で、公開ウェブ検索と社内Workspaceデータを単一APIコールで横断し、引用付き・図解込みのレポートを生成。MCP対応とネイティブ可視化で長時間ホライズンの調査タスクを自律実行する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "title_ja": "OpenAI、新規定モデル『GPT-5.5 Instant』を公式発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "date": "2026-05-05",
+      "summary": "OpenAIが新ChatGPT既定モデル『GPT-5.5 Instant』を公式ブログで紹介。GPT-5.3 Instantを置き換え、API側でも `chat-latest` として提供。医療・法律・金融プロンプトでハルシネーションを52.5%削減、絵文字や過剰整形を抑えつつ温かみは維持。Plus/Pro Web→モバイル→Free/Go/Business/Enterpriseへ段階展開し、5.3は3ヶ月限定で残置。",
+      "category": "company_blog"
     },
     {
       "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
@@ -1574,136 +1708,6 @@
       "date": "2026-04-08",
       "authors": "Nathan Lambert, Florian Brand",
       "summary": "約1,500のオープン言語モデルを対象にオープンソースLMエコシステムの包括的な採用状況を調査した報告書。Hugging Faceのダウンロード数、モデル派生物、推論市場シェアなどを分析し、2025年夏以降に中国モデルが米国モデルを追い越しその差が拡大し続けているトレンドを文書化。",
-      "category": "arxiv"
-    },
-    {
-      "title": "How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06756",
-      "date": "2026-04-08",
-      "authors": "Minzhu Tu, Shiyu Ni, Keping Bi",
-      "summary": "推論チェーンへのアクセスがLLMベースの判断に与える影響を事実QAと数学推論ベンチマークで調査。能力の低いジャッジモデルは流暢な推論を伴う不正解答を安易に受け入れる傾向がある一方、能力の高いモデルは推論を有益な証拠として部分的に活用できることを発見。",
-      "category": "arxiv"
-    },
-    {
-      "title": "GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06794",
-      "date": "2026-04-08",
-      "authors": "Guanran Luo, Wentao Qiu, Zhongquan Jian, Meihong Wang, Qingqiang Wu",
-      "summary": "従来のCoT-Decodingの制限を克服する汎用的デコーディング戦略「GCoT-Decoding」を提案。フィボナッチサンプリングとヒューリスティックなエラーバックトラッキングを組み合わせた二段階分岐手法でデコーディング候補パスを生成し、多数決に依存しない推論を実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "How Much LLM Does a Self-Revising Agent Actually Need? Empirical Decomposition of World Modeling, Reflection, and Sparse LLM Revision",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.07236",
-      "date": "2026-04-08",
-      "authors": "Seongwoo Jeong, Seonil Son",
-      "summary": "LLMベースのエージェントにおいてどの能力が実際にLLMから生まれているかを分解・特定する研究。宣言的反射ランタイムプロトコルを導入し、事後信念追跡、世界モデル計画、シンボリック反射、疎なLLM修正の4コンポーネントを分離して検証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana AI Develops AI-Based SNS Disinformation Detection Technology for MIC Project",
-      "title_ja": "SNSに広がる誤情報をAIで検知する技術 総務省事業でSakana AIが開発",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news117.html",
-      "date": "2026-04-07",
-      "summary": "Sakana AIが総務省「インターネット上の偽・誤情報等への対策技術の開発・実証事業」の成果として、SNS空間の可視化技術、偽情報判定技術、対策案シミュレーション技術の3つを発表。複数のAIモデルを組み合わせた偽情報検出システムや、独自のAgent-Based Modelingフレームワーク「Shachi」を活用したSNSシミュレーション技術を開発した。",
-      "category": "japan"
-    },
-    {
-      "title": "TEAMZ Web3/AI Summit 2026 Held in Tokyo with 10,000+ Attendees",
-      "title_ja": "TEAMZ Web3/AI Summit 2026 東京・八芳園で開催、1万人超が参加",
-      "source": "TEAMZ",
-      "url": "https://www.teamz.co.jp/en",
-      "date": "2026-04-07",
-      "summary": "日本最大級のWeb3・AIカンファレンス「TEAMZ Summit 2026」が4月7日〜8日に東京・八芳園で開催。「Tradition Meets Tomorrow」をテーマに、世界各国から1万人以上が参加し、130名以上のスピーカーがブロックチェーン、デジタルアセット、AI革新などについて登壇。日本の伝統文化と最先端技術の融合を体現するイベントとなった。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic Debuts Claude Mythos Preview and Project Glasswing Cybersecurity Initiative",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "date": "2026-04-07",
-      "summary": "AnthropicがClaude Mythosプレビューとサイバーセキュリティイニシアチブ「Project Glasswing」を発表。Mythosは全主要OS・ブラウザで数千件のゼロデイ脆弱性を自律的に発見し、FreeBSDの17年前のRCE脆弱性も検出・悪用に成功。Apple、AWS、Google、Microsoft、NVIDIAなど約50組織に限定提供し、一般公開は見送り。1億ドルの利用クレジットとオープンソースセキュリティ組織への400万ドル寄付を含む。",
-      "category": "international"
-    },
-    {
-      "title": "Z.ai (Zhipu) Open-Sources GLM-5.1: 744B MoE Model Tops SWE-Bench Pro Leaderboard",
-      "source": "TechBriefly",
-      "url": "https://techbriefly.com/2026/04/08/z-ai-launches-glm-5-1-model-surpassing-competitors-in-benchmarks/",
-      "date": "2026-04-07",
-      "summary": "Z.ai（旧Zhipu AI）がGLM-5.1をMITライセンスでオープンソース公開。744億パラメータのMoEアーキテクチャで、SWE-Bench Proで58.4点を記録しGPT-5.4（57.7点）とClaude Opus 4.6（57.3点）を上回りグローバルリーダーボード1位を獲得。全トレーニングはHuawei Ascend 910Bチップで実施され、NVIDIAのGPUは一切使用されていない。",
-      "category": "international"
-    },
-    {
-      "title": "Broadcom Stock Jumps 6% After Expanded Google and Anthropic AI Chip Deals",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html",
-      "date": "2026-04-07",
-      "summary": "BroadcomがGoogleおよびAnthropicとのAIチップ契約拡大を受け、株価が6%上昇し年内2番目の好パフォーマンスを記録。Citiアナリストは買い推奨を維持し、Google契約を背景に収益が1300億ドルを超える可能性を予測。みずほはAnthropicからのAI関連収益を2026年に210億ドル、2027年に420億ドルと試算。",
-      "category": "international"
-    },
-    {
-      "title": "Claude Mythos Preview",
-      "source": "Anthropic",
-      "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "date": "2026-04-07",
-      "summary": "Anthropicが新たな汎用言語モデル「Claude Mythos Preview」を発表。コンピュータセキュリティタスクにおいて突出した能力を持ち、主要OS・ブラウザで数千件のゼロデイ脆弱性を自律的に発見。27年間未発見だったOpenBSDの脆弱性も特定した。セキュリティリスクのため一般公開は行わない方針。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Project Glasswing: Securing Critical Software for the AI Era",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/glasswing",
-      "date": "2026-04-07",
-      "summary": "AnthropicがClaude Mythosを活用した重要ソフトウェア保護イニシアティブ「Project Glasswing」を発表。AWS、Apple、Google、Microsoft、NVIDIA、CrowdStrike、Linux Foundationなど12社がローンチパートナーとして参加し、さらに40以上の組織にアクセスを拡大。AIを活用した防御的セキュリティの新時代を切り開く。",
-      "category": "company_blog"
-    },
-    {
-      "title": "How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04385",
-      "date": "2026-04-07",
-      "authors": "Gregory N. Frank",
-      "summary": "アライメント訓練された言語モデルにおける拒否メカニズムの回路を特定。検出されたコンテンツを読み取るゲートアテンションヘッドと、拒否信号を増幅する下流アンプリファイアヘッドからなるスパースルーティング機構を、6研究所の9モデルで検証。120のプロンプトペアで実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Relative Density Ratio Optimization for Stable and Statistically Consistent Model Alignment",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.04410",
-      "date": "2026-04-07",
-      "authors": "",
-      "summary": "既存のアライメント手法が特定の人間の選好モデル（Bradley-Terryモデル等）を前提とする問題を指摘。直接密度比最適化（DDRO）により、人間の選好モデルを仮定せずに統計的一貫性を達成する新手法を提案。",
-      "category": "arxiv"
-    },
-    {
-      "title": "In-Place Test-Time Training",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06169",
-      "date": "2026-04-07",
-      "authors": "Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Di He, Wenhao Huang, Tianle Cai",
-      "summary": "ByteDance SeedとPeking Universityによる研究。LLMの推論時にMLPブロックの最終射影行列を高速重みとして適応的に更新する「In-Place TTT」フレームワークを提案。再学習なしでLLMに動的適応能力を付与し、新しい情報への対応を可能にする手法。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06132",
-      "date": "2026-04-07",
-      "authors": "Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv",
-      "summary": "Peking UniversityとHKUによる自律エージェント評価スイート。300の人手検証済みタスクを9カテゴリに分類し、軌跡非透過的な採点、安全性・堅牢性評価、モダリティカバレッジの狭さという既存ベンチマークの限界を解決する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06091",
-      "date": "2026-04-07",
-      "authors": "Changgeon Ko, Jisu Shin, Hoyun Song, Huije Lee, Eui Jun Hwang, Jong C. Park",
-      "summary": "マルチエージェントLLMシステムにおける社会的脆弱性を体系的に分析。社会的同調、知覚された専門性、支配的話者効果、修辞的説得の4つの現象を定義し、社会的圧力の増大に伴い精度が低下することを実証。",
       "category": "arxiv"
     }
   ]

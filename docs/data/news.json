@@ -162,6 +162,24 @@
       "category": "company_blog"
     },
     {
+      "title": "Claude is now generally available in Microsoft Word, Excel, and PowerPoint with Outlook in public beta",
+      "title_ja": "Claude、Microsoft 365 Officeアドイン（Word/Excel/PowerPoint）が一般提供開始、Outlookはパブリックベータに",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260508-collaborate-with-claude/",
+      "date": "2026-05-08",
+      "summary": "Anthropicは5月7日付でClaude for Word/Excel/PowerPointをGAリリースし、Claude for Outlookをパブリックベータで公開した。最大の特徴はアプリ間で会話コンテキストが引き継がれる連携機能で、Outlookでメール要約 → Word/Excel/PowerPointで成果物作成までシームレスに行える。Claude Max・Pro・Enterprise・TeamのMarketplace経由で利用可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Measuring Progress Towards AGI: A Cognitive Framework",
+      "title_ja": "Google DeepMind、『AGIへの進歩を測る認知タクソノミー』論文を公開",
+      "source": "Google DeepMind Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+      "date": "2026-05-08",
+      "summary": "DeepMindは『Measuring Progress Toward AGI: A Cognitive Taxonomy』を公開。心理学・神経科学・認知科学の知見を結集し、汎用知能に重要な10の認知能力を体系化した枠組みを提示。現在のAIシステムを科学的に評価し、AGIへの進歩を客観的に測定する基盤を提供する。",
+      "category": "company_blog"
+    },
+    {
       "title": "Advancing voice intelligence with new models in the API",
       "title_ja": "OpenAI、APIに新世代の音声モデル3種を投入",
       "source": "OpenAI",
@@ -248,6 +266,80 @@
       "date": "2026-05-07",
       "summary": "Tree-of-Thought探索に『新規性（novelty）』の概念を持ち込み、LLM自身を新規性推定器として使うことで枝刈りを行う手法を提案。事前学習済み知識を活用し計画・推論タスクで探索範囲を圧縮、低コストで深い解探索を可能にする。",
       "authors": "Leon Hamm, Zlatan Ajanovic",
+      "category": "arxiv"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite is now generally available",
+      "title_ja": "Google、Gemini 3.1 Flash-LiteをGA公開。低レイテンシ・低コストでエージェント用途を強化",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
+      "date": "2026-05-07",
+      "summary": "Googleは5月7日、Gemini 3.1 Flash-LiteをVertex AIおよびGemini API向けにGA公開した。$0.25/1M input・$1.50/1M output、TTFTで2.5倍高速化、出力速度45%向上を実現。高ボリューム・低レイテンシのエージェントタスク、ツール呼び出し、翻訳、分類に最適化された最もコスト効率の高いGemini 3シリーズモデル。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Gemini 3.1 Flash Lite: Our most cost-effective AI model yet",
+      "title_ja": "Google、Gemini 3.1 Flash Liteを発表 - 最もコスト効率の高いGeminiモデル",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "date": "2026-05-07",
+      "summary": "GoogleはGemini 3.1 Flash Liteを発表、Gemini 3シリーズで最も高速かつコスト効率の高いモデルとして位置付ける。リアルタイム翻訳、コード生成、エージェント開発など高ボリュームAI処理に対応し、ChromeやWorkspaceなどGoogle製品にも組み込まれる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "三菱UFJ、GoogleとAI利用で提携 買い物から資産形成まで個人と接点",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB016QR0R00C26A5000000/",
+      "date": "2026-05-07",
+      "summary": "三菱UFJフィナンシャル・グループはGoogleとリテール領域における戦略的提携を発表。AIエージェントが商品選択から決済までを自律支援する『エージェンティック・コマース／ペイメント』の金融基盤をGoogle Cloud上に構築する。2026年度内に実証実験を開始予定で、日本のAIエージェント時代の購買・決済の新標準確立を目指す。",
+      "category": "japan"
+    },
+    {
+      "title": "MUFGとGoogleのリテール領域における戦略的提携について",
+      "source": "三菱UFJフィナンシャル・グループ",
+      "url": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20260507-001_ja.pdf",
+      "date": "2026-05-07",
+      "summary": "MUFGとGoogleが5月7日、リテール領域での戦略的提携を正式発表。AIエージェントによる自律的な商品選択・決済支援基盤の構築、Google CloudのAI技術を活用した次世代金融サービスの共同開発、YouTube Premium 3カ月無料・Fitbit連携など顧客特典の提供を含む包括的な提携内容を公開した。",
+      "category": "japan"
+    },
+    {
+      "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
+      "title_ja": "UniSD: LLMのための統一的自己蒸留フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06597",
+      "date": "2026-05-07",
+      "summary": "LLMの自己蒸留を体系的に研究する統一フレームワーク『UniSD』を提案。複数教師合意、EMA教師安定化、トークンレベル対比学習、特徴マッチング、発散クリッピングを統合し、自己蒸留の各成分が果たす役割を明らかにする。複数ベンチマークで一貫した性能向上を確認。",
+      "authors": "UniSD Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Continuous Latent Diffusion Language Model",
+      "title_ja": "連続潜在拡散言語モデル『Cola DLM』",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06548",
+      "date": "2026-05-07",
+      "summary": "テキストから安定した潜在表現へのマッピングを学び、連続潜在空間でグローバルな意味的事前分布をモデル化する階層的潜在拡散言語モデル『Cola DLM』を提案。離散トークン拡散の不安定性を回避し、連続表現で長文生成と多様性を両立する新たなアプローチ。",
+      "authors": "Cola DLM Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
+      "title_ja": "LLM解釈性のためのパッチエフェクト・グラフカーネル",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06480",
+      "date": "2026-05-07",
+      "summary": "活性パッチング解析をグラフ機械学習問題として再定式化するフレームワークを提案。パッチエフェクトグラフを用いてLLMの内部メカニズムをスケーラブルに解釈する手法を開発し、従来のメカニズム解析より広範な現象に対応可能であることを示した。",
+      "authors": "Patch-Effect Graph Kernels Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training",
+      "title_ja": "古地図で航海する: LLMポストトレーニングにおける静的メカニズム局在化の落とし穴",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06076",
+      "date": "2026-05-07",
+      "summary": "ポストトレーニング中にLLM内部の機能局在が動的に変化することを示し、事前訓練時に同定したニューロン・回路をそのまま流用する手法（静的局在化）が誤った介入につながる危険性を実証。動的に追跡する新たな解析パラダイムの必要性を主張する。",
+      "authors": "Static Mechanistic Localization Authors",
       "category": "arxiv"
     },
     {
@@ -351,6 +443,44 @@
       "date": "2026-05-06",
       "summary": "PerplexityがAgent APIにFinance Searchツールを追加。1コールで上場株/ETFの相場・財務諸表・主要指標・OHLCV・決算トランスクリプト・SEC提出書類・アナリスト予想・インサイダー活動等を引用付きで取得できる。FinSearchComp T1ベンチマークで上位の精度・低レイテンシを達成。価格は1,000リクエストあたり5ドルでモデルトークン課金とは別計上。",
       "category": "company_blog"
+    },
+    {
+      "title": "AI Research Gets Boost as Google DeepMind Partners With Eve Online Developer",
+      "title_ja": "Google DeepMind、EVE Online開発元（Fenris Creations）とAI研究提携。マイノリティ出資で長期計画・記憶・継続学習の研究へ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/google-deepmind-takes-minority-stake-in-maker-of-eve-online",
+      "date": "2026-05-06",
+      "summary": "Google DeepMindは5月6日、独立後にFenris Creationsと改名したEVE Online開発元との研究提携を発表。マイノリティ出資を行い、複雑で動的な仮想経済環境を活用してAIエージェントの長期計画、記憶、継続学習を研究する。初期はオフライン版EVE上で経済活動（採掘・製造・取引）に絞ったエージェント評価を実施する。",
+      "category": "international"
+    },
+    {
+      "title": "Studio Behind EVE Online Goes Independent, Rebrands as Fenris Creations, Enters Research Partnership with Google DeepMind",
+      "title_ja": "EVE Online開発元CCP Games、Pearl Abyssから独立しFenris Creationsに改称、Google DeepMindとAI研究提携を発表",
+      "source": "Fenris Creations / CCP Games",
+      "url": "https://www.ccpgames.com/news/2026/studio-behind-eve-online-goes-independent-rebrands-as-fenris-creations-enters-research-partnership-with-google-deepmind",
+      "date": "2026-05-06",
+      "summary": "CCP Gamesは独立してFenris Creationsに改称、Pearl Abyssから1.2億ドルで分離する。同時にGoogle DeepMindと研究提携を結び、複雑な動的環境でのインテリジェンス研究を共同で推進。EVE Onlineのオフライン版を用いてDeepMindのモデルを統制された環境で評価する計画。",
+      "category": "international"
+    },
+    {
+      "title": "Belief Memory: Agent Memory Under Partial Observability",
+      "title_ja": "部分観測下のエージェント記憶『BeliefMem』",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05583",
+      "date": "2026-05-06",
+      "summary": "部分観測下で動作するLLMエージェントの記憶機構『BeliefMem』を提案。観測ごとに単一結論にコミットせず、確率付きの複数候補結論を保持することで、不確実性下での意思決定の堅牢性を高める。複数ベンチマークで既存記憶機構より高い精度を達成。",
+      "authors": "BeliefMem Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation",
+      "title_ja": "分布整合敵対的蒸留によるブラックボックスLLMの不確実性推定",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05777",
+      "date": "2026-05-06",
+      "summary": "API経由でしかアクセスできない商用LLMの不確実性推定が困難な問題に対処。分布整合敵対的蒸留により、ブラックボックスLLMの幻覚を実用的に検出できる手法を提案。商業利用におけるLLM信頼性の課題に直接的な解決策を与える。",
+      "authors": "Distribution-Aligned Adversarial Distillation Authors",
+      "category": "arxiv"
     },
     {
       "title": "Agents for financial services and insurance",
@@ -639,6 +769,15 @@
       "url": "https://openai.com/index/gpt-5-5-instant/",
       "date": "2026-05-05",
       "summary": "OpenAIが新ChatGPT既定モデル『GPT-5.5 Instant』を公式ブログで紹介。GPT-5.3 Instantを置き換え、API側でも `chat-latest` として提供。医療・法律・金融プロンプトでハルシネーションを52.5%削減、絵文字や過剰整形を抑えつつ温かみは維持。Plus/Pro Web→モバイル→Free/Go/Business/Enterpriseへ段階展開し、5.3は3ヶ月限定で残置。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "title_ja": "Cloudflare、エージェント向けに設計されたAIプラットフォーム新機能を発表 - 180都市超のGPU網と高速推論",
+      "source": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "date": "2026-05-05",
+      "summary": "Cloudflareは5月5日、サーバーレスAIプラットフォーム『Workers AI』の大幅強化を発表。世界180都市超のGPUインフラ、Llama 3.1 70Bなど大型モデル対応、AI Gatewayの永続ログ（オープンベータ）、エージェント向けに最適化された推論レイヤなどを含む。新機能はエージェント時代のAIアプリ構築を加速する狙い。",
       "category": "company_blog"
     },
     {
@@ -1576,137 +1715,6 @@
       "authors": "Anonymous Authors",
       "summary": "学術文献からの細粒度情報検索を行うLLMエージェント「IntrAgent」を提案。新タスク「IntraView」では文献内のサブセクション単位で根拠付き情報抽出を行い、最先端のRAGおよび研究エージェントベースラインに対して平均13.2%高いクロスドメイン精度を達成。文献レビュー支援や科学的発見の自動化に向けた基盤技術として位置付けられる。",
       "category": "arxiv"
-    },
-    {
-      "title": "Google Cloud Next 2026: Introducing Gemini Enterprise Agent Platform",
-      "source": "Google Cloud",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
-      "date": "2026-04-22",
-      "summary": "Google Cloudがラスベガスで開催のNext '26にて、エンタープライズ向けエージェント開発プラットフォーム「Gemini Enterprise Agent Platform」を発表。Vertex AIを発展させ、Agent Designer、Inbox（エージェント活動管理）、長時間動作エージェント、Skills、Projectsを統合。Model Gardenで200以上のモデル（Gemini 3.1 Pro/Flash Image、Lyria 3、Gemma 4等）にアクセスでき、AIエージェント時代の標準基盤を目指す。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google Cloud Commits $750 Million to Accelerate Partners' Agentic AI Development",
-      "source": "Google Cloud Press",
-      "url": "https://www.googlecloudpresscorner.com/2026-04-22-Google-Cloud-Commits-750-Million-to-Accelerate-Partners-Agentic-AI-Development",
-      "date": "2026-04-22",
-      "summary": "GoogleがCloud Next '26で12万社のパートナーエコシステム向けに7億5,000万ドルのファンドを発表。エージェント型AIによる顧客変革を加速するための投資・インセンティブ・教育プログラムを提供する。Gemini Enterprise Agent Platformの普及と、AIエージェントによる業務自動化を促進するためのチャネル戦略の中核となる施策。",
-      "category": "international"
-    },
-    {
-      "title": "R³AG: Retriever Routing for Retrieval-Augmented Generation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.22849",
-      "date": "2026-04-22",
-      "authors": "Tong Zhao, Yutao Zhu, Yucheng Tian, et al.",
-      "summary": "RAGの「one-size-fits-all」検索パラダイムを打破し、クエリごとに最適なリトリーバを動的選択する新フレームワーク「R³AG」を提案。リトリーバ能力を「検索品質」と「生成有用性」の2学習次元に分解し、生成タスクへの寄与を踏まえた動的整合を実現。複数のRAGベンチマークで既存ルーティング手法を上回り、知識集約タスクのエンドツーエンド精度を向上させた。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.15726",
-      "date": "2026-04-22",
-      "authors": "Various Researchers",
-      "summary": "本論文は、大規模言語モデルの推論プロセスを表層的なChain-of-Thought（CoT）の出力ではなく、潜在状態の軌道形成として捉え直すべきだと主張するポジションペーパー。CoTが必ずしもモデル内部の推論を忠実に反映しないことを示し、潜在表現の動態に基づく評価・解釈フレームワークの必要性を提案する。AlignmentやInterpretability研究に対する新たな視座を与える内容。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.14853",
-      "date": "2026-04-22",
-      "authors": "Various Researchers",
-      "summary": "推論LLMにおいて、有限の推論時計算予算をどの入力に多く割り当てるかという「test-time compute allocation」問題を制約付きポリシー最適化として定式化。難易度の高い問題に動的により多くの計算を投じることで、固定予算下でも精度を有意に向上させた。test-time scalingの実用化に向けた重要な手法的貢献。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.18788",
-      "date": "2026-04-21",
-      "authors": "Anonymous Authors",
-      "summary": "Apple Silicon NPU上でのMoE LLM推論を加速する実行エンジン「NPUMoE」を提案。密で静的な計算をNPUにオフロードしつつ、動的演算はCPU/GPUにフォールバックするハイブリッド設計により、オンデバイス推論のレイテンシとエネルギー効率を改善。Mac/iPhone等のApple Silicon環境でのMoE展開を実用域に押し上げる成果として注目される。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Alibaba Releases Qwen 3.6 Max Preview with 256K Context, Tops Six Coding Benchmarks",
-      "source": "AImadetools",
-      "url": "https://www.aimadetools.com/blog/qwen-3-6-max-preview-complete-guide/",
-      "date": "2026-04-20",
-      "summary": "Alibabaが4月20日にQwen 3.6 Max Previewをリリース。256,000トークンのコンテキストウィンドウを備えたフラッグシッププロプライエタリLLMで、6つのコーディング・エージェントベンチマークでトップを獲得。同時にQwen3.6-35B-A3B（MoE）とQwen3.6-27Bがオープンウェイトとして公開。中国勢の高速モデルリリースが西側との性能差を数か月から数日に縮める動きを象徴する出来事となった。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank Unveils 'Natural AI Phone' and 'Daredemo AI' Service to Bring AI into Everyday Tools",
-      "title_ja": "ソフトバンク、『Natural AI Phone』と『だれでもAI』を発表——AIを“日常の道具”に",
-      "source": "SoftBank",
-      "url": "https://www.softbank.jp/sbnews/entry/20260420_02",
-      "date": "2026-04-20",
-      "summary": "ソフトバンクが4月17日に開催した発表会で、AIをすべての人の日常の道具として届ける戦略を発表。新サービス「だれでもAI」と新デバイス「Natural AI Phone」（4月24日発売）を披露。Natural AI PhoneはGmail、Google Maps、YouTube、LINE、食べログ、Amazon、楽天市場などのアプリを横断操作可能。新世代の汎用AIエージェント体験を消費者に届ける戦略の一環となる。",
-      "category": "japan"
-    },
-    {
-      "title": "AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.07815",
-      "date": "2026-04-19",
-      "authors": "Anonymous Authors",
-      "summary": "長文脈LLM推論の効率化のために、粗粒度ブロックフィルタリングと細粒度トークン選択を組み合わせる階層型スパースアテンション「AsyncTLS」を提案。非同期オフロード機構によりKVキャッシュ転送と計算をオーバーラップさせ、精度と効率のバランスを実現。長コンテキスト推論におけるレイテンシ削減と高スループットを両立する点で、エージェント・コーディング用途に有用な手法。",
-      "category": "arxiv"
-    },
-    {
-      "title": "NTT DATA Opens 30MW AI-Ready Keihanna OSK11 Data Center in Kansai Region",
-      "title_ja": "NTTデータ、関西圏のデジタルインフラ拡充に向け京都・京阪奈データセンター（OSK11）を開設",
-      "source": "NTT DATA",
-      "url": "https://www.nttdata.com/global/en/news/press-release/2026/april/040900",
-      "date": "2026-04-09",
-      "summary": "NTTデータが4月9日、京都府木津川市に「Keihanna OSK11データセンター」を正式開設。IT負荷30MW、サーバー室面積10,900平米を誇り、AIワークロードに対応したキャリアニュートラルな接続性と二重電源変電設備を備える。大阪・京都・奈良から車で1時間以内の立地で、関西圏のデジタルインフラ拠点を強化する。",
-      "category": "japan"
-    },
-    {
-      "title": "Fujitsu Plans Domestic 1.4nm AI Inference Chip with Rapidus to Reduce Japan's Reliance on Foreign AI Hardware",
-      "title_ja": "富士通、Rapidusと組んで国産1.4nmニューラル処理ユニット開発へ——日本のAI自立化加速",
-      "source": "Asia Times",
-      "url": "https://asiatimes.com/2026/04/fujitsu-at-the-core-of-japans-ai-independence-drive/",
-      "date": "2026-04-09",
-      "summary": "富士通が国産半導体ファウンダリRapidusと協力し、1.4nmプロセスを用いたAI推論向けニューラル処理ユニット（NPU）の開発計画を詳報。NEDOが初期費用580億円の約3分の2を負担し、次世代スーパーコンピュータ「富岳NEXT」への搭載を目指す。2029年の量産を目標とし、NVIDIAやTSMCへの依存を減らし日本のAI技術自立を進める国家的プロジェクト。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan Generative AI Usage Surpasses 50% for First Time, Nearly Doubles in One Year: Docomo Survey",
-      "title_ja": "日本の生成AI利用率が過半数に 15〜69歳で51%、1年でほぼ倍増——ドコモ調査",
-      "source": "Ledge.ai / NTT Docomo",
-      "url": "https://ledge.ai/articles/genai_usage_japan_docomo_survey_2026",
-      "date": "2026-04-09",
-      "summary": "NTTドコモのモバイル社会研究所が実施した調査によると、日本国内の15〜69歳における生成AI利用率が51%と過半数を初めて超え、前年からほぼ倍増した。ChatGPTが利用ツールの54.9%を占め首位を維持し、若年層（20代）の利用率は44.7%と特に高い。政府が掲げる「AI利用率80%」目標に向け普及が着実に進んでいる。",
-      "category": "japan"
-    },
-    {
-      "title": "Amazon AWS AI Revenue Run Rate Exceeds $15 Billion in Q1 2026, CEO Jassy Reveals",
-      "source": "BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/09/amazon-cloud-units-ai-revenue-run-rate-exceeds-us15-billion-in-first-quarter-ceo-says/",
-      "date": "2026-04-09",
-      "summary": "Amazon CEOアンディ・ジャシー氏が株主向け書簡の中で、クラウド部門AWSのAI事業の年間収益ラン・レートが2026年第1四半期に150億ドルを超えたと初公表。ハイパースケーラーのAI投資が具体的な収益に転換し始めていることを示す重要な指標で、Amazonは2026年に約2,000億ドルの設備投資を計画し大部分がAIインフラに充てられる見通し。",
-      "category": "international"
-    },
-    {
-      "title": "Stockmark Releases Document Reading AI Foundation Model 'DocReasoner' with GENIAC Support",
-      "title_ja": "高速で高精度な特化AIのオンプレミス運用を低コストで実現可能 社会実装に最適化されたドキュメント読解AI基盤を公開",
-      "source": "Stockmark",
-      "url": "https://stockmark.co.jp/news/20260408",
-      "date": "2026-04-08",
-      "summary": "ストックマークがGENIAC第3期の支援を受け開発したドキュメント読解AI基盤モデル「Stockmark-DocReasoner-Qwen2.5-VL-32B」を公開。32Bパラメータの中規模モデルながら、化学式や技術図面を含む製造業の専門文書も読解可能で、ハルシネーション抑制と日本語・ビジネス特化を実現。HuggingFace Hubで提供開始。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan IT Week Spring 2026 Opens at Tokyo Big Sight with Major AI Exhibitions",
-      "title_ja": "Japan IT Week 春 2026 東京ビッグサイトで開幕、AI関連展示多数",
-      "source": "Japan IT Week",
-      "url": "https://www.japan-it.jp/spring/ja-jp.html",
-      "date": "2026-04-08",
-      "summary": "日本最大級のIT・DX展示会「Japan IT Week 春 2026」が4月8日〜10日に東京ビッグサイトで開催。約1,100社が出展し、6万人の来場を見込む。AIセールスエージェント、エッジAI、データセンター向けAIサーバなどの最新技術が展示され、PEGATRON、MSI、Fibocomなどが次世代AIインフラソリューションを披露。",
-      "category": "japan"
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-08 09:00 (JST)",
+  "lastUpdated": "2026-05-09 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic reportedly signs $1.8Bn deal with Akamai as global AI compute race intensifies",
+      "source": "The Tech Portal",
+      "url": "https://thetechportal.com/2026/05/09/anthropic-reportedly-signs-1-8bn-deal-with-akamai-as-global-ai-compute-race-intensifies/",
+      "date": "2026-05-09",
+      "summary": "AnthropicがGoogle・SpaceX・AWSに続きAkamaiとも18億ドルのクラウド契約を結び、グローバルなAIコンピュート争奪戦が加速していると報じた。同社は年率売上高300億ドル超への急成長を支えるためインフラ多角化を進めている。",
+      "category": "international"
+    },
     {
       "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
       "title_ja": "Anthropic Mythosが煽る『サイバーセキュリティ・ヒステリア』、専門家は『危機は既に存在』と冷静視",
@@ -18,6 +26,140 @@
       "date": "2026-05-08",
       "summary": "OpenAIが重要インフラ防御担当者向けに『GPT-5.5-Cyber』を限定プレビューで提供開始。Trusted Access for Cyber（TAC）枠組みで認証された担当者にはPoC作成・マルウェア解析・バイナリリバース・検出エンジニアリング・パッチ検証など、通常はリフューズされる依頼が許可される。能力自体はGPT-5.5と同等水準で、攻撃用途への転用を防ぐ承認制が肝。",
       "category": "international"
+    },
+    {
+      "title": "SoftBank in Talks with Nvidia and Foxconn to Build Made-in-Japan AI Servers",
+      "title_ja": "ソフトバンク、エヌビディア・鴻海と国産AIサーバー開発を協議",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC0112V0R00C26A5000000/",
+      "date": "2026-05-08",
+      "summary": "ソフトバンクが米エヌビディアや台湾の鴻海精密工業と国産AIサーバーの開発・生産で協議していると報じられた。経済安全保障の観点から「ソブリンAI」需要に対応し、2020年代末までに主要部品設計や最終組立に参入する方針。",
+      "category": "japan"
+    },
+    {
+      "title": "LY Corp Pushes AI Agentization, Launches New AI Plans and Ad Models",
+      "title_ja": "LINEヤフー、AIエージェント化を推進 広告や新AIプランなど発表",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2107294.html",
+      "date": "2026-05-08",
+      "summary": "LINEヤフーは2025年度通期決算と2026年度事業方針を発表し、AIエージェント化を積極推進すると表明。4月開始の「Agent i」を全サービスへ拡大し、エージェント型広告やLYP連携の新AI課金プランも年度内に投入する方針。",
+      "category": "japan"
+    },
+    {
+      "title": "LY Corp CEO Idezawa: Building AI-Centric Monetization Model",
+      "title_ja": "LINEヤフー決算、出澤氏「AIを起点としたマネタイズモデルを構築」",
+      "source": "ケータイ Watch",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2107318.html",
+      "date": "2026-05-08",
+      "summary": "LINEヤフーの出澤剛CEOは決算説明会で、AIエージェントを軸に新たなマネタイズモデルを構築する方針を表明。AI時代に対応した広告・課金プランを展開し、Agent iを全サービスのエージェント化で利用拡大を図るとした。",
+      "category": "japan"
+    },
+    {
+      "title": "TOPPAN's Food-Specialized AI Image Generation Service OISHICA Turns Smartphone Snaps into Pro-Level Photos",
+      "title_ja": "TOPPANのフードフォト特化型AI生成サービス「OISHICA」、スマホのメモ写真をプロ級の1枚に",
+      "source": "デジカメ Watch (Impress)",
+      "url": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2105948.html",
+      "date": "2026-05-08",
+      "summary": "TOPPANがフードフォト特化型のAI画像生成サービス「OISHICA」の取り組みを公開。同社の1万枚超の食品撮影データを学習に活用し、スマホで撮影した料理写真や、レシピのテキストからプロ品質の食品ビジュアルを生成する。",
+      "category": "japan"
+    },
+    {
+      "title": "LY Corp Posts Record Profit in FY2026, Net Income Up 26% Driven by PayPay",
+      "title_ja": "LINEヤフーが3年ぶり最高益、26年3月期純利益26%増 PayPay好調",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB081GW0Y6A500C2000000/",
+      "date": "2026-05-08",
+      "summary": "LINEヤフーの2026年3月期連結決算は純利益が前期比26%増の1936億円で3年ぶりに過去最高益を更新。売上収益は6%増の2兆363億円。AIエージェント化への投資強化とPayPay好調が業績を牽引した。",
+      "category": "japan"
+    },
+    {
+      "title": "US Commerce Department Urges Japanese Firms to Join AI Export Program",
+      "title_ja": "米商務省、AI技術の輸出で日本企業に参画を要請",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN07B2L0X00C26A5000000/",
+      "date": "2026-05-08",
+      "summary": "米商務省のキミット商務次官が在米日本大使館とジェトロのワシントンでのイベントで講演し、米国製AI技術の世界展開を狙う「AI輸出プログラム」への日本企業の参画を呼びかけた。日米連携でAIの国際展開を加速する狙い。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
+      "date": "2026-05-08",
+      "summary": "Anthropicが急増するAI需要に対応するため、Akamai Technologiesと18億ドル規模の7年間クラウド契約を締結したとBloombergが報じた。Akamai社史上最大の契約で、発表後同社株は約25％急騰した。",
+      "category": "international"
+    },
+    {
+      "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
+      "date": "2026-05-08",
+      "summary": "ソフトバンクがOpenAI株式を担保にした100億ドルのマージンローン計画を、貸し手の慎重姿勢を受け60億ドルへ40％縮小したとBloombergが報じた。未上場OpenAIの評価困難さが背景にある。",
+      "category": "international"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "date": "2026-05-08",
+      "summary": "Cloudflareが社内AI利用の3カ月で600％超増加を背景に、全従業員の約20％にあたる1,100人を削減し「エージェンティックAIファースト」体制へ移行すると発表。同社16年史上初の大規模リストラとなる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports",
+      "source": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-weighs-fundraising-near-1-041404218.html",
+      "date": "2026-05-08",
+      "summary": "AnthropicがコンピュートインフラのためにFTによれば最大500億ドルを調達、評価額は1兆ドル近くに達する可能性があるとReutersが報じた。年率売上高は450億ドルに迫り、IPOを年内にも視野に入れている。",
+      "category": "international"
+    },
+    {
+      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/",
+      "date": "2026-05-08",
+      "summary": "トランプ政権が大手AI企業幹部と政府関係者からなるAIワーキンググループを発足、フロンティアモデルにFDA型の事前承認制を課す大統領令を検討中と報道。規制緩和路線から厳格規制へ転換しつつある。",
+      "category": "international"
+    },
+    {
+      "title": "The secretive AI hacking tool fracturing Trump's White House",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/05/08/trump-white-house-ai-regulation-mythos/",
+      "date": "2026-05-08",
+      "summary": "AnthropicのサイバーセキュリティモデルMythosをめぐり、ホワイトハウス内で規制とアクセスをめぐる対立が深まっていると報道。AI国家安全保障政策の方向性を巡る政権内部の亀裂が浮き彫りになった。",
+      "category": "international"
+    },
+    {
+      "title": "EU lawmakers back delay to high-risk AI rules",
+      "source": "Euronews via Europeans Today",
+      "url": "https://www.europeans.today/2026/05/08/eu-lawmakers-back-delay-to-high-risk-ai-rules/",
+      "date": "2026-05-08",
+      "summary": "EU理事会と欧州議会がAI Act改正の暫定合意に達し、生体認証や重要インフラ等の高リスクAI規則の適用を2026年8月から2027年12月に延期。SMEへの免除拡大やNCII禁止条項追加も含まれる。",
+      "category": "international"
+    },
+    {
+      "title": "The Power Needs of AI Are Becoming a Crunch Issue for Governments",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-08/ai-power-use-risks-blowing-up-for-governments",
+      "date": "2026-05-08",
+      "summary": "AIデータセンターの電力消費が世界各国政府にとって深刻な政治・経済課題になっていると分析。複数政府がAIのエネルギー利用について調査を開始しており、インフラ容量制約が成長の障壁となりつつある。",
+      "category": "international"
+    },
+    {
+      "title": "Teaching Claude why",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "date": "2026-05-08",
+      "summary": "Anthropicがエージェント的ミスアラインメントを大幅に削減した手法を公開。望ましい行動の実演だけでなく、なぜその行動が望ましいかをClaudeに説明させて学習させることが効果的で、憲法文書と整合的AIを描いた架空の物語を組み合わせると、ミスアラインメント発生率を3分の1以下に抑制できたと報告。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google AI announcements from April 2026",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "date": "2026-05-08",
+      "summary": "Googleが4月のAI関連発表をまとめた月次レポートを公開。Cloud Next '26でのGemini Enterprise Agent Platform、第8世代TPU、オープンモデルGemma 4の発表、Deep Research MaxやColabのLearn Modeなど、エージェント時代に向けた主要アップデートを総括している。",
+      "category": "company_blog"
     },
     {
       "title": "Advancing voice intelligence with new models in the API",
@@ -1565,150 +1707,6 @@
       "date": "2026-04-08",
       "summary": "日本最大級のIT・DX展示会「Japan IT Week 春 2026」が4月8日〜10日に東京ビッグサイトで開催。約1,100社が出展し、6万人の来場を見込む。AIセールスエージェント、エッジAI、データセンター向けAIサーバなどの最新技術が展示され、PEGATRON、MSI、Fibocomなどが次世代AIインフラソリューションを披露。",
       "category": "japan"
-    },
-    {
-      "title": "PEGATRON Showcases AI Server Solutions at Japan IT Week 2026",
-      "title_ja": "PEGATRON、Japan IT Week 2026でAIサーバーソリューションを展示",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/apac/news-releases/pegatron-showcases-end-to-end-ai-server-solutions-and-strengthens-japan-presence-at-japan-it-week-2026-302736047.html",
-      "date": "2026-04-08",
-      "summary": "PEGATRONがJapan IT Week 2026でエンドツーエンドのAIサーバーソリューションを展示し、日本でのプレゼンスを強化。NVIDIA HGX Blackwellシリーズ、AMD Instinct MI355Xラックソリューションなど次世代AIプラットフォームのポートフォリオを披露。サーバー設計から製造、アフターサービスまでの総合力をアピール。",
-      "category": "japan"
-    },
-    {
-      "title": "MSI Exhibits Edge AI to Data Center Solutions at Japan IT Week Spring 2026",
-      "title_ja": "MSI、Japan IT Week 春 2026でエッジAIからデータセンターまでの総合ソリューションを展示",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/apac/news-releases/msi-showcases-comprehensive-ai-and-enterprise-solutions-at-japan-it-week-spring-2026-302735549.html",
-      "date": "2026-04-08",
-      "summary": "MSIがJapan IT Week 春 2026で産業用エッジAIからデータセンター級のエンタープライズインフラまでを展示。NVIDIA GB10スーパーチップ搭載のEdgeXpert AIスーパーコンピューターや自動車向け堅牢タブレットなどを紹介。4月8日にはNVIDIA MGXサーバー、DGX Station、DGX Spark AIスーパーコンピューターに関するテクニカルセッションも実施。",
-      "category": "japan"
-    },
-    {
-      "title": "Fibocom Showcases AIoT Innovations at Japan IT Week Spring 2026",
-      "title_ja": "Fibocom、Japan IT Week 春 2026で先進AIoTイノベーションを展示",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/apac/news-releases/japan-it-week-spring-2026--fibocom-showcases-advanced-aiot-innovations-302736856.html",
-      "date": "2026-04-08",
-      "summary": "Fibocomが「AIoT Connectivity for a Smarter Digital World」をテーマに、Japan IT Week 春 2026でAIoTイノベーションを展示。エッジコンピューティング、ビジョンベースナビゲーション搭載のインテリジェント芝刈り機ソリューション、スマートメーター、ドラレコ、ペットウェアラブル、産業用ゲートウェイなど幅広いAIoT端末を紹介。",
-      "category": "japan"
-    },
-    {
-      "title": "Meta Debuts Muse Spark: First AI Model from Meta Superintelligence Labs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
-      "date": "2026-04-08",
-      "summary": "MetaがAlexandr Wang率いるMeta Superintelligence Labs初のAIモデル「Muse Spark」を発表。音声・テキスト・画像入力に対応するネイティブマルチモーダル推論モデルで、複数のAIエージェントが並列推論する「Contemplating mode」を搭載。Llama系列とは異なりクローズドソースモデルとして提供され、2026年のAI関連設備投資は1150億〜1350億ドルを予定。",
-      "category": "international"
-    },
-    {
-      "title": "AI Scribes Are Increasing Healthcare Costs, But No One Agrees What to Do About It",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/",
-      "date": "2026-04-08",
-      "summary": "医療システムと保険会社の双方がAIスクライブ（自動文書化ツール）による医療費上昇を認めているが、対策で合意できていない。AIスクライブによる「コーディング強度」の増加が問題で、プロバイダー側のコード最大化とペイヤー側の支払い最小化が「AIコーディング軍拡競争」を引き起こし、脆弱な医療機関と患者に悪影響を及ぼす懸念が高まっている。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "date": "2026-04-08",
-      "summary": "AnthropicのClaude Mythosプレビューが全主要OS・ブラウザで数千のゼロデイ脆弱性を発見したことが詳細に報告された。Webブラウザのエクスプロイトでは4つの脆弱性を連鎖させてレンダラーとOSサンドボックスの両方からの脱出に成功。OpenBSDでは27年前のメモリ破壊脆弱性も特定し、AIのサイバーセキュリティ能力が画期的な水準に達したことを示した。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing the Child Safety Blueprint",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-child-safety-blueprint/",
-      "date": "2026-04-08",
-      "summary": "OpenAIが児童安全ブループリントを公開。AIによる児童性的搾取の増加に対応するため、NCMEC（全米行方不明・被搾取児童センター）や司法長官連合と連携して策定。AIモデルの悪用防止、検出・報告メカニズムの強化、法執行機関との連携改善を柱とする包括的な安全対策フレームワーク。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-      "source": "Meta",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
-      "date": "2026-04-08",
-      "summary": "MetaがMeta Superintelligence Labs初のAIモデル「Muse Spark」を発表。Alexandr Wang率いる新組織の初成果で、Meta AIアプリに搭載。簡単な質問用の高速モードと、法律文書分析などの複雑なタスク用の「Contemplating」モードを備え、複数AIエージェントの並列推論によりGemini Deep ThinkやGPT Proなどのフロンティアモデルと競合。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Scaling How We Build and Test Our Most Advanced AI",
-      "source": "Meta",
-      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
-      "date": "2026-04-08",
-      "summary": "MetaがMuse Sparkの開発に伴い、最先端AIモデルの構築・テスト手法のスケーリングに関する技術ブログを公開。AIインフラの再構築、大規模モデルの効率的なトレーニング手法、品質保証プロセスなど、Meta Superintelligence Labsの開発アプローチを詳述。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Researchers from Google DeepMind, Microsoft, and Columbia Propose Agentic Risk Standard for AI Agents",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/08/agent-hallucinations-protocol-money-financial-system-economy/",
-      "date": "2026-04-08",
-      "summary": "Google DeepMind、Microsoft Research、コロンビア大学、T54 Labsの研究者たちがAIエージェントが自律的に金融取引を行う際のリスクを管理するフレームワーク「Agentic Risk Standard（ARS）」を発表。エスクロー・保険・担保などの金融メカニズムを活用し、AIエージェントに高額取引を委任した際の損失リスクを最大61%削減できることをシミュレーションで示した。",
-      "category": "international"
-    },
-    {
-      "title": "What's new in Foundry Labs – April 2026",
-      "source": "Microsoft AI",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/whats-new-in-foundry-labs---april-2026/4509714",
-      "date": "2026-04-08",
-      "summary": "MicrosoftがAzure AI Foundry Labsの最新アップデートを公開。Arena.aiリーダーボードで3位の高性能テキスト-画像モデル「MAI-Image-2」、エンタープライズグレードの音声認識モデル「MAI-Transcribe-1」、多言語テキスト埋め込みモデル「harrier-oss-v1」の3つの新モデルがパブリックプレビューとして利用可能に。がん研究向けマルチモーダルAI「GigaTIME」も紹介。",
-      "category": "company_blog"
-    },
-    {
-      "title": "The New AI-Powered Google Finance Is Expanding to More Than 100 Countries",
-      "source": "Google",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-expansion/",
-      "date": "2026-04-08",
-      "summary": "GoogleがAI搭載の新しいGoogle Financeを100か国以上に展開すると発表。日本を含む多くの国に現地語対応で提供される。AIによる質問回答機能、テクニカル指標付きチャートツール、刷新されたニュースフィード、企業決算のリアルタイム音声とAI生成インサイトを備える。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SHAPE: Stage-aware Hierarchical Advantage via Potential Estimation for LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06636",
-      "date": "2026-04-08",
-      "authors": "Zhengyang Ai, Zikang Shan, Xiaodong Ai, Jingxuan Tang, Hangkai Hu, Pinyan Lu",
-      "summary": "LLM推論における段階的な信用割り当て機構を提案するフレームワーク。低ポテンシャル状態でのブレークスルーを優先する段階対応アドバンテージ関数を導入し、数学推論ベンチマークで平均3%の精度向上を達成しつつトークン消費を30%削減。",
-      "category": "arxiv"
-    },
-    {
-      "title": "On the Step Length Confounding in LLM Reasoning Data Selection",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06834",
-      "date": "2026-04-08",
-      "authors": "Bing Wang, Rui Miao, Chen Shen, Shaotian Yan, Kaiyuan Liu, Ximing Li, Xiaosong Yuan, Sinan Fan, Jun Zhang, Jieping Ye",
-      "summary": "自然らしさベースのデータ選択をLLM推論データセットに適用すると推論ステップが長いサンプルを系統的に選好する「ステップ長さ交絡」現象を発見。ASLEC-DROPとASLEC-CASLという2つの解決手法を提案し、4つのLLMと5つのベンチマークで有効性を実証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Steering the Verifiability of Multimodal AI Hallucinations",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.06714",
-      "date": "2026-04-08",
-      "authors": "Jianhong Pang, Ruoxi Cheng, Ziyi Ye, Xingjun Ma, Zuxuan Wu, Xuanjing Huang, Yu-Gang Jiang",
-      "summary": "マルチモーダル大規模言語モデルのハルシネーションを「明らかなハルシネーション」と「捉えにくいハルシネーション」に分類し、その検証可能性を制御する手法を提案。4,470件の人間データセットを構築し、活性化空間プローブによる介入手法を開発。",
-      "category": "arxiv"
-    },
-    {
-      "title": "ReDAct: Uncertainty-Aware Deferral for LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.07036",
-      "date": "2026-04-08",
-      "authors": "Dzianis Piatrashyn, Nikita Kotelevskii, Kirill Grishchenkov, Nikita Glazkov, Ivan Nasonov, Ilya Makarov, Timothy Baldwin, Preslav Nakov, Roman Vashurin, Maxim Panov",
-      "summary": "小型モデルをデフォルトで使用し、予測不確実性が閾値を超えた場合のみ大型モデルに判断を委譲する「ReDAct」フレームワークを提案。約15%の決定を大型モデルに委譲するだけで大型モデル単体使用に匹敵する品質を達成しつつ推論コストを大幅に削減。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The ATOM Report: Measuring the Open Language Model Ecosystem",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.07190",
-      "date": "2026-04-08",
-      "authors": "Nathan Lambert, Florian Brand",
-      "summary": "約1,500のオープン言語モデルを対象にオープンソースLMエコシステムの包括的な採用状況を調査した報告書。Hugging Faceのダウンロード数、モデル派生物、推論市場シェアなどを分析し、2025年夏以降に中国モデルが米国モデルを追い越しその差が拡大し続けているトレンドを文書化。",
-      "category": "arxiv"
     }
   ]
 }

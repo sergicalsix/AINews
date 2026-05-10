@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-09 09:00 (JST)",
+  "lastUpdated": "2026-05-10 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI Wins Have Alphabet Poised to Become World's Biggest Company",
+      "title_ja": "AI勝利でAlphabetが時価総額世界1位企業に迫る",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company",
+      "date": "2026-05-10",
+      "summary": "Gemini 3.1の好調とAI Modeの拡大、TPU・クラウドのフルスタック戦略が評価され、Alphabetは時価総額で世界最大企業の座をうかがう位置に到達。NvidiaやMicrosoftとの首位争いが一段と激化していると報じた。",
+      "category": "international"
+    },
+    {
+      "title": "AI isn't actually 'taking' your job. Here's what's happening instead",
+      "title_ja": "AIは仕事を『奪う』のではない――業務の自動化と役割再定義が進行中",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/10/tech/ai-taking-jobs",
+      "date": "2026-05-10",
+      "summary": "Challenger Gray調べでは4月のレイオフ理由トップは2か月連続でAI。だが企業の実態はポジション全廃ではなく業務の一部自動化で、ソフトウェアエンジニアの役割は『ビルダー』へ再定義されつつある。多くの企業はメトリクスやインセンティブを未調整で、人間に必要なスキルを模索中。",
+      "category": "international"
+    },
     {
       "title": "Anthropic reportedly signs $1.8Bn deal with Akamai as global AI compute race intensifies",
       "source": "The Tech Portal",
@@ -8,6 +26,51 @@
       "date": "2026-05-09",
       "summary": "AnthropicがGoogle・SpaceX・AWSに続きAkamaiとも18億ドルのクラウド契約を結び、グローバルなAIコンピュート争奪戦が加速していると報じた。同社は年率売上高300億ドル超への急成長を支えるためインフラ多角化を進めている。",
       "category": "international"
+    },
+    {
+      "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
+      "title_ja": "ByteDance、AIインフラ投資を25%増額し2,000億元へ拡大",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
+      "date": "2026-05-09",
+      "summary": "ByteDanceが2026年のAIインフラ投資予算を昨年末計画の1,600億元から25%増の2,000億元（約294億ドル）に引き上げたとSCMPが報道。TikTok運営の中国テック大手による生成AI設備投資競争の加速を示す動きで、米中ハイパースケーラーとの軍拡競争が一段と激化している。",
+      "category": "international"
+    },
+    {
+      "title": "ECB's Escrivá Says AI Risks Prompt Finance Infrastructure Review",
+      "title_ja": "ECB理事Escrivá氏、AIリスクで金融インフラ全体の点検を提唱",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
+      "date": "2026-05-09",
+      "summary": "ECB政策理事会メンバーで前スペイン中銀総裁のJosé Luis Escrivá氏は、生成AIの普及に伴い金融インフラの強靱性を点検し直す必要があると発言。ステーブルコインのリスクに対する中央銀行の最終的な保証機能（lender/guarantor of last resort）の確立も急務だと訴えた。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic in Talks to Raise New Funding at $1 Trillion Valuation, Plans US IPO in October 2026 to Raise $60B",
+      "title_ja": "Anthropic、評価額1兆ドルでの資金調達と2026年10月の米IPO（$60B規模）計画と報道",
+      "source": "Caproasia",
+      "url": "https://www.caproasia.com/2026/05/09/united-states-ai-research-startup-anthropic-in-talks-to-raise-new-funding-at-1-trillion-valuation-plans-united-states-ipo-in-2026-october-to-raise-60-billion-founded-in-2021-by-7-ex-openai-employe/",
+      "date": "2026-05-09",
+      "summary": "AnthropicがFinancial Times報道に基づき評価額1兆ドル前後での$50B規模の資金調達ラウンドを協議中。2026年10月には米国でのIPO（公開規模$60B）を計画していると報じられた。年間ARRは$30B超でClaude CodeとCowork主導で5倍に成長、$45Bへの拡大を見込む。",
+      "category": "international"
+    },
+    {
+      "title": "Has Amazon Found the Next AWS?",
+      "title_ja": "AmazonはAWSに次ぐ柱を見つけたのか？AIエージェント拡充を分析",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/09/has-amazon-found-the-next-aws/",
+      "date": "2026-05-09",
+      "summary": "Amazon QuickやBedrock、Connectのエージェンティック拡張でAWS的な高粗利クラウドの第2の柱を狙う動きを分析。Claude Opus 4.7のBedrock投入と1Mトークンコンテキスト対応、Tableau/Power BIダッシュボードの自動移行エージェントなどを取り上げた。",
+      "category": "international"
+    },
+    {
+      "title": "Unomas Launches Free 'AI Readiness Score' Tool for Cross-Diagnosis of LLMO and SEO",
+      "title_ja": "合同会社ウノマス、LLMOとSEOを横断診断する無料ツール『AI対応スコア』を正式公開",
+      "source": "CodeCamp Trends",
+      "url": "https://trends.codecamp.jp/blogs/media/news3512",
+      "date": "2026-05-09",
+      "summary": "ウノマスが2026年5月9日、WebサイトのLLMO（AI検索最適化）とSEO対応状況を一括診断できる無料ツール『AI対応スコア』を正式リリース。URL入力で6カテゴリ23項目を最短30秒で自動解析し、AI引用可能性スコア（65点満点）とSEO基盤スコア（35点満点）の2指標を提示。中小企業や士業を主要ターゲットとする。",
+      "category": "japan"
     },
     {
       "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
@@ -1655,66 +1718,6 @@
       "date": "2026-04-24",
       "summary": "Alphabetが4月24日、Anthropicへ最大400億ドルを投資する戦略契約を発表。即時100億ドル（評価額3,500億ドル）を投じ、業績マイルストーン達成時にさらに300億ドルを追加。GoogleはAnthropicへ今後5年間で5GWのTPU計算容量を提供。同週にAmazonが追加した50億ドル投資（5GW分）と合わせ、Anthropicは合計10GWの計算基盤を確保した。",
       "category": "international"
-    },
-    {
-      "title": "Sakana AI Launches Beta of 'Sakana Fugu' Multi-Agent Orchestration System",
-      "title_ja": "Sakana AI、マルチエージェント・オーケストレーションシステム『Sakana Fugu』のβテストを開始",
-      "source": "Sakana AI",
-      "url": "https://sakana.ai/fugu-beta/",
-      "date": "2026-04-24",
-      "summary": "Sakana AIが商用フラッグシップ製品「Sakana Fugu」のβテスト募集を開始。OpenAI、Google、AnthropicなどフロンティアモデルをタスクごとにルーティングするマルチエージェントオーケストレーションでICLR 2026採択論文「Trinity」「Conductor」を基盤とする。SWE-Pro、GPQA-D、ALE-Benchで最先端性能を達成。低レイテンシ向け「Mini」と高性能向け「Ultra」の2つの変種を提供しOpenAI互換APIで利用可能。",
-      "category": "japan"
-    },
-    {
-      "title": "DeepSeek Unveils V4 Model with Rock-Bottom Prices and Tight Huawei Chip Integration",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/24/deepseek-v4-ai-model-price-performance-china-open-source/",
-      "date": "2026-04-24",
-      "summary": "DeepSeekが4月24日にV4モデルを公式リリース。1.6兆パラメータの「V4 Pro」と高効率「V4 Flash」をラインアップし、ハイブリッドアテンション機構と100万トークンコンテキストを採用。トークン単価は西側主要モデルの数分の一に抑え、Huawei Ascend 910C/920上で最適化動作する。中国製ハードウェアへの依存度を高めることで米中AIサプライチェーン分断時代の戦略的重要モデルとなった。",
-      "category": "international"
-    },
-    {
-      "title": "デジタル庁、ガバメントAI「源内」をOSSとして公開──18万人の政府職員大規模実証の一環",
-      "source": "Impress Watch",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2104549.html",
-      "date": "2026-04-24",
-      "summary": "デジタル庁が4月24日、政府生成AI利用環境「源内（Gennai）」のWebインターフェースと主要AIアプリの開発テンプレートをGitHubでMITライセンスのもと無償公開した。商用利用も可能で、地方自治体や民間企業への展開を後押し。2026年5月から2027年3月まで全府省庁約18万人の政府職員を対象とした大規模実証（リリース2.0）を予定し、国産LLMの本格運用と高度AIアプリ開発を加速する。",
-      "category": "japan"
-    },
-    {
-      "title": "NEC Announces Strategic Collaboration with Anthropic Focused on Enterprise AI in Japan",
-      "title_ja": "NEC、Anthropicとの戦略的協業を発表——エンタープライズAIで日本市場を強化",
-      "source": "NEC",
-      "url": "https://www.nec.com/en/press/202604/global_20260423_01.html",
-      "date": "2026-04-23",
-      "summary": "NECが4月23日、Anthropicとの戦略的協業を正式発表。Claude Cowork（社内業務向け）とClaude Code（エンジニア向け）をグループ全体に展開し、Client Zero戦略の一環としてセキュリティオペレーションセンターサービスへもClaudeを統合。日本企業向けの安全な業界特化型AIソリューションをAnthropicと共同提供する。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI Announces GPT-5.5 with Strongest Agentic Capabilities to Date",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
-      "date": "2026-04-23",
-      "summary": "OpenAIが4月23日、最新フロンティアモデル「GPT-5.5」を発表。エージェント型コーディング、コンピュータ使用、長期推論ワークフローに大幅な改善を施したと説明し、エンタープライズ知識業務とコーディングをターゲットに。サイバーリスク用の強化分類器も同時実装し、Amazon Bedrock経由でも提供開始。AWSにCodexおよびManaged Agentsも投入された。",
-      "category": "international"
-    },
-    {
-      "title": "Large Language Models Are Not the Problem",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.22071",
-      "date": "2026-04-23",
-      "authors": "Anonymous",
-      "summary": "「LLMがあなたの研究貢献を再現できるなら、問題はLLMではない」と主張するポジションペーパー。研究者がAIに対して抱く不安の多くは「機械が自分の仕事を代替できる」という恐怖に集約されると指摘し、学術コミュニティが評価する“貢献”の本質を再考すべきだと提起。AI時代における研究のあり方を問う議論を呼んでいる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.22861",
-      "date": "2026-04-23",
-      "authors": "Anonymous Authors",
-      "summary": "学術文献からの細粒度情報検索を行うLLMエージェント「IntrAgent」を提案。新タスク「IntraView」では文献内のサブセクション単位で根拠付き情報抽出を行い、最先端のRAGおよび研究エージェントベースラインに対して平均13.2%高いクロスドメイン精度を達成。文献レビュー支援や科学的発見の自動化に向けた基盤技術として位置付けられる。",
-      "category": "arxiv"
     }
   ]
 }

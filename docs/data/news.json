@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-10 09:00 (JST)",
+  "lastUpdated": "2026-05-11 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company/",
+      "date": "2026-05-11",
+      "summary": "OpenAIが、19の投資ファーム・コンサル・SIerと組んで設立した「OpenAI Deployment Company」を発表。40億ドル超の初期出資でフロンティアAIのForward Deployed Engineerを企業に常駐させ、重要業務の再設計と運用化を支援する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Acquires Tomoro to Boost Private Equity-Backed AI Venture",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
+      "date": "2026-05-11",
+      "summary": "OpenAIがフォワード・デプロイド・エンジニア約150人を擁する応用AIコンサル企業Tomoroの買収に合意。新設のOpenAI Deployment Companyの中核チームとして、Tesco・Virgin Atlantic・Supercellなど大企業向けにAI実装を加速させる狙い。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI launches AI consulting arm valued at $14 billion",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/11/openai-deployco-private-equity",
+      "date": "2026-05-11",
+      "summary": "OpenAIがPEファーム主導の「The Deployment Company」(別称DeployCo)を約140億ドル評価で立ち上げ。TPGがリード、Advent・Bain Capital・Brookfieldが共同創設パートナー、SoftBankやGoldman Sachsなど19社が出資した4億ドル超の資金で企業向けAI展開を主導する。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+      "date": "2026-05-11",
+      "summary": "OpenAIのCRODenise DresserがCNBCで、企業向け売上は既に全体の40%超を占めると説明。年末までに消費者向けと並ぶ規模に達する見通しを示し、Tomoro買収とDeployment Companyで企業ワークフローへの組み込みを加速する。",
+      "category": "international"
+    },
+    {
+      "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
+      "date": "2026-05-11",
+      "summary": "AIチップメーカーCerebrasがIPO価格レンジを150〜160ドルに引き上げ、最大48億ドルを調達する公算。フルダイリュート時価総額は最大488億ドルに達し、2月の23億ドル調達ラウンドから倍以上に上昇。需要は売出株式の20倍超で、5月14日にNASDAQ上場予定。",
+      "category": "international"
+    },
+    {
+      "title": "Google DeepMind's powerful AI co-mathematician",
+      "source": "The Rundown AI",
+      "url": "https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician",
+      "date": "2026-05-11",
+      "summary": "Google DeepMindがGemini 3.1ベースのエージェント型「AI Co-Mathematician」を発表。コーディネータエージェントが研究を並列ワークストリームに分割し、サブエージェントがコード作成・文献検索・証明試行を実行。難関数学ベンチマークで最高記録を更新し、ある研究者は同システムの拒否された証明戦略から未解決問題を解いた。",
+      "category": "company_blog"
+    },
     {
       "title": "AI Wins Have Alphabet Poised to Become World's Biggest Company",
       "title_ja": "AI勝利でAlphabetが時価総額世界1位企業に迫る",
@@ -18,6 +66,22 @@
       "date": "2026-05-10",
       "summary": "Challenger Gray調べでは4月のレイオフ理由トップは2か月連続でAI。だが企業の実態はポジション全廃ではなく業務の一部自動化で、ソフトウェアエンジニアの役割は『ビルダー』へ再定義されつつある。多くの企業はメトリクスやインセンティブを未調整で、人間に必要なスキルを模索中。",
       "category": "international"
+    },
+    {
+      "title": "Japan PM's office deepens ties with U.S. AI defense firm",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/World-News/2026/05/10/japan-intergrating-ai-military-intelligence-system/5731778457052/",
+      "date": "2026-05-10",
+      "summary": "高市早苗首相とPalantir共同創設者Peter Thiel氏の首相官邸での会談を契機に、日本がPalantir型AI軍事インテリジェンスを国家安全保障に組み込むかが議論に。国家情報会議および恒常的な国家情報局の新設に向け、AIによる脅威分析の高速化が焦点となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan launches national push to train AI, chip workforce",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/World-News/2026/05/10/japan-cross-ministerial-task-force-train-workders/8941778457833/",
+      "date": "2026-05-10",
+      "summary": "日本政府がAI・半導体など戦略産業向け人材育成のための府省横断タスクフォースを設置する方針を明らかに。Sony・TSMCの次世代イメージセンサー協業など産業基盤の強化と歩調を合わせ、AI人材確保を急ぐ。",
+      "category": "japan"
     },
     {
       "title": "Anthropic reportedly signs $1.8Bn deal with Akamai as global AI compute race intensifies",
@@ -71,6 +135,15 @@
       "date": "2026-05-09",
       "summary": "ウノマスが2026年5月9日、WebサイトのLLMO（AI検索最適化）とSEO対応状況を一括診断できる無料ツール『AI対応スコア』を正式リリース。URL入力で6カテゴリ23項目を最短30秒で自動解析し、AI引用可能性スコア（65点満点）とSEO基盤スコア（35点満点）の2指標を提示。中小企業や士業を主要ターゲットとする。",
       "category": "japan"
+    },
+    {
+      "title": "Multi-Dimensional Evaluation of LLMs for Grammatical Error Correction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.07635",
+      "date": "2026-05-09",
+      "authors": "GEC Evaluation authors",
+      "summary": "最新世代LLMによる文法誤り訂正(GEC)を多次元評価する研究(AIED 2026採択)。GPT-4oのファインチューンはゼロショットを22.07 ERRANT F0.5上回り、教育用途ではゼロショット運用が不適切と結論。複数LLMの組合せと参照ベース指標の限界も検証。",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
@@ -241,6 +314,42 @@
       "date": "2026-05-08",
       "summary": "DeepMindは『Measuring Progress Toward AGI: A Cognitive Taxonomy』を公開。心理学・神経科学・認知科学の知見を結集し、汎用知能に重要な10の認知能力を体系化した枠組みを提示。現在のAIシステムを科学的に評価し、AGIへの進歩を客観的に測定する基盤を提供する。",
       "category": "company_blog"
+    },
+    {
+      "title": "SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.07001",
+      "date": "2026-05-08",
+      "authors": "SmellBench authors",
+      "summary": "LLMエージェントによるアーキテクチャレベルのコードスメル修復を最初に体系評価したベンチマーク。GPT・Claude・Gemini・Mistralを含む4系統11構成のエージェントを、65個の重度なアーキテクチャ的スメルで比較し、ツール使用・推論戦略・修正成功率の差を明らかにした。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.07153",
+      "date": "2026-05-08",
+      "authors": "Beyond Reasoning authors",
+      "summary": "強化学習が推論能力だけでなく、事前学習で内在化したパラメトリック知識の直接想起をも向上させることを示した研究。3系統のモデルファミリと複数の事実QAベンチマークで、平均約27%の相対的改善を確認し、RLが知識リトリーバル自体を引き出す効果を分析。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Learning Agent Routing From Early Experience",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.07180",
+      "date": "2026-05-08",
+      "authors": "Learning Agent Routing authors",
+      "summary": "クエリを直接LLM推論で答えるか、エージェントに委ねるかを判定する訓練不要のルーティング枠組「BoundaryRouter」を提案。少数のseedタスク上で両系統を走らせた経験メモリと、ルーブリック指針付き推論で意思決定し、コスト・遅延・正答率のバランスを最適化する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Beyond LoRA vs. Full Fine-Tuning: Gradient-Guided Optimizer Routing for LLM Adaptation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.07111",
+      "date": "2026-05-08",
+      "authors": "Optimizer Routing authors",
+      "summary": "LLM適応におけるLoRAとフルファインチューンの二項対立を超え、層ごとの勾配情報に基づきオプティマイザを動的に選択するルーティング手法を提案。タスク毎に最適な学習戦略を選ぶことで、低ランク適応に比して下流性能を改善しつつ計算量を抑制する。",
+      "category": "arxiv"
     },
     {
       "title": "Advancing voice intelligence with new models in the API",
@@ -1606,118 +1715,6 @@
       "authors": "Various Researchers",
       "summary": "近年提案されたmixed-policy最適化手法（SFTとRLを混合する手法）の多くがDeepSpeedとOpenRLHFのバグに起因する誤ったベースラインに依存していたことを指摘。修正済み実験の下では、シンプルな「SFT先行→RL後行（SFT-then-RL）」がmixed-policy法を上回ることを示し、推論用ポストトレーニングのベストプラクティスを再定義した。再現性危機への警鐘も含む実証研究。",
       "category": "arxiv"
-    },
-    {
-      "title": "GMO Pepabo Launches Japan's First Cloud Service Supporting Self-Improving AI Agent 'Hermes Agent'",
-      "title_ja": "GMOペパボ、国内初の自己成長型AIエージェント『Hermes Agent』対応クラウドサービスを提供開始",
-      "source": "Impress Watch",
-      "url": "https://www.watch.impress.co.jp/docs/news/2105785.html",
-      "date": "2026-04-28",
-      "summary": "GMOペパボは2026年4月28日、Nous Research開発のオープンソース自律型AIエージェント『Hermes Agent』に対応した『ロリポップ！AIエージェントクラウド byGMOペパボ』を国内ホスティングのマネージドサービスとして初めて提供開始した。月額1,200円で複雑なサーバー構築なしに24時間稼働可能。",
-      "category": "japan"
-    },
-    {
-      "title": "NTT to Triple Domestic Data Center Capacity by FY2033 to Meet AI Demand",
-      "title_ja": "NTT、AI需要対応でデータセンター容量を2033年度に3倍超へ増強",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/28/news064.html",
-      "date": "2026-04-28",
-      "summary": "NTTはAI需要の急拡大に対応するため、国内データセンターのIT電力容量を現状の約300MWから2033年度に3倍超の約1GWへ拡張する計画を明らかにした。島田明社長は『推論用途が広がる』と述べ、AIネイティブインフラ『AIOWN』の展開を進める。",
-      "category": "japan"
-    },
-    {
-      "title": "Our commitment to community safety",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/our-commitment-to-community-safety/",
-      "date": "2026-04-28",
-      "summary": "OpenAIがコミュニティ安全への取り組みを発表。乱射事件、公人への脅迫、爆発物計画など現実世界の暴力に関連する会話をChatGPTがどう識別し対応するかを説明し、暴力支援に対するゼロトレランス方針と関係機関との連携を強調した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Unlocking human ambition to drive business growth with AI",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/",
-      "date": "2026-04-28",
-      "summary": "Microsoft商用ビジネスCEOのJudson AlthoffがAIによる業務最適化と再構築の事例を紹介。BMW Groupが世界規模でMicrosoft 365 Copilotを大規模導入し、Accentureが74万人超の従業員にCopilotを展開した取り組みなど、Frontier Firm化に向けた顧客事例を解説。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic Pledges to Keep Claude Ad-Free, Citing Misalignment with Helpful AI Mission",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-ad-free-commitment",
-      "date": "2026-04-27",
-      "summary": "Anthropicが広告モデルを採用しないことを正式表明し、その理由として「広告のインセンティブは真に役立つAIアシスタントの提供と相容れない」と説明。ユーザーの信頼を損なうことなくClaudeへのアクセスを拡大する代替手段を検討中であることも明らかにした。同日、シドニーオフィス開設も発表しており、Anthropicの企業哲学を打ち出す重要な節目となった。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Can Multimodal Large Language Models Truly Understand Small Objects?",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.22884",
-      "date": "2026-04-27",
-      "authors": "Anonymous, et al.",
-      "summary": "マルチモーダル大規模言語モデル（MLLM）の小物体理解能力を評価する初の包括的ベンチマーク「SOUBench」を提案。6つのサブタスクと3つのシナリオにわたる18,204件のVQAペアを構築し、GPT-5、Gemini 3.1、Claude Opus 4.7など最新MLLMでも小物体検出・属性認識・空間関係理解で大きな性能低下が見られることを実証した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.23001",
-      "date": "2026-04-27",
-      "authors": "Multiple authors",
-      "summary": "ロボティクス分野で急速に発展するVision-Language-Action（VLA）モデルの研究動向を網羅したサーベイ論文。主要データセット、ベンチマーク、合成データエンジンを体系化し、ヒューマノイドロボットや産業用マニピュレータ向け基盤モデルの設計指針を提示。VLAスケーリング法則と現実環境への汎化評価の課題を整理している。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Microsoft and OpenAI Announce Next Phase of Partnership, Removing Cloud Exclusivity and AGI Clause",
-      "title_ja": "Microsoftと OpenAI が提携を再構築──クラウド独占とAGI条項を撤廃",
-      "source": "Microsoft Blog",
-      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
-      "date": "2026-04-27",
-      "summary": "Microsoftが4月27日、OpenAIとの提携契約を改訂したことを発表。Azureクラウド独占条項を撤廃し、OpenAIはAWSやGoogle Cloud等の他クラウドへも自社製品を提供可能になる。Microsoftが受けていたOpenAIからの収益分配は2030年まで継続するが上限を設定。AGI（汎用人工知能）達成判定に関する条項も撤廃され、両社の関係はより独立した協業に進化した。MicrosoftはOpenAI知財に対するライセンスを2032年まで維持するが非排他的となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Breaks Cloud Exclusivity with Microsoft, Caps Revenue Share Payments",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
-      "date": "2026-04-27",
-      "summary": "CNBCがMicrosoft-OpenAI提携改訂の詳細を報道。2019年から続いてきたOpenAI製品のAzure独占配信が解除され、Amazonやその他クラウドへの展開が可能に。Microsoftが負担していた収益分配支払いも停止し、提携関係はより対等な構造に再構成された。OpenAIの独立性確保とMicrosoftの投資保護を両立する歴史的な合意とされる。",
-      "category": "international"
-    },
-    {
-      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.24954",
-      "date": "2026-04-27",
-      "authors": "NVIDIA Nemotron Team",
-      "summary": "NVIDIAが4月27日に投稿した「Nemotron 3 Nano Omni」の技術報告。マルチモーダルトークン削減技術により同規模モデル比で推論レイテンシを大幅低減し、数倍のスループットを達成。視覚・音声・テキストを統合的に扱い、効率的かつオープンに公開された30Bパラメータ級MoEモデルとして、Hugging FaceでBF16・FP8・NVFP4の各精度版が提供されている。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.23374",
-      "date": "2026-04-25",
-      "authors": "Various Researchers",
-      "summary": "LLMエージェント向けのテイントトラッキング手法「NeuroTaint」を提案。意味変換、因果的影響、クロスセッション永続性を考慮し、従来の情報フロー追跡では捕捉できないエージェント特有のリーク経路を可視化する。プロンプトインジェクションやデータ漏えいリスクのアセスメントに有用なAIセキュリティ研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic and NEC Partner to Build One of Japan's Largest AI Engineering Workforces",
-      "title_ja": "Anthropic、NECと提携——Claudeで日本最大規模のAIネイティブエンジニア組織を構築",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-nec",
-      "date": "2026-04-24",
-      "summary": "AnthropicとNECが包括的提携を発表。NECグループの全世界約3万人の従業員がClaude Codeを業務に活用し、日本最大規模のAIネイティブエンジニア組織を構築する。NECはAnthropic初の日本拠点グローバルパートナーとなり、金融・製造・地方自治体向けの業界特化型AIプロダクトを共同開発。Center of Excellenceを設立し、人材育成も推進する。",
-      "category": "japan"
-    },
-    {
-      "title": "Google to Invest Up to $40 Billion in Anthropic in Cash and Compute",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "date": "2026-04-24",
-      "summary": "Alphabetが4月24日、Anthropicへ最大400億ドルを投資する戦略契約を発表。即時100億ドル（評価額3,500億ドル）を投じ、業績マイルストーン達成時にさらに300億ドルを追加。GoogleはAnthropicへ今後5年間で5GWのTPU計算容量を提供。同週にAmazonが追加した50億ドル投資（5GW分）と合わせ、Anthropicは合計10GWの計算基盤を確保した。",
-      "category": "international"
     }
   ]
 }

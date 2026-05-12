@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11 09:00 (JST)",
+  "lastUpdated": "2026-05-12 09:00 (JST)",
   "articles": [
+    {
+      "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
+      "title_ja": "Anthropic、法務業界向け「Claude For Legal」を正式リリース",
+      "source": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
+      "date": "2026-05-12",
+      "summary": "Anthropicが法務業界向けの包括的サービス「Claude For Legal」を正式に立ち上げ。契約レビューや調査、文書作成などの法務ワークフローに特化した機能を備え、リーガルテック市場を再編する可能性があると報じられた。",
+      "category": "international"
+    },
+    {
+      "title": "Google launches Googlebooks: AI-first laptops combining Gemini, Android and ChromeOS",
+      "title_ja": "Google、Geminiを中核に据えたAIファースト・ラップトップ「Googlebooks」を発表",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/technology/story/google-launches-googlebooks-ai-first-laptops-that-combines-gemini-android-and-chromeos-531167-2026-05-12",
+      "date": "2026-05-12",
+      "summary": "Googleが新カテゴリーのノートPC「Googlebooks」を発表。AndroidエコシステムとChromeOS、フラッグシップAIモデルGeminiを統合し、Gemini時代を見据えたハードウェア戦略を打ち出した。",
+      "category": "international"
+    },
+    {
+      "title": "Shaping the future of AI interaction by reimagining the mouse pointer",
+      "title_ja": "Google DeepMind、AIネイティブなカーソル「Magic Pointer」を発表",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "date": "2026-05-12",
+      "summary": "Google DeepMindが、画面上の文脈を認識し関連アクションを即座に提案する新カーソル「Magic Pointer」を発表。Chromeや新型Googlebookラップトップに統合され、ユーザーがプロンプトを書かずにポインタでGeminiに問い合わせ可能になる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "ELYZA Works with KDDI が初の動画広告を配信開始",
+      "title_ja": "ELYZA、KDDIが再販する法人向け生成AI活用ツールの初TVCM配信を開始",
+      "source": "エキサイトニュース",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-05-12-47565-72/",
+      "date": "2026-05-12",
+      "summary": "ELYZAとKDDIが提供する法人向け生成AI活用ツール「ELYZA Works with KDDI」が、初の動画広告（TVCM）の配信を開始した。日本企業の生成AI実装拡大を象徴する取り組みとして注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "Windows 11 May 2026 Update introduces AI agent monitoring, Xbox mode",
+      "title_ja": "Microsoft、Windows 11 5月アップデートを5月12日に配信 AIエージェント監視機能などを追加",
+      "source": "MSN / Microsoft",
+      "url": "https://www.msn.com/en-us/news/other/windows-11-may-2026-update-pairs-new-features-with-ai-rethink/gm-GMCB6A6D01",
+      "date": "2026-05-12",
+      "summary": "Microsoftが、Windows 11の2026年5月セキュリティ更新を5月12日に配信。タスクバーでのAIエージェント監視、Xboxモード、OneDriveのセマンティック検索、File Explorerの強化などを追加し、Copilotボタンの整理など全体的なAI体験の見直しを実施。",
+      "category": "international"
+    },
     {
       "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
       "source": "OpenAI",
@@ -48,6 +93,43 @@
       "date": "2026-05-11",
       "summary": "Google DeepMindがGemini 3.1ベースのエージェント型「AI Co-Mathematician」を発表。コーディネータエージェントが研究を並列ワークストリームに分割し、サブエージェントがコード作成・文献検索・証明試行を実行。難関数学ベンチマークで最高記録を更新し、ある研究者は同システムの拒否された証明戦略から未解決問題を解いた。",
       "category": "company_blog"
+    },
+    {
+      "title": "Google catches hackers using AI to break into computers, warns of new threat",
+      "title_ja": "Google、AIを悪用したサイバー攻撃を検知 Anthropicの新モデル「Mythos」にも警鐘",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/",
+      "date": "2026-05-11",
+      "summary": "Googleが、AIを利用してコンピュータに侵入するハッカーを実際に検知したと警告。Anthropicが「驚異的なハッキング能力」を持つ新モデルMythosを限定公開し、Project Glasswingを通じて重要インフラ保護に向けた協力体制を構築している状況を報じた。",
+      "category": "international"
+    },
+    {
+      "title": "コニカミノルタジャパン、東京都から都立学校向け生成AIサービス「都立AI」の2026年度業務を受託",
+      "title_ja": "コニカミノルタジャパン、東京都「都立AI」の2026年度改修・保守・運用業務を受託",
+      "source": "ICT教育ニュース",
+      "url": "https://ict-enews.net/2026/05/11-2/",
+      "date": "2026-05-11",
+      "summary": "コニカミノルタジャパンが、東京都教育委員会から都立学校向け生成AIサービス「都立AI」の2026年度改修・保守・運用等業務を受託したと発表。都立学校での生成AI活用の本格運用を支える体制が整備される。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT DATAが全社を挙げて取り組むAIとサステナビリティのこれから",
+      "title_ja": "NTTデータ、全社横断のAI×サステナビリティ戦略を公開",
+      "source": "NTT DATA DATA INSIGHT",
+      "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0511/",
+      "date": "2026-05-11",
+      "summary": "NTTデータが、生成AIを活用した業務変革とサステナビリティの両立に向けた全社的な取り組みを公開。AIファースト企業への変革と、CO2排出削減・社会課題解決を結びつける戦略の方向性を示した。",
+      "category": "japan"
+    },
+    {
+      "title": "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics",
+      "title_ja": "LLMエージェントのトークン経済学：計算機科学と経済学の両側面からの研究",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.09104",
+      "date": "2026-05-11",
+      "summary": "本論文は、エージェント型AIにおけるトークンを核となる経済単位として捉え、その指数関数的な消費が計算・協調・セキュリティの観点でボトルネックになることを示す。計算機科学と経済学を融合した二重の視点から分析を行い、持続可能なエージェント運用の設計指針を提案する。",
+      "authors": "anonymous (arXiv:2605.09104)",
+      "category": "arxiv"
     },
     {
       "title": "AI Wins Have Alphabet Poised to Become World's Biggest Company",
@@ -1639,82 +1721,6 @@
       "date": "2026-04-29",
       "summary": "BMW i Venturesが3億ドルの新ファンドを立ち上げ、自動車業界をAIが再構築するという投資テーゼを掲げた。物理AI、エンタープライズソフトウェア、サプライチェーン技術への重点投資で、自動車OEMによるAI戦略の本格化を象徴する。",
       "category": "international"
-    },
-    {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
-      "date": "2026-04-29",
-      "summary": "OpenAIがStargateの進捗を発表。2025年1月の発表以来、米国で10GWのAIインフラを確保する目標を1年余りで超過し、過去90日で3GWを追加。AGI実現に向けたコンピュート基盤拡張の戦略と次のフェーズについて説明している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.25847",
-      "date": "2026-04-28",
-      "authors": "Jianghao Lin, et al.",
-      "summary": "最適化モデリング（線形計画・整数計画など）のタスクに、外部メモリと分散討論機構を備えたマルチエージェント手法「Agora」を適用。単一LLMの内省（Soliloquy）から複数エージェントが論証を交換する「広場（Agora）」への移行が、定式化精度と解の質を大幅向上させることを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI Models, Codex, and Managed Agents Launch on AWS via Amazon Bedrock",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-on-aws/",
-      "date": "2026-04-28",
-      "summary": "OpenAIとAWSが4月28日、戦略的提携の拡大を発表。GPT-5.5を含む最新モデル、コーディングエージェントCodex、Managed Agentsの3製品をAmazon Bedrock経由で提供開始。Microsoftとの独占関係終了に伴い、エンタープライズが既存のAWS環境上でOpenAI機能を直接構築できるようになった。OpenAIにとって500億ドル規模のクラウド再編の中核施策となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Releases Symphony: Open-Source Spec for Codex Orchestration via Linear",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony/",
-      "date": "2026-04-28",
-      "summary": "OpenAIがコーディングエージェントの統制プレーンとなるオープンソース仕様「Symphony」を4月28日公開。Linearなどのプロジェクト管理ボードを起点に、Codex実行を独立した実装ランへ自動分解しチームが「コーディングエージェントを監督する」役割から「作業を管理する」役割へ移行する。OpenAI内のチームでは導入後3週間でマージPR数が500%増加した実績も報告された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic Releases 9 Claude Connectors for Creative Tools Including Adobe, Blender, Autodesk and Ableton",
-      "title_ja": "Anthropicが Adobe/Blender/Autodesk/Ableton 等9つのクリエイティブ連携を追加、Claudeから直接操作可能に",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
-      "date": "2026-04-28",
-      "summary": "Anthropicが4月28日、「Claude for Creative Work」を発表し、Adobe Creative Cloud、Blender、Autodesk Fusion、Ableton、Splice、Affinity by Canva、Resolume、SketchUpの9つのコネクタを公開。Model Context Protocol (MCP)を介してClaudeがプロ向けクリエイティブソフトを直接操作できる。AdobeコネクタはPhotoshop、Illustrator、Premiere Pro、Lightroom、Firefly、InDesign、Adobe Stock等で50超のツールにアクセス可能。RISD、Ringling、Goldsmiths芸術大学が学術ローンチパートナー。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Adobe Launches Creative Cloud Connector for Claude, Bringing 50+ Pro Tools to Anthropic AI",
-      "source": "Adobe Blog",
-      "url": "https://blog.adobe.com/en/publish/2026/04/28/adobe-for-creativity-connector",
-      "date": "2026-04-28",
-      "summary": "Adobeが4月28日、Anthropic Claude向けの「Adobe for creativity」コネクタを全世界で提供開始。Photoshop、Illustrator、Firefly、Express、Premiere、Lightroom、InDesign、Stockに跨がる50以上のプロ用ツールにClaudeから直接アクセス可能となり、複数アプリをまたぐマルチステップのクリエイティブワークフローをAIが自動編成する。ClaudeアカウントとAdobeサインインによりプロ機能と作業の永続化が利用可能になる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Elon Musk Testifies in OpenAI Lawsuit, Seeks $130B and Return to Nonprofit Structure",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai",
-      "date": "2026-04-28",
-      "summary": "イーロン・マスク氏が4月28日、OpenAIとサム・アルトマンCEOらに対する訴訟で証言。OpenAIが当初の非営利ミッションを裏切り、自身を欺いたと主張し、1,300億ドル規模の損害賠償と非営利組織への回帰を求めている。AI業界全体の在り方を問う裁判として注目を集め、提携・再編が進む大手AI各社の事業環境にも波及する可能性がある。",
-      "category": "international"
-    },
-    {
-      "title": "Don't Make the LLM Read the Graph: Make the Graph Think — Belief Graphs for Multi-Agent LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.23057",
-      "date": "2026-04-28",
-      "authors": "Various Researchers",
-      "summary": "協調型カードゲームHanabi上で、明示的な「信念グラフ（belief graph）」がマルチエージェントLLMの協調推論をどの程度向上させるかを3,000試行超で検証。LLMにグラフをそのまま読ませるのではなく、グラフ側で推論を進めて結果を返す設計が、4種のLLMファミリーで一貫して性能を改善することを示した。エージェント協調設計におけるアーキテクチャ統合の指針を提示する研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.23747",
-      "date": "2026-04-28",
-      "authors": "Various Researchers",
-      "summary": "近年提案されたmixed-policy最適化手法（SFTとRLを混合する手法）の多くがDeepSpeedとOpenRLHFのバグに起因する誤ったベースラインに依存していたことを指摘。修正済み実験の下では、シンプルな「SFT先行→RL後行（SFT-then-RL）」がmixed-policy法を上回ることを示し、推論用ポストトレーニングのベストプラクティスを再定義した。再現性危機への警鐘も含む実証研究。",
-      "category": "arxiv"
     }
   ]
 }

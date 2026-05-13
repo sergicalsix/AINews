@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-12 09:00 (JST)",
+  "lastUpdated": "2026-05-13 09:00 (JST)",
   "articles": [
+    {
+      "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
+      "title_ja": "Nvidia、英スタートアップ「Ineffable Intelligence」と提携し超知能AIの開発を加速",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
+      "date": "2026-05-13",
+      "summary": "Nvidiaが、Google DeepMindの強化学習リードを務めた研究者が創業した英スタートアップIneffable Intelligenceとの提携を発表。超知能（superintelligence）のAIシステム開発に向けた共同投資・コラボレーションで、AIインフラの「次のフロンティア」を目指す。",
+      "category": "international"
+    },
     {
       "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
       "title_ja": "Anthropic、法務業界向け「Claude For Legal」を正式リリース",
@@ -45,6 +54,42 @@
       "date": "2026-05-12",
       "summary": "Microsoftが、Windows 11の2026年5月セキュリティ更新を5月12日に配信。タスクバーでのAIエージェント監視、Xboxモード、OneDriveのセマンティック検索、File Explorerの強化などを追加し、Copilotボタンの整理など全体的なAI体験の見直しを実施。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic In Talks to Raise $30 Billion at $900 Billion Valuation",
+      "title_ja": "Anthropic、評価額9000億ドルで300億ドル調達協議中とBloombergが報道",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
+      "date": "2026-05-12",
+      "summary": "Anthropicが評価額9000億ドル超で少なくとも300億ドルの新規資金調達について投資家と早期協議中とBloombergが報じた。同社のランレート売上は約300億ドルに達し、2025年末の約90億ドルから急成長している。ラウンドは今月末にも決着する可能性があるが、ターム・シートはまだ署名されていない。",
+      "category": "international"
+    },
+    {
+      "title": "「楽天GORA」、対話形式で最適なゴルフ場を提案するAIエージェント「楽天GORA AIアシスタント」を本格提供開始",
+      "source": "楽天グループ プレスリリース",
+      "url": "https://corp.rakuten.co.jp/news/press/2026/0512_01.html",
+      "date": "2026-05-12",
+      "summary": "楽天グループはゴルフ場予約サービス「楽天GORA」において、ユーザーの希望条件を対話形式で受け取り最適なゴルフ場を提案する生成AIエージェント「楽天GORA AIアシスタント」を5月12日から本格提供開始。レジャー領域における生成AI実装の代表事例として注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
+      "title_ja": "Thomson ReutersとAnthropic、提携を拡大しClaudeを法務AI「CoCounsel Legal」と接続",
+      "source": "Thomson Reuters",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/may/thomson-reuters-and-anthropic-expand-partnership-to-connect-claude-with-cocounsel-legal",
+      "date": "2026-05-12",
+      "summary": "Thomson ReutersはAnthropicとの提携拡大を発表し、新たなMCPコネクターでClaudeを主力法務AI「CoCounsel Legal」と直接接続する。次世代CoCounsel LegalはAnthropicのClaude Agent SDK上で再構築され、ワークフロー中の計画立案・ツール選択・権威ある情報取得・適応的な実行を行うシステムへと進化する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies",
+      "title_ja": "マルチエージェントLLMの通信トポロジーに対する後継表現スペクトル診断手法",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.11453",
+      "date": "2026-05-12",
+      "summary": "マルチエージェントLLMの通信トポロジー（chain/star/mesh等）が推論性能に与える影響を、後継表現 M=(I-γP)^-1 のスペクトル半径ρ・スペクトルギャップΔ・条件数κの3指標で事前診断する構造的手法を提案。chain/star/meshについて閉形式スペクトルを導出し、Qwen2.5-7B-Instructを用いた12ステップの状態追跡タスクで100試行検証を実施した。",
+      "authors": "Ethan David James Park, Dalal Alharthi",
+      "category": "arxiv"
     },
     {
       "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
@@ -1680,47 +1725,6 @@
       "authors": "Multiple authors",
       "summary": "LLMエージェントのみで構成されるFacebook風SNSプラットフォーム「Moltbook」上での社会学的解析を初めて実施。4月14日〜28日の14日間スナップショットで18万4,203投稿・46万5,136コメントを収集し、合成社会グラフ上に出現する派閥形成・情報拡散・規範生成のパターンを定量化。実世界SNSと類似する集団極性化や同質化が短期間で再現され、AIエージェント社会の創発挙動を研究する基盤を提示した。",
       "category": "arxiv"
-    },
-    {
-      "title": "SoftBank Reportedly Plans $100B IPO for New AI-Robotics Spinout 'Roze' to Build Data Centers",
-      "title_ja": "ソフトバンク、AI×ロボティクスの新会社「Roze」設立し1,000億ドル規模で米国IPO計画と報道",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "date": "2026-04-29",
-      "summary": "TechCrunchが4月29日、ソフトバンクグループが新たなAI・ロボティクスのスピンアウト企業「Roze」を設立し、米国IPOで最大1,000億ドルの評価額を目指していると報道。Rozeは自律ロボットによるデータセンター建設・組立・溶接の自動化を担い、AIインフラ構築の高速化と低コスト化を狙う。孫正義CEOが主導し、ABB Roboticsの買収資産を統合する見込みで、2026年下期の上場を目指すとされる。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank Aims to Create and List AI Firm Roze in the U.S., Targets $100B Valuation",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-29/softbank-aims-to-create-and-list-ai-firm-roze-in-the-us-ft-says",
-      "date": "2026-04-29",
-      "summary": "Bloombergが4月29日、ソフトバンクのAI・ロボティクス新会社「Roze」の米国上場計画を報じた。エネルギー、土地、インフラ資産にABB Robotics事業を組み合わせる構想で、AIデータセンターの物理建設に焦点を当てる。一部経営幹部は中東情勢の不確実性等から計画を野心的とみるが、孫正義氏は2026年下期の上場と1,000億ドル評価を視野に推進している。",
-      "category": "international"
-    },
-    {
-      "title": "Mistral Releases 128B Dense Medium 3.5 with Vibe Remote Coding Agents and Le Chat Work Mode",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "date": "2026-04-29",
-      "summary": "Mistral AIが4月29日、新フラッグシップモデル「Mistral Medium 3.5」を公開。命令追従・推論・コーディングを単一の128Bデンスモデル（256kコンテキスト）に統合し、SWE-Bench Verifiedで77.6%を達成、Devstral 2やQwen3.5 397B A17Bを上回った。修正MITライセンスでオープンウェイト化され、Hugging Faceで提供。同日、コーディングエージェント基盤Vibeにリモートエージェントが追加され、Le Chatの新「Work mode」では並列マルチステップのエージェント実行（メール・カレンダー・Jira・Slack横断）が可能になった。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft, Meta, and Google just announced billions more in AI spending. Only Google convinced investors it's paying off.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/",
-      "date": "2026-04-29",
-      "summary": "Q1決算でMicrosoft、Meta、Alphabetが2026年AI設備投資ガイダンスを引き上げ、ハイパースケーラー4社合計で6500-7000億ドルに到達。Google Cloudは前年比63%成長で投資家を納得させたが、Metaは145億ドルへの増額で株価が約6%下落した。",
-      "category": "international"
-    },
-    {
-      "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
-      "date": "2026-04-29",
-      "summary": "BMW i Venturesが3億ドルの新ファンドを立ち上げ、自動車業界をAIが再構築するという投資テーゼを掲げた。物理AI、エンタープライズソフトウェア、サプライチェーン技術への重点投資で、自動車OEMによるAI戦略の本格化を象徴する。",
-      "category": "international"
     }
   ]
 }

@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-13 09:00 (JST)",
+  "lastUpdated": "2026-05-14 09:00 (JST)",
   "articles": [
+    {
+      "title": "Fiserv Forms Strategic Collaboration with OpenAI to Bring AI to How Fiserv Serves Financial Institutions",
+      "title_ja": "Fiserv、OpenAIと戦略的提携 銀行AI基盤を共同構築",
+      "source": "Fiserv (Press Release)",
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forms-strategic-collaboration-openai-bring-ai-how-fiserv",
+      "date": "2026-05-14",
+      "summary": "決済・金融テクノロジー大手Fiservが、OpenAIとの戦略的提携を発表。agentOS上での戦略的エージェント構築、銀行モダナイゼーションの加速、銀行向け特化AI能力の開拓、AI時代のサイバーセキュリティ強化の4領域で共同作業を進める。両社合同チームは既に活動を開始しており、Fiservクライアントへの展開が2026年中に進む見込み。",
+      "category": "international"
+    },
+    {
+      "title": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking",
+      "title_ja": "Fiserv、銀行向けエージェンティックAI基盤OS「agentOS」を発表",
+      "source": "Fiserv (Press Release)",
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-launches-agentos-operating-system-agentic-ai-banking",
+      "date": "2026-05-14",
+      "summary": "Fiservが、金融機関がAIエージェントを銀行ワークフロー全体に展開・管理・スケールするためのエージェンティックAIオペレーティングシステム「agentOS」を発表。2026年8月までに一般提供開始予定で、6つの金融機関が共同開発に参画し、2機関が既にベータ運用中。OpenAIとの戦略的提携の中核を担う。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic tightens Claude limits as OpenAI courts agent users",
+      "title_ja": "Anthropic、Agent SDK利用枠を分離 6月15日からサブスクと別枠化",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/14/anthropic-claude-price-openai-tokens",
+      "date": "2026-05-14",
+      "summary": "Anthropicが6月15日より、Agent SDKおよび `claude -p` 経由の利用について、対話的なサブスクリプション利用枠とは別の専用クレジットに変更すると発表。エージェント用途の急増を受けた料金体系の再編で、OpenAIがエージェントユーザーを奪いに来る競争環境への対応とAxiosは分析している。",
+      "category": "international"
+    },
     {
       "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
       "title_ja": "Nvidia、英スタートアップ「Ineffable Intelligence」と提携し超知能AIの開発を加速",
@@ -9,6 +36,60 @@
       "date": "2026-05-13",
       "summary": "Nvidiaが、Google DeepMindの強化学習リードを務めた研究者が創業した英スタートアップIneffable Intelligenceとの提携を発表。超知能（superintelligence）のAIシステム開発に向けた共同投資・コラボレーションで、AIインフラの「次のフロンティア」を目指す。",
       "category": "international"
+    },
+    {
+      "title": "OpenAI Floats Idea of Global AI Governance Body With US, China",
+      "title_ja": "OpenAI、米中主導のグローバルAIガバナンス機関構想を提唱",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china",
+      "date": "2026-05-13",
+      "summary": "OpenAIのグローバル渉外担当副社長Chris Lehane氏が、米国主導で中国もメンバーに含めるグローバルAIガバナンス機関の設立を支持すると表明。IAEA（国際原子力機関）のような枠組みを想定し、米商務省CAISIと各国AI安全研究所を連携させる構想を示した。Trump大統領のXi主席訪中会談を前にした発言として注目を集めている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "title_ja": "Anthropic、中小企業向け「Claude for Small Business」を投入",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "date": "2026-05-13",
+      "summary": "Anthropicが中小企業オーナー向けの新パッケージ「Claude for Small Business」を発表。QuickBooks/PayPal/HubSpot/Canva/Docusign/Google Workspace/Microsoft 365へのコネクター、15種のプリビルトワークフロー、15種のスキルを提供する。Claude Cowork内のトグルで有効化でき、5月14日のシカゴを皮切りに全米10都市でAIフルーエンシー研修ツアーも実施。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Claude for Small Business",
+      "title_ja": "Anthropic公式：Claude for Small Business 発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "date": "2026-05-13",
+      "summary": "Anthropicが中小企業を主要顧客層として位置づけた新パッケージを公式発表。Claude Cowork内のトグルで、QuickBooks/PayPal/HubSpot/Canva/Docusign/Google Workspace/Microsoft 365への接続、財務・運営・営業・マーケ・HR・カスタマーサービスの15ワークフローと15スキルを利用可能になる。ライセンス料以外の追加料金は不要。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Claude Platform on AWS is now generally available",
+      "title_ja": "Claude Platform on AWS、一般提供開始",
+      "source": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/",
+      "date": "2026-05-13",
+      "summary": "AWSが、Anthropicの「Claude Platform on AWS」の一般提供開始を発表。AWS認証・課金・コミットメント消化と統合された形でClaude APIフルセット（Managed Agents、Skills、MCP connector、Files API、Web Search、Code Execution、Prompt Caching、Citations、Batch等）へアクセス可能。AWSは当該プラットフォームを提供する初のクラウドプロバイダー。",
+      "category": "company_blog"
+    },
+    {
+      "title": "【生成AI活用事例分析レポート 2025年10月〜2026年3月】 キーワードランキング第1位は「AIエージェント」。AIエージェント活用、検証段階から業務実装へ",
+      "source": "一般社団法人生成AI活用普及協会（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000092.000121559.html",
+      "date": "2026-05-13",
+      "summary": "生成AI活用普及協会が国内最大級の「生成AI活用事例データベース」を更新し、2025年10月〜2026年3月の事例472件を分析。キーワードランキングの第1位は「AIエージェント」で、企業のAI活用が単発業務の効率化を超え、業務プロセス・運用環境・組織体制の再設計を前提とした協働段階へ移行しつつある実態を提示した。",
+      "category": "japan"
+    },
+    {
+      "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
+      "title_ja": "重み空間で語り合うエージェント協調：TFlowによるLoRA摂動転送フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.13839",
+      "date": "2026-05-13",
+      "summary": "テキストではなく重み空間でエージェント間通信を行うフレームワーク「TFlow」を提案。送信側エージェントの内部活性化から学習済みパラメータ生成器が低ランクLoRA摂動を生成し、受信側モデルの生成中のみに適用してインスタンス単位の適応を実現する。Qwen3-4B×3エージェント構成で受信モデル単体比+8.5ポイント精度向上、処理トークン最大32.7%削減、テキストベース3エージェント比で総トークン最大83.3%削減・推論時間最大4.6倍高速化を達成。",
+      "authors": "未指定",
+      "category": "arxiv"
     },
     {
       "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
@@ -89,6 +170,16 @@
       "date": "2026-05-12",
       "summary": "マルチエージェントLLMの通信トポロジー（chain/star/mesh等）が推論性能に与える影響を、後継表現 M=(I-γP)^-1 のスペクトル半径ρ・スペクトルギャップΔ・条件数κの3指標で事前診断する構造的手法を提案。chain/star/meshについて閉形式スペクトルを導出し、Qwen2.5-7B-Instructを用いた12ステップの状態追跡タスクで100試行検証を実施した。",
       "authors": "Ethan David James Park, Dalal Alharthi",
+      "category": "arxiv"
+    },
+    {
+      "title": "Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models",
+      "title_ja": "凍結埋め込みモデルへのテスト時計算：259プログラム探索が示す普遍的なソフトマックス重心則",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.11374",
+      "date": "2026-05-12",
+      "summary": "凍結された埋め込みAPIに対して259の推論プログラム候補を90世代にわたるエージェント的プログラム探索で評価し、Pareto最適解が「ローカル上位K文書のソフトマックス加重重心を、クエリと補間する」という単一の代数式に収束することを発見。学習可能パラメータを増やさずに、7系統の埋め込みモデルファミリー（パラメータ数で10倍幅）でnDCG@10を有意に改善した。",
+      "authors": "Han Xiao",
       "category": "arxiv"
     },
     {
@@ -640,6 +731,14 @@
       "summary": "ポストトレーニング中にLLM内部の機能局在が動的に変化することを示し、事前訓練時に同定したニューロン・回路をそのまま流用する手法（静的局在化）が誤った介入につながる危険性を実証。動的に追跡する新たな解析パラダイムの必要性を主張する。",
       "authors": "Static Mechanistic Localization Authors",
       "category": "arxiv"
+    },
+    {
+      "title": "NTTデータ経営研究所、金融機関向けAI導入コンサルティングサービス全18サービスの提供開始",
+      "source": "NTTデータ経営研究所",
+      "url": "https://www.nttdata-strategy.com/newsrelease/260507/",
+      "date": "2026-05-07",
+      "summary": "NTTデータ経営研究所が、メガバンク・地方銀行・証券会社などを対象とした「金融機関向けAI導入コンサルティングサービス」全18サービスの提供を5月7日より開始したと発表。AI戦略策定、ユースケース実装、ガバナンス整備、人材育成までを網羅し、日本の金融業界における生成AI実装の本格化を後押しする。",
+      "category": "japan"
     },
     {
       "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
@@ -1630,100 +1729,6 @@
       "date": "2026-04-30",
       "authors": "Multiple authors",
       "summary": "AI関連ポリシー文書から知識グラフ（KG）を構築し、政策準拠の判断を支援するエージェント型フレームワークを提案。3種類のAIリスクポリシーから2種のオントロジースキーマでKGを生成し、5つのLLMを6種42タスクで評価。KG拡張により全モデルのスコアが向上し、LLMが自動発見するオープンスキーマが形式オントロジーと同等以上の性能を示した。EU AI ActやNIST AI RMFなど規制対応の自動化に直接寄与する成果。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI and Yubico Partner to Bring Custom Phishing-Resistant YubiKeys to OpenAI Users",
-      "source": "Business Wire",
-      "url": "https://www.businesswire.com/news/home/20260430610986/en/OpenAI-and-Yubico-Partner-to-Bring-Custom-Phishing-Resistant-YubiKeys-to-OpenAI-Users",
-      "date": "2026-04-30",
-      "summary": "OpenAIが4月30日、Yubicoとの提携でカスタム仕様のフィッシング耐性ハードウェアキー「YubiKey」をOpenAIユーザーに提供開始。Advanced Account Securityに対応し、Eメール・SMSによるリカバリーを無効化、バックアップパスキー、セキュリティキー、リカバリーキーといった強固な手段への移行を促す。サプライチェーン攻撃やアカウント乗っ取りリスクが高まる中、エンタープライズ顧客の認証強化を後押しする。",
-      "category": "international"
-    },
-    {
-      "title": "Apple Q2 2026: Record $111B Revenue and $11.4B R&D Spend Reflect Accelerated AI Investment",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/30/apple-aapl-q2-2026-earnings-report.html",
-      "date": "2026-04-30",
-      "summary": "Appleが4月30日、3月期決算を発表。売上高は前年同期比17%増の過去最高1,112億ドル、EPSは22%増の2.01ドルで3月期記録を更新。R&D費用は前年比34%増の114億ドルと四半期史上最高で、Tim Cook CEOは「AIが重要な投資領域であり、製品ロードマップに加えて段階的に投資を強化する」と説明。Siri刷新でGoogle Geminiモデルを採用するパートナーシップも順調に進捗していると述べた。iPhone収益は22%増、サービス収益は310億ドルと過去最高を記録。",
-      "category": "international"
-    },
-    {
-      "title": "GMO Internet Begins Offering Hermes Agent Startup Script for ConoHa VPS",
-      "title_ja": "GMOインターネット、『ConoHa VPS byGMO』で自己成長型AIエージェント『Hermes Agent』のスタートアップスクリプトを提供開始",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000005352.000000136.html",
-      "date": "2026-04-30",
-      "summary": "GMOインターネットは2026年4月30日、VPSサービス『ConoHa VPS byGMO』においてオープンソース自律型AIエージェント『Hermes Agent』の実行環境を自動構築するスタートアップスクリプトを無料で提供開始した。永続的なメモリやスキルシステムを備える自己成長型AIをVPS上で容易に稼働可能に。",
-      "category": "japan"
-    },
-    {
-      "title": "Rakuten Travel Adds Booking Function to Rakuten AI Hotel Recommendation Agent",
-      "title_ja": "楽天トラベル、AIエージェント『Rakuten AI』に予約機能を追加",
-      "source": "楽天グループ",
-      "url": "https://corp.rakuten.co.jp/news/press/2026/0430_01.html",
-      "date": "2026-04-30",
-      "summary": "楽天グループは2026年4月30日、楽天トラベルのAIエージェントに予約機能を追加したと発表。ユーザーが希望条件をAIに伝えると、複数候補から最適な宿泊プランを提案し、ボタン操作のみで決済まで完結する。予約履歴を踏まえた提案にも対応する。",
-      "category": "japan"
-    },
-    {
-      "title": "Introducing Advanced Account Security",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/advanced-account-security/",
-      "date": "2026-04-30",
-      "summary": "OpenAIが攻撃リスクの高いユーザー向けにChatGPTのオプトイン型強化セキュリティを公開。パスワードログインを無効化しパスキー/物理キーを必須にし、メール・SMSによる復旧も廃止。短いセッションやログイン通知、自動的なモデル学習からの除外も提供。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Gemini Embedding 2 is now generally available",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/",
-      "date": "2026-04-30",
-      "summary": "GoogleがGemini Embedding 2を一般提供開始。テキスト・画像・動画・音声・PDFを単一の埋め込み空間にマッピングする初の統合マルチモーダル埋め込みモデルで、100以上の言語に対応。Matryoshka表現学習により3072次元から自由に切り詰めて利用可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Issues Urgent Security Alert: macOS Users Must Update ChatGPT, Codex, and Atlas Apps by May 8",
-      "source": "OpenAI",
-      "url": "https://openai.com/news/security-alert-macos-april-29-2026",
-      "date": "2026-04-29",
-      "summary": "OpenAIが4月29日、macOS版ChatGPT、Codex、Atlasの全ユーザーに対し5月8日までの強制アップデートを通告。第三者JavaScriptライブラリがソーシャルエンジニアリング攻撃で侵害され、リモートアクセス型トロイの木馬の配布経路となっていたことが判明。最新版にアップグレードしないユーザーは認証を強制無効化される措置となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.27003",
-      "date": "2026-04-29",
-      "authors": "Qisheng Hu, et al.",
-      "summary": "LLMエージェントが外部メモリに経験を蓄積し再利用するパターンを体系的に分析。重み更新を伴わない「メモリ経由の継続学習」が、各種ベンチマークで weight-update fine-tuning に匹敵もしくは凌駕する性能を発揮することを示し、エージェント時代における学習パラダイムの転換を提示。記憶取得の効率化と忘却防止の手法も比較評価した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.26460",
-      "date": "2026-04-29",
-      "authors": "Yash Sawant, et al.",
-      "summary": "LLMによる文章の個別化（パーソナライゼーション）における「著者性ギャップ（Authorship Gap）」を理論ベースで定量評価する手法を提案。表層的な語彙模倣にとどまり、思想・論理構造の独自性が再現されない問題をベンチマークで実証し、現行のパーソナライズLLMが本人の文章スタイルを真に学習できていないことを浮き彫りにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.26258",
-      "date": "2026-04-29",
-      "authors": "Hongyeon Yu, et al.",
-      "summary": "LLMエージェントワークフロー全体を二段階最適化（Bilevel Optimization）と「テキスト勾配」によって自動学習する「FlowBot」を提案。プロンプト・ツール選択・分岐構造をエンドツーエンドで最適化し、人手による試行錯誤を不要にする。コーディング・データ分析・カスタマーサポートなど複数領域で従来手法を大きく上回る成功率を達成した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Synthetic Social Graph: Emergent Behavior in AI Agent Communities",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.27271",
-      "date": "2026-04-29",
-      "authors": "Multiple authors",
-      "summary": "LLMエージェントのみで構成されるFacebook風SNSプラットフォーム「Moltbook」上での社会学的解析を初めて実施。4月14日〜28日の14日間スナップショットで18万4,203投稿・46万5,136コメントを収集し、合成社会グラフ上に出現する派閥形成・情報拡散・規範生成のパターンを定量化。実世界SNSと類似する集団極性化や同質化が短期間で再現され、AIエージェント社会の創発挙動を研究する基盤を提示した。",
       "category": "arxiv"
     }
   ]

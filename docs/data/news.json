@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14 09:00 (JST)",
+  "lastUpdated": "2026-05-15 09:00 (JST)",
   "articles": [
     {
       "title": "Fiserv Forms Strategic Collaboration with OpenAI to Bring AI to How Fiserv Serves Financial Institutions",
@@ -27,6 +27,98 @@
       "date": "2026-05-14",
       "summary": "Anthropicが6月15日より、Agent SDKおよび `claude -p` 経由の利用について、対話的なサブスクリプション利用枠とは別の専用クレジットに変更すると発表。エージェント用途の急増を受けた料金体系の再編で、OpenAIがエージェントユーザーを奪いに来る競争環境への対応とAxiosは分析している。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
+      "title_ja": "Anthropic×ゲイツ財団、$200Mで保健・教育・農業向けAIを4年計画で展開",
+      "source": "Reuters (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/anthropic-gates-foundation-launch-200-150123648.html",
+      "date": "2026-05-14",
+      "summary": "Anthropicとゲイツ財団が、世界保健・生命科学・教育・経済モビリティ分野で総額2億ドル規模のAI活用プログラムを4年間にわたり展開する戦略的パートナーシップを発表。ゲイツ財団が助成と現場知見を提供、Anthropicは技術スタッフ稼働とClaude利用クレジットで等価分を拠出する。低中所得国の必須医療サービス未到達46億人を主対象にし、ポリオ・HPV・妊娠高血圧腎症など顧みられない疾患の研究支援、サブサハラ・アフリカ／インド向け基礎リテラシー・算数アプリ、スマホール農家向けClaude農業最適化ベンチマークの公開などを盛り込む。",
+      "category": "international"
+    },
+    {
+      "title": "PwC expands Anthropic alliance, will train 30,000 staff on Claude",
+      "title_ja": "PwC、Anthropicとの戦略提携を全面拡張──Claude Code/Cowork導入と3万人認定プログラム",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/05/14/pwc-expands-anthropic-alliance-will-train-30000-staff-claude/",
+      "date": "2026-05-14",
+      "summary": "PwCとAnthropicが提携の大幅拡張を発表。米国チームを皮切りに全世界数十万人の専門職へClaude CodeとClaude Coworkを展開し、共同Center of ExcellenceでPwCプロフェッショナル3万人のClaude認定研修プログラムを開始する。エージェント技術構築、AIネイティブM&A、エンタープライズ機能再発明の3領域に注力し、新設のClaudeベース財務部門変革ビジネスグループも立ち上げる。導入企業の保険引受で従来10週間掛かっていたサイクルが10日に短縮した実績を提示した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Updates ChatGPT to Better Respond to Mental Health Crises",
+      "title_ja": "OpenAI、ChatGPTのメンタルヘルス関連応答を大幅強化──不適切回答を最大80%削減",
+      "source": "eWeek",
+      "url": "https://www.eweek.com/news/openai-chatgpt-sensitive-responses/",
+      "date": "2026-05-14",
+      "summary": "OpenAIが170名超のメンタルヘルス専門家との協業を通じ、ChatGPTの危機検知・共感応答・現実世界支援への誘導を強化した安全アップデートを公開。新しいGPT-5モデルがGPT-4o比で困難なメンタルヘルス会話の望ましくない応答を39%削減し、自殺・自傷シナリオの安全応答率を50%、対他害シナリオを16%改善した。経時的に蓄積する微妙な兆候をChatGPTが文脈として把握し、de-escalation・有害詳細の拒否・安全代替への誘導を行う仕組みを導入。安全関連の限定的サマリー保持機能も組み合わせる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "title_ja": "Anthropic公式：ゲイツ財団との2億ドルパートナーシップ発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "date": "2026-05-14",
+      "summary": "Anthropic公式ニュース。ゲイツ財団との4年間2億ドル規模パートナーシップを発表し、健康・生命科学（最重点）／教育／経済モビリティの3領域でClaude活用を展開する。技術スタッフ駐在とClaudeクレジット拠出により低中所得国向けにワクチン・治療法開発加速、政府保健データを活用した意思決定支援、ポリオ・HPV・妊娠高血圧腎症など顧みられない疾患の研究を支援。サブサハラ・アフリカ／インドではGlobal AI for Learning Alliance (GAILA)経由で読み書き・算数アプリを展開し、20億人の小農家を対象とする農業特化Claude改善とベンチマークを公開する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "title_ja": "Anthropic公式：PwCがClaude Code/Coworkを全社展開、エンタープライズ向け提携拡張",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "date": "2026-05-14",
+      "summary": "Anthropic公式。PwCとの戦略アライアンス拡張を発表し、Claudeを技術構築・ディール実行・エンタープライズ機能再発明の3軸でクライアントワークに導入。米国チームからClaude Code/Cowork展開を開始し、世界数十万人のプロフェッショナル向けへ拡張する。共同CoEを設立し、3万人のPwC専門職にClaudeトレーニングと認定を提供。Claude／Claude Cowork／Claude Codeを組み合わせた財務組織向け変革ビジネスグループも新設し、保険引受サイクルを10週から10日に圧縮した先行事例を公表した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "title_ja": "OpenAI公式：ChatGPTのメンタルヘルス文脈認識を強化、不適切応答を65〜80%削減",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/",
+      "date": "2026-05-14",
+      "summary": "OpenAI公式ブログ。ChatGPTが時間経過にともなう微妙・潜在的シグナルから精神状態リスクの兆候を識別し、文脈に応じた安全応答を生成できるよう改良したと発表。1,000件超の困難なメンタルヘルス会話で新GPT-5は望ましい振る舞いに92%準拠、旧版27%から大幅改善し、各タクソノミーで非準拠応答が65〜80%減少。安全サマリー機能で関連性のある場合のみ過去文脈を一時保存する仕組みも導入する。精神疾患・自傷・AIへの感情依存の3領域を中心に、170名超の臨床医・研究者と継続協業して評価基盤を整備する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "EYストラテジー・アンド・コンサルティング、攻撃者視点で生成AIリスクを検証する新サービス「エンドツーエンドAIレッドチーミング」を発表",
+      "source": "EYストラテジー・アンド・コンサルティング（沖縄タイムス配信）",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1836885",
+      "date": "2026-05-14",
+      "summary": "EYストラテジー・アンド・コンサルティングが、生成AI／LLMを組み込んだアプリケーションを対象に、攻撃者視点でリスクを検証する新サービス「エンドツーエンドAIレッドチーミング」の提供開始を発表。ユーザー入力から生成AI出力までの利用フロー全体を俯瞰し、実際に起こり得る攻撃・悪用シナリオに基づく検証で、従来診断では把握しづらかった生成AI特有リスクを可視化する。技術的検証だけでなく、経営層と共有できる評価レポートにより意思決定を支援することを特徴とする。",
+      "category": "japan"
+    },
+    {
+      "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
+      "title_ja": "ATLAS：単一の機能トークンでエージェント操作と潜在的視覚推論を統合",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15198",
+      "date": "2026-05-14",
+      "summary": "視覚推論において、ツール呼び出し型エージェント手法（実行レイテンシ大）と潜在埋め込み型手法（タスク汎化困難）の長所を統合する単一トークン枠組み「ATLAS」を提案。各「機能トークン」を内部視覚操作に紐付けつつ、トークナイザー語彙の通常トークンとして扱うことで、視覚教師信号なしに次トークン予測で生成可能にする。中間視覚コンテンツの冗長生成を回避しつつ、標準的なSFT／RL訓練と互換性を維持。機能トークンのRL時の希薄性に対しては、静的重み付き補助目的でアンカーするLatent-Anchored GRPO (LA-GRPO)で勾配更新を安定化する。",
+      "authors": "Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng",
+      "category": "arxiv"
+    },
+    {
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "title_ja": "Grepで十分か？エージェント・ハーネスがエージェント探索を再構築するか実証分析",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "date": "2026-05-14",
+      "summary": "LLMエージェントが自律的に情報検索・ツール呼び出し・大規模コーパス上の推論を行う現代的ワークフローにおいて、検索戦略選択がエージェント・アーキテクチャやツール呼び出しパラダイムとどう相互作用するかを系統的に比較。ツール出力の提示方法や、無関係テキストが増えた際の性能変化など実務上重要な側面を2つの実験で実証分析する。RAGの普及にも関わらず欠落していた、エージェント・ループ内での検索戦略×ハーネス設計の比較を提示し、grep類のシンプルな検索がエージェントによって十分競争力を持つ条件を明らかにする。",
+      "authors": "Sahil Sen, Akhil Kasturi, Elias Lumer, Anmol Gulati, Vamse Kumar Subbiah",
+      "category": "arxiv"
+    },
+    {
+      "title": "Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy",
+      "title_ja": "アクション・ボトルネック解消：トークン単位エネルギーを活用したエージェント強化学習",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14558",
+      "date": "2026-05-14",
+      "summary": "長い推論トレースと短い環境向けアクションが交互に現れるマルチターン軌跡でLLMを訓練するエージェント強化学習において、アクション・トークンの希薄性に起因する「アクション・ボトルネック」を解消する新手法を提案。トークン単位エネルギー指標を導入し、推論-行動の境界における学習信号を再配分することで、長尺推論を保ちつつ実行アクションの学習効率を向上させる。",
+      "authors": "Langzhou He, ほか10名",
+      "category": "arxiv"
     },
     {
       "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
@@ -90,6 +182,15 @@
       "summary": "テキストではなく重み空間でエージェント間通信を行うフレームワーク「TFlow」を提案。送信側エージェントの内部活性化から学習済みパラメータ生成器が低ランクLoRA摂動を生成し、受信側モデルの生成中のみに適用してインスタンス単位の適応を実現する。Qwen3-4B×3エージェント構成で受信モデル単体比+8.5ポイント精度向上、処理トークン最大32.7%削減、テキストベース3エージェント比で総トークン最大83.3%削減・推論時間最大4.6倍高速化を達成。",
       "authors": "未指定",
       "category": "arxiv"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "title_ja": "OpenAI公式：Codex on Windowsのネイティブ・サンドボックス実装解説",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-codex-windows-sandbox/",
+      "date": "2026-05-13",
+      "summary": "OpenAIエンジニアリングブログ。Codex for Windowsで「全コマンド承認 or フルアクセス」の二択を強いられていた状態を解消するため、Windowsネイティブ・サンドボックスを開発した経緯と設計を解説。専用の低特権サンドボックス・ユーザー、ファイルシステム権限境界、ファイアウォールルール、ローカルポリシー変更を組み合わせる「エレベーテッド・サンドボックス」を採用し、Codexコマンドと派生プロセス全てを同一境界内に閉じ込める。最新更新ではサンドボックス・ユーザーへのデスクトップ・ランタイム・バイナリキャッシュへのアクセス付与、DPAPI制御の強化を実施した。",
+      "category": "company_blog"
     },
     {
       "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
@@ -1636,99 +1737,6 @@
       "date": "2026-05-01",
       "summary": "NVIDIAとApple SiliconエコシステムにおけるLLM推論を体系的に比較。NVFP4量子化はBF16比1.6倍のスループットを示す一方、70B以上のモデルではVRAM壁が顕著。AppleのSoCはトークン/ジュール効率で最大23倍の優位性を示した。",
       "authors": "Authors listed on arXiv",
-      "category": "arxiv"
-    },
-    {
-      "title": "State Stream Transformer (SST) V2: Parallel Training of Nonlinear Recurrence for Latent Space Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00206",
-      "date": "2026-05-01",
-      "summary": "SST V2は各デコーダ層でFFN駆動の非線形再帰を導入し、潜在状態を系列方向に水平にストリーミング。学習時はティーチャーフォースで並列化、推論時は同じ機構で位置ごとの連続的な潜在熟考を可能にし、トークン生成前に追加FLOPを推論探索に費やす。27Bバックボーンに小規模GSM8Kで共訓練したところ、GPQA-Diamondで微調整ベースラインに対し+15.15ポイント向上した。",
-      "authors": "T. Klimenko et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "LEAP: Layer-wise Exit-Aware Pretraining for Efficient Transformer Inference",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01058",
-      "date": "2026-05-01",
-      "summary": "LEAPは層単位の早期終了機構と層整列蒸留の不整合を解消する補助学習目標。アーキテクチャ変更を伴わず、中間層が最終層表現を近似する単一制約を蒸留に追加するだけで、推論時のexit-awareプリトレーニングを実現。Transformer推論を最大3倍高速化し、精度劣化を1ポイント未満に抑えた。",
-      "authors": "S. Park et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Big Tech Q1 2026 Earnings Reveal $725B AI Infrastructure Spend, 2027 Capex to Top $1 Trillion",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
-      "date": "2026-04-30",
-      "summary": "Alphabet、Microsoft、Meta、Amazonの第1四半期決算が4月29日夜に出揃い、ハイパースケーラー4社の2026年AI設備投資総額は約7,250億ドルに達することが判明。Microsoftは前年同期比84%増の308.8億ドルを投じ、AI事業の年間収益ランレートが370億ドルを突破。EvercoreとBank of Americaは2027年の投資総額が1兆ドルを超えると予測し、AI基盤建設の終わりが見えない状況を浮き彫りにした。",
-      "category": "international"
-    },
-    {
-      "title": "Meta Says Its Business AI Now Facilitates 10 Million Conversations Per Week",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "date": "2026-04-30",
-      "summary": "Metaの第1四半期決算と同時に、ビジネス向けAIアシスタントが週1,000万件の会話を処理している実績を公表。WhatsApp、Messenger、Instagram上で動作し、SMB（中小企業）の顧客対応自動化を支える基盤になりつつある。マーク・ザッカーバーグCEOは2026年AI関連設備投資見通しを1,250億〜1,450億ドルに引き上げた。",
-      "category": "international"
-    },
-    {
-      "title": "ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.27844",
-      "date": "2026-04-30",
-      "authors": "Hanting Chen, Tongzhou Mu, Jianyu Huang, et al.",
-      "summary": "大規模LLM学習における集合通信（AllReduceなど）のボトルネックを解消するロスレス圧縮手法「ZipCCL」を提案。勾配テンソルの低エントロピー特性を利用したGPU並列圧縮アルゴリズムにより、ノード間帯域使用量を最大3.2倍削減し、収束精度を保ちつつ大規模分散学習のスループットを大幅向上させた。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic in Talks for $50B Funding Round at $900B+ Valuation, Expected to Close in Two Weeks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "date": "2026-04-30",
-      "summary": "Anthropicが約500億ドルの資金調達ラウンドで投資家にアロケーション提出を48時間以内に求めたとTechCrunchが4月30日報道。評価額は約9,000億ドルを目指し、需要過多により最終的にこれを上回る可能性も。年間収益ランレートは2025年末の約90億ドルから300億ドル超へと急増し、Counterpoint Researchは1Q26世界LLM収益シェアで31.4%とOpenAI（29%）を僅差で上回ると報告した。",
-      "category": "international"
-    },
-    {
-      "title": "White House Opposes Anthropic's Plan to Expand Mythos AI Access, Citing Misuse Risk",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-30/white-house-opposes-anthropic-plan-for-mythos-access-wsj-says",
-      "date": "2026-04-30",
-      "summary": "Trump政権がAnthropicの「Claude Mythos」モデルを約70の企業・組織に拡大配布する計画に反対していることが明らかに。同モデルが主要OS・ブラウザに数千件の未発見脆弱性を発見できる能力を持つことから、悪用リスクを懸念し政府がアクセス範囲の拡大に難色を示した。Anthropicは限定的提供（Project Glasswing）に止める方針を維持しつつ政権との調整を継続している。",
-      "category": "international"
-    },
-    {
-      "title": "Google DeepMind Launches AI Co-Clinician Initiative to Augment Physicians",
-      "source": "Google DeepMind",
-      "url": "https://distilinfo.com/2026/05/01/google-deepmind-launches-ai-co-clinician-initiative/",
-      "date": "2026-04-30",
-      "summary": "Google DeepMindが「AI Co-Clinician」研究イニシアチブを4月30日に発表。医師の専門性を補強し質の高いケアをスケールさせる目的で、適応型「NOHARM」評価フレームワークを用いた検証を実施。盲検下の比較で医師は既存のエビデンス統合ツールより一貫してCo-Clinicianを選好し、評価対象140領域のうち68領域でプライマリケア医と同等以上の性能を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI to Restrict Access to Cyber Tool After Criticizing Anthropic's Mythos Gatekeeping",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "date": "2026-04-30",
-      "summary": "Sam AltmanがAnthropic「Mythos」の限定提供を批判していたにもかかわらず、OpenAIも競合する高機能サイバーセキュリティモデル「Cyber」へのアクセスを限定すると4月30日に発表。攻撃悪用のリスクが高い能力を持つ最先端モデルは公開せず、信頼できるパートナー企業のみに提供する方針へ業界全体が舵を切りつつあることを浮き彫りにした。",
-      "category": "international"
-    },
-    {
-      "title": "Kernelized Advantage Estimation: From Nonparametric Statistics to LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.28005",
-      "date": "2026-04-30",
-      "authors": "Multiple authors",
-      "summary": "強化学習ベースのLLM推論強化（PPO・GRPO・A2Cなど）における価値関数推定のボトルネックを解消するため、ノンパラメトリック統計のカーネル平滑化を導入した「Kernelized Advantage Estimation」を提案。理論解析と数値実験の両面で、既存のアドバンテージ推定器に対しサンプル効率と政策最適化の安定性を改善することを示した。RLHF/RLVR時代の大規模推論モデル学習の収束を加速する手法として注目される。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Knowledge Graph Representations for LLM-Based Policy Compliance Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2604.27713",
-      "date": "2026-04-30",
-      "authors": "Multiple authors",
-      "summary": "AI関連ポリシー文書から知識グラフ（KG）を構築し、政策準拠の判断を支援するエージェント型フレームワークを提案。3種類のAIリスクポリシーから2種のオントロジースキーマでKGを生成し、5つのLLMを6種42タスクで評価。KG拡張により全モデルのスコアが向上し、LLMが自動発見するオープンスキーマが形式オントロジーと同等以上の性能を示した。EU AI ActやNIST AI RMFなど規制対応の自動化に直接寄与する成果。",
       "category": "arxiv"
     }
   ]

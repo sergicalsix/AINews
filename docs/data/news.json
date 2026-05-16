@@ -1,6 +1,64 @@
 {
-  "lastUpdated": "2026-05-15 09:00 (JST)",
+  "lastUpdated": "2026-05-16 09:00 (JST)",
   "articles": [
+    {
+      "title": "Salesforce expects to spend $300 million on Anthropic tokens this year, and Benioff wants coding inside Slack next",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/salesforce-benioff-300-million-anthropic-tokens-slack-coding",
+      "date": "2026-05-16",
+      "summary": "Salesforce CEOマーク・ベニオフが、同社が2026年にAnthropicトークン購入で約3億ドルを支出する見通しであることをAll-Inポッドキャストで明らかにし、その大半がコーディング用途だと説明。今後はSlack内でのコーディングを容易にする技術を投入する方針で、3月のSlack刷新で発表した30以上のAI機能はすべてClaudeで稼働する。フロンティアモデルと小型モデルをルーティングする「中間層」の必要性にも言及。",
+      "category": "international"
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "date": "2026-05-15",
+      "summary": "OpenAIがCodexをChatGPTモバイルアプリ(iOS/Android)で利用可能にすると発表。ラップトップやdevbox、リモート環境上のCodexをモバイルから操作でき、セキュアなリレー層が信頼済みマシン間のセッション状態と文脈を同期する。出先からの調査開始、承認、モデル切替などフルフィーチャーのモバイル体験を提供。Free/Goを含む全プランで全対応リージョンに展開。",
+      "category": "company_blog"
+    },
+    {
+      "title": "2028: Two scenarios for global AI leadership",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/2028-ai-leadership",
+      "date": "2026-05-15",
+      "summary": "Anthropicが米中AI競争に関する戦略予測論文を公開。2028年を画期点とし、世界のAIリーダーシップを2つのシナリオ(少数開発者への集中と複数地域への分散)で描出。半導体輸出規制の強化と米AIモデルへの中国アクセス制限を米国及び同盟国に提言し、計算資源・規制枠組み・人材集積が決定的要因と論じる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Brings Codex Remote Access to ChatGPT Mobile App",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
+      "date": "2026-05-15",
+      "summary": "OpenAIがCodexのリモートアクセス機能をChatGPTモバイルアプリにプレビュー展開したと報道。iPhone/iPadおよびAndroidのChatGPTアプリから、Codexが実行中のラップトップやリモート環境にアクセスし、出先でも承認・モデル切替・出力確認が可能になる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Executive Vows to Cooperate with Japan on Mythos",
+      "source": "Nippon.com / Jiji",
+      "url": "https://www.nippon.com/en/news/yjj2026051501128/",
+      "date": "2026-05-15",
+      "summary": "Anthropicのグローバル渉外責任者マイケル・セリットが、東京で自民党サイバーセキュリティ戦略本部長の平将明氏と会談し、Claude Mythosに関する日本の対応に全面協力すると表明。日本がAnthropicにとって最重要国の一つであると述べ、サイバー攻撃対策での協力強化を約束。Mythosは脆弱性自動発見能力が高く、現在は限定的な企業・団体にしか公開されていない。",
+      "category": "international"
+    },
+    {
+      "title": "Japan megabanks to gain access to Anthropic's powerful AI model Mythos",
+      "title_ja": "日本の3メガバンクがAnthropicの強力AIモデルMythosへのアクセスを獲得へ",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-megabanks-to-gain-access-to-anthropic-s-powerful-ai-model-mythos",
+      "date": "2026-05-15",
+      "summary": "MUFG、みずほ、SMFGの日本3メガバンクが、今後2週間以内にAnthropicのClaude Mythosへのアクセス権を獲得する見込みであるとNikkei Asiaが報道。AnthropicがアクセスをAWS・Apple・Microsoft・Google等に限定するProject Glasswing枠組みに、日本の金融機関として初めて追加される。脆弱性自動発見能力の高さから国内金融セクターでの活用が期待される。",
+      "category": "international"
+    },
+    {
+      "title": "Beppu City launches generative AI consultation pilot via LINE for children and parents",
+      "title_ja": "別府市、生成AIが子どもや保護者の悩みに24時間回答する実証事業をLINEで開始",
+      "source": "TOSオンライン",
+      "url": "https://tosonline.jp/news/20260515/00000007.html",
+      "date": "2026-05-15",
+      "summary": "大分県別府市が15日から、子どもや妊婦などが悩みを気軽に打ち明けられる環境づくりを目的に、生成AIがLINEで24時間相談に回答する実証事業を開始した。匿名で気軽に利用できる点を強調し、自治体による生成AIの市民向け実装事例として注目される。",
+      "category": "japan"
+    },
     {
       "title": "Fiserv Forms Strategic Collaboration with OpenAI to Bring AI to How Fiserv Serves Financial Institutions",
       "title_ja": "Fiserv、OpenAIと戦略的提携 銀行AI基盤を共同構築",
@@ -118,6 +176,50 @@
       "date": "2026-05-14",
       "summary": "長い推論トレースと短い環境向けアクションが交互に現れるマルチターン軌跡でLLMを訓練するエージェント強化学習において、アクション・トークンの希薄性に起因する「アクション・ボトルネック」を解消する新手法を提案。トークン単位エネルギー指標を導入し、推論-行動の境界における学習信号を再配分することで、長尺推論を保ちつつ実行アクションの学習効率を向上させる。",
       "authors": "Langzhou He, ほか10名",
+      "category": "arxiv"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "date": "2026-05-14",
+      "summary": "OpenAIがコーディングエージェントCodexをChatGPTモバイルアプリで提供することを発表したと報道。OpenAIとAnthropicがエージェント型コーディングツールの主導権を巡って激しく競争する中、出先でのコード変更承認やデバッグ起動など開発ワークフローをモバイルへ拡張する戦略的アップデート。",
+      "category": "international"
+    },
+    {
+      "title": "MeMo: Memory as a Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15156",
+      "date": "2026-05-14",
+      "authors": "MeMo team",
+      "summary": "任意のLLMに学習済みメモリモデルを付与することで、最新情報やドメイン特化知識を低コストで追加するフレームワークMeMoを提案。再学習が不要で、破滅的忘却を抑制しつつ知識更新を可能にする。",
+      "category": "arxiv"
+    },
+    {
+      "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15034",
+      "date": "2026-05-14",
+      "authors": "Anonymous authors",
+      "summary": "LLMベースのマルチエージェントシステムが「観察されている」という社会的文脈を認識して言語表現を体系的に変化させるかを検証。観察知覚下では戦略的行動と語彙レジスタの調整が観測され、評価・監視文脈下のモデル行動の信頼性に課題を提起する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Non-linear Interventions on Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14749",
+      "date": "2026-05-14",
+      "authors": "Sangwoo Kim",
+      "summary": "LLMの内部表現を理解するための非線形介入手法を提案。従来の線形プローブ・線形介入では捉えきれない概念表現の構造を解析し、解釈可能性研究のための新たなツールを提示する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Factorization-Error-Free Discrete Diffusion Language Model via Speculative Decoding",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14305",
+      "date": "2026-05-14",
+      "authors": "Anonymous authors",
+      "summary": "離散拡散言語モデルの並列デコードにおける因数分解誤差を、投機的デコーディングで補正する手法を提案。誤差ゼロを保ちながら高速生成を実現し、自己回帰モデルに匹敵する品質と推論効率の両立を目指す。",
       "category": "arxiv"
     },
     {
@@ -1632,111 +1734,6 @@
       "date": "2026-05-01",
       "summary": "AIエージェント／複合AIワークロードのGPUクラスタ向けに、ワークフロー単位（複数LLM呼び出しをまとめた論理単位）をアトミックにスケジューリングする「SAGA」を提案。オンラインのKVキャッシュ管理をオフライン最適のBélády方策に近づけ、エージェント・複合パイプラインのスループットとレイテンシを改善する。分散推論サービングと協調動作する設計で、現実のサービング環境での有効性を実証している。",
       "authors": "（arXiv:2605.00528）",
-      "category": "arxiv"
-    },
-    {
-      "title": "MemRouter: Memory-as-Embedding Routing for Long-Term Conversational Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00356",
-      "date": "2026-05-01",
-      "summary": "長期対話エージェントの「どのターンを外部メモリに保存するか」という書き込み判断を、LLMによる逐次デコードからエンベディングベースの軽量分類に置き換える「MemRouter」を提案。各ターンと直近文脈を凍結LLMバックボーンに通し、わずか1,200万パラメータの軽量ヘッドで保存判断を実施。LoCoMoベンチマーク全カテゴリでLLMベースのメモリマネージャを上回り、メモリ管理レイテンシを970msから58msへ大幅削減した。",
-      "authors": "（arXiv:2605.00356）",
-      "category": "arxiv"
-    },
-    {
-      "title": "ELYZA Announces New Management Structure and Executive Officer Appointments",
-      "title_ja": "ELYZA、新経営体制および執行役員4名の選任を発表",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000071.000047565.html",
-      "date": "2026-05-01",
-      "summary": "日本語LLM開発のELYZAは2026年5月1日、新経営体制と執行役員4名の選任を発表。『研究開発』『ソリューション』『プロダクト』の3事業を柱に、国産LLMの社会実装を加速する組織体制を整備する。デジタル庁の源内向けLLMにも採択された同社のさらなる成長を支える布陣となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Pentagon strikes deals with 8 Big Tech companies after shunning Anthropic",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
-      "date": "2026-05-01",
-      "summary": "米国防総省はOpenAI、Google、Microsoft、Amazon、Nvidia、SpaceX、Oracle、Reflection AIの8社と機密ネットワーク上でAIを展開する契約を締結。Anthropicは軍事利用条件をめぐる紛争でサプライチェーンリスクと指定され除外された。",
-      "category": "international"
-    },
-    {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "date": "2026-05-01",
-      "summary": "国防総省はNvidia、Microsoft、AWS、OpenAI、Google、SpaceX、Reflection AIなどとIL6/IL7機密ネットワーク向けAI展開契約を結んだ。Anthropicは軍事用途条件を拒否し契約から除外。Reflection AIにとっては大型政府契約の足掛かりとなる。",
-      "category": "international"
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "date": "2026-05-01",
-      "summary": "MetaがロボティクススタートアップAssured Robot Intelligence (ARI) を買収し、Superintelligence Labs研究部門に統合。ヒューマノイドAI開発を加速する戦略の一環で、Alexandr Wang率いる新組織への投資を拡大している。",
-      "category": "international"
-    },
-    {
-      "title": "Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01147",
-      "date": "2026-05-01",
-      "authors": "Tanav Singh Bajaj, Nikhil Singh, Karan Anand, Eishkaran Singh",
-      "summary": "エージェント型AIの安全性と公平性は、モデル規模やアラインメントよりもエージェント間の相互作用トポロジーによって決まると主張。逐次審議や並列投票など情報フロー構造が結果を支配することを示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01133",
-      "date": "2026-05-01",
-      "authors": "Lingxi Zhang, et al.",
-      "summary": "LLMマルチエージェントシステムでは埋め込みベースの防御が、悪意あるメッセージを良性メッセージに近い埋め込みに偽装する攻撃で容易に回避できることを示し、安全性設計の再考を促す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00505",
-      "date": "2026-05-01",
-      "authors": "Lu Dai, et al.",
-      "summary": "RAGやエージェント検索でLLMが消費する情報検索は、人間とは異なり注意予算が限定的でノイズに脆弱であるため、ノイズ除去を第一義に据えた新しい検索パラダイムを提案する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Rethinking LLM Ensembling from the Perspective of Mixture Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00419",
-      "date": "2026-05-01",
-      "summary": "複数LLMのアンサンブル（多数決、ロジット平均、専門家混合）を確率的混合モデルとして再定式化。各構成要素の信頼度を学習可能な隠れ変数として扱う『Soft-Mixture Ensembling』を提案し、推論コストを線形に保ちつつ単独最良モデル比でMMLU+2.7、GSM8K+4.1の改善を確認。閉源モデルとオープンモデルの混成にも自然に対応。",
-      "category": "arxiv"
-    },
-    {
-      "title": "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01078",
-      "date": "2026-05-01",
-      "summary": "プロンプトインジェクション・ジェイルブレイク文を文間関係グラフとして表現し、悪性ノードを最小限に削除して入力をサニタイズする手法を提案。意味保存と安全性のトレードオフを最適化し、4種の最先端ジェイルブレイクベンチで攻撃成功率を平均73%低減しながらタスク精度低下を1ポイント以内に抑えた。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines",
-      "title_ja": "Agent Capsules：マルチエージェントLLMパイプラインの品質ゲート付き粒度制御",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00410",
-      "date": "2026-05-01",
-      "summary": "マルチエージェントLLMパイプラインにおいて、エージェント構成と実行を品質ゲートで制御する手法「Agent Capsules」を提案。粒度を動的に調整しながらパイプライン品質と効率を両立させる。",
-      "authors": "Authors listed on arXiv",
-      "category": "arxiv"
-    },
-    {
-      "title": "Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference",
-      "title_ja": "Silicon Showdown：コンシューマ向けLLM推論における性能・効率・エコシステム障壁",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00519",
-      "date": "2026-05-01",
-      "summary": "NVIDIAとApple SiliconエコシステムにおけるLLM推論を体系的に比較。NVFP4量子化はBF16比1.6倍のスループットを示す一方、70B以上のモデルではVRAM壁が顕著。AppleのSoCはトークン/ジュール効率で最大23倍の優位性を示した。",
-      "authors": "Authors listed on arXiv",
       "category": "arxiv"
     }
   ]

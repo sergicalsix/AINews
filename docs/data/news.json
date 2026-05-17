@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-16 09:00 (JST)",
+  "lastUpdated": "2026-05-17 09:00 (JST)",
   "articles": [
+    {
+      "title": "Google I/O 2026 Keynote Opens Tuesday as New Gemini Lands Behind Mythos and GPT-5.5",
+      "title_ja": "Google I/O 2026、5月19日キーノート開幕―新Gemini投入もMythos・GPT-5.5に一歩及ばずか",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm",
+      "date": "2026-05-17",
+      "summary": "Google I/O 2026が日本時間5月20日深夜（米PT 5/19 10時）開幕。新Geminiモデル投入が確実視されるが、OpenAI GPT-5.5と同等クラスでAnthropic Claude Mythosには届かない位置付けとの観測。リリースサイクルからGemini 3.2か3.5が有力でGemini 4.0は確度低めとの分析。あわせてGooglebook、Aluminium OS、Android XRグラス、Gemini Intelligence、Android 17、Magic PointerのChrome展開などが予定。",
+      "category": "international"
+    },
     {
       "title": "Salesforce expects to spend $300 million on Anthropic tokens this year, and Benioff wants coding inside Slack next",
       "source": "The Next Web",
@@ -58,6 +67,33 @@
       "date": "2026-05-15",
       "summary": "大分県別府市が15日から、子どもや妊婦などが悩みを気軽に打ち明けられる環境づくりを目的に、生成AIがLINEで24時間相談に回答する実証事業を開始した。匿名で気軽に利用できる点を強調し、自治体による生成AIの市民向け実装事例として注目される。",
       "category": "japan"
+    },
+    {
+      "title": "Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI",
+      "title_ja": "Microsoft、社内開発者のClaude Codeライセンスを順次取消―GitHub Copilot CLIへ全面移行",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives",
+      "date": "2026-05-15",
+      "summary": "Microsoftが、2025年12月から社内数千人の開発者・PM・デザイナーに開放してきたAnthropicのClaude Codeライセンスを段階的に取消し、自社のGitHub Copilot CLIへ移行させていることが明らかに。Windows / Microsoft 365 / Outlook / Teams / SurfaceなどExperiences + Devices部門は6月末までに完全移行する見込み。Copilot CLIが社内コードベース・セキュリティ要件・ワークフロー向けに深くカスタマイズ可能であるという戦略的理由に加え、6月30日に終わる会計年度を前にコスト削減を狙う財務的動機が指摘されている。社員はこれまで機能差からClaude Codeを好む傾向だったため、内部で反発もあるという。Anthropicモデル自体はOpenAI・Microsoft独自モデルと並んでCopilot CLI内では引き続き利用可能。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "title_ja": "OpenAI、ChatGPTに個人向け資産管理機能をプレビュー公開―銀行口座を連携してダッシュボード化",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "date": "2026-05-15",
+      "summary": "OpenAIが5月15日、米国のChatGPT Proユーザー向けに個人向け資産管理機能のプレビューを開始。Plaid連携によりSchwab、Fidelity、Chase、Robinhood、American Express、Capital Oneなど12,000以上の金融機関口座を接続でき、ポートフォリオ実績・支出・サブスク・予定支払いを可視化するダッシュボードを提供。GPT-5.5の文脈推論力強化により、支出分析から将来計画まで文脈接続された自然言語Q&Aが可能。Web版とiOSで提供を開始し、Plus層への展開はフィードバック反映後を予定。Intuit連携も近く追加へ。",
+      "category": "international"
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "title_ja": "ChatGPTで新しい個人向け資産管理エクスペリエンスを開始",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/personal-finance-chatgpt/",
+      "date": "2026-05-15",
+      "summary": "OpenAIが公式ブログで、米国ChatGPT Proユーザー向けに個人向け資産管理機能のプレビュー提供を発表。Plaidを通じて銀行・投資口座を安全に接続し、純資産・投資・支出・サブスク・将来計画までを一つのダッシュボードで把握できる。文脈に根ざした自然言語Q&Aを実現し、フィードバックを基に対象拡大を予定。Intuitとの統合も近く追加する。Web・iOSで提供開始。",
+      "category": "company_blog"
     },
     {
       "title": "Fiserv Forms Strategic Collaboration with OpenAI to Bring AI to How Fiserv Serves Financial Institutions",
@@ -220,6 +256,55 @@
       "date": "2026-05-14",
       "authors": "Anonymous authors",
       "summary": "離散拡散言語モデルの並列デコードにおける因数分解誤差を、投機的デコーディングで補正する手法を提案。誤差ゼロを保ちながら高速生成を実現し、自己回帰モデルに匹敵する品質と推論効率の両立を目指す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Netflix Staffing for 'INKubator' AI-Powered Experimental Animation Studio",
+      "title_ja": "Netflix、生成AIによる短編アニメ制作専門スタジオ「INKubator」の人材獲得を本格化",
+      "source": "Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio/",
+      "date": "2026-05-14",
+      "summary": "Netflixが3月にひっそりと立ち上げた実験的AIアニメスタジオ「INKubator」のスタッフ採用を本格化。DreamWorks Animation・MRC Studios・A24で戦略・運営を経験したSerrena Iyer氏が率い、プロデューサー・ソフトウェアエンジニア・CGアーティストなど幅広い職種で募集中。短編・特別番組での生成AI活用を起点に長尺コンテンツへの展開も視野。Netflix Animation Studiosの長編作品は従来手法を維持し、INKubatorは独立した実験部門と位置付けられている。「クリエイターが新しいツール・ワークフローと従来のアニメ実践を組み合わせて表現を強化する場」とNetflixはコメント。",
+      "category": "international"
+    },
+    {
+      "title": "Self-Distilled Agentic Reinforcement Learning",
+      "title_ja": "SDAR: 自己蒸留型エージェント強化学習",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15155",
+      "date": "2026-05-14",
+      "summary": "LLMエージェントの事後学習で主流となったRLは軌跡レベル報酬のみで長期相互作用への教師が粗いが、On-Policy Self-Distillation（OPSD）が補完しても、多ターン環境では不安定さが増幅され負例の教師拒否を非対称に扱う必要が生じる。本論文はOPSDをRLに対するゲート付き補助目的関数として組み込むSDARを提案。デタッチされたトークン単位の信号をシグモイドゲートに写像し、教師肯定の正のギャップトークンで蒸留を強化、教師拒否は緩やかに減衰させる。Qwen2.5/Qwen3で ALFWorld(+9.4%)、Search-QA(+7.0%)、WebShop-Acc(+10.2%)とGRPOを大幅に改善し、ハイブリッド系列も上回る。",
+      "authors": "Zhengxi Lu et al. (Zhejiang University, Meituan, Tsinghua University)",
+      "category": "arxiv"
+    },
+    {
+      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+      "title_ja": "MemEye: マルチモーダルエージェント記憶の視覚中心評価フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15128",
+      "date": "2026-05-14",
+      "summary": "長期エージェント記憶はマルチモーダル化が進む一方、既存評価はキャプションやテキストトレースのみで回答可能なケースが多く、視覚証拠の保持が真に問われていない。MemEyeは『決定的視覚証拠の粒度（場面〜ピクセル）』と『証拠の使用方法（単独〜進化的合成）』の2軸で能力を測定。8つの生活シナリオタスク・789質問・回答可能性／ショートカット耐性／視覚必要性／推論構造を検証するアブレーション駆動ゲートを備え、画像を除去するとフロンティアLVLMが精度2%未満に落ちることを確認。",
+      "authors": "Rutgers, Notre Dame, Princeton, U. Minnesota et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "ExploitBench: A Capability Ladder Benchmark for LLM Cybersecurity Agents",
+      "title_ja": "ExploitBench: LLMサイバーセキュリティエージェントの能力階段ベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14153",
+      "date": "2026-05-14",
+      "summary": "従来のLLMサイバーセキュリティ評価はクラッシュ＝成功とみなし、攻撃能力の段階を区別できなかった。ExploitBenchは硬化された本番V8ターゲット上で、到達→トリガー→エンジン特化プリミティブ→汎用プリミティブ→制御奪取の5階層・16能力フラグに分解し、決定的なオラクル（チャレンジレスポンス組み込み関数、グラウンドトゥルース差分実行、in-engineシグナルハンドラ／prctlオラクル）で人手判定なしに検証。AIエージェントの実エクスプロイト開発能力をはしご状に段階測定する。",
+      "authors": "Seunghyun Lee, David Brumley",
+      "category": "arxiv"
+    },
+    {
+      "title": "Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience",
+      "title_ja": "経験の反復蒸留によるブラックボックスLLM向け多段推論・ツール利用プロンプトポリシー学習",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14443",
+      "date": "2026-05-14",
+      "summary": "フリーズしたワーカーLLM向けに、軽量プロンプタモデルをRLで最適化しタスク特化報酬を最大化する枠組みを提案。スカラ報酬と密なテキスト批評を結合する対比型経験バッファにより、反復的なプロンプト精錬を単発のポリシー重みへ償却する。Big Bench Extra Hard (BBEH)とTau-benchで評価し、論理集約推論で55%→90%、ツール利用で74%→91%へと大幅改善。",
+      "authors": "Krishna Sayana, Ketan Todi, Ambarish Jash",
       "category": "arxiv"
     },
     {
@@ -1659,81 +1744,6 @@
       "url": "https://arxiv.org/abs/2605.01567",
       "date": "2026-05-02",
       "summary": "強化学習ベースのコーディングエージェントに対し、Model Context Protocol (MCP) ネイティブで動作する開発者メモリを提案。CIフィードバックで重要度を正規化し、安全ゲート付きで蓄積／検索することで、長期プロジェクトでも有効な改善知識のみを活用可能にする。SWE-Bench Verified および社内大規模リポジトリで成功率を最大11.2pt改善した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01704",
-      "date": "2026-05-02",
-      "summary": "同一モデルの複製同士による多段推論やマルチエージェント討論が、結論の正答率を維持したまま推論過程の多様性を著しく劣化させることを情報理論的に証明。閉鎖系では新規情報量に上限があるため『答えは合っているが理由は均質化する』現象を理論・実験で示した。多様な真の推論軌跡には外部知識／異質モデル混在が不可避と結論。",
-      "category": "arxiv"
-    },
-    {
-      "title": "MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01386",
-      "date": "2026-05-02",
-      "summary": "LLM対話エージェント向けの新しい長期記憶フレームワークMemORAIを提案。ペルソナ関連性に基づく選択的メモリフィルタリング、ターン単位の出処を保持する多関係グラフ、動的重み付きPageRankを用いるクエリ適応サブグラフ検索を組み合わせ、LOCOMO/LongMemEvalでSOTAを達成。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Microsoft Agent 365 Reaches General Availability with Expanded Integrations and Security Controls",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-      "date": "2026-05-01",
-      "summary": "Microsoftが5月1日にAgent 365の正式提供（GA）を開始。Microsoft Entraネットワーク制御をMicrosoft Copilot Studioエージェントとユーザー端末で動作するエージェント（OpenClawなどローカルエージェント含む）に拡張し、未承認AI利用の特定、承認済みWebサイトのみへの接続制限、リスクの高いファイル移動のフィルタリング、悪意のあるプロンプトベース攻撃のブロックを実現する。月額15ドル/ユーザーで提供開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft 365 E7 Frontier Suite Launches Globally at $99/User as Wave 3 of Copilot",
-      "source": "Microsoft",
-      "url": "https://samexpert.com/microsoft-product-terms-may-2026/",
-      "date": "2026-05-01",
-      "summary": "Microsoftが5月1日、3月発表の最上位プラン「Microsoft 365 E7 Frontier Suite」を月額99ドル/ユーザーで世界提供開始。Microsoft 365 E5（セキュアな生産性）、Entra Suite（ID／アクセス管理）、Microsoft 365 Copilot（業務AI）、Agent 365（エージェントの統制プレーン）を一つのSKUに統合し、エンタープライズの本格的なエージェント運用基盤を提供する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Pentagon Awards AI Contracts to 7 Tech Firms for Classified Networks, Excluding Anthropic",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2026/05/pentagon-clears-7-tech-firms-to-deploy-their-ai-on-its-classified-networks/",
-      "date": "2026-05-01",
-      "summary": "国防総省が5月1日、機密ネットワークへのAI展開でAWS、Google、Microsoft、OpenAI、SpaceX、NVIDIA、NVIDIA出資のスタートアップReflectionの7社（一部報道は8社）と契約を発表。一方Anthropicは「サプライチェーンリスク」と指定され除外された。Pentagon CTOのEmil Michael氏は「単一のパートナーに依存せず、オープンソースとプロプライエタリの双方を含む多様な供給確保が重要」と説明。",
-      "category": "international"
-    },
-    {
-      "title": "経産省、Anthropic「Claude Mythos」リスクを受け重要インフラ24社に緊急点検要請",
-      "source": "経済産業省",
-      "url": "https://www.meti.go.jp/press/2026/05/20260501001/20260501001.html",
-      "date": "2026-05-01",
-      "summary": "赤澤経産大臣が5月1日、電力24社をはじめガス・石油化学・クレジット・石油の重要インフラ事業者と意見交換を実施。Anthropicの高性能AI「Claude Mythos Preview」が主要OS・ブラウザに数千件の未発見脆弱性を発見できる能力を示したことを受け、（1）経営層のリーダーシップ、（2）脆弱性情報の早期把握と対応、（3）ゼロトラスト型への移行――の3つの対策を強調し、サイバー攻撃リスク低減を要請した。",
-      "category": "japan"
-    },
-    {
-      "title": "デジタル庁、ガバメントAI「源内」の全府省庁18万人規模の大規模実証を5月から本格稼働",
-      "title_ja": "デジタル庁、ガバメントAI「源内」の全府省庁18万人規模の大規模実証を5月から本格稼働",
-      "source": "デジタル庁",
-      "url": "https://www.digital.go.jp/en/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-      "date": "2026-05-01",
-      "summary": "デジタル庁は5月から、政府共通の生成AI基盤「源内（GENNAI）」の大規模実証を全府省庁39機関の国家公務員約18万人を対象に本格稼働させる。試用する国産LLMはNTTデータ、NEC、富士通、PFNなど7件が選定済みで、政府職員の業務へ生成AIを実装するための土台となる。高市総理が指示した「ガバメントAI源内の徹底活用」方針のもと、本年夏以降は希望府省庁への本格展開と業務変革が進む見通し。",
-      "category": "japan"
-    },
-    {
-      "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00425",
-      "date": "2026-05-01",
-      "summary": "Baidu等の研究チームが、マルチターンのエージェント型強化学習（agentic RL）における信用割り当て課題を、教師信号なしで解決する手法AEM（Adaptive Entropy Modulation）を提案。希薄な報酬下でも探索と活用のトレードオフを動的にエントロピーで制御し、プロセス報酬モデルや補助損失を不要にする。タスク横断での汎化性能を向上させ、複雑なRL設計の簡素化に寄与する。",
-      "authors": "Haotian Zhao, Yuxin Zhang, Songlin Zhou, Stephen S.-T. Yau, Wenyu Zhang, Lun Tian, Tianshu Zhu, Yifeng Huang, Yucheng Zeng, Jingnan Gu, Daxiang Dong, Jianmin Wu",
-      "category": "arxiv"
-    },
-    {
-      "title": "SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.00528",
-      "date": "2026-05-01",
-      "summary": "AIエージェント／複合AIワークロードのGPUクラスタ向けに、ワークフロー単位（複数LLM呼び出しをまとめた論理単位）をアトミックにスケジューリングする「SAGA」を提案。オンラインのKVキャッシュ管理をオフライン最適のBélády方策に近づけ、エージェント・複合パイプラインのスループットとレイテンシを改善する。分散推論サービングと協調動作する設計で、現実のサービング環境での有効性を実証している。",
-      "authors": "（arXiv:2605.00528）",
       "category": "arxiv"
     }
   ]

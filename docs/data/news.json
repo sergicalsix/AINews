@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-17 09:00 (JST)",
+  "lastUpdated": "2026-05-18 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
+      "title_ja": "OpenAIとDell Technologies、Codexをハイブリッド・オンプレ環境へ展開する提携を発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership/",
+      "date": "2026-05-18",
+      "summary": "OpenAIとDellは、Codexを企業のオンプレ・ハイブリッド環境に展開するための提携を発表。CodexはDell AI Data PlatformやAI Factoryと連携し、社内データの近接環境でコード支援を提供する。Codexは現在週次4M人の開発者が利用する成長分野。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Launches AI Personal Finance Tools and Consolidates Products Under Co-Founder Greg Brockman",
+      "title_ja": "OpenAI、パーソナルファイナンス機能を提供開始、共同創業者Greg Brockman主導でプロダクト統合へ",
+      "source": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/05/18/openai-launches-ai-personal-finance-tools-and-consolidates-products-under-co-founder-greg-brockman/",
+      "date": "2026-05-18",
+      "summary": "OpenAIはChatGPTのPersonal Finance機能をProユーザー向けに公開すると同時に、Greg BrockmanがChatGPTとCodexを単一プラットフォームに統合する計画を明らかにした。コンシューマーとエンタープライズを横断する『エージェント中心』戦略を強化する。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos",
+      "title_ja": "Anthropic、Mythosが発見したサイバー脆弱性について各国金融当局にブリーフィング実施へ",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/05/18/anthropic-to-brief-global-financial-watchdog-on-cyber-flaws-exposed-by-mythos/",
+      "date": "2026-05-18",
+      "summary": "Anthropicは、Claude Mythos Previewが発見したソフトウェア脆弱性について、イングランド銀行総裁の要請を受け、世界の主要財務省・中央銀行に非公開ブリーフィングを実施する。Project Glasswingの一環として金融セクターのリスク低減を狙う。",
+      "category": "international"
+    },
+    {
+      "title": "Dell targets enterprise AI execution gap with local agentic AI systems and integrated AI infrastructure",
+      "title_ja": "Dell、ローカルなエージェント型AIと統合インフラで企業AI実装ギャップに対応",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/05/18/dell-targets-enterprise-ai-execution-gap-local-agentic-ai-systems-integrated-ai-infrastructure/",
+      "date": "2026-05-18",
+      "summary": "Dell Technologies Worldにて、DellはローカルなエージェントAIシステムとAI Factory拡張を発表。OpenAI Codexのオンプレ統合に加え、NVIDIA Blackwell、AMD MI355X、Intel Gaudi 3に対応するAI PCとサーバーで企業のAI実装を加速する。",
+      "category": "international"
+    },
     {
       "title": "Google I/O 2026 Keynote Opens Tuesday as New Gemini Lands Behind Mythos and GPT-5.5",
       "title_ja": "Google I/O 2026、5月19日キーノート開幕―新Gemini投入もMythos・GPT-5.5に一歩及ばずか",
@@ -308,6 +344,24 @@
       "category": "arxiv"
     },
     {
+      "title": "OpenDeepThink: Parallel Reasoning via Bradley-Terry Aggregation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.15177",
+      "date": "2026-05-14",
+      "summary": "テスト時計算スケーリングを推論強化の主軸と位置づけ、複数の並列推論パスをBradley-Terryモデルで集約することで、単一の長CoTより少ないトークン消費で同等以上の精度を達成する手法を提案。再現可能なオープン実装を提供。",
+      "authors": "OpenDeepThink Team",
+      "category": "arxiv"
+    },
+    {
+      "title": "Cattle Trade: A Multi-Agent Benchmark for LLM Bluffing, Bidding, and Bargaining",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.14537",
+      "date": "2026-05-14",
+      "summary": "不完全情報・敵対的相互作用・資源制約下での戦略推論を評価するマルチエージェント・ベンチマークを提案。LLMエージェントのブラフ、入札、交渉能力を測定し、エージェント能力評価の新たな軸を提示する。",
+      "authors": "Anonymous (arXiv preprint)",
+      "category": "arxiv"
+    },
+    {
       "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
       "title_ja": "Nvidia、英スタートアップ「Ineffable Intelligence」と提携し超知能AIの開発を加速",
       "source": "CNBC",
@@ -378,6 +432,15 @@
       "date": "2026-05-13",
       "summary": "OpenAIエンジニアリングブログ。Codex for Windowsで「全コマンド承認 or フルアクセス」の二択を強いられていた状態を解消するため、Windowsネイティブ・サンドボックスを開発した経緯と設計を解説。専用の低特権サンドボックス・ユーザー、ファイルシステム権限境界、ファイアウォールルール、ローカルポリシー変更を組み合わせる「エレベーテッド・サンドボックス」を採用し、Codexコマンドと派生プロセス全てを同一境界内に閉じ込める。最新更新ではサンドボックス・ユーザーへのデスクトップ・ランタイム・バイナリキャッシュへのアクセス付与、DPAPI制御の強化を実施した。",
       "category": "company_blog"
+    },
+    {
+      "title": "FlowCompile: An Optimizing Compiler for Structured LLM Workflows",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.13647",
+      "date": "2026-05-13",
+      "summary": "構造化されたLLMワークフローのための最適化コンパイラFlowCompileを提案。ノード融合、並列化、キャッシュ再利用を自動適用し、複数のLLM呼び出しを含むパイプラインのレイテンシとコストを大幅削減する。",
+      "authors": "Anonymous (arXiv preprint)",
+      "category": "arxiv"
     },
     {
       "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
@@ -468,6 +531,15 @@
       "date": "2026-05-12",
       "summary": "凍結された埋め込みAPIに対して259の推論プログラム候補を90世代にわたるエージェント的プログラム探索で評価し、Pareto最適解が「ローカル上位K文書のソフトマックス加重重心を、クエリと補間する」という単一の代数式に収束することを発見。学習可能パラメータを増やさずに、7系統の埋め込みモデルファミリー（パラメータ数で10倍幅）でnDCG@10を有意に改善した。",
       "authors": "Han Xiao",
+      "category": "arxiv"
+    },
+    {
+      "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.11388",
+      "date": "2026-05-12",
+      "summary": "汎用エージェントにおいて、タスク特化スキャフォールドを推論時に構造化メタ認知によって構築する手法を提案。形式言語でメタ推論を実行可能な分解として表現し、複雑なタスクに対する深い推論を可能にする。",
+      "authors": "Anonymous (arXiv preprint)",
       "category": "arxiv"
     },
     {
@@ -1678,73 +1750,6 @@
       "date": "2026-05-03",
       "summary": "Sakana AIによる公式ブログ。直接型音声対話モデルと大規模LLMを並列に走らせる「Speak-while-thinking」パラダイムを提唱し、Moshiベースのフロントエンドが80msごとに音声を生成しながらバックエンドのLLMが推論を継続。バックエンドはGPT-4.1/Claude Opus 4.1/Gemini 2.5 Flashを再学習なしで切替可能。",
       "category": "company_blog"
-    },
-    {
-      "title": "Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01870",
-      "date": "2026-05-03",
-      "summary": "ギリシャ語向けに教師LLMからの知識蒸留+教師あり微調整で開発した8Bパラメータのオープンウェイト言語モデルMaistros。低資源言語におけるリーズニングモデル蒸留が、母語ベンチマークで顕著な性能向上をもたらすことを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "BIM Information Extraction Through LLM-based Adaptive Exploration",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01698",
-      "date": "2026-05-03",
-      "summary": "建築情報モデリング(BIM)モデルからの情報抽出に、LLMエージェントが反復的にコードを生成・実行する適応的探索フレームワークを適用。プロンプトのみで構造化APIを動的に組み合わせ、属性問い合わせやジオメトリ走査の自動化精度を向上させた。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Replit Marks 10th Anniversary by Offering Free Agent Access for 24 Hours, Unveils Slides and Enterprise Push",
-      "source": "TipRanks",
-      "url": "https://www.tipranks.com/news/private-companies/replit-marks-10th-anniversary-with-ai-features-developer-buildathon-and-enterprise-focus",
-      "date": "2026-05-02",
-      "summary": "ブラウザ完結の開発プラットフォームReplitが5月2日に創業10周年を祝い、全ユーザーにエージェント機能を24時間無料開放した（使用量上限なし）。同日、コーディング以外の用途を狙う新機能「Slides on Replit」をローンチし、エンタープライズ向け戦略の強化と開発者向け「10年Buildathon」を発表。CEOのAmjad Masad氏は「アイデアは君のもの、ビルドは無料」と表現し、AIネイティブ開発の民主化をアピールした。",
-      "category": "international"
-    },
-    {
-      "title": "Claude Code Ships Bedrock Service Tier Selection, Project Purge, and PR-Aware /resume Search",
-      "source": "Anthropic",
-      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "date": "2026-05-02",
-      "summary": "AnthropicがClaude Codeに大型アップデートを配信。Amazon Bedrockのサービスティア選択、プロジェクト全状態を削除する`claude project purge [path]`、PR URLを貼り付けると該当セッションを発見できる/resume検索（GitHub/GitLab/Bitbucket対応）を追加した。さらに、Windowsクリップボードがプロセス引数経由でEDR/SIEMに漏れない安全化、PowerShellの`--`誤検知修正、並列ツール呼び出しでの不正ツール名によるAgent SDKハング修正など信頼性改善も実施。OpenTelemetryロギングも拡張された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "高市総理、ベトナムでAI協力を表明──「日・ASEAN・AI共創イニシアティブ」始動、母国語LLM・産業基盤モデル開発を支援",
-      "title_ja": "高市総理、ベトナムでAI協力を表明──「日・ASEAN・AI共創イニシアティブ」始動、母国語LLM・産業基盤モデル開発を支援",
-      "source": "外務省",
-      "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_02927.html",
-      "date": "2026-05-02",
-      "summary": "ベトナム訪問中の高市早苗首相が5月2日、ハノイのベトナム国家大学で外交政策スピーチを行い、「日・ASEAN・AI共創イニシアティブ」を通じたAI協力を強調。フン首相との首脳会談では、総務省と科学技術省の協力覚書を歓迎し、ベトナムの言語・文化を反映した母国語LLMや産業別基盤モデルの開発支援で合意。海底ケーブル、オープンRAN、衛星通信を含む「FOIPデジタル回廊」構想も発表し、自由で開かれたインド太平洋（FOIP）を進化させる方針を打ち出した。",
-      "category": "japan"
-    },
-    {
-      "title": "GR-Ben: A General Reasoning Benchmark for Evaluating Process Reward Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01203",
-      "date": "2026-05-02",
-      "authors": "Zhouhao Sun, Xuan Zhang, Xiao Ding, Bibo Cai, Li Du, et al.",
-      "summary": "科学・論理を含む2大領域9サブ領域にわたるプロセス報酬モデル評価ベンチマーク。既存PRMが数学以外の推論タスクで誤り検出能力が顕著に弱まることを明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01495",
-      "date": "2026-05-02",
-      "authors": "Zebin Guo, Weidong Geng, Ruichen Mao",
-      "summary": "表をエントリレベルの意味単位に分解し構造グラフを構築する細粒度RAGフレームワーク。構造的近傍展開とマルチモーダル融合により複雑な表推論性能を向上、9,870件の高難度QAベンチマークも公開。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01567",
-      "date": "2026-05-02",
-      "summary": "強化学習ベースのコーディングエージェントに対し、Model Context Protocol (MCP) ネイティブで動作する開発者メモリを提案。CIフィードバックで重要度を正規化し、安全ゲート付きで蓄積／検索することで、長期プロジェクトでも有効な改善知識のみを活用可能にする。SWE-Bench Verified および社内大規模リポジトリで成功率を最大11.2pt改善した。",
-      "category": "arxiv"
     }
   ]
 }

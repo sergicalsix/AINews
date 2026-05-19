@@ -1,6 +1,112 @@
 {
-  "lastUpdated": "2026-05-18 09:00 (JST)",
+  "lastUpdated": "2026-05-19 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+      "title_ja": "OpenAI共同創業者Andrej Karpathy氏、Anthropicのpre-trainingチームに加入",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "date": "2026-05-19",
+      "summary": "OpenAI共同創業者で元Tesla AI責任者のAndrej Karpathy氏が、Anthropicのpre-trainingチーム（チームリードNick Joseph氏配下）に加わったとX投稿で発表。Karpathy氏はClaudeを用いてpre-training研究自体を加速する小チームを立ち上げる。『今後数年のLLMフロンティアは特に重要な期間になる』と述べ、AI支援によるR&D加速がAnthropicの差別化戦略であることが鮮明になった。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
+      "title_ja": "Anthropic、OpenAI共同創業者で元Tesla AI責任者のKarpathy氏を採用",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+      "date": "2026-05-19",
+      "summary": "CNBCはAnthropicが著名なAI研究者Andrej Karpathy氏をpre-training研究の責任者として迎え入れたと報道。OpenAI設立メンバーからAnthropicへ移籍するこの動きは、AnthropicがOpenAI・Googleとのフロンティア競争でAI支援研究にベットしていることを示す重要な人事と位置付ける。",
+      "category": "international"
+    },
+    {
+      "title": "Why Anthropic was No. 1 in this year's CNBC Disruptor 50 rankings",
+      "title_ja": "CNBC Disruptor 50 2026、AnthropicがNo.1に選出",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-anthropic-no-1.html",
+      "date": "2026-05-19",
+      "summary": "CNBCの第14回Disruptor 50で、Anthropicが今年No.1に選ばれた。年換算売上が2025年末の90億ドルから300億ドル超に急成長し、新ラウンドでは9,000億ドル評価が示されOpenAIを上回る見込み。トップ5（Anthropic, OpenAI, Databricks, Anduril, Ramp）だけで合計約2兆ドルを占める。",
+      "category": "international"
+    },
+    {
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "title_ja": "Gemini 3.5 FlashでGoogleが新章へ―主役はチャットボットではなくエージェント",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "date": "2026-05-19",
+      "summary": "Google I/O 2026でGemini 3.5 Flashが発表。3.5ファミリーの第一弾で、コーディング・エージェントタスクで上位のGemini 3.1 Proを上回りながら出力トークンは4倍速。API価格は入力1.50ドル/M・出力9.00ドル/Mで3.1 Pro比約40%安。Gemini AppおよびSearch AI Modeのデフォルトモデルに採用される一方、Gemini 3.5 Proは6月にずれ込む。",
+      "category": "international"
+    },
+    {
+      "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic",
+      "title_ja": "Google、Gemini 3.5・Gemini Spark・Omniを一斉発表―OpenAI/Anthropicとの差を詰める",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+      "date": "2026-05-19",
+      "summary": "Google I/O 2026のキーノートで、Google AIのデフォルトGemini 3.5 Flash、汎用AIエージェントGemini Spark、新世界モデルOmni、AI Ultraサブスクの100ドル/月への値下げ、Workspace連携など多数を発表。OpenAI・Anthropicの急騰評価と並走するため、自社の膨大なユーザー基盤へのAI浸透を狙う。",
+      "category": "international"
+    },
+    {
+      "title": "Google's Gemini Omni turns images, audio, and text into video — and that's just the start",
+      "title_ja": "Google Gemini Omni、画像・音声・テキストから動画生成へ―Veoから本体統合に進化",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "date": "2026-05-19",
+      "summary": "GoogleはI/O 2026で多モーダルモデル『Gemini Omni』を発表。生成動画事業をVeoシリーズからGemini本体に統合し、画像・音声・動画・テキストを一括で推論し単一出力を生成、追加指示で対話的に編集可能。第一弾の『Omni Flash』が同日提供開始（クリップ最長10秒）。上位『Omni Pro』も計画中。",
+      "category": "international"
+    },
+    {
+      "title": "Google Search as you know it is over",
+      "title_ja": "Google検索、25年来の最大刷新―ボックスを動的化、AIエージェント常駐へ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "date": "2026-05-19",
+      "summary": "Google I/O 2026で発表されたSearchの再設計についてTechCrunchが解説。検索ボックスはGemini 3.5 Flashで動的に拡張し、要件を自然言語で記述できるよう刷新。AI OverviewsでもAI Modeでフォローアップ質問が可能になり、Information Agentsが住居・スポーツ・購買情報を継続的に監視・通知。booking機能はカラオケや地元サービスへ拡大。",
+      "category": "international"
+    },
+    {
+      "title": "Google cuts AI Ultra to $100, launches Gemini Spark agent and Android XR glasses at I/O 2026",
+      "title_ja": "Google、AI Ultraを月100ドルに値下げ―I/O 2026でGemini Spark・Android XRグラスも発表",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/316853/20260519/google-cuts-ai-ultra-100-launches-gemini-spark-agent-android-xr-glasses-i-o-2026.htm",
+      "date": "2026-05-19",
+      "summary": "GoogleはI/O 2026で『Google AI Ultra』価格を月額250→100ドルへ大幅引き下げ、開発者・ナレッジワーカーを取り込む。Gemini 3.5 Flashを基盤とした24/7パーソナルエージェント『Gemini Spark』を米国Ultra加入者向けに来週公開、Gentle Monster・Warby Parker・Samsungと組んだAndroid XRオーディオグラスも秋投入予定。",
+      "category": "international"
+    },
+    {
+      "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
+      "title_ja": "Google I/O 2026発表まとめ：Gemini、Search、Android XRほか",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+      "date": "2026-05-19",
+      "summary": "9to5GoogleがI/O 2026の発表を網羅的に整理。Gemini 3.5 Flash/Spark/Omni、Search刷新、Workspace統合、Android XRグラス、AI Ultra値下げ、Veoアップデート、Aluminium OSなど。同社はAIエージェントへのシフトを軸に、消費者・エンタープライズ双方の体験を再設計する戦略を打ち出した。",
+      "category": "international"
+    },
+    {
+      "title": "Google Search's I/O 2026 updates: AI agents and more",
+      "title_ja": "Google Search、I/O 2026アップデート―AIエージェントなどを発表",
+      "source": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "date": "2026-05-19",
+      "summary": "Googleは公式ブログでSearchのI/O 2026アップデートを公表。Gemini 3.5 FlashをAI Modeのデフォルトに据え、Information Agentsで住居・購買・スポーツ等の継続監視と通知を提供。booking機能を拡大し、AI OverviewsからAI Modeへフォローアップ質問を可能にするなど、検索全体をエージェント駆動の体験へ刷新する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "東芝、統合人事給与システム「Generalist」V8を提供開始―MCP連携の人財検索AI機能を搭載",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZRSP707231_Z10C26A5000000/",
+      "date": "2026-05-19",
+      "summary": "東芝は5月19日、統合人事給与システム『Generalist』の新バージョン（V8）を提供開始したと発表。MCP対応でLLMと業務データを安全に接続するAI活用基盤を整備し、新機能『人財検索AI機能』では自然言語で要望を入力するとAIが検索意図と条件案を提示。条件設計と検索の手間を軽減し、人財情報への迅速なアクセスを実現する。",
+      "category": "japan"
+    },
+    {
+      "title": "【東芝】統合人事給与システム「Generalist®」新バージョンを提供開始",
+      "source": "東芝デジタルプレスリリース",
+      "url": "https://digitalpr.jp/r/135038",
+      "date": "2026-05-19",
+      "summary": "東芝の公式リリース。Generalist V8は人事業務に特化したMCP対応AI基盤を備え、自然言語の要望から検索意図と条件案をAIが提案する『人財検索AI機能』を新搭載。スキル・経験・配置などの人財情報へのアクセスを高速化し、人事担当の業務横断支援を狙う。中堅・大企業向けの統合人事給与基盤として展開する。",
+      "category": "japan"
+    },
     {
       "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
       "title_ja": "OpenAIとDell Technologies、Codexをハイブリッド・オンプレ環境へ展開する提携を発表",
@@ -1645,110 +1751,6 @@
       "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-brings-agentic-ai-to-banking-with-anthropic-starting-with-financial-crimes",
       "date": "2026-05-04",
       "summary": "決済・銀行基盤大手FISがAnthropicとの戦略提携を発表。第一弾としてAML(アンチマネーロンダリング)調査時間を数日から数分へ短縮するFinancial Crimes AI Agentを共同開発。BMOとAmalgamated Bankで先行導入し、2026年下半期から本格展開する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic and FIS partner to deploy AI agents for bank fraud detection",
-      "source": "WSJ via Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-fis-partner-deploy-ai-214359032.html",
-      "date": "2026-05-04",
-      "summary": "FISが2026年5月4日、Anthropicと組んで銀行向けAIエージェントを展開すると発表。Anthropic Applied AIチームのFDE(フォワードデプロイドエンジニア)がFISに常駐しClaudeをFISの銀行データと統合。次はクレジット判断・顧客オンボーディング・不正対策へ拡大予定。",
-      "category": "international"
-    },
-    {
-      "title": "FIS and Anthropic Collaborate to Enable Agent-First Banks",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/fis-and-anthropic-collaborate-to-enable-agent-first-banks/",
-      "date": "2026-05-04",
-      "summary": "FISはAnthropicと提携し、Claudeを基盤に銀行業務を「エージェント・ファースト」に再構築する取り組みを開始。最初のFinancial Crimes AI Agentに加え、預金維持・与信判断・新規顧客獲得などへロードマップを拡張する計画。",
-      "category": "international"
-    },
-    {
-      "title": "Decoding-Time Debiasing via Process Reward Models: From Controlled Fill-in to Open-Ended Generation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02348",
-      "date": "2026-05-04",
-      "summary": "プロセス報酬モデル(PRM)を用いて推論時にバイアスを軽減する手法を提案。バイアス軽減を候補トークン上の構造化探索として定式化し、Controlled Fill-in型タスクからOpen-Ended Generationまで一貫して扱える枠組みを示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Measuring AI Reasoning: A Guide for Researchers",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02442",
-      "date": "2026-05-04",
-      "summary": "本論文は言語モデルの推論能力評価について研究者向けガイドラインを提示。最終回答の正解率ではなく適応的・多段階探索の証拠から推論を評価すべきと主張する。スケーラブルアーキテクチャの単一フォワードパスは可変深度計算の実現に構造的制約があり、中間デコードや外部化された推論トレースが適切な評価インターフェースになるとする。",
-      "authors": "M. Lampinen et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02489",
-      "date": "2026-05-04",
-      "summary": "LLMエージェント・エコシステム向けのリアルタイム発見フレームワーク。SLM（小型言語モデル）による予測拡張、疑似ドキュメント生成、MaxSim共鳴によるファイングレイン照合を組み合わせ、発見遅延を400ms未満に抑えながら精度を維持。マルチエージェント市場でのエージェントマッチング基盤として位置付ける。",
-      "authors": "Y. Wang et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "date": "2026-05-03",
-      "summary": "ハーバード大学の研究で、OpenAIのo1とGPT-4oモデルが救急患者76人の診断において人間の医師2名を上回る、または同等の精度を示した。特にトリアージ段階で差が顕著で、医療AI実装の議論を加速させる結果となった。",
-      "category": "international"
-    },
-    {
-      "title": "MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01687",
-      "date": "2026-05-03",
-      "authors": "Jialin Song, Xiaodong Liu, Weiwei Yang, Wuyang Chen, Mingqian Feng, et al.",
-      "summary": "10,389件の多ターン敵対的プロンプトと2,665種類の有害意図をカバーするスケーラブルかつ多様なジェイルブレイクベンチマークを提案。LLMの安全性を多ターン会話の文脈で包括的に評価する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01831",
-      "date": "2026-05-03",
-      "authors": "Yangyang Zhou, Yi-Chen Li",
-      "summary": "RLHFにおける報酬モデルの汎化性能を、Chat・Writing・Reasoning・Safetyの4領域1,097インスタンスで評価するベンチマーク。多様な選好に対する報酬モデルの一般化ギャップを明確化する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "A Language for Describing Agentic LLM Contexts",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.01920",
-      "date": "2026-05-03",
-      "authors": "Noga Peleg Pelc, Gal A. Kaminka, Yoav Goldberg",
-      "summary": "エージェント型LLM入力コンテキストの構造と動的変化を精密かつ可読に記述する言語ACDLを提案。役割メッセージ列、動的内容、時間参照、条件・反復構造を表現でき、ホワイトボードでも形式言語でも記述可能。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02073",
-      "date": "2026-05-03",
-      "authors": "Arash Ahmadi, Sarah Sharif, Yaser Banad",
-      "summary": "報酬仕様自体を探索により最適化するフレームワークを提案。Llama-3.2-3BにGRPO+LoRAを適用し、GSM8KでF1=0.795を達成、ベースライン比+0.19のF1向上を実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
-      "title_ja": "Sakana AI、KAMEを発表：LLMの知識をリアルタイム注入するタンデム型音声対話アーキテクチャ",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
-      "date": "2026-05-03",
-      "summary": "東京拠点のSakana AIが、フロントエンドのS2Sモジュールとバックエンドの大規模LLMを非同期に動作させる新アーキテクチャ「KAME」を発表。低遅延を保ちながらLLMの知識を活用でき、MT-Bench 6.43を達成。論文はICASSP 2026に採択。",
-      "category": "japan"
-    },
-    {
-      "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI with Tandem Architecture",
-      "title_ja": "二つの頭脳の方が優れている：タンデム型アーキテクチャによる音声AIへの非同期知識注入",
-      "source": "Sakana AI",
-      "url": "https://pub.sakana.ai/kame/",
-      "date": "2026-05-03",
-      "summary": "Sakana AIによる公式ブログ。直接型音声対話モデルと大規模LLMを並列に走らせる「Speak-while-thinking」パラダイムを提唱し、Moshiベースのフロントエンドが80msごとに音声を生成しながらバックエンドのLLMが推論を継続。バックエンドはGPT-4.1/Claude Opus 4.1/Gemini 2.5 Flashを再学習なしで切替可能。",
       "category": "company_blog"
     }
   ]

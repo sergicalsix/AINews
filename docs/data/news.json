@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-19 09:00 (JST)",
+  "lastUpdated": "2026-05-20 09:00 (JST)",
   "articles": [
+    {
+      "title": "All the news from the Google I/O 2026 Developer keynote",
+      "title_ja": "Google I/O 2026 開発者キーノート発表まとめ―Antigravity 2.0、Gemini API、AI Studio",
+      "source": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "date": "2026-05-20",
+      "summary": "Googleは5月20日の開発者キーノートで、Gemini 3.5、Antigravity 2.0、Antigravity CLI/SDK、Gemini APIのManaged Agents、安定版Android CLI、Android Bench、Android移行エージェント、WebMCP、Chrome DevTools for agents、HTML-in-Canvasなどを一斉発表した。エージェント開発を中核に据え、Antigravityを4サーフェスの統合プラットフォームへ刷新する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "I/O 2026 developer highlights: Antigravity, Gemini API, AI Studio",
+      "title_ja": "Google I/O 2026 開発者ハイライト―Antigravity、Gemini API、AI Studio",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
+      "date": "2026-05-20",
+      "summary": "Googleは公式ブログでI/O 2026開発者キーノートのハイライトを公開。Gemini 3.5 Flashを基盤に、Antigravity 2.0のデスクトップアプリとCLI、Gemini APIのManaged Agents、Google AI Studioの強化を打ち出した。サブエージェントの並列実行、ターミナルサンドボックス、Git保護などエージェント運用基盤を整える方針を強調している。",
+      "category": "company_blog"
+    },
     {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
       "title_ja": "OpenAI共同創業者Andrej Karpathy氏、Anthropicのpre-trainingチームに加入",
@@ -108,6 +126,50 @@
       "category": "japan"
     },
     {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "title_ja": "Google、Antigravity 2.0をI/O 2026で正式発表―デスクトップアプリとCLIを刷新",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "date": "2026-05-19",
+      "summary": "GoogleはI/O 2026でエージェント開発プラットフォーム『Antigravity 2.0』をグローバルに一般公開。コーディング環境を超えた自律AIエージェントの開発・管理プラットフォームへ進化し、専用デスクトップアプリと新CLIを提供する。サブエージェントを生成して複雑なワークフローを並列実行でき、クロスプラットフォームのターミナルサンドボックスや認証情報マスキング、堅牢なGitポリシーを標準搭載する。",
+      "category": "international"
+    },
+    {
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "title_ja": "KPMG、世界27.6万人にClaudeを展開―AnthropicとグローバルアライアンスでDigital Gatewayに統合",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "date": "2026-05-19",
+      "summary": "AnthropicとKPMGは5月19日、グローバルアライアンスを締結。KPMGの業務基盤『Digital Gateway』にClaudeを組み込み、税務・法務向けの新ツールを皮切りに全世界27.6万人超の社員と顧客がClaudeを活用できるようにする。Big 4におけるClaude統合の最大規模の事例となり、エンタープライズAIの展開競争が加速している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title_ja": "Ai2、OlmoEarth v1.1を公開―地球観測モデルの推論コストを最大1/3に削減",
+      "source": "Allen Institute for AI (Ai2)",
+      "url": "https://allenai.org/blog/olmoearth-v1-1",
+      "date": "2026-05-19",
+      "summary": "Allen Institute for AI（Ai2）は5月19日、地球観測ファウンデーションモデル『OlmoEarth v1.1』を公開。研究ベンチマークおよびパートナー構築のタスクで前バージョンと同等の性能を維持しつつ、推論コストを最大3倍削減し、惑星規模のマップ更新を低コストで頻繁に実行可能にする。マングローブ変化追跡、森林損失要因分類、国家規模の作付け地図生成などへの展開を後押しする。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Code with Claude comes to San Francisco, London, and Tokyo",
+      "title_ja": "Anthropic開発者会議『Code with Claude』、SF・ロンドン・東京で開催決定",
+      "source": "Anthropic (Claude Blog)",
+      "url": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
+      "date": "2026-05-19",
+      "summary": "Anthropicは開発者向けカンファレンス『Code with Claude 2026』を、サンフランシスコ（5月6日）、ロンドン（5月19日）、東京（6月10日）の3都市で開催すると発表。1日のハンズオン技術ワークショップ、新機能のライブデモ、Anthropicエンジニアとの1:1オフィスアワーを提供し、各イベントはライブストリーミングでも視聴可能。Tokyo会場は2026年6月10日に開催される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "JCBIとMawari、AI・空間コンピューティング・分散インフラ部会を設立",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000070300.html",
+      "date": "2026-05-19",
+      "summary": "Japan Contents Blockchain Initiative（JCBI）と空間コンピューティング基盤のMawariは5月19日、加盟企業と共同で『AI・空間コンピューティング・分散インフラ部会』を設立したと発表。生成AIと空間コンピューティングが融合する時代に向け、コンテンツの真正性証明、権利管理、分散インフラの標準化を推進し、日本発のXR/AI流通基盤の整備を目指す。",
+      "category": "japan"
+    },
+    {
       "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
       "title_ja": "OpenAIとDell Technologies、Codexをハイブリッド・オンプレ環境へ展開する提携を発表",
       "source": "OpenAI",
@@ -144,6 +206,33 @@
       "category": "international"
     },
     {
+      "title": "Anthropic acquires Stainless",
+      "title_ja": "Anthropic、SDK/MCPサーバ生成基盤のStainlessを買収―エージェント接続レイヤーを強化",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "date": "2026-05-18",
+      "summary": "Anthropicは5月18日、SDKおよびMCPサーバツールの先駆者Stainlessを買収すると発表。Stainlessは2022年創業で、TypeScript、Python、Go、Java、Kotlinなど主要言語向けにSDK・CLI・MCPサーバを自動生成し、数百社が採用している。買収額は3億ドル超とされ、AnthropicはMCPに続きエージェント接続スタックでのリードを固める。",
+      "category": "company_blog"
+    },
+    {
+      "title": "PwC and Anthropic expand alliance for enterprise agentic AI",
+      "title_ja": "PwCとAnthropic、戦略アライアンスを大幅拡張―エンタープライズのエージェント開発を加速",
+      "source": "PwC",
+      "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html",
+      "date": "2026-05-18",
+      "summary": "PwCとAnthropicは戦略的アライアンスの大規模拡張を発表し、Claudeを活用したテクノロジー構築、ディール実行、エンタープライズ機能の再設計を全業界で推進する。Claude Codeを用いるエンジニアリングチームは金融サービス、製薬、ヘルスケア、消費財向けの本番ソフトを四半期単位から数週間で出荷できるようになっており、エージェント構築ポートフォリオが拡大している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic to Let Partners Share Mythos Cybersecurity Findings With Others",
+      "title_ja": "Anthropic、Mythosのサイバー脆弱性発見を第三者と共有可能に―責任ある開示へ方針転換",
+      "source": "U.S. News",
+      "url": "https://money.usnews.com/investing/news/articles/2026-05-18/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others",
+      "date": "2026-05-18",
+      "summary": "Anthropicは5月18日、サイバーセキュリティモデル『Mythos』の利用者が発見した脅威情報を、他社のセキュリティチーム、業界団体、規制当局・政府機関、OSSメンテナー、メディア・一般にも共有することを認める方針へ転換すると発表。米国政府ではPentagonが連邦システムの脆弱性検出・修正にMythosを展開しており、責任ある開示の枠組み整備が急ぎ進む。",
+      "category": "international"
+    },
+    {
       "title": "Google I/O 2026 Keynote Opens Tuesday as New Gemini Lands Behind Mythos and GPT-5.5",
       "title_ja": "Google I/O 2026、5月19日キーノート開幕―新Gemini投入もMythos・GPT-5.5に一歩及ばずか",
       "source": "TechTimes",
@@ -151,6 +240,15 @@
       "date": "2026-05-17",
       "summary": "Google I/O 2026が日本時間5月20日深夜（米PT 5/19 10時）開幕。新Geminiモデル投入が確実視されるが、OpenAI GPT-5.5と同等クラスでAnthropic Claude Mythosには届かない位置付けとの観測。リリースサイクルからGemini 3.2か3.5が有力でGemini 4.0は確度低めとの分析。あわせてGooglebook、Aluminium OS、Android XRグラス、Gemini Intelligence、Android 17、Magic PointerのChrome展開などが予定。",
       "category": "international"
+    },
+    {
+      "title": "CyberCorrect: A Cybernetic Framework for Closed-Loop Self-Correction in Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.17305",
+      "date": "2026-05-17",
+      "authors": "Yuning Wu, Yingmin Liu, Yang Shu, et al.",
+      "summary": "LLMの自己修正をサイバネティクス理論に基づく閉ループ制御系として形式化する『CyberCorrect』を提案。三モーダルのError Detector（生成・知識・推論）と型指向のCorrection Controllerにより、出力誤りの検出から目的指向の修正までを循環的に行い、安定した自己訂正を実現する。",
+      "category": "arxiv"
     },
     {
       "title": "Salesforce expects to spend $300 million on Anthropic tokens this year, and Benioff wants coding inside Slack next",
@@ -1207,6 +1305,24 @@
       "category": "japan"
     },
     {
+      "title": "Efficient Pre-Training with Token Superposition",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06546",
+      "date": "2026-05-07",
+      "authors": "Anonymous (cs.CL)",
+      "summary": "事前学習のFLOPあたりデータスループットを大幅に改善する手法『Token Superposition Training（TST）』を提案。並列化・オプティマイザ・トークナイザ・データ・モデル構造を変えず、(1)連続する複数トークンを1袋にまとめてmulti-hot cross-entropyで学習する高効率なsuperposition相、(2)通常学習へ戻すrecovery相、の2段階で構成される。LLM事前学習の費用対効果を高める実用的なドロップイン手法。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Spectral Lens: Activation and Gradient Spectra as Diagnostics of LLM Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.05683",
+      "date": "2026-05-07",
+      "authors": "Anonymous (cs.LG)",
+      "summary": "学習損失やスループットでは見えないLLM学習内部の表現を、スペクトル測定で診断するフレームワーク『Spectral Lens』を提案。学習初期のアクティベーション共分散の裾分布が、下流のトークン効率を信頼性高く予測できることを示し、学習動態の早期診断と最適化ヘの実用的指針を提供する。",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
       "title_ja": "Anthropic、Googleにチップとクラウド利用で2000億ドルを支払うと報道",
       "source": "Engadget",
@@ -1344,6 +1460,15 @@
       "date": "2026-05-06",
       "summary": "API経由でしかアクセスできない商用LLMの不確実性推定が困難な問題に対処。分布整合敵対的蒸留により、ブラックボックスLLMの幻覚を実用的に検出できる手法を提案。商業利用におけるLLM信頼性の課題に直接的な解決策を与える。",
       "authors": "Distribution-Aligned Adversarial Distillation Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Data-dependent Exploration for Online Reinforcement Learning from Human Feedback",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.04477v1",
+      "date": "2026-05-06",
+      "authors": "Anonymous (cs.LG)",
+      "summary": "オンラインRLHFにおいて高不確実領域の探索を強化する『DEPO（Data-dependent Exploration for Preference Optimization）』を提案。過去データから不確実性ボーナスを構築し、高価値となり得る領域へ選好収集を誘導することで、データ効率と最終性能を同時に改善する。",
       "category": "arxiv"
     },
     {
@@ -1633,124 +1758,6 @@
       "url": "https://openai.com/index/gpt-5-5-instant/",
       "date": "2026-05-05",
       "summary": "OpenAIが新ChatGPT既定モデル『GPT-5.5 Instant』を公式ブログで紹介。GPT-5.3 Instantを置き換え、API側でも `chat-latest` として提供。医療・法律・金融プロンプトでハルシネーションを52.5%削減、絵文字や過剰整形を抑えつつ温かみは維持。Plus/Pro Web→モバイル→Free/Go/Business/Enterpriseへ段階展開し、5.3は3ヶ月限定で残置。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "title_ja": "Cloudflare、エージェント向けに設計されたAIプラットフォーム新機能を発表 - 180都市超のGPU網と高速推論",
-      "source": "Cloudflare Blog",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "date": "2026-05-05",
-      "summary": "Cloudflareは5月5日、サーバーレスAIプラットフォーム『Workers AI』の大幅強化を発表。世界180都市超のGPUインフラ、Llama 3.1 70Bなど大型モデル対応、AI Gatewayの永続ログ（オープンベータ）、エージェント向けに最適化された推論レイヤなどを含む。新機能はエージェント時代のAIアプリ構築を加速する狙い。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic Teams With Blackstone, Goldman Sachs, and Hellman & Friedman to Launch $1.5B Enterprise AI Services Firm",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-      "date": "2026-05-04",
-      "summary": "Anthropicが5月4日、Blackstone、Goldman Sachs、Hellman & Friedmanと組み、評価額15億ドルのエンタープライズAIサービス専業会社を立ち上げると発表。Anthropic・Blackstone・H&Fが各3億ドル、Goldman Sachsが約1.5億ドルを拠出し、Apollo・General Atlantic・GIC・Sequoia等もバッカーに名を連ねる。新会社はClaudeを軸に中堅企業へエンジニアを派遣し業務をエージェント中心に再設計、世界の大手コンサルティング会社と直接競合する戦略。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Finalizes $10B 'The Deployment Company' Joint Venture With TPG, Bain, Brookfield, Advent",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
-      "date": "2026-05-04",
-      "summary": "OpenAIが5月4日、TPGをアンカー出資者とする100億ドル規模の合弁会社「The Deployment Company」を最終確定。Bain Capital、Advent International、Brookfield Asset Management、Goanna Capitalなど計19社が約40億ドルを5年で拠出し、年率17.5%のリターンを保証する仕組み。OpenAI自身も最大15億ドルを拠出し、超多数決株でガバナンスを保持。OpenAIエンジニアをPEポートフォリオ企業（医療、物流、製造、金融）に常駐させ、エンタープライズ展開を加速する。",
-      "category": "international"
-    },
-    {
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-      "date": "2026-05-04",
-      "summary": "OpenAI会長ブレット・テイラーのAIエージェント企業Sierraが、Tiger GlobalとGV主導で9.5億ドルを調達。ポストマネー評価額は158億ドルとなり、企業向けAIエージェント市場の競争激化を浮き彫りにした。",
-      "category": "international"
-    },
-    {
-      "title": "Panthalassa Raises $140 Million to Power AI at Sea",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/data-centers-at-sea-oregons-panthalassa-nets-140m-led-by-peter-thiel-for-wave-powered-ai/",
-      "date": "2026-05-04",
-      "summary": "オレゴン州拠点のPanthalassaがピーター・ティール主導で1.4億ドルを調達。波力発電を利用した洋上AIデータセンターを開発し、海水冷却で電力・冷却課題を解決する。2026年に北太平洋でOcean-3パイロット展開予定。",
-      "category": "international"
-    },
-    {
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "date": "2026-05-04",
-      "summary": "AnthropicがBlackstone、Hellman & Friedman、Goldman Sachsと共同で約15億ドル規模のエンタープライズAIサービス会社を設立。中堅企業の業務にClaudeを組み込み、Anthropic所属のApplied AIエンジニアが顧客の現場で実装を支援する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02801",
-      "date": "2026-05-04",
-      "authors": "Chenchen Zhang",
-      "summary": "サブエージェントの生成、委任、通信、集約、停止判断を含むオーケストレーショントレースに基づくマルチエージェントLLMの強化学習を提案。並列高速化や集約品質などシステムレベル特性を最適化する報酬設計を体系化。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Bret Taylor's Sierra raises nearly $1B in latest AI capital push",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
-      "date": "2026-05-04",
-      "summary": "OpenAI会長 Bret TaylorとClay Bavor率いるSierraが5月4日、Tiger Globalと Google GV主導でシリーズEとして9.5億ドルを調達、ポストマネー評価額158億ドル。フォーチュン50社のうち約半数が同社のAIカスタマーサービスエージェントを採用、年間経常収益(ARR)1.5億ドルに到達。エンタープライズAI市場の覇権争いを象徴する案件となった。",
-      "category": "international"
-    },
-    {
-      "title": "AI agent startup Sierra valued at $15B in new $950M funding round",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/05/04/ai-agent-startup-sierra-valued-15b-new-950m-funding-round/",
-      "date": "2026-05-04",
-      "summary": "Bret Taylor率いるSierraが9.5億ドルを調達、ポストマネー158億ドルとなり創業3年での評価額急騰が話題に。Tiger Global, Google GVに加え Benchmark, Sequoia, Greenoaks等が参加。フォーチュン50の約半数が顧客でARR1.5億ドル、AIエージェントの企業導入が現実の業務量とともに拡大している証左と評価された。",
-      "category": "international"
-    },
-    {
-      "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02888",
-      "date": "2026-05-04",
-      "summary": "推論高速化のSpeculative Decodingにおいて、KVキャッシュ圧縮の有無を考慮しつつ各ステップごとに最適な投機長γを動的に選択する軽量コントローラ『SpecKV』を提案。ドラフトモデル自身から抽出した信号で受理確率を予測し、長文・圧縮環境でもスループットを安定化。LLaMA・Qwen系列で従来手法比1.4–1.9倍の高速化を実現した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Benchmarking Retrieval Strategies for Biomedical Retrieval-Augmented Generation: A Controlled Empirical Study",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02520",
-      "date": "2026-05-04",
-      "summary": "医療・生命科学分野RAGのリトリーバ手法を統制的に評価。BM25、Dense、Hybrid、Cross-Encoder Reranking、Late-Interactionなど主要戦略をMedQA、PubMedQAなど11ベンチで横断比較。Cross-Encoder Rerankingが総合スコア0.827・コンテキスト精度0.852で最高性能、クエリ・文書相互作用の重要性を実証した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "WindowQuant: Mixed-Precision KV Cache Quantization based on Window-Level Similarity for VLMs Inference Optimization",
-      "title_ja": "WindowQuant：ウィンドウ単位の類似性に基づくVLM推論最適化のための混合精度KVキャッシュ量子化",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02262",
-      "date": "2026-05-04",
-      "summary": "視覚言語モデル（VLM）推論の最適化を目的に、ウィンドウ単位でのKVキャッシュ類似性に基づく混合精度量子化手法を提案。最先端手法と比べて高い精度・スループット・低メモリ消費を同時達成する。",
-      "authors": "Authors listed on arXiv",
-      "category": "arxiv"
-    },
-    {
-      "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
-      "title_ja": "SAP、Prior Labsを買収—欧州発の大規模フロンティアAIラボを設立へ",
-      "source": "SAP News",
-      "url": "https://news.sap.com/2026/05/sap-to-acquire-prior-labs-establish-frontier-ai-lab-europe/",
-      "date": "2026-05-04",
-      "summary": "SAPは独AIスタートアップPrior Labsの買収契約を締結し、今後4年間で10億ユーロ超を投資すると発表。タブラー基盤モデル(TabPFN)を中核に欧州初のフロンティアAIラボを構築し、構造化された業務データ活用の高度化を狙う。Q2-Q3に当局承認後クロージング予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes",
-      "title_ja": "FIS、Anthropicと連携し銀行向けエージェンティックAIを展開—まずは金融犯罪対策から",
-      "source": "FIS",
-      "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-brings-agentic-ai-to-banking-with-anthropic-starting-with-financial-crimes",
-      "date": "2026-05-04",
-      "summary": "決済・銀行基盤大手FISがAnthropicとの戦略提携を発表。第一弾としてAML(アンチマネーロンダリング)調査時間を数日から数分へ短縮するFinancial Crimes AI Agentを共同開発。BMOとAmalgamated Bankで先行導入し、2026年下半期から本格展開する。",
       "category": "company_blog"
     }
   ]

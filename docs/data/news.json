@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-20 09:00 (JST)",
+  "lastUpdated": "2026-05-21 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+      "date": "2026-05-21",
+      "summary": "Microsoftが自社のAI推論チップ「Maia 200」をAnthropicに供給するため初期協議中であることが報じられた。これはMicrosoftがカスタムAIシリコンの提供で競合のAWS・Googleに追いつく重要な機会となる。Maia 200は2026年1月に発表され、最新シリコンと比較してドル当たり30%以上のトークン効率向上を実現したと言われる。",
+      "category": "international"
+    },
+    {
+      "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
+      "date": "2026-05-21",
+      "summary": "トランプ大統領は5月21日に予定されていたAI業界に関する大統領令の署名式を急遽延期した。「特定の側面が気に入らなかった」「AIは大きな利益を生み出しており、阻害要因になり得る」と説明。当初の大統領令はフロンティアAIシステムの自主的な政府テストを求める内容で、リリース前90日間の政府との共有を義務付ける枠組みを目指していた。",
+      "category": "international"
+    },
+    {
+      "title": "Trump delays AI security executive order: 'I don't want to get in the way of that leading'",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "date": "2026-05-21",
+      "summary": "トランプ大統領は予定していたAIセキュリティ大統領令の署名を直前で延期した。米国がAI分野で中国や世界をリードしているとし、リーダーシップを妨げる可能性のある措置を回避したいと表明。サイバー責任者室がAIモデルのセキュリティ評価プロセスを開発するという内容だったが、業界寄りに見直される可能性がある。",
+      "category": "international"
+    },
+    {
+      "title": "Alibaba introduces Qwen3.7-Max as next-gen AI agent model",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/05/21/alibaba-introduces-qwen3-7-max-as-next-gen-ai-agent-model/",
+      "date": "2026-05-21",
+      "summary": "Alibabaが100万トークンのコンテキストウィンドウと拡張思考モードを持つフラッグシップ推論モデルQwen3.7-Max-Previewを発表した。同社の最先端エージェントモデルで、コーディング・デバッグ・オフィスワークフロー自動化に対応し、長期タスクで最大35時間自律実行可能。Artificial Analysis Intelligence Indexで57を記録し公開ランキング1位となった。",
+      "category": "international"
+    },
+    {
+      "title": "How Google plans to win the AI war",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
+      "date": "2026-05-21",
+      "summary": "Google I/O 2026の発表を踏まえ、GoogleがOpenAI・Anthropicに対して優位を確立するための戦略を分析。Gemini 3.5 Flash・Omni・Sparkといった製品ラインアップ、価格戦略、垂直統合された自社TPUインフラストラクチャを武器に、AI時代の主導権獲得を目指す姿勢を解説している。",
+      "category": "international"
+    },
     {
       "title": "All the news from the Google I/O 2026 Developer keynote",
       "title_ja": "Google I/O 2026 開発者キーノート発表まとめ―Antigravity 2.0、Gemini API、AI Studio",
@@ -17,6 +57,54 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
       "date": "2026-05-20",
       "summary": "Googleは公式ブログでI/O 2026開発者キーノートのハイライトを公開。Gemini 3.5 Flashを基盤に、Antigravity 2.0のデスクトップアプリとCLI、Gemini APIのManaged Agents、Google AI Studioの強化を打ち出した。サブエージェントの並列実行、ターミナルサンドボックス、Git保護などエージェント運用基盤を整える方針を強調している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "date": "2026-05-20",
+      "summary": "OpenAIの新しい推論モデルが、1946年にPaul Erdősが提起した離散幾何学の長年未解決の予想を反証する独自の数学的証明を生成した。AIシステムが活発な数学分野の主要な未解決問題を自律的に解いた初の事例となり、外部の数学者による検証も行われたと報告された。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "date": "2026-05-20",
+      "summary": "Anthropicは2029年5月までxAI(SpaceX)のColossusスーパーコンピューティングインフラへのアクセスのため月額12.5億ドルを支払う契約を結んだ。最初の2か月は割引価格となり、契約総額はxAIに400億ドル以上の収益をもたらす可能性がある。AnthropicはColossus 2施設にも拡張する計画を発表した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic is paying SpaceX $15 billion per year",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
+      "date": "2026-05-20",
+      "summary": "Anthropicが2029年までSpaceX/xAIに年間約150億ドル支払う計算契約の詳細が明らかになった。同社はColossus 1の220,000以上のNVIDIA GPUへのアクセスを取得し、Claude Pro/Maxユーザー向け容量を直接強化する。軌道上AI計算インフラの共同開発にも関心を表明している。",
+      "category": "international"
+    },
+    {
+      "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
+      "date": "2026-05-20",
+      "summary": "Cohereが2180億パラメータのSparse Mixture-of-Expertsアーキテクチャを採用したCommand A+をApache 2.0ライセンスで公開した。アクティブパラメータ250億で、エージェント型ワークフロー・複雑な推論・マルチモーダル文書処理向けに最適化されている。日本語含む48言語をサポートし、ロスレス量子化とネイティブ引用機能を備える。",
+      "category": "international"
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "date": "2026-05-20",
+      "summary": "OpenAIの推論モデルが80年来の離散幾何学の予想を反証したと公式発表。1946年にErdősが提起した「平面上の単位距離問題」について、従来の格子状配置よりも優れた新しい数学的構成のファミリーを発見した。代数的整数論を活用し、人間が想定していたよりも効率的な点の配置方法を見つけ出した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing Command A+",
+      "source": "Cohere",
+      "url": "https://cohere.com/blog/command-a-plus",
+      "date": "2026-05-20",
+      "summary": "CohereがApache 2.0ライセンスで初のフルオープンソースモデルCommand A+を公開した。218BパラメータのMoEモデルで、エージェント型ワークフロー、マルチモーダル文書処理、複雑な推論に最適化。48言語対応で日本語トークン効率は18%向上。主権AI推進の戦略的一手となる。",
       "category": "company_blog"
     },
     {
@@ -170,6 +258,23 @@
       "category": "japan"
     },
     {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "date": "2026-05-19",
+      "summary": "GoogleがGemini 3.5 Flashモデルを発表。コーディング・自動化・エージェント型ワークフロー向けに設計された軽量モデルで、Gemini 3.1 Proを上回るベンチマーク性能を実現。Terminal-Bench 2.1で76.2%、GDPval-AAで1656 Elo、MCP Atlasで83.6%、マルチモーダル理解のCharXiv Reasoningで84.2%を記録。",
+      "category": "company_blog"
+    },
+    {
+      "title": "A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19944",
+      "date": "2026-05-19",
+      "authors": "Anonymous Authors et al.",
+      "summary": "最適輸送(optimal transport)を介して推論を形式化することにより、分布外汎化を支配する理論的メカニズムを扱った論文。構造的汎化と近似限界の測度論的分析を提供し、LLMの推論能力の理論的基盤を強化する。",
+      "category": "arxiv"
+    },
+    {
       "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
       "title_ja": "OpenAIとDell Technologies、Codexをハイブリッド・オンプレ環境へ展開する提携を発表",
       "source": "OpenAI",
@@ -257,6 +362,24 @@
       "date": "2026-05-16",
       "summary": "Salesforce CEOマーク・ベニオフが、同社が2026年にAnthropicトークン購入で約3億ドルを支出する見通しであることをAll-Inポッドキャストで明らかにし、その大半がコーディング用途だと説明。今後はSlack内でのコーディングを容易にする技術を投入する方針で、3月のSlack刷新で発表した30以上のAI機能はすべてClaudeで稼働する。フロンティアモデルと小型モデルをルーティングする「中間層」の必要性にも言及。",
       "category": "international"
+    },
+    {
+      "title": "The Unlearnability Phenomenon in RLVR for Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.16787",
+      "date": "2026-05-16",
+      "authors": "Anonymous Authors et al.",
+      "summary": "Reinforcement Learning with Verifiable Reward (RLVR) における未学習現象を研究。正しいロールアウトが存在しても、難しい例の相当部分が学習不可能なまま残ることを明らかにした。RLVRの根本的な制約と、それを克服するための新たなアプローチについて議論する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Scientific Logicality Enriched Methodology for LLM Reasoning: A Practice in Physics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.17104",
+      "date": "2026-05-16",
+      "authors": "Anonymous Authors et al.",
+      "summary": "LLMの科学的推論の内部論理性を初めて体系的に調査し、科学的論理性を強化する手法を開発した。物理学領域における実践を通じて、LLMがより信頼性の高い科学的推論を行うためのフレームワークを提示している。",
+      "category": "arxiv"
     },
     {
       "title": "Work with Codex from anywhere",
@@ -1634,131 +1757,6 @@
       "date": "2026-05-05",
       "summary": "OpenAIはChatGPTの新デフォルトモデルとなるGPT-5.5 Instantをリリース。前世代比でハルシネーションを52.5%削減し、AIME 2025数学テストで81.2点を獲得。応答も約30%短く簡潔になり、Plus/Proユーザー向けに過去チャット・ファイル・Gmail連携からの文脈活用も強化された。",
       "category": "international"
-    },
-    {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "date": "2026-05-05",
-      "summary": "SAPは創業18ヶ月のドイツAIラボPrior Labsに約11.6億ドル(10億ユーロ超)を投じる。Nature掲載のタブラー基盤モデルTabPFNを擁するチームを獲得し、構造化データ向けエンタープライズAIで欧州発の存在感を確立する狙い。半額以上は前払いと報じられている。",
-      "category": "international"
-    },
-    {
-      "title": "SAP bags Dremio and Prior Labs in enterprise AI data push",
-      "source": "Blocks and Files",
-      "url": "https://www.blocksandfiles.com/data-management/2026/05/05/sap-bags-dremio-and-prior-labs-in-enterprise-ai-data-push/5219227",
-      "date": "2026-05-05",
-      "summary": "SAPはPrior Labs買収と並行してデータレイクハウス事業者Dremioも買収し、エンタープライズデータ基盤を一気に強化。構造化AI(Prior Labs)とオープンデータプラットフォーム(Dremio)を組み合わせ、ERP+データ+AIの統合戦略に踏み込んだ。",
-      "category": "international"
-    },
-    {
-      "title": "PwC and OpenAI Build a First-of-Its-Kind OpenAI Native Finance Function",
-      "title_ja": "PwCとOpenAI、OpenAIネイティブな財務機能を共同構築",
-      "source": "PwC",
-      "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/pwc-openai-native-finance-function.html",
-      "date": "2026-05-05",
-      "summary": "PwCはOpenAIと協業し、計画・予測・調達・税務・決算などCFO業務全般にエージェント群を実装する「AIネイティブな財務機能」を構築すると発表。OpenAI社内に調達エージェントを先行配備し、得られた知見を顧客向けに展開する。財務担当者の役割は監督・改善側へ進化する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration/",
-      "date": "2026-05-05",
-      "summary": "OpenAIはPwCとの拡張提携を公式ブログで発表。CFOオフィス全体をAIネイティブに再設計するプロジェクトとして、計画・調達・支払い・トレジャリーなど財務オペレーション全般にエージェントを順次投入する。OpenAI自身が初期検証顧客となる珍しい体制を採用。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft Copilot 2026: Agents as the next operating layer for work",
-      "source": "Microsoft Community Hub",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/cowork-in-progress/4511672",
-      "date": "2026-05-05",
-      "summary": "Microsoftは2026年5月5日、Copilotを補助ツールから自律エージェント群を束ねる「次の業務OS層」へ位置付け直す方針を公表。Cowork(Frontier)はモバイルiOS/Androidに拡大し、Anthropicの最新モデルClaude Opus 4.7も選択肢に追加された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SAP acquires Dremio, Prior Labs as it builds out its data platform plan",
-      "source": "Constellation Research",
-      "url": "https://www.constellationr.com/insights/news/sap-acquires-dremio-prior-labs-it-builds-out-its-data-platform-plan",
-      "date": "2026-05-05",
-      "summary": "SAPは同日、データレイクハウスのDremioとタブラー基盤モデルのPrior Labsの2件の買収を発表。SAP Business Data Cloud戦略の中核としてオープンデータ基盤+構造化AI基盤の二段構えを完成させ、Salesforce/OracleなどERP+AI競争を強化する。",
-      "category": "international"
-    },
-    {
-      "title": "Segmenting Human-LLM Co-authored Text via Change Point Detection",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.03723",
-      "date": "2026-05-05",
-      "summary": "人間とLLMによる共同執筆テキストにおいて、各セグメントの著者を時系列の変化点検出問題として推定するアルゴリズムを提案。従来の二値分類検出器では難しい部分的なAI生成箇所の局所化を可能にし、文書レベルから文単位の解析へ汎用化する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.03675",
-      "date": "2026-05-05",
-      "summary": "長時間稼働する自律AIエージェントに向けて階層化メモリアーキテクチャMemTierを提案。実運用負荷下での検索ボトルネックを解析し、ホット/ウォーム/コールドのキャッシュ階層と適応的退避ポリシーで応答遅延と精度のトレードオフを改善する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
-      "title_ja": "Microsoft 365 Copilotの新時代――人間主導とエージェント実行の融合",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
-      "date": "2026-05-05",
-      "summary": "Microsoftが10万件超のCopilotチャット分析と20,000名の調査をもとに、Microsoft 365 Copilotを『役割適応型エージェント』として再定義。Word、Excel、PowerPoint、Outlook、Teamsへの埋め込みを深化し、Anthropic Claude Opus 4.7をCopilot Cowork（Frontier）に追加。49%の会話が認知労働を支援していると分析した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
-      "date": "2026-05-05",
-      "summary": "MicrosoftはCopilot CoworkをiOS/Android対応のモバイルアプリとして提供開始し、Dynamics 365やFabricのネイティブプラグイン、LSEG・Miro・monday.comなどパートナー統合を拡充。会話駆動から成果駆動型のマルチステップ実行へCopilotを進化させ、ユーザーがゴールを定義してAIに作業を委任する運用モデルを実現する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-      "date": "2026-05-05",
-      "summary": "Microsoft公式ブログがAI時代の『フロンティア企業』の組織モデルを解説。CopilotとAgent 365、Microsoft 365 E7 Frontier Suiteを軸に、Author/Editor/Director/Orchestratorの新ロール体系を提示。複数エージェントを束ねるオーケストレーションが企業オペレーションの新たな抽象層になると主張。",
-      "category": "company_blog"
-    },
-    {
-      "title": "高市早苗首相が帰国 ベトナム・オーストラリアと供給網の確保を確認",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA050980V00C26A5000000/",
-      "date": "2026-05-05",
-      "summary": "高市首相は5月1〜5日のベトナム・オーストラリア歴訪を終えて帰国。両国とAI・重要鉱物・エネルギー安全保障で協力を確認し、ベトナムにはアジア言語向け基盤モデルや産業別AIの共同開発で日本のLLM技術を提供。100億ドル規模の『高市イニシアチブ』を軸に、生成AIを含む経済安全保障パッケージのアジア展開を加速する。",
-      "category": "japan"
-    },
-    {
-      "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.02967",
-      "date": "2026-05-05",
-      "summary": "RAGパイプラインのライフサイクル（構築・実行・評価・最適化）を宣言的に記述・自動化するフレームワーク。適応型ベイズ最適化エンジンを統合してハイパーパラメータを端から端まで調整し、検索戦略・分割サイズ・リランカ選択を自動決定。一般公開のRAGベンチで人手チューニングと同等以上の精度を達成した。",
-      "authors": "K. Iyer et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Deep Research Max: a step change for autonomous research agents",
-      "title_ja": "Google、Gemini APIに自律研究エージェント『Deep Research Max』を追加",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
-      "date": "2026-05-05",
-      "summary": "GoogleがGemini APIで『Deep Research』および『Deep Research Max』を有償プレビュー公開。Gemini 3.1 Pro基盤で、公開ウェブ検索と社内Workspaceデータを単一APIコールで横断し、引用付き・図解込みのレポートを生成。MCP対応とネイティブ可視化で長時間ホライズンの調査タスクを自律実行する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "title_ja": "OpenAI、新規定モデル『GPT-5.5 Instant』を公式発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-5-5-instant/",
-      "date": "2026-05-05",
-      "summary": "OpenAIが新ChatGPT既定モデル『GPT-5.5 Instant』を公式ブログで紹介。GPT-5.3 Instantを置き換え、API側でも `chat-latest` として提供。医療・法律・金融プロンプトでハルシネーションを52.5%削減、絵文字や過剰整形を抑えつつ温かみは維持。Plus/Pro Web→モバイル→Free/Go/Business/Enterpriseへ段階展開し、5.3は3ヶ月限定で残置。",
-      "category": "company_blog"
     }
   ]
 }

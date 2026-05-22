@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-21 09:00 (JST)",
+  "lastUpdated": "2026-05-22 09:00 (JST)",
   "articles": [
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "date": "2026-05-22",
+      "summary": "Google I/O 2026におけるAI発表（Gemini 3.5、AlphaFold関連の進展など）から、AI駆動の科学研究の方向性がどのように変化しているかを論じる記事。一般用AIから科学発見のための専用ツール群へのシフトを示している。",
+      "category": "international"
+    },
+    {
+      "title": "COMPUTEX 2026 to Spotlight NVIDIA's Latest AI Innovations in Upcoming Keynote",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/computex-2026-to-spotlight-nvidias-latest-ai-innovations-in-upcoming-keynote-302748402.html",
+      "date": "2026-05-22",
+      "summary": "NVIDIAがCOMPUTEX 2026でVera CPUシリーズを発表予定。AMD/Intelのx86 CPUと比較して最大1.5倍の性能を主張。Vera Rubin NVL72ラックスケールAIスーパーコンピュータがGolden AwardとSustainable Tech Special Awardを受賞。",
+      "category": "international"
+    },
+    {
+      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What's Next in AI",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+      "date": "2026-05-22",
+      "summary": "Jensen HuangがCOMPUTEX 2026の基調講演を実施。エージェントAI向けの新しいVera CPU、Rubinベースのインフラ、ロボティクスとエッジAI向けのJetson Thorプラットフォームなど、最新AIエコシステムの全体像を示した。",
+      "category": "company_blog"
+    },
     {
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
       "source": "CNBC",
@@ -40,6 +64,31 @@
       "date": "2026-05-21",
       "summary": "Google I/O 2026の発表を踏まえ、GoogleがOpenAI・Anthropicに対して優位を確立するための戦略を分析。Gemini 3.5 Flash・Omni・Sparkといった製品ラインアップ、価格戦略、垂直統合された自社TPUインフラストラクチャを武器に、AI時代の主導権獲得を目指す姿勢を解説している。",
       "category": "international"
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "title_ja": "Spotify、ElevenLabs技術を活用したオーディオブック作成ツールを発表",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "date": "2026-05-21",
+      "summary": "SpotifyはElevenLabsの音声AI技術を用いてセルフパブリッシュのオーディオブックを作成できるツールをSpotify for Authorsに導入。2026年6月から招待制ベータで英語限定で開始される。著者は他のプラットフォームでも作品を販売可能。",
+      "category": "international"
+    },
+    {
+      "title": "Books on Spotify: New Updates for Listeners and Authors",
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/2026-05-21/investor-day-audiobook-features-updates/",
+      "date": "2026-05-21",
+      "summary": "Spotifyはオーディオブック戦略の次章として、Audiobooks+サブスクリプションの拡大とElevenLabs技術を活用したセルフパブリッシュ向けAI音声ツールの提供を発表。Spotify for Authorsはフランス語、ドイツ語、オランダ語、スウェーデン語など10言語に対応拡大する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Innovations from Google I/O 26 on Google Cloud",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+      "date": "2026-05-21",
+      "summary": "Google CloudはI/O 2026でGemini 3.5 FlashのEnterprise Agent Platform対応、Antigravity経由でのデプロイ、AI Studioでの開発体験など、エンタープライズ向けAI基盤の刷新を発表した。",
+      "category": "company_blog"
     },
     {
       "title": "All the news from the Google I/O 2026 Developer keynote",
@@ -106,6 +155,23 @@
       "date": "2026-05-20",
       "summary": "CohereがApache 2.0ライセンスで初のフルオープンソースモデルCommand A+を公開した。218BパラメータのMoEモデルで、エージェント型ワークフロー、マルチモーダル文書処理、複雑な推論に最適化。48言語対応で日本語トークン効率は18%向上。主権AI推進の戦略的一手となる。",
       "category": "company_blog"
+    },
+    {
+      "title": "Google introduces Gemini 3.5 Flash at I/O 2026: A faster and cheaper model for AI agents and coding",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
+      "date": "2026-05-20",
+      "summary": "Google I/O 2026でGemini 3.5 Flashが発表された。エージェントとコーディング用に最適化されており、Terminal-Bench 2.1で76.2%を記録するなどGemini 3.1 Proを超える性能を、より低価格・高速で提供する。",
+      "category": "international"
+    },
+    {
+      "title": "NTT Marketing Act ProCX deploys AI Voice Agent at Kobe City Tax Department",
+      "title_ja": "NTTマーケティングアクトProCX、神戸市税務部にAIボイスエージェントを本格導入",
+      "source": "NTT Press Release",
+      "url": "https://group.ntt/jp/newsrelease/2026/",
+      "date": "2026-05-20",
+      "summary": "NTTマーケティングアクトProCXが神戸市税務部にAIボイスエージェントを本格導入。VOC分析・FAQ設計に基づき、市民問い合わせ対応の自動化と効率化を実現する。日本の自治体DXの実例。",
+      "category": "japan"
     },
     {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
@@ -272,6 +338,30 @@
       "date": "2026-05-19",
       "authors": "Anonymous Authors et al.",
       "summary": "最適輸送(optimal transport)を介して推論を形式化することにより、分布外汎化を支配する理論的メカニズムを扱った論文。構造的汎化と近似限界の測度論的分析を提供し、LLMの推論能力の理論的基盤を強化する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19952",
+      "date": "2026-05-19",
+      "summary": "LLMエージェントの長期記憶のための新フレームワーク「TriMem」を提案。生の対話セグメント、抽出された原子的事実、合成プロファイルの3つの粒度で記憶を保持することで、表面的事実検索を超えた深い推論を可能にする。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19852",
+      "date": "2026-05-19",
+      "summary": "マルチモーダルLLMの推論において、各クエリの特性に応じてツール呼び出しの必要性を適応的に判断するAutoToolを提案。常にツールを使用するアプローチに比べ、効率と精度の両立を実現する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Code as Agent Harness",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.18747",
+      "date": "2026-05-19",
+      "summary": "LLMエージェントを駆動するためのハーネスとしてコード自体を用いる「Code as Agent Harness」を提案。汎用的なツールコールよりも構造化されたコード環境でエージェント能力を引き出すアプローチで、複雑なタスクの実行性能を向上させる。",
       "category": "arxiv"
     },
     {
@@ -1657,105 +1747,6 @@
       "url": "https://www.mexc.com/news/1064110",
       "date": "2026-05-05",
       "summary": "OpenAIのSam Altmanは5月5日17:55開催の社内『GPT-5.5ローンチパーティ』を告知し、招待者のキュレーションをCodexエージェントに任せた。Altman本人がGPT-5.5に式次第を相談したエピソードを披露し、新モデルが公開ローンチ間近であることを示唆。RSVPフォームは即時満員となり社内外で話題を呼んだ。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Commits to Spending $200 Billion on Google's Cloud and Chips",
-      "title_ja": "Anthropic、Google CloudとTPUに5年間で2000億ドルの支出を確約",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips",
-      "date": "2026-05-05",
-      "summary": "AnthropicがGoogle Cloudに対して今後5年間で2000億ドルを支出する大型契約を結んだとThe Informationが報道。GoogleのTPUチップ容量を含む大規模なインフラ確保で、Alphabet株は時間外取引で上昇した。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft, Google and xAI will let the government test their AI models before launch",
-      "title_ja": "Microsoft・Google・xAI、新AIモデルの公開前に米政府の安全性テストを許可",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
-      "date": "2026-05-05",
-      "summary": "米商務省NIST傘下のCAISI（AI標準・イノベーションセンター）が、Google DeepMind、Microsoft、xAIと新規協定を締結。フロンティアAIモデルの公開前評価と国家安全保障に関わる能力・リスクの研究を実施する。",
-      "category": "international"
-    },
-    {
-      "title": "Trump admin moves further into AI oversight, will test Google, Microsoft and xAI models",
-      "title_ja": "トランプ政権がAI監督を強化、Google・Microsoft・xAIのモデルを公開前に評価へ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html",
-      "date": "2026-05-05",
-      "summary": "米CAISIがGoogle DeepMind、Microsoft、xAIとAIモデルの事前評価協定を発表。安全装置を緩めた状態のモデル提供や機密環境でのテストにも対応し、2024年に締結したOpenAIおよびAnthropicとの協定を拡張する形。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft, Google, xAI give US access to AI models for security testing",
-      "title_ja": "Microsoft・Google・xAI、米政府にAIモデルへのアクセスを提供しセキュリティ試験を実施",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing",
-      "date": "2026-05-05",
-      "summary": "3社が米国政府の国家安全保障関連評価のため、フロンティアAIモデルへの早期アクセスを提供することで合意。CAISIによる事前評価を通じ、AI能力とセキュリティリスクを段階的に把握する。",
-      "category": "international"
-    },
-    {
-      "title": "Google DeepMind workers in the U.K. vote to unionize over military AI contracts",
-      "title_ja": "英国のGoogle DeepMind従業員、軍事AI契約に反発し労組結成を可決",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/05/google-deepmind-unionize-vote-military-ai-contracts-internal-backlash-pentagon-deal-israeli-defense-forces/",
-      "date": "2026-05-05",
-      "summary": "Pentagon契約とイスラエル国防軍向けクラウド契約をめぐる社内反発を受け、英国のGoogle DeepMind従業員が労働組合を結成する投票を可決。軍事用途への倫理的懸念が背景にある。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft Copilot Will No Longer Come To Consoles, Says Xbox CEO",
-      "title_ja": "Microsoft Copilot、Xboxコンソールへの展開を中止とXbox CEOが発表",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/05/05/microsoft-copilot-will-no-longer-come-to-consoles-says-xbox-ceo",
-      "date": "2026-05-05",
-      "summary": "Xbox CEOのAsha Sharma氏が、Microsoft Copilot AIをモバイル版で段階的に終了し、コンソール向け展開も中止する方針を発表。Microsoftは法人向けAgent戦略へ重心を移している。",
-      "category": "international"
-    },
-    {
-      "title": "DeepMind Workers Vote to Unionize Following Google's Pentagon AI Deal",
-      "title_ja": "DeepMind従業員、GoogleのPentagon AI契約を受けて労組結成を可決",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/deepmind-workers-vote-to-unionize-following-googles-pentagon-ai-deal-2000754603",
-      "date": "2026-05-05",
-      "summary": "Google DeepMindのロンドン拠点従業員が、米Pentagonおよびイスラエル国防軍関連のクラウド・AI契約に対する反発から、労働組合結成を可決。研究者の倫理的懸念が表面化した。",
-      "category": "international"
-    },
-    {
-      "title": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI",
-      "title_ja": "CAISI、Google DeepMind・Microsoft・xAIとフロンティアAIの国家安全保障評価協定を締結",
-      "source": "NIST",
-      "url": "https://www.nist.gov/news-events/news/2026/05/caisi-signs-agreements-regarding-frontier-ai-national-security-testing",
-      "date": "2026-05-05",
-      "summary": "米商務省NISTのCAISIが、Google DeepMind、Microsoft、xAIとフロンティアAIモデルの事前評価および国家安全保障に関する標的研究を実施する3者協定を締結。機密環境でのテストや安全装置を緩めたモデルでの試験にも対応する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Building the foundation for running extra-large language models",
-      "title_ja": "超大規模LLMを実行するためのCloudflare新世代インフラ基盤",
-      "source": "Cloudflare Blog",
-      "url": "https://blog.cloudflare.com/high-performance-llms/",
-      "date": "2026-05-05",
-      "summary": "Cloudflareが超大規模LLMをグローバルネットワークで実行する新インフラを発表。プリフィル（compute-bound）とデコード（memory-bound）を分離する分散アーキテクチャ、独自推論エンジンInfire、重み圧縮技術Unweightを組み合わせ、GPU効率と応答速度を向上させる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Cloudflare Builds High-Performance Infrastructure for Running LLMs",
-      "title_ja": "Cloudflare、LLM実行向けの高性能インフラを構築",
-      "source": "InfoQ",
-      "url": "https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/",
-      "date": "2026-05-05",
-      "summary": "Cloudflareが世界中のグローバルネットワーク上で大規模AI言語モデルを動作させる新インフラを発表。プリフィルとデコードを別々の最適化されたシステムに分離し、独自推論エンジンを用いてGPUを効率的に管理する。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "title_ja": "OpenAI、GPT-5.5 Instantを新しいChatGPTデフォルトモデルとしてリリース",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "date": "2026-05-05",
-      "summary": "OpenAIはChatGPTの新デフォルトモデルとなるGPT-5.5 Instantをリリース。前世代比でハルシネーションを52.5%削減し、AIME 2025数学テストで81.2点を獲得。応答も約30%短く簡潔になり、Plus/Proユーザー向けに過去チャット・ファイル・Gmail連携からの文脈活用も強化された。",
       "category": "international"
     }
   ]

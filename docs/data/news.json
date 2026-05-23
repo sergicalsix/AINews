@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-22 09:00 (JST)",
+  "lastUpdated": "2026-05-23 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI as Most Valuable AI Startup",
+      "title_ja": "Anthropic、$30B超の資金調達ラウンドへ──$900B評価でOpenAI超え",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm",
+      "date": "2026-05-23",
+      "summary": "Anthropicが$30B超の調達ラウンドをまもなく完了し、評価額は$900Bを上回りOpenAIを抜いて世界最高評価のAIスタートアップとなる見通し。Sequoia、Dragoneer、Altimeter、Greenoaksが各$2Bを共同主導。",
+      "category": "international"
+    },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "source": "MIT Technology Review",
@@ -24,6 +33,51 @@
       "date": "2026-05-22",
       "summary": "Jensen HuangがCOMPUTEX 2026の基調講演を実施。エージェントAI向けの新しいVera CPU、Rubinベースのインフラ、ロボティクスとエッジAI向けのJetson Thorプラットフォームなど、最新AIエコシステムの全体像を示した。",
       "category": "company_blog"
+    },
+    {
+      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
+      "title_ja": "ザッカーバーグ、AI競争勝利のための従業員監視を擁護──リーク音声で発覚",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
+      "date": "2026-05-22",
+      "summary": "Meta社内タウンホールのリーク音声で、ザッカーバーグCEOが「Model Capability Initiative (MCI)」と呼ぶ社内監視プログラムを擁護。Gmail、Google Chat、Metamate、VS Codeなど全活動を追跡しAIの学習データとして利用。約8,000人のレイオフ通知と同日に音声が公開され社内外で炎上。",
+      "category": "international"
+    },
+    {
+      "title": "The big questions OpenAI's trillion-dollar IPO filing may finally answer",
+      "title_ja": "OpenAI、機密ベースでS-1提出──$1兆規模IPOがついに現実化",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/",
+      "date": "2026-05-22",
+      "summary": "OpenAIが5月22日にSECへ機密ベースのS-1書類を提出。評価額$852B〜$1Tを目指す2026年Q4上場を視野に、ゴールドマン・サックスとモルガン・スタンレーが主幹事を務める。1Qで$1の売上に対し$1.22の損失計上という財務状況下でのIPO挑戦が注目される。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's Project Glasswing Finds 'More Than 10,000' Critical Bugs, Expands To Additional Partners",
+      "title_ja": "Anthropicの「Project Glasswing」、Mythosで10,000件超の重大脆弱性を発見、新パートナーへ拡大",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/05/52759147/anthropics-project-glasswing-finds-more-than-10000-critical-bugs-expands-to-additional-partners",
+      "date": "2026-05-22",
+      "summary": "Anthropicが5月22日、Project Glasswingの初期アップデートを公表。Mythos Previewが広く使われるソフトウェアで高・重大度の脆弱性を1万件超発見。Cloudflareは約2,000件（うち重大度高400件）、MozillaはFirefox 150で271件を修正。VerizonやIBMが新たに参画し、対象ソフトウェアを拡大。",
+      "category": "international"
+    },
+    {
+      "title": "Project Glasswing: An initial update",
+      "title_ja": "Project Glasswing：初期アップデート（公式）",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "date": "2026-05-22",
+      "summary": "Anthropic公式ブログがProject Glasswing開始から約1か月の成果を共有。Claude Mythos Previewによる脆弱性発見、Claude Securityのパブリックベータ開始、約50の主要技術組織との連携、Verizon・IBMら新規パートナーの参画、責任ある情報開示原則に基づく脆弱性情報共有の緩和方針などを発表。",
+      "category": "company_blog"
+    },
+    {
+      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.22794",
+      "date": "2026-05-22",
+      "authors": "Qianshu Cai, Yonggang Zhang, Xianzhang Jia, Wei Xue, Jun Song, Xinmei Tian, Yike Guo",
+      "summary": "自律エージェントシステムが配備後も静的である問題に対し、本番エージェント基盤に対してソースレベルでの自己書き換えを行うMOSSを提案。テキスト変更可能な範囲のスーパーセットを構成する手段としてソースレベル適応がチューリング完全で決定論的に作用すると主張。",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
@@ -89,6 +143,60 @@
       "date": "2026-05-21",
       "summary": "Google CloudはI/O 2026でGemini 3.5 FlashのEnterprise Agent Platform対応、Antigravity経由でのデプロイ、AI Studioでの開発体験など、エンタープライズ向けAI基盤の刷新を発表した。",
       "category": "company_blog"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive 'universal' AI interface",
+      "title_ja": "Brett Adcock率いるHark、AIハードウェアで$700M Series A調達（評価額$6B）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "date": "2026-05-21",
+      "summary": "Figure.AI、Archer創業者のBrett AdcockによるAIハードウェアスタートアップHarkがParkway Venture Capital主導でSeries A $700M（評価額$6B）を調達。NVIDIA、AMD Ventures、Intel Capital、Qualcomm Ventures、Salesforce Venturesらが参加。今夏にAIモデルを先行公開し、その後AIネイティブなハードウェアデバイスを投入予定。",
+      "category": "international"
+    },
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "title_ja": "Spotify×UMG、ファンによるAIカバー・リミックスを許可する歴史的ライセンス契約",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "date": "2026-05-21",
+      "summary": "SpotifyとUniversal Music Groupが、ファンが参加アーティストの楽曲をAIでカバー・リミックスできる新ツールのライセンス契約に合意。Premium加入者向け有料アドオンとして提供予定。「同意・クレジット・報酬」の3本柱に基づくオプトイン方式で、アーティスト・作曲家に新たな収益源を創出。",
+      "category": "international"
+    },
+    {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.22791",
+      "date": "2026-05-21",
+      "authors": "Ali Hatamizadeh, Yejin Choi, Jan Kautz (NVIDIA)",
+      "summary": "Gated DeltaNet-2は線形アテンションにおけるdelta ruleの消去と書き込みを分離する再帰アテンション層。GDNの「単一スカラーゲートが消去と書き込みを同時に制御する」制約を、key側eraseとvalue側writeのチャネル単位ゲート2つに分割。長文脈検索で明確な性能向上を示し、複数キーが競合するケースで特に有効。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.22567",
+      "date": "2026-05-21",
+      "authors": "（著者情報未取得）",
+      "summary": "強化学習による多段推論強化は多言語コンテキストでは効果が薄れる問題に取り組み、漸進的減衰付き言語条件ヒントと言語適応機構を導入。言語一貫性を損なわずに多言語推論性能を向上させるLANGフレームワークを提案。",
+      "category": "arxiv"
+    },
+    {
+      "title": "From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.22074",
+      "date": "2026-05-21",
+      "authors": "（著者情報未取得）",
+      "summary": "推論チェーンを検証可能なサブ問題に分解し、カリキュラム型強化学習でLLMの推論に対するクレジット割当を可能にする手法を提案。長い推論軌跡における報酬希薄性問題に対応。",
+      "category": "arxiv"
+    },
+    {
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.21467",
+      "date": "2026-05-21",
+      "authors": "（著者情報未取得）",
+      "summary": "検証可能な報酬からの強化学習（RLVR）における識別的なトークン単位クレジット割当手法DelTAを提案。重要なトークンへのクレジット集中により、LLM推論タスクでの学習効率を改善。",
+      "category": "arxiv"
     },
     {
       "title": "All the news from the Google I/O 2026 Developer keynote",
@@ -171,6 +279,24 @@
       "url": "https://group.ntt/jp/newsrelease/2026/",
       "date": "2026-05-20",
       "summary": "NTTマーケティングアクトProCXが神戸市税務部にAIボイスエージェントを本格導入。VOC分析・FAQ設計に基づき、市民問い合わせ対応の自動化と効率化を実現する。日本の自治体DXの実例。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT DOCOMO Business launches AI SOC service for autonomous cyber threat analysis and response",
+      "title_ja": "NTTドコモビジネス、AIエージェントが脅威分析から自動対処まで行う「AI SOC」を提供開始",
+      "source": "NTT DOCOMO Business",
+      "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
+      "date": "2026-05-20",
+      "summary": "NTTドコモビジネスが5月20日、ログを自律分析するAIエージェント「AI Advisor」とマネージドSOARを組み合わせた「AI SOC」サービスを提供開始。従来1〜2時間かかった相関分析を約10分に短縮し、セキュリティアラートの95%を自動処理可能。エンドポイント隔離やウイルススキャンも自動実行。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT-affiliated AI agent automates cyber defense from threat analysis to response",
+      "title_ja": "NTT系AIエージェントがサイバー防御を自動化、脅威分析から対処まで",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOUC19ABR0Z10C26A5000000/",
+      "date": "2026-05-20",
+      "summary": "日経が、NTTドコモビジネスの「AI SOC」サービスを報道。AIエージェントが脅威分析から対処まで一気通貫で自動化し、企業の高度サイバー攻撃対応を効率化する点を強調。国内SOC市場の人手不足解消への期待も示す。",
       "category": "japan"
     },
     {
@@ -363,6 +489,15 @@
       "date": "2026-05-19",
       "summary": "LLMエージェントを駆動するためのハーネスとしてコード自体を用いる「Code as Agent Harness」を提案。汎用的なツールコールよりも構造化されたコード環境でエージェント能力を引き出すアプローチで、複雑なタスクの実行性能を向上させる。",
       "category": "arxiv"
+    },
+    {
+      "title": "IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients, and is Strengthened by Ongoing Project Glasswing Work",
+      "title_ja": "IBM、最先端AI駆動セキュリティポートフォリオを顧客に提供──Project Glasswing連携で強化",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/2026-05-19-IBM-Brings-Its-Most-Advanced-AI-Powered-Security-Portfolio-to-Clients,-and-is-Strengthened-by-Ongoing-Project-Glasswing-Work",
+      "date": "2026-05-19",
+      "summary": "IBMがAnthropic主導のProject Glasswingに参画し、最先端AI駆動セキュリティポートフォリオを顧客向けに提供開始。世界の重要ソフトウェアインフラ防衛のためのClaude Mythos活用を強化。",
+      "category": "company_blog"
     },
     {
       "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
@@ -1619,135 +1754,6 @@
       "date": "2026-05-06",
       "summary": "Zyphraが推論MoE『ZAYA1-8B』を発表。総パラメータ8.4B・アクティブ760Mの小型構成ながら、Markovian RSA・Compressed Convolutional Attention・MLP型エキスパートルーターなどの新機構で数学・推論ベンチマークでClaude 4.5 Sonnet/Gemini 2.5 Pro/DeepSeek-V3.2に並ぶか上回る。AMD Instinct MI300X+Pensando Pollara上でIBM Cloudにより訓練、重みはHugging FaceでApache 2.0公開。",
       "category": "company_blog"
-    },
-    {
-      "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
-      "date": "2026-05-06",
-      "summary": "Zyphraが公開した推論モデル『ZAYA1-8B』をVentureBeatが解説。アクティブ1B未満でClaude 4.5 SonnetやDeepSeek-V3.2級の数学・推論性能を出すMoE設計で、APEXショートリストではDeepSeek-V3.2やGPT-OSS-120Bを上回ったとされる。AMD GPU+Pollaraネットワーキングで訓練された点が、Nvidia依存への代替路を示す事例として注目される。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Finance Search in the Agent API",
-      "title_ja": "Perplexity、Agent APIに金融データ専用ツール『Finance Search』を追加",
-      "source": "Perplexity",
-      "url": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
-      "date": "2026-05-06",
-      "summary": "PerplexityがAgent APIにFinance Searchツールを追加。1コールで上場株/ETFの相場・財務諸表・主要指標・OHLCV・決算トランスクリプト・SEC提出書類・アナリスト予想・インサイダー活動等を引用付きで取得できる。FinSearchComp T1ベンチマークで上位の精度・低レイテンシを達成。価格は1,000リクエストあたり5ドルでモデルトークン課金とは別計上。",
-      "category": "company_blog"
-    },
-    {
-      "title": "AI Research Gets Boost as Google DeepMind Partners With Eve Online Developer",
-      "title_ja": "Google DeepMind、EVE Online開発元（Fenris Creations）とAI研究提携。マイノリティ出資で長期計画・記憶・継続学習の研究へ",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/google-deepmind-takes-minority-stake-in-maker-of-eve-online",
-      "date": "2026-05-06",
-      "summary": "Google DeepMindは5月6日、独立後にFenris Creationsと改名したEVE Online開発元との研究提携を発表。マイノリティ出資を行い、複雑で動的な仮想経済環境を活用してAIエージェントの長期計画、記憶、継続学習を研究する。初期はオフライン版EVE上で経済活動（採掘・製造・取引）に絞ったエージェント評価を実施する。",
-      "category": "international"
-    },
-    {
-      "title": "Studio Behind EVE Online Goes Independent, Rebrands as Fenris Creations, Enters Research Partnership with Google DeepMind",
-      "title_ja": "EVE Online開発元CCP Games、Pearl Abyssから独立しFenris Creationsに改称、Google DeepMindとAI研究提携を発表",
-      "source": "Fenris Creations / CCP Games",
-      "url": "https://www.ccpgames.com/news/2026/studio-behind-eve-online-goes-independent-rebrands-as-fenris-creations-enters-research-partnership-with-google-deepmind",
-      "date": "2026-05-06",
-      "summary": "CCP Gamesは独立してFenris Creationsに改称、Pearl Abyssから1.2億ドルで分離する。同時にGoogle DeepMindと研究提携を結び、複雑な動的環境でのインテリジェンス研究を共同で推進。EVE Onlineのオフライン版を用いてDeepMindのモデルを統制された環境で評価する計画。",
-      "category": "international"
-    },
-    {
-      "title": "Belief Memory: Agent Memory Under Partial Observability",
-      "title_ja": "部分観測下のエージェント記憶『BeliefMem』",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.05583",
-      "date": "2026-05-06",
-      "summary": "部分観測下で動作するLLMエージェントの記憶機構『BeliefMem』を提案。観測ごとに単一結論にコミットせず、確率付きの複数候補結論を保持することで、不確実性下での意思決定の堅牢性を高める。複数ベンチマークで既存記憶機構より高い精度を達成。",
-      "authors": "BeliefMem Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation",
-      "title_ja": "分布整合敵対的蒸留によるブラックボックスLLMの不確実性推定",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.05777",
-      "date": "2026-05-06",
-      "summary": "API経由でしかアクセスできない商用LLMの不確実性推定が困難な問題に対処。分布整合敵対的蒸留により、ブラックボックスLLMの幻覚を実用的に検出できる手法を提案。商業利用におけるLLM信頼性の課題に直接的な解決策を与える。",
-      "authors": "Distribution-Aligned Adversarial Distillation Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "Data-dependent Exploration for Online Reinforcement Learning from Human Feedback",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.04477v1",
-      "date": "2026-05-06",
-      "authors": "Anonymous (cs.LG)",
-      "summary": "オンラインRLHFにおいて高不確実領域の探索を強化する『DEPO（Data-dependent Exploration for Preference Optimization）』を提案。過去データから不確実性ボーナスを構築し、高価値となり得る領域へ選好収集を誘導することで、データ効率と最終性能を同時に改善する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Agents for financial services and insurance",
-      "title_ja": "金融・保険向け Claude エージェント10種を提供開始",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "date": "2026-05-05",
-      "summary": "Anthropicが5月5日のニューヨーク開催「Briefing: Financial Services」で、銀行・資産運用・保険向けの即利用可能なエージェントテンプレート10種を発表。ピッチブック作成、KYC審査、月次決算、与信メモ、保険金請求などの定型業務を対象とし、Claude Cowork / Claude Code のプラグインおよび Claude Managed Agents の Cookbook として配布。各テンプレートは社内基準に合わせてカスタマイズ可能で、Moody's、Verisk、Dun & Bradstreetなどデータベンダーとの連携も同時拡大。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic deepens push into Wall Street with new AI agents, full Microsoft 365 integration, Moody's data partnership",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
-      "date": "2026-05-05",
-      "summary": "Anthropicが5月5日に金融機関向けAIエージェント10種、Excel/PowerPoint/Word向け公式Add-inの一般提供、Moody's・Verisk・Dun & Bradstreetとのデータ提携を一挙発表。前日の15億ドル合弁会社設立と合わせ、金融業界へのフルスタック攻勢が鮮明化。JPMorgan ジェイミー・ダイモンCEOは『コアシステム以外の業務はAIで再構築』と従業員向けメモで明言した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Unveils AI Agents to Field Financial Services Tasks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks",
-      "date": "2026-05-05",
-      "summary": "Anthropicが5月5日、銀行・保険・資産運用・FinTech向けに10種類のAIエージェントを公開。ピッチデッキ作成、財務諸表レビュー、コンプライアンス審査の自動化を狙う。Claude Cowork内のプラグインとして配布し、エンタープライズ顧客は数日でClaudeを実業務に投入できると同社は説明。ウォール街取り込みを巡るOpenAIやGoogleとの競争が一段と激化。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic unleashes finance agents for Claude",
-      "source": "The Register",
-      "url": "https://www.theregister.com/2026/05/05/anthropic_unleashes_finance_agents_claude/",
-      "date": "2026-05-05",
-      "summary": "Anthropicが金融特化のClaudeエージェント群と、同社最新モデル「Claude Opus 4.7」の金融ベンチマークでのスコアを公開。Opus 4.7はGeneral Financeで0.813、Finance Agent v1.1で64.4%を達成し、前世代Opus 4.6を大きく上回った。価格は入力100万トークン5ドル/出力25ドルで、プロンプトキャッシュ利用時は最大90%、バッチ処理で50%のコスト削減が可能。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Targets Financial Services Space With New AI Agents",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-targets-financial-services-space-with-new-ai-agents/",
-      "date": "2026-05-05",
-      "summary": "AnthropicはClaudeを軸に金融エンタープライズ顧客拡大を加速。新たに10種のエージェントテンプレートをリリースし、ExcelやPowerPointなどMicrosoft製品との連携を強化。バンキング、保険、資産運用などの『最も時間のかかる業務』を自動化対象とし、フロント・ミドル・バックオフィスをまたぐClaude採用が広がっていることを強調した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic launches 10 AI agents for banks and insurers",
-      "source": "Yahoo Finance / Reuters",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-launches-10-ai-agents-153623834.html",
-      "date": "2026-05-05",
-      "summary": "Anthropicが銀行・保険向けの即利用可能なAIエージェント10種をリリースし、Wall Street攻勢を一段と加速。Claudeを既存業務システムに組み込みやすくするコネクタ群と合わせ、米英欧の大手銀行や保険会社への採用拡大を目指す。OpenAI・Microsoft・Googleの企業向けAIサービス競争に対抗する狙い。",
-      "category": "international"
-    },
-    {
-      "title": "Why private equity is making deals with the AI giants",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/05/openai-anthropic-private-equity",
-      "date": "2026-05-05",
-      "summary": "Anthropic（5月4日に15億ドルJV発表）とOpenAI（同日100億ドルJV最終確定）の連続発表を受け、PE大手がなぜAIギガラボとの合弁に殺到しているかを分析。LP資本のリターン保証構造、AI人材の囲い込み、ポートフォリオ企業へのエージェント常駐が3大インセンティブ。コンサルティング業界の収益モデルを大きく揺さぶる構図が浮かび上がっている。",
-      "category": "international"
-    },
-    {
-      "title": "Sam Altman teases GPT-5.5 launch celebration with AI-curated guest list",
-      "source": "MEXC News",
-      "url": "https://www.mexc.com/news/1064110",
-      "date": "2026-05-05",
-      "summary": "OpenAIのSam Altmanは5月5日17:55開催の社内『GPT-5.5ローンチパーティ』を告知し、招待者のキュレーションをCodexエージェントに任せた。Altman本人がGPT-5.5に式次第を相談したエピソードを披露し、新モデルが公開ローンチ間近であることを示唆。RSVPフォームは即時満員となり社内外で話題を呼んだ。",
-      "category": "international"
     }
   ]
 }

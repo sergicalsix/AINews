@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23 09:00 (JST)",
+  "lastUpdated": "2026-05-24 09:00 (JST)",
   "articles": [
     {
       "title": "Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI as Most Valuable AI Startup",
@@ -8,6 +8,14 @@
       "url": "https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm",
       "date": "2026-05-23",
       "summary": "Anthropicが$30B超の調達ラウンドをまもなく完了し、評価額は$900Bを上回りOpenAIを抜いて世界最高評価のAIスタートアップとなる見通し。Sequoia、Dragoneer、Altimeter、Greenoaksが各$2Bを共同主導。",
+      "category": "international"
+    },
+    {
+      "title": "AI Is Changing the Internet Forever — Google's Search Bar Gets Its Biggest Update in 25 Years",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
+      "date": "2026-05-23",
+      "summary": "CNNはGoogleが検索ボックスに25年ぶりとなる大規模刷新を行い、AIが質問に応じてカスタムビジュアル、インタラクティブグラフィックス、ミニアプリを動的に生成する機能を導入したと報じた。AIサービスから米国小売サイトへの流入は前年比393%増となり、Meta、Amazon、Google、OpenAIが軒並みAIショッピング機能を投入する競争状況も伝えた。",
       "category": "international"
     },
     {
@@ -78,6 +86,54 @@
       "authors": "Qianshu Cai, Yonggang Zhang, Xianzhang Jia, Wei Xue, Jun Song, Xinmei Tian, Yike Guo",
       "summary": "自律エージェントシステムが配備後も静的である問題に対し、本番エージェント基盤に対してソースレベルでの自己書き換えを行うMOSSを提案。テキスト変更可能な範囲のスーパーセットを構成する手段としてソースレベル適応がチューリング完全で決定論的に作用すると主張。",
       "category": "arxiv"
+    },
+    {
+      "title": "Anthropic Launches Claude Security in Public Beta for Enterprise Customers",
+      "source": "Pulse 2.0",
+      "url": "https://pulse2.com/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/",
+      "date": "2026-05-22",
+      "summary": "Anthropicは企業向けにClaude Securityをパブリックベータとして提供開始した。Claude Opus 4.7を活用してコードリポジトリの脆弱性をスキャンし、修正案を提示する仕組みで、API統合不要でClaude.aiのサイドバーから直接利用可能。最初の3週間で2,100件以上の脆弱性パッチ生成に活用された。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Ships Codex Updates: Goal Mode GA, Appshots, and Locked-Mac Remote Use",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
+      "date": "2026-05-22",
+      "summary": "OpenAIは「Codex Thursday」と銘打ち、Codexに3つの大型アップデートを投入した。Goal modeが一般提供となり、数時間〜数日にわたる自律タスクを実行可能となったほか、macOSアプリのスクリーンショットを瞬時に渡せるAppshots機能、画面ロック中のMacでもCodexがリモートから稼働できる機能を追加した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Named a Leader in 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader/",
+      "date": "2026-05-22",
+      "summary": "OpenAIは2026年Gartner Magic Quadrant for Enterprise AI Coding AgentsでLeaderに選出されたと発表した。Codexは週間400万人以上に利用されNVIDIAなど大企業にも採用されており、Gartnerはエージェント型ソフトウェア開発、ガバナンス、サンドボックス、柔軟なデプロイ形態を高く評価した。",
+      "category": "international"
+    },
+    {
+      "title": "Grok Adds Vercel, Canva, Gamma, and S&P Global Connectors to Become AI Workstation",
+      "source": "Digg",
+      "url": "https://digg.com/ai/zpdwxn8k",
+      "date": "2026-05-22",
+      "summary": "xAIはGrokに第三者コネクタを一気に追加し、Vercelでのサイト構築・デプロイ、Canvaでのデザイン作成、Gammaでのプレゼン作成、S&P Globalからのライブ市場データ取得をチャット内で完結できるようにした。Grokを単なるチャットボットから統合型生産性プラットフォームへと押し上げる動きとされる。",
+      "category": "international"
+    },
+    {
+      "title": "Adobe, Canva, and CapCut Land Inside Gemini as Google Builds a One-Stop Creative Studio",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317031/20260522/gemini-locks-adobe-canva-capcut-creative-integrations-land-usage-limits-tighten.htm",
+      "date": "2026-05-22",
+      "summary": "Google I/O 2026から数日のうちに、Adobe・Canva・CapCutがGeminiアプリへのネイティブ統合を相次いで確定させた。CanvaコネクタはすでにロールアウトされGeminiチャット内で@Canvaから直接デザイン生成・編集が可能となり、CapCutは動画編集機能、Adobeは50以上のプロ向け編集ツールを提供予定。GoogleがGeminiをクリエイティブ制作のハブに据える戦略が鮮明になった。",
+      "category": "international"
+    },
+    {
+      "title": "Google's AI Agent Ambitions Are Real — But Locked Behind a $100 Monthly Paywall",
+      "source": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/05/22/googles-ai-agent-ambitions-are-real-but-remain-locked-behind-a-100-monthly-paywall/",
+      "date": "2026-05-22",
+      "summary": "GoogleがGemini Sparkによる個人タスク管理、Google Alertsを置き換える情報エージェント、GmailとCalendarを統合するDaily Brief、エージェント化が進むChromeブラウザを含む野心的なAIエージェント群を発表した一方、主要機能の多くは月額100ドルのUltraプラン購読者に限定されている点を批判的に分析した記事。",
+      "category": "international"
     },
     {
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
@@ -199,6 +255,24 @@
       "category": "arxiv"
     },
     {
+      "title": "AI Phone Support Startup IVRy Raises 4.5 Billion Yen in Debt Financing from Japan's Three Megabanks",
+      "title_ja": "対話AIのIVRy、3メガバンクから総額45億円のデットファイナンス調達",
+      "source": "Nikkei xTECH",
+      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03236/",
+      "date": "2026-05-21",
+      "summary": "AI電話応対支援サービスを提供するIVRyは2026年5月21日、三井住友銀行、みずほ銀行、三菱UFJ銀行の3メガバンクから総額45億円の長期デットファイナンスを実施したと発表した。累計資金調達額は151.1億円に到達。AIプロダクト開発とエンタープライズ領域強化、通話・メールを統合管理するデータ基盤拡充に資金を充当する。",
+      "category": "japan"
+    },
+    {
+      "title": "Unified Data Selection for LLM Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.22389",
+      "date": "2026-05-21",
+      "authors": "Xiaoyuan Li, Yubo Ma, Chengpeng Li, Fengbin Zhu, Yiyao Yu, Keqin Bao, Wenjie Wang, Fuli Feng, Dayiheng Liu",
+      "summary": "長いChain-of-Thought推論データの大規模高品質化が学習のボトルネックとなっている問題に対し、訓練不要の指標High-Entropy Sum（HES）を提案。各推論サンプル中で最も高エントロピーなトップトークンの和のみを集計することで推論品質を定量化し、統一的データ選択を実現する。",
+      "category": "arxiv"
+    },
+    {
       "title": "All the news from the Google I/O 2026 Developer keynote",
       "title_ja": "Google I/O 2026 開発者キーノート発表まとめ―Antigravity 2.0、Gemini API、AI Studio",
       "source": "Google Developers Blog",
@@ -298,6 +372,23 @@
       "date": "2026-05-20",
       "summary": "日経が、NTTドコモビジネスの「AI SOC」サービスを報道。AIエージェントが脅威分析から対処まで一気通貫で自動化し、企業の高度サイバー攻撃対応を効率化する点を強調。国内SOC市場の人手不足解消への期待も示す。",
       "category": "japan"
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "date": "2026-05-20",
+      "summary": "OpenAIはC2PA運営委員会への参加、Google DeepMindのSynthIDを使ったChatGPT/Codex/API生成画像へのウォーターマーク導入、そしてopenai.com/verifyでの公開検証ツールのプレビューを発表。メタデータが削除されてもウォーターマーク信号が残る多層的なコンテンツ来歴体系の構築を進める。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Towards Context-Invariant Safety Alignment for Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.20994",
+      "date": "2026-05-20",
+      "authors": "Yixu Wang, Yang Yao, Xin Wang, Yifeng Gao, Yan Teng, Xingjun Ma, Yingchun Wang",
+      "summary": "通常プロンプトでは有害要求を拒否するが敵対的言い換えに屈してしまうLLMの脆弱性を指摘し、表層形ではなく意図に依存する文脈不変な安全アライメントを提案。Anchor Invariance Regularization（AIR）により、信頼度の異なるプロンプト変種間で一貫した安全挙動を強制する手法を導入した。",
+      "category": "arxiv"
     },
     {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
@@ -498,6 +589,84 @@
       "date": "2026-05-19",
       "summary": "IBMがAnthropic主導のProject Glasswingに参画し、最先端AI駆動セキュリティポートフォリオを顧客向けに提供開始。世界の重要ソフトウェアインフラ防衛のためのClaude Mythos活用を強化。",
       "category": "company_blog"
+    },
+    {
+      "title": "NTT Updates Tsuzumi 2 LLM with Vision Model for Japanese Business Documents with Charts and Diagrams",
+      "title_ja": "NTT版LLM「tsuzumi 2」がVisionモデルを追加、図表入り日本語ビジネス文書の読解に対応",
+      "source": "NTT (Press Release)",
+      "url": "https://group.ntt/jp/newsrelease/2026/05/19/260519a.html",
+      "date": "2026-05-19",
+      "summary": "NTTは2026年5月19日、純国産LLM「tsuzumi 2」のVisionモデルを発表した。図表やグラフを含む日本語ビジネス文書を1GPU(40GBメモリ)環境で高精度に処理でき、ベンチマークではGPT-5やGemma 3、Llama 4 Scoutなどの大規模モデルに匹敵する性能を達成。オンプレミスやプライベートクラウドでの利用を想定し、機微情報を含む業務DXのラストマイルを支える。",
+      "category": "japan"
+    },
+    {
+      "title": "Circlace Hires Second In-House AI Agent Employee 'CDX-one' to Boost Productivity",
+      "title_ja": "サークレイス、2人目の社内AIエージェント社員「CDX-one」を採用し全社業務を高度化",
+      "source": "Circlace (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000081.000071975.html",
+      "date": "2026-05-19",
+      "summary": "サークレイスは2026年5月19日、2人目の社内AIエージェント社員「CDX-one」の採用を発表した。社内規程・ナレッジ横断検索、各種申請の自動起票、問い合わせ起票をチャットから24時間365日対応し、複数業務システムを横断する社員作業を大幅に簡素化。AIを人型「社員」として組織に組み込む国内の先進事例として注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan's LDP Unveils National AI and Blockchain Finance Strategy Proposal",
+      "title_ja": "自民党、AIとブロックチェーンを軸とする国家金融戦略提言を発表",
+      "source": "Crypto Times",
+      "url": "https://www.cryptotimes.io/2026/05/19/japan-unveils-national-ai-and-blockchain-finance-strategy-proposal/",
+      "date": "2026-05-19",
+      "summary": "自民党のデジタル社会推進本部と次世代AI・オンチェーン金融イニシアチブは2026年5月19日、AIとブロックチェーンを基盤に「24/7/365自動運用」の経済モデルを構築する国家戦略提言を発表した。AIエージェントが自律的に取引執行、サプライチェーン調整、決済、金融管理を行う将来像と、ステーブルコイン・トークン化預金の普及を柱に据え、米ドル系ステーブルコインに対抗する決済基盤の近代化を訴えた。",
+      "category": "japan"
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "date": "2026-05-19",
+      "summary": "Anthropicは哲学者・聖職者・倫理学者など15以上の宗教・文化的グループと対話を進め、フロンティアAIに関する議論を技術的なアライメントを超えて広げていると発表。これらの対話はClaudeの「憲法」にも反映され、初期実験では「倫理的コミットメント・リマインダーツール」が不整合な挙動を大きく削減する効果を示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "source": "DeepMind",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "date": "2026-05-19",
+      "summary": "Google DeepMindはGeminiベースのマルチエージェント科学研究システム「Co-Scientist」をNature論文と共に正式発表。仮説生成・議論・進化を専門エージェント群が反復し、複雑な科学課題に対する新規仮説を導出する。Gemini for Scienceの実験ツールHypothesis Generationを通じて研究者に順次提供される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Cohere acquires Reliant AI to expand sovereign enterprise AI",
+      "source": "Cohere",
+      "url": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
+      "date": "2026-05-19",
+      "summary": "CohereはモントリオールとベルリンにオフィスをもつバイオファーマAI企業Reliant AIの買収を発表。文献レビューや競合分析、非構造化規制データ抽出を自動化するReliantの研究ワークベンチを統合し、Cohereの主権AI戦略を医療・ライフサイエンス領域に拡張する。新製品「North for Pharma」の開発も加速する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.20179",
+      "date": "2026-05-19",
+      "authors": "Zhiben Chen, Youpeng Zhao, Yang Sui, Jun Wang, Yuzhang Shang",
+      "summary": "MoEアーキテクチャを用いた拡散LLM（dLLM）をリソース制約デバイス上で効率的に推論するためのシステムTIDEを提案。拡散プロセス中のエキスパート活性化の時間的安定性を活用し、I/Oを意識したエキスパートオフロードによりロスレスかつ高効率な推論を実現する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Do Vision-Language Models Understand 3D Scenes or Just Catalogue Objects?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.20448",
+      "date": "2026-05-19",
+      "authors": "Animesh Maheshwari, Divyansh Sahu, Nishit Verma",
+      "summary": "VLMが3Dシーンの空間構造を本当に理解しているかを検証する3,034サンプルの人手作成ベンチマークを公開。最新6つのフロンティアモデルが、可視レイアウトの再配置では53-97%の精度に対し、オクルージョン推論で6-45%、鏡面反射推論では7%未満と大きく性能が落ちることを示し、現行VLMの3D理解が表層的であることを明らかにした。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.19723",
+      "date": "2026-05-19",
+      "authors": "Husnain Amjad, Raja Khurram Shahzad, Aamir Shahzad, Mehwish Fatima",
+      "summary": "約120本の査読論文・プレプリントを統合し、LLMの数学的推論研究の進展を体系化したサーベイ。データセット・アーキテクチャ・学習戦略・評価プロトコルを構造的に分析し、現状の到達点と未解決課題を整理している。",
+      "category": "arxiv"
     },
     {
       "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
@@ -1577,182 +1746,6 @@
       "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
       "date": "2026-05-07",
       "summary": "Googleは5月7日、Gemini 3.1 Flash-LiteをVertex AIおよびGemini API向けにGA公開した。$0.25/1M input・$1.50/1M output、TTFTで2.5倍高速化、出力速度45%向上を実現。高ボリューム・低レイテンシのエージェントタスク、ツール呼び出し、翻訳、分類に最適化された最もコスト効率の高いGemini 3シリーズモデル。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Gemini 3.1 Flash Lite: Our most cost-effective AI model yet",
-      "title_ja": "Google、Gemini 3.1 Flash Liteを発表 - 最もコスト効率の高いGeminiモデル",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-      "date": "2026-05-07",
-      "summary": "GoogleはGemini 3.1 Flash Liteを発表、Gemini 3シリーズで最も高速かつコスト効率の高いモデルとして位置付ける。リアルタイム翻訳、コード生成、エージェント開発など高ボリュームAI処理に対応し、ChromeやWorkspaceなどGoogle製品にも組み込まれる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "三菱UFJ、GoogleとAI利用で提携 買い物から資産形成まで個人と接点",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB016QR0R00C26A5000000/",
-      "date": "2026-05-07",
-      "summary": "三菱UFJフィナンシャル・グループはGoogleとリテール領域における戦略的提携を発表。AIエージェントが商品選択から決済までを自律支援する『エージェンティック・コマース／ペイメント』の金融基盤をGoogle Cloud上に構築する。2026年度内に実証実験を開始予定で、日本のAIエージェント時代の購買・決済の新標準確立を目指す。",
-      "category": "japan"
-    },
-    {
-      "title": "MUFGとGoogleのリテール領域における戦略的提携について",
-      "source": "三菱UFJフィナンシャル・グループ",
-      "url": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20260507-001_ja.pdf",
-      "date": "2026-05-07",
-      "summary": "MUFGとGoogleが5月7日、リテール領域での戦略的提携を正式発表。AIエージェントによる自律的な商品選択・決済支援基盤の構築、Google CloudのAI技術を活用した次世代金融サービスの共同開発、YouTube Premium 3カ月無料・Fitbit連携など顧客特典の提供を含む包括的な提携内容を公開した。",
-      "category": "japan"
-    },
-    {
-      "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
-      "title_ja": "UniSD: LLMのための統一的自己蒸留フレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06597",
-      "date": "2026-05-07",
-      "summary": "LLMの自己蒸留を体系的に研究する統一フレームワーク『UniSD』を提案。複数教師合意、EMA教師安定化、トークンレベル対比学習、特徴マッチング、発散クリッピングを統合し、自己蒸留の各成分が果たす役割を明らかにする。複数ベンチマークで一貫した性能向上を確認。",
-      "authors": "UniSD Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "Continuous Latent Diffusion Language Model",
-      "title_ja": "連続潜在拡散言語モデル『Cola DLM』",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06548",
-      "date": "2026-05-07",
-      "summary": "テキストから安定した潜在表現へのマッピングを学び、連続潜在空間でグローバルな意味的事前分布をモデル化する階層的潜在拡散言語モデル『Cola DLM』を提案。離散トークン拡散の不安定性を回避し、連続表現で長文生成と多様性を両立する新たなアプローチ。",
-      "authors": "Cola DLM Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
-      "title_ja": "LLM解釈性のためのパッチエフェクト・グラフカーネル",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06480",
-      "date": "2026-05-07",
-      "summary": "活性パッチング解析をグラフ機械学習問題として再定式化するフレームワークを提案。パッチエフェクトグラフを用いてLLMの内部メカニズムをスケーラブルに解釈する手法を開発し、従来のメカニズム解析より広範な現象に対応可能であることを示した。",
-      "authors": "Patch-Effect Graph Kernels Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training",
-      "title_ja": "古地図で航海する: LLMポストトレーニングにおける静的メカニズム局在化の落とし穴",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06076",
-      "date": "2026-05-07",
-      "summary": "ポストトレーニング中にLLM内部の機能局在が動的に変化することを示し、事前訓練時に同定したニューロン・回路をそのまま流用する手法（静的局在化）が誤った介入につながる危険性を実証。動的に追跡する新たな解析パラダイムの必要性を主張する。",
-      "authors": "Static Mechanistic Localization Authors",
-      "category": "arxiv"
-    },
-    {
-      "title": "NTTデータ経営研究所、金融機関向けAI導入コンサルティングサービス全18サービスの提供開始",
-      "source": "NTTデータ経営研究所",
-      "url": "https://www.nttdata-strategy.com/newsrelease/260507/",
-      "date": "2026-05-07",
-      "summary": "NTTデータ経営研究所が、メガバンク・地方銀行・証券会社などを対象とした「金融機関向けAI導入コンサルティングサービス」全18サービスの提供を5月7日より開始したと発表。AI戦略策定、ユースケース実装、ガバナンス整備、人材育成までを網羅し、日本の金融業界における生成AI実装の本格化を後押しする。",
-      "category": "japan"
-    },
-    {
-      "title": "Efficient Pre-Training with Token Superposition",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06546",
-      "date": "2026-05-07",
-      "authors": "Anonymous (cs.CL)",
-      "summary": "事前学習のFLOPあたりデータスループットを大幅に改善する手法『Token Superposition Training（TST）』を提案。並列化・オプティマイザ・トークナイザ・データ・モデル構造を変えず、(1)連続する複数トークンを1袋にまとめてmulti-hot cross-entropyで学習する高効率なsuperposition相、(2)通常学習へ戻すrecovery相、の2段階で構成される。LLM事前学習の費用対効果を高める実用的なドロップイン手法。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Spectral Lens: Activation and Gradient Spectra as Diagnostics of LLM Optimization",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.05683",
-      "date": "2026-05-07",
-      "authors": "Anonymous (cs.LG)",
-      "summary": "学習損失やスループットでは見えないLLM学習内部の表現を、スペクトル測定で診断するフレームワーク『Spectral Lens』を提案。学習初期のアクティベーション共分散の裾分布が、下流のトークン効率を信頼性高く予測できることを示し、学習動態の早期診断と最適化ヘの実用的指針を提供する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
-      "title_ja": "Anthropic、Googleにチップとクラウド利用で2000億ドルを支払うと報道",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
-      "date": "2026-05-06",
-      "summary": "Anthropicは2027年から本格稼働する数ギガワット規模のTPU容量をGoogleとBroadcomから調達する4月の契約に続き、5年間で2000億ドル相当の支出を確約。AlphabetはAnthropicに最大400億ドルの追加出資も行う見込み。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.5 Instant as Default ChatGPT Model With Reduced Hallucinations and Deeper Memory",
-      "source": "The AI Insider",
-      "url": "https://theaiinsider.tech/2026/05/06/openai-launches-gpt-5-5-instant-as-default-chatgpt-model-with-reduced-hallucinations-and-deeper-memory/",
-      "date": "2026-05-06",
-      "summary": "GPT-5.5 InstantがChatGPTのデフォルトモデルとして本格展開。OpenAIは医療・法律・金融など高リスク分野でハルシネーションを半減させたと公表し、長期記憶機能を強化してプロユーザー向けに会話・ファイル・接続済みGmailから文脈を取り込めるようにした。",
-      "category": "international"
-    },
-    {
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "title_ja": "Claudeの利用上限引き上げとSpaceXとのコンピュート契約",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "date": "2026-05-06",
-      "summary": "Anthropicは『Code with Claude』カンファレンスでSpaceXとの新規コンピュート契約を発表。テネシー州メンフィスのColossus 1データセンターから300MW超・220,000枚以上のNVIDIA H200/Blackwell GB200にアクセスし、月内にClaude Pro/Maxの利用上限を倍増、Opus APIの上限も拡大、ピーク時間制限を撤廃。Code、Pro、Max、Team、Enterprise各プランで5時間レート上限が2倍に。",
-      "category": "company_blog"
-    },
-    {
-      "title": "New Compute Partnership with Anthropic",
-      "title_ja": "xAI、Colossus 1容量をAnthropicに全量提供",
-      "source": "xAI",
-      "url": "https://x.ai/news/anthropic-compute-partnership",
-      "date": "2026-05-06",
-      "summary": "xAIは5月6日、AnthropicとのコンピュートパートナーシップでColossus 1（メンフィス）の全容量を提供すると発表。300MW超・220,000基以上のH200/GB200を月内にClaudeの推論基盤として開放。AnthropicがSpaceXと宇宙空間でのギガワット級コンピュート開発も検討するとした。マスク氏は『Anthropicの幹部と直接話して非常に高い能力を確認した』と発言。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic, SpaceX Sign Deal to Boost AI Computing Power for Claude Software",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand",
-      "date": "2026-05-06",
-      "summary": "AnthropicがイーロンマスクのSpaceXと契約を結びColossus 1（メンフィス）の300MW超のコンピュート容量を確保。Claude需要急増に対応するためで、宇宙空間への計算容量拡張についても協議中と報じた。マスク氏が過去にAnthropicを批判していた経緯から業界に驚きを与えている。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic, SpaceX announce compute deal that includes space development",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html",
-      "date": "2026-05-06",
-      "summary": "AnthropicとSpaceXが正式契約を発表。Colossus 1から月内に220,000基超のGPUと300MWの容量を提供し、AnthropicはClaude Pro/Maxの上限を倍増。さらに両社は『宇宙空間でのギガワット級コンピュート』開発に向けた検討も明記。マスク傘下のxAIと統合されたSpaceXがAnthropicに容量を売る形となり、業界の力学が大きく動いた。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic adding computing capacity from Musk's SpaceX",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/technology/5867940-musk-spacex-ai-anthropic/",
-      "date": "2026-05-06",
-      "summary": "AnthropicがSpaceXとの新契約により月内にメンフィスColossus 1の300MW超の容量を取得。Claudeのレート制限を倍増させ、コーディングや金融エージェントの需要急増に対応する。マスク氏との過去の対立構図にもかかわらず、AnthropicはSpaceXを『最も高密度なコンピュートを持つ事業者』と評価した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic to use all of SpaceX-xAI's Colossus 1 data center compute",
-      "source": "Data Center Dynamics",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-to-use-all-of-spacex-xais-colossus-1-data-center-compute/",
-      "date": "2026-05-06",
-      "summary": "AnthropicはSpaceX-xAI傘下のColossus 1データセンターの全コンピュート容量を独占利用する大型契約を締結。300MW超の電力と220,000枚超のNVIDIA GPU（H200・GB200）にアクセスし、Claude Pro/Maxの利用上限を倍増、Opus APIの上限も拡大。地元メンフィスでの追加データセンター建設構想も同時進行中とした。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "title_ja": "OpenAI、ChatGPT Futures『Class of 2026』を発足",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026/",
-      "date": "2026-05-06",
-      "summary": "OpenAIは初代『ChatGPT Futures』として、AIを意欲的かつ人間中心に活用する大学生・若手ビルダー26名を表彰。MIT、スタンフォード、ハーバード、オックスフォード、UC Berkeley、東大など20以上の機関から選出され、各人に1万ドルの助成金とフロンティアモデルへのアクセスを提供。教育・メンタルヘルス・アクセシビリティ分野の応用が中心。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
-      "title_ja": "Zyphra、AMD MI300Xクラスタ訓練の推論MoE『ZAYA1-8B』をApache 2.0で公開",
-      "source": "Zyphra",
-      "url": "https://www.zyphra.com/post/zaya1-8b",
-      "date": "2026-05-06",
-      "summary": "Zyphraが推論MoE『ZAYA1-8B』を発表。総パラメータ8.4B・アクティブ760Mの小型構成ながら、Markovian RSA・Compressed Convolutional Attention・MLP型エキスパートルーターなどの新機構で数学・推論ベンチマークでClaude 4.5 Sonnet/Gemini 2.5 Pro/DeepSeek-V3.2に並ぶか上回る。AMD Instinct MI300X+Pensando Pollara上でIBM Cloudにより訓練、重みはHugging FaceでApache 2.0公開。",
       "category": "company_blog"
     }
   ]

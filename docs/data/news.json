@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-05-24 09:00 (JST)",
+  "lastUpdated": "2026-05-25 09:00 (JST)",
   "articles": [
+    {
+      "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
+      "title_ja": "DeepSeek、旗艦モデルV4-Proの価格を恒久的に75%引き下げ",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/",
+      "date": "2026-05-25",
+      "summary": "DeepSeekが旗艦推論モデル「DeepSeek-V4-Pro」の価格を恒久的に75%引き下げた。新価格は100万トークンあたり$0.003625〜$0.87で、従来の$0.0145〜$3.48から大幅低下。当初5月31日終了予定だったプロモーション割引を、Huawei Ascend 950AIアクセラレータへの最適化による効率改善を理由に永続化した。",
+      "category": "international"
+    },
+    {
+      "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut",
+      "date": "2026-05-25",
+      "summary": "DeepSeek-V4-Proが75%値下げを経て、知能あたりコスト（intelligence-per-dollar）のグローバルランキング首位を獲得。OpenAI・Anthropicの米国主要モデルを上回るコスト効率を実現し、AI価格競争に新たな圧力をかけている。長文脈推論を主眼に設計され、前世代比でトークン単位の計算量を4分の1、メモリ消費を10分の1に削減した点が価格永久化を可能にした。",
+      "category": "international"
+    },
+    {
+      "title": "Fujitsu develops self-evolving multi-AI agent technology that learns and adapts to business operations",
+      "title_ja": "富士通、業務とともに学び続ける自己進化マルチAIエージェント技術を開発",
+      "source": "Fujitsu Global",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/05/25-01",
+      "date": "2026-05-25",
+      "summary": "富士通は5月25日、複数AIエージェントがチームで業務を遂行しつつ、実行結果・人手フィードバック・規程改定・仕様変更を取り込み継続的かつ安全に学習する自己進化型マルチAIエージェント技術を発表した。同社の業務特化LLM「Takane」をドメイン特化前モデル比で平均28ポイント精度向上させ、汎用AIモデルを上回る精度を達成。今後Fujitsu Kozuchi Enterprise AI Factoryにコア機能として実装する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Fujitsu Unveils Self-Evolving Multi-AI Agent Technology to Enhance Business Operations",
+      "title_ja": "富士通の自己進化型マルチAIエージェントを解説──業務特化LLM「Takane」の精度を28pt改善",
+      "source": "Japan Industry News",
+      "url": "https://www.japanindustrynews.com/2026/05/fujitsu-unveils-self-evolving-multi-ai-agent-technology-to-enhance-business-operations/",
+      "date": "2026-05-25",
+      "summary": "Japan Industry Newsは、富士通の自己進化マルチAIエージェント技術が、エージェント自身が成功/失敗の理由を特定し実行可能な知見を抽出することで、専門家が継続的に行ってきたプロンプト調整や評価基準更新を自動化する点を解説。複数AIエージェントが分業しつつ集合知として進化する設計で、業務環境変化への安全な適応を実現する日本発のエージェント基盤技術として注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc",
+      "date": "2026-05-24",
+      "summary": "AppleInsiderはApple Intelligenceから独立した新サブドメイン「genai.apple.com」の登場を報道。6月8日のWWDC 2026基調講演でiOS 27世代に向けた大型生成AI発表を計画している裏付けと指摘する。Siriの大規模刷新（チャットボット型のSiri 2.0）に加え、Photos、Visual Intelligence、Voice Controlなどの生成AI機能拡張、ウォレット用パス自動生成などが見込まれている。",
+      "category": "international"
+    },
+    {
+      "title": "xAI's Grok V9-Medium (1.5T) Finishes Training, Release in 2-3 Weeks",
+      "title_ja": "xAIの「Grok V9-Medium」（1.5兆パラメータ）が訓練完了、2〜3週間で公開へ",
+      "source": "Basenor",
+      "url": "https://www.basenor.com/blogs/news/grok-v9-medium-1-5t-finishes-training-release-in-2-3-weeks",
+      "date": "2026-05-24",
+      "summary": "Elon Muskは5月24日、xAIの新世代基盤モデル「Grok V9-Medium」（1.5兆パラメータ）の訓練完了を発表した。前世代V8（約0.5兆パラメータ）の約3倍規模で、AIコーディングアシスタントCursorのデータを補助訓練に大量投入することでコーディング用途を強化。教師ありファインチューニングは既に進行中で、近日中に強化学習へ移行、2〜3週間以内の公開を予定する。",
+      "category": "international"
+    },
+    {
+      "title": "Nvidia at Computex 2026: Jensen Huang Flies to TSMC as Vera Rubin Ramp Strains Taiwan Supply Chain",
+      "title_ja": "NVIDIA Jensen Huang氏、Computex期間中にTSMCを電撃訪問──Vera Rubin量産で台湾サプライチェーンが逼迫",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317079/20260524/nvidia-computex-2026-jensen-huang-flies-tsmc-vera-rubin-ramp-strains-taiwan-supply-chain.htm",
+      "date": "2026-05-24",
+      "summary": "Jensen HuangCEOがComputex期間中の5月23日に台北松山空港に降り立ち、TSMC会長C.C. Weiと面会。次世代AIプラットフォーム「Vera Rubin」（学習性能3.5倍・推論性能5倍・推論コスト1/7）の生産コミットを確保することが訪問の主目的。NVIDIAは2026-27年のCoWoSキャパシティの半分以上を既に予約しているが、Q1 FY2027の売上が前年比85%増の$81.62Bに達する中、TSMCとの拘束力ある合意は週末時点で未締結。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic and Microsoft Negotiate Maia 200 Chip Deal: Claude Could Become Custom Silicon's First Frontier Test",
+      "title_ja": "Anthropic×Microsoft、Maia 200チップ交渉──Claudeがカスタムシリコン初のフロンティア検証台に",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317072/20260524/anthropic-microsoft-negotiate-maia-200-chip-deal-claude-could-become-custom-silicons-first.htm",
+      "date": "2026-05-24",
+      "summary": "TechTimesは、AnthropicがMicrosoftのカスタムAIチップ「Maia 200」採用に向け初期交渉中であると詳報。実現すればAnthropicの4社目のシリコンベンダー追加となり、ClaudeをMaia 200の初のフロンティアモデル実証ワークロードとして稼働させる構図となる。Microsoft Maia 200は最新シリコン比で30%以上の「トークン/$」改善を主張し、AWSのTrainium、Google TPUに対抗する形でカスタムAIシリコン競争を激化させる。",
+      "category": "international"
+    },
     {
       "title": "Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI as Most Valuable AI Startup",
       "title_ja": "Anthropic、$30B超の資金調達ラウンドへ──$900B評価でOpenAI超え",
@@ -16,6 +86,24 @@
       "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
       "date": "2026-05-23",
       "summary": "CNNはGoogleが検索ボックスに25年ぶりとなる大規模刷新を行い、AIが質問に応じてカスタムビジュアル、インタラクティブグラフィックス、ミニアプリを動的に生成する機能を導入したと報じた。AIサービスから米国小売サイトへの流入は前年比393%増となり、Meta、Amazon、Google、OpenAIが軒並みAIショッピング機能を投入する競争状況も伝えた。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
+      "title_ja": "Apple、WWDCを前に新ドメイン「genai.apple.com」を準備──大型AI発表の前兆か",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
+      "date": "2026-05-23",
+      "summary": "AppleがWWDC 2026開幕を数週間後に控え、新しいサブドメイン「genai.apple.com」をDNSに追加したとMacRumorsが報道。ページはまだ非公開だが、既存のApple Intelligenceとは別の生成AI関連特設サイトとなる可能性が高い。iOS 27、iPadOS 27、macOS 27でのSiri全面刷新「Siri 2.0」やApple Intelligenceの大規模強化に向けた布石と見られる。",
+      "category": "international"
+    },
+    {
+      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+      "title_ja": "NVIDIA、$2,000億CPU市場予測には中国市場を含むと表明",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/23/nvidia-forecast-for-200-billion-cpu-market-includes-china.html",
+      "date": "2026-05-23",
+      "summary": "NVIDIAは5月23日、自社が示した$2,000億規模のCPU市場予測には中国市場のシェアが含まれているとCNBCに表明。米国の対中AIチップ制限が続く中でも、Veraシリーズを軸とした次世代CPUは中国市場を一定範囲で取り込める前提で設計されているとし、データセンター市場でAMD/Intelのx86シェアを侵食する戦略を強調した。",
       "category": "international"
     },
     {
@@ -1657,95 +1745,6 @@
       "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
       "date": "2026-05-07",
       "summary": "OpenAIがリアルタイム音声基盤モデル3種を公開。GPT-5級の推論を備える『GPT-Realtime-2』、70言語以上の入力を13言語に同時翻訳する『GPT-Realtime-Translate』、ストリーミング音声認識の『GPT-Realtime-Whisper』をAPI経由で提供開始。価格はGPT-Realtime-2が音声入力100万トークン32ドル/出力64ドル、Translateは1分0.034ドル、Whisperは0.017ドル。音声エージェントが対話中に推論・翻訳・記録を同時実行可能になる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI has new voice models that reason, translate, and transcribe as you speak",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/07/openai-has-new-voice-models-that-reason-translate-and-transcribe-as-you-speak/",
-      "date": "2026-05-07",
-      "summary": "OpenAIが5月7日に発表した3つの新リアルタイム音声モデルをレビュー。GPT-Realtime-2はGPT-5級の推論を備え会話中に複雑な指示を処理、Translateは70+言語を13言語へ低レイテンシ翻訳、Whisperはライブ書き起こし専用。Realtime APIに統合され、ChatGPTやAppleデバイス連携の音声体験を一段引き上げると評価。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut",
-      "title_ja": "OpenAI、Mythos公開から1ヶ月でサイバー防御チーム向け『GPT-5.5-Cyber』投入",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html",
-      "date": "2026-05-07",
-      "summary": "OpenAIが審査済みサイバーセキュリティチーム向けにGPT-5.5-Cyberを限定リリース。Mythos騒動を受けた防御側のテコ入れと位置付けられ、Trusted Access for Cyber枠組みで脆弱性のトリアージや対策の自動化に対応。AnthropicがMythosをClosed Releaseに留めた一方、OpenAIは『信頼ベースで広く防御者へ届ける』アプローチを選択した。",
-      "category": "international"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "title_ja": "OpenAI、GPT-5.5/GPT-5.5-CyberとTrusted Access for Cyberの拡張を発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
-      "date": "2026-05-07",
-      "summary": "OpenAIがGPT-5.5の高度なサイバーセキュリティ能力を防御者へ届ける『Trusted Access for Cyber』を拡張。検証済みの担当者は脆弱性発見・トリアージ・マルウェア解析等での分類器拒否率が下がる。同時に、防御ワークフローでより寛容にチューニングされた限定プレビュー版『GPT-5.5-Cyber』を重要インフラ防御チームに提供開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "The state of global AI diffusion in 2026",
-      "title_ja": "Microsoft、2026年Q1のグローバルAI浸透レポートを公開",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/05/07/the-state-of-global-ai-diffusion-in-2026/",
-      "date": "2026-05-07",
-      "summary": "Microsoftが2026年Q1のAI浸透データを公開。世界の労働年齢人口に占める利用率が16.3%→17.8%へ拡大、26カ国で30%超に到達。首位はUAE 70.1%、米国は24位→21位（31.3%）。アジア言語性能の改善で日本・韓国・タイの伸びが大きい一方、Global North 27.5% vs Global Southの差はさらに開く傾向。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google starts rolling out Gemini Personal Intelligence in Europe",
-      "title_ja": "Google、Gemini『Personal Intelligence』を欧州にも展開開始",
-      "source": "NokiaPowerUser",
-      "url": "https://nokiapoweruser.com/gemini-personal-intelligence-europe-rollout/",
-      "date": "2026-05-07",
-      "summary": "Googleが2月以来段階展開してきたGeminiの長期記憶機能『Personal Intelligence』を欧州ユーザーへも提供開始。GDPR等のデータ移管要件に配慮した上での欧州投入で、過去のチャット文脈・Gmail/Calendar/Driveとの連携が可能になる。Gemini Liveへの統合も近く予定されている。",
-      "category": "international"
-    },
-    {
-      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06241",
-      "date": "2026-05-07",
-      "summary": "RL後訓練が新規能力獲得ではなく既存推論方策のスパースな選択に過ぎないと再定義。エントロピーゲートされた決定点でのみコントラスト損失を適用するRLフリー手法『ReasonMaxxer』を提案し、計算量を大幅削減しつつGRPO系と同等以上の数学・推論精度を達成したと報告。",
-      "authors": "Anonymous",
-      "category": "arxiv"
-    },
-    {
-      "title": "ReFlect: An Effective Harness System for Complex Long-Horizon LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.05737",
-      "date": "2026-05-07",
-      "summary": "長時間ホライズン推論で発生する誤差伝搬を抑える『ReFlect』を提案。モデル本体に手を入れず、決定論的ラッパとして誤検出・回復ロジックを与えるハーネス設計で、多段ツール呼び出しを伴うエージェントタスクの完遂率を改善。",
-      "authors": "Fan Huang",
-      "category": "arxiv"
-    },
-    {
-      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06638",
-      "date": "2026-05-07",
-      "summary": "推論深さと論理表現力の2軸を独立に制御できる合成ベンチ『ScaleLogic』を構築。含意論理から一階論理まで段階的に難度を上げて検証し、RLが長時間ホライズン推論を教えられるかは『表現力』に依存することを示した。表現力が低いとRL効果は急速に頭打ちになる。",
-      "authors": "Tianle Wang et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Novelty-based Tree-of-Thought Search for LLM Reasoning and Planning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06040",
-      "date": "2026-05-07",
-      "summary": "Tree-of-Thought探索に『新規性（novelty）』の概念を持ち込み、LLM自身を新規性推定器として使うことで枝刈りを行う手法を提案。事前学習済み知識を活用し計画・推論タスクで探索範囲を圧縮、低コストで深い解探索を可能にする。",
-      "authors": "Leon Hamm, Zlatan Ajanovic",
-      "category": "arxiv"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite is now generally available",
-      "title_ja": "Google、Gemini 3.1 Flash-LiteをGA公開。低レイテンシ・低コストでエージェント用途を強化",
-      "source": "Google Cloud Blog",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available",
-      "date": "2026-05-07",
-      "summary": "Googleは5月7日、Gemini 3.1 Flash-LiteをVertex AIおよびGemini API向けにGA公開した。$0.25/1M input・$1.50/1M output、TTFTで2.5倍高速化、出力速度45%向上を実現。高ボリューム・低レイテンシのエージェントタスク、ツール呼び出し、翻訳、分類に最適化された最もコスト効率の高いGemini 3シリーズモデル。",
       "category": "company_blog"
     }
   ]

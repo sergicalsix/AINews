@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-25 09:00 (JST)",
+  "lastUpdated": "2026-05-26 09:00 (JST)",
   "articles": [
+    {
+      "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
+      "title_ja": "ソフトバンクG株が13%急騰し過去最高値更新──アナリストはなおも上振れ余地を指摘",
+      "source": "Invezz",
+      "url": "https://invezz.com/news/2026/05/26/softbank-surges-13-to-new-all-time-high-heres-why-analysts-see-more-upside/",
+      "date": "2026-05-26",
+      "summary": "ソフトバンクグループ株が5月26日に最大13%急騰し、取引時間中の最高値8,000円を記録、4営業日連続上昇となった。AI投資先のOpenAI評価額急伸（Vision Fundは年間460億ドルの含み益、うちOpenAI関連が約450億ドル）に加え、ARM CEOがSoftBank Group International CEOを兼任しAIインフラ事業の統合を加速、自社AIチップ計画「Izanagi」やデータセンター・ロボット事業の米国IPO計画（評価額1,000億ドル目標）が好感された。",
+      "category": "japan"
+    },
     {
       "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
       "title_ja": "DeepSeek、旗艦モデルV4-Proの価格を恒久的に75%引き下げ",
@@ -35,6 +44,51 @@
       "date": "2026-05-25",
       "summary": "Japan Industry Newsは、富士通の自己進化マルチAIエージェント技術が、エージェント自身が成功/失敗の理由を特定し実行可能な知見を抽出することで、専門家が継続的に行ってきたプロンプト調整や評価基準更新を自動化する点を解説。複数AIエージェントが分業しつつ集合知として進化する設計で、業務環境変化への安全な適応を実現する日本発のエージェント基盤技術として注目される。",
       "category": "japan"
+    },
+    {
+      "title": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' warns about AI dangers",
+      "title_ja": "教皇レオ14世、初の回勅『Magnifica Humanitas』でAIの危険性に警鐘",
+      "source": "Time",
+      "url": "https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/",
+      "date": "2026-05-25",
+      "summary": "教皇レオ14世が5月25日、初の回勅『Magnifica Humanitas（壮大な人間性）』を発表。AI時代における人間の尊厳の保護をテーマに、政府・企業・個人に対して技術発展の速度を抑え、AIを倫理的・政治的監督下に置くよう求めた。42,300語の文書で、AIを新たな産業革命と位置づけ、軍事・経済利益からAIを「武装解除」し、AI企業へのより厳格な国家・国際規制を呼びかける内容。発表はAnthropic共同創業者Chris Olahが同席。",
+      "category": "international"
+    },
+    {
+      "title": "Pope Leo warns of AI fueling warfare in first major theological document",
+      "title_ja": "教皇レオ、初の主要神学文書でAIが戦争を煽る危険性に警鐘",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/25/europe/pope-leo-ai-encyclical-magnifica-humanitas-intl",
+      "date": "2026-05-25",
+      "summary": "CNNは教皇レオ14世の初回勅『Magnifica Humanitas』を詳報。235ページの文書はバチカンが「ビッグテック」に対し正面から立ち向かう姿勢を示すもので、AIの軍事利用拡大と労働者・人間の尊厳への影響を中心に警告。教皇レオ13世が135年前の同日に署名した労働者の権利に関する『Rerum Novarum』との対応関係を意識した日程設定で、第二次産業革命に対応する社会教説の現代版と位置づけられる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical 'Magnifica humanitas'",
+      "title_ja": "Anthropic共同創業者Chris Olah、教皇レオ14世の回勅『Magnifica humanitas』に寄せたコメントを公開",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "date": "2026-05-25",
+      "summary": "Anthropicは5月25日、共同創業者でAI解釈可能性研究を率いるChris Olahによる教皇レオ14世の回勅『Magnifica humanitas』発表に寄せたコメントを公式サイトで公開。OlahはAIの透明性・解釈可能性研究の重要性を強調し、Anthropicが進める安全研究と回勅が掲げる「AI時代における人間の保護」というテーマが共鳴する点を述べた。Olahはバチカンでの回勅発表に登壇し、AI企業として教皇庁の社会教説に応答する象徴的役割を担った。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership",
+      "title_ja": "OpenAI、Grupo Folha・Grupo UOLとブラジル初の戦略的コンテンツ提携を発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership/",
+      "date": "2026-05-25",
+      "summary": "OpenAIは5月25日、ブラジル最大級の報道機関Grupo FolhaおよびGrupo UOLとの戦略的コンテンツ提携を発表。週間アクティブユーザー9億人超のChatGPT利用者がFolha de S.PauloとUOLの記事に基づく要約と出典リンクを参照可能となる。Grupo Folha・UOLにはChatGPT Enterprise・OpenAI API・Codexへのアクセス権を提供。本提携によりFolhaが2025年に提起したコンテンツ無断利用訴訟も和解。ブラジルはChatGPTのMAU 5,000万人超、1日1.4億メッセージという主要市場。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic to release Mythos-class models to the public",
+      "title_ja": "Anthropic、脆弱性発見モデルMythos相当モデルを将来的に一般公開する方針を表明",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "date": "2026-05-25",
+      "summary": "Anthropicは5月25日、安全対策の強化を条件として、現在Project Glasswingで限定提供している脆弱性発見特化型モデル「Mythos」級モデルを将来的に一般公開する方針を明らかにした。Mythosは27年前のOpenBSDバグや16年前のFFmpegの脆弱性など、従来ツールが見逃してきた実在の脆弱性を多数発見しており、無制限公開は攻撃者の悪用リスクが高いため、現状はAWS・Apple・Cisco・Google・JPMorganChase・Microsoft・NVIDIA・Palo Alto Networksなど12のローンチパートナーと約40の機関に限定提供されている。",
+      "category": "international"
     },
     {
       "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
@@ -105,6 +159,15 @@
       "date": "2026-05-23",
       "summary": "NVIDIAは5月23日、自社が示した$2,000億規模のCPU市場予測には中国市場のシェアが含まれているとCNBCに表明。米国の対中AIチップ制限が続く中でも、Veraシリーズを軸とした次世代CPUは中国市場を一定範囲で取り込める前提で設計されているとし、データセンター市場でAMD/Intelのx86シェアを侵食する戦略を強調した。",
       "category": "international"
+    },
+    {
+      "title": "RL with Learnable Textual Feedback: A Bilevel Approach",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.24547",
+      "date": "2026-05-23",
+      "summary": "本論文はスカラー報酬のみに依存する従来RLポストトレーニングの情報量不足を補うため、Critic モデルが自然言語フィードバックを生成しActor推論モデルを誘導する「学習可能テキストフィードバック付きRL（RL-LTF）」を提案。Bilevel最適化定式化によりCriticのフィードバック生成方策とActorの推論方策を同時最適化し、推論精度・収束速度ともに改善。スカラー報酬を超えたリッチな学習シグナルがLLM推論の新たな鍵となることを示唆する研究。",
+      "authors": "Utsav Singh et al.",
+      "category": "arxiv"
     },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -222,6 +285,15 @@
       "date": "2026-05-22",
       "summary": "GoogleがGemini Sparkによる個人タスク管理、Google Alertsを置き換える情報エージェント、GmailとCalendarを統合するDaily Brief、エージェント化が進むChromeブラウザを含む野心的なAIエージェント群を発表した一方、主要機能の多くは月額100ドルのUltraプラン購読者に限定されている点を批判的に分析した記事。",
       "category": "international"
+    },
+    {
+      "title": "Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.23384",
+      "date": "2026-05-22",
+      "summary": "近年のRL手法によるLLM推論能力向上を受け、本論文ではメタ認知に着想を得たRLフレームワーク「Metacognition-as-Reward (MaR)」を提案。メタ認知的知識（自分の何を知っているかの認識）と調整シグナル（推論プロセスの監視・制御）をRL報酬に組み込むことで、外部の検証可能報酬のみに依存する従来のGRPO/PPO型手法より、汎化可能で堅牢な推論を獲得できることを実験的に示した。数学・科学推論ベンチマークで一貫した改善を報告。",
+      "authors": "Sirui Chen et al.",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
@@ -476,6 +548,15 @@
       "date": "2026-05-20",
       "authors": "Yixu Wang, Yang Yao, Xin Wang, Yifeng Gao, Yan Teng, Xingjun Ma, Yingchun Wang",
       "summary": "通常プロンプトでは有害要求を拒否するが敵対的言い換えに屈してしまうLLMの脆弱性を指摘し、表層形ではなく意図に依存する文脈不変な安全アライメントを提案。Anchor Invariance Regularization（AIR）により、信頼度の異なるプロンプト変種間で一貫した安全挙動を強制する手法を導入した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "What Twelve LLM Agent Benchmark Papers Disclose About Themselves: A Pilot Audit and an Open Scoring Schema",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.21404",
+      "date": "2026-05-20",
+      "summary": "LLMエージェント評価ベンチマーク論文12本を対象に、データ汚染・評価条件・再現性・コスト報告・公平比較などの開示項目を体系的に監査したパイロット研究。各論文の自己開示状況をスコア化するオープン採点スキーマを提案し、現行ベンチマークの大半が比較公平性に必要な情報を欠いていることを定量的に明らかにした。エージェントベンチマーク論文の品質向上に向けた最低開示要件を提示する。",
+      "authors": "Pilot Audit Authors",
       "category": "arxiv"
     },
     {
@@ -1667,85 +1748,6 @@
       "date": "2026-05-08",
       "summary": "AIデータセンターの電力消費が世界各国政府にとって深刻な政治・経済課題になっていると分析。複数政府がAIのエネルギー利用について調査を開始しており、インフラ容量制約が成長の障壁となりつつある。",
       "category": "international"
-    },
-    {
-      "title": "Teaching Claude why",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "date": "2026-05-08",
-      "summary": "Anthropicがエージェント的ミスアラインメントを大幅に削減した手法を公開。望ましい行動の実演だけでなく、なぜその行動が望ましいかをClaudeに説明させて学習させることが効果的で、憲法文書と整合的AIを描いた架空の物語を組み合わせると、ミスアラインメント発生率を3分の1以下に抑制できたと報告。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google AI announcements from April 2026",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "date": "2026-05-08",
-      "summary": "Googleが4月のAI関連発表をまとめた月次レポートを公開。Cloud Next '26でのGemini Enterprise Agent Platform、第8世代TPU、オープンモデルGemma 4の発表、Deep Research MaxやColabのLearn Modeなど、エージェント時代に向けた主要アップデートを総括している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Claude is now generally available in Microsoft Word, Excel, and PowerPoint with Outlook in public beta",
-      "title_ja": "Claude、Microsoft 365 Officeアドイン（Word/Excel/PowerPoint）が一般提供開始、Outlookはパブリックベータに",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/gsc_news/en/20260508-collaborate-with-claude/",
-      "date": "2026-05-08",
-      "summary": "Anthropicは5月7日付でClaude for Word/Excel/PowerPointをGAリリースし、Claude for Outlookをパブリックベータで公開した。最大の特徴はアプリ間で会話コンテキストが引き継がれる連携機能で、Outlookでメール要約 → Word/Excel/PowerPointで成果物作成までシームレスに行える。Claude Max・Pro・Enterprise・TeamのMarketplace経由で利用可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Measuring Progress Towards AGI: A Cognitive Framework",
-      "title_ja": "Google DeepMind、『AGIへの進歩を測る認知タクソノミー』論文を公開",
-      "source": "Google DeepMind Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "date": "2026-05-08",
-      "summary": "DeepMindは『Measuring Progress Toward AGI: A Cognitive Taxonomy』を公開。心理学・神経科学・認知科学の知見を結集し、汎用知能に重要な10の認知能力を体系化した枠組みを提示。現在のAIシステムを科学的に評価し、AGIへの進歩を客観的に測定する基盤を提供する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.07001",
-      "date": "2026-05-08",
-      "authors": "SmellBench authors",
-      "summary": "LLMエージェントによるアーキテクチャレベルのコードスメル修復を最初に体系評価したベンチマーク。GPT・Claude・Gemini・Mistralを含む4系統11構成のエージェントを、65個の重度なアーキテクチャ的スメルで比較し、ツール使用・推論戦略・修正成功率の差を明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.07153",
-      "date": "2026-05-08",
-      "authors": "Beyond Reasoning authors",
-      "summary": "強化学習が推論能力だけでなく、事前学習で内在化したパラメトリック知識の直接想起をも向上させることを示した研究。3系統のモデルファミリと複数の事実QAベンチマークで、平均約27%の相対的改善を確認し、RLが知識リトリーバル自体を引き出す効果を分析。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Learning Agent Routing From Early Experience",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.07180",
-      "date": "2026-05-08",
-      "authors": "Learning Agent Routing authors",
-      "summary": "クエリを直接LLM推論で答えるか、エージェントに委ねるかを判定する訓練不要のルーティング枠組「BoundaryRouter」を提案。少数のseedタスク上で両系統を走らせた経験メモリと、ルーブリック指針付き推論で意思決定し、コスト・遅延・正答率のバランスを最適化する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Beyond LoRA vs. Full Fine-Tuning: Gradient-Guided Optimizer Routing for LLM Adaptation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.07111",
-      "date": "2026-05-08",
-      "authors": "Optimizer Routing authors",
-      "summary": "LLM適応におけるLoRAとフルファインチューンの二項対立を超え、層ごとの勾配情報に基づきオプティマイザを動的に選択するルーティング手法を提案。タスク毎に最適な学習戦略を選ぶことで、低ランク適応に比して下流性能を改善しつつ計算量を抑制する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Advancing voice intelligence with new models in the API",
-      "title_ja": "OpenAI、APIに新世代の音声モデル3種を投入",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
-      "date": "2026-05-07",
-      "summary": "OpenAIがリアルタイム音声基盤モデル3種を公開。GPT-5級の推論を備える『GPT-Realtime-2』、70言語以上の入力を13言語に同時翻訳する『GPT-Realtime-Translate』、ストリーミング音声認識の『GPT-Realtime-Whisper』をAPI経由で提供開始。価格はGPT-Realtime-2が音声入力100万トークン32ドル/出力64ドル、Translateは1分0.034ドル、Whisperは0.017ドル。音声エージェントが対話中に推論・翻訳・記録を同時実行可能になる。",
-      "category": "company_blog"
     }
   ]
 }

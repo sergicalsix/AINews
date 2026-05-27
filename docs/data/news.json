@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-05-26 09:00 (JST)",
+  "lastUpdated": "2026-05-27 09:00 (JST)",
   "articles": [
+    {
+      "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
+      "title_ja": "富士通とOpenAI、日本のエンタープライズAIトランスフォーメーション加速へ戦略提携を開始",
+      "source": "Fujitsu Global",
+      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/27-02",
+      "date": "2026-05-27",
+      "summary": "富士通は5月27日、OpenAIとの戦略的協業を開始したと発表。OpenAIの最先端AIと富士通の業界知見・システム構築力を組み合わせ、日本の大企業に対する業務特化型生成AIソリューションを共同開発・提供する。富士通の業務特化LLM「Takane」とOpenAIモデルを統合したマルチモデル・エージェントを国内顧客に展開する計画。",
+      "category": "japan"
+    },
+    {
+      "title": "Fujitsu and Anthropic sign strategic partnership; all 100,000 Fujitsu Group employees to use Claude",
+      "title_ja": "富士通とAnthropic、戦略的パートナーシップを締結──富士通グループ全社員10万人がClaudeを業務活用",
+      "source": "Fujitsu Global",
+      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/27-01",
+      "date": "2026-05-27",
+      "summary": "富士通は5月27日、Anthropicと戦略的パートナーシップを締結し、富士通グループの約10万人全社員がAnthropicのClaudeを業務に活用すると発表。Anthropicの安全性重視LLMと富士通のFujitsu Kozuchi Enterprise AI Factoryを統合し、規制産業向けにエンタープライズグレードのAIエージェント基盤を提供する。",
+      "category": "japan"
+    },
+    {
+      "title": "Meta to sell AI chatbot subscriptions for the first time to offset hundreds of billions in AI spending",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/meta-to-sell-ai-chatbot-subscriptions-in-bid-to-offset-spending",
+      "date": "2026-05-27",
+      "summary": "Meta Platformsが初めてMeta AIチャットボットの消費者向け有料サブスクリプションを開始。月額$7.99の「Meta One Plus」基本プランは、画像・動画生成や拡張推論を頻繁に利用するユーザー向け。広告収益のみに依存しないAI事業のマネタイズ手段として、巨額のAI投資を回収する第一歩となる。",
+      "category": "international"
+    },
+    {
+      "title": "Zuckerberg's Biohub unveils AI 'world model' of proteins",
+      "title_ja": "ザッカーバーグのBiohub、タンパク質の「世界モデル」AIを発表",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/27/zuckerbergs-biohub-unveils-ai-world-model-of-proteins",
+      "date": "2026-05-27",
+      "summary": "Chan Zuckerberg Biohubが5月27日、タンパク質の構造・機能・相互作用を統合的にモデル化するAI「世界モデル」を発表。創薬や疾病メカニズム解明に向け、AlphaFold以降の生物学AIの新たな枠組みを提供する。Chan Zuckerberg Initiativeが構築する大規模科学AIインフラの一環として位置づけられる。",
+      "category": "international"
+    },
     {
       "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
       "title_ja": "ソフトバンクG株が13%急騰し過去最高値更新──アナリストはなおも上振れ余地を指摘",
@@ -9,6 +44,57 @@
       "date": "2026-05-26",
       "summary": "ソフトバンクグループ株が5月26日に最大13%急騰し、取引時間中の最高値8,000円を記録、4営業日連続上昇となった。AI投資先のOpenAI評価額急伸（Vision Fundは年間460億ドルの含み益、うちOpenAI関連が約450億ドル）に加え、ARM CEOがSoftBank Group International CEOを兼任しAIインフラ事業の統合を加速、自社AIチップ計画「Izanagi」やデータセンター・ロボット事業の米国IPO計画（評価額1,000億ドル目標）が好感された。",
       "category": "japan"
+    },
+    {
+      "title": "Anthropic closes $30B+ funding round at $900B+ pre-money valuation, becomes world's most valuable private AI startup",
+      "title_ja": "Anthropic、評価額9000億ドル超で300億ドル+調達ラウンドをクローズ──世界最高評価額のAIスタートアップに",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/26/anthropic-30b-funding-round-900b-valuation.html",
+      "date": "2026-05-26",
+      "summary": "Anthropicは5月26日週、9,000億ドル超のプレマネー評価額で300億ドル超の資金調達ラウンドをクローズ。Sequoia、Dragoneer、Altimeter、Greenoaksが各約20億ドルでリードし、Founders Fund、General Catalyst、Microsoft、NVIDIAも参加。2026年3月のOpenAI評価額8,520億ドルを上回り、世界で最も価値あるプライベートAIスタートアップとなった。",
+      "category": "international"
+    },
+    {
+      "title": "Sam Altman tells Sydney audience he was wrong about AI causing white-collar job losses",
+      "title_ja": "アルトマン氏、シドニー講演で「ホワイトカラーの雇用喪失予測は誤りだった」と認める",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/altman-sydney-ai-white-collar-jobs-2026-05-26/",
+      "date": "2026-05-26",
+      "summary": "OpenAI CEOのSam Altmanは5月26日、シドニーでの講演でAIの急速な普及がかつて予測した広範なホワイトカラー雇用喪失をもたらしていないと発言。多くの専門職で人的相互作用が依然不可欠であり、AIによる完全代替には限界があると認めた。短期の社会経済影響に関する自身の予測を修正する形となった。",
+      "category": "international"
+    },
+    {
+      "title": "Safety guardrails on Meta and Google AI models removed in minutes, FT reports",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ai-safety-guardrails-meta-google-2026-05-26",
+      "date": "2026-05-26",
+      "summary": "Financial Timesの調査により、研究者・テスターが数分でMetaおよびGoogleのAIモデルから安全ガードレールを取り外し、生物兵器・マルウェア・児童搾取コンテンツに関するプロンプトに応答させられたことが報じられた。フロンティアモデルの安全性評価フレームワークの実効性に大きな疑問を投げかけ、規制議論を加速させる可能性がある。",
+      "category": "international"
+    },
+    {
+      "title": "OpenRouter raises $113M Series B at $1.3B valuation as model marketplace category matures",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/05/26/venture-capital-startup-funding-roundup-may-26-2026/",
+      "date": "2026-05-26",
+      "summary": "AIモデル統合プラットフォームのOpenRouterが5月26日、Series Bで1億1,300万ドルを調達。ポストマネー評価額は約13億ドル。複数LLMプロバイダーへの単一APIアクセスを提供する「モデルマーケットプレイス」カテゴリの代表企業として、AIアプリ開発者からの需要拡大を背景にユニコーン入り。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Copilot Studio computer-using agents reach general availability",
+      "title_ja": "Microsoft Copilot Studio、コンピュータ操作エージェントが一般提供開始",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/ai/2026/05/26/copilot-studio-computer-using-agents-ga/",
+      "date": "2026-05-26",
+      "summary": "Microsoftは5月26日のCopilot Studio月次アップデートで、コンピュータ操作エージェント（Computer-Using Agents）の一般提供を開始。人間と同じようにアプリケーションを操作し、画面遷移・UI要素クリック・フォーム入力・任意のビジュアル表示からの読み取り・データ抽出を行えるエージェントを企業が構築・展開可能となった。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Codex broad update: goals enabled by default, remote-control improvements, permission profiles",
+      "source": "OpenAI",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "date": "2026-05-26",
+      "summary": "OpenAIは5月26日、Codexの広範囲アップデートを公開。ゴール機能をデフォルト有効化し専用ストレージで複数ターンの進捗を追跡。リモート制御をフォアグラウンドコマンド同様に動作させ、Permissionプロファイルにリストアクセス・継承・managed requirements.toml対応・Windowsサンドボックス統合強化を追加。プラグイン探索・マーケットプレイス対応も改善。",
+      "category": "company_blog"
     },
     {
       "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
@@ -89,6 +175,24 @@
       "date": "2026-05-25",
       "summary": "Anthropicは5月25日、安全対策の強化を条件として、現在Project Glasswingで限定提供している脆弱性発見特化型モデル「Mythos」級モデルを将来的に一般公開する方針を明らかにした。Mythosは27年前のOpenBSDバグや16年前のFFmpegの脆弱性など、従来ツールが見逃してきた実在の脆弱性を多数発見しており、無制限公開は攻撃者の悪用リスクが高いため、現状はAWS・Apple・Cisco・Google・JPMorganChase・Microsoft・NVIDIA・Palo Alto Networksなど12のローンチパートナーと約40の機関に限定提供されている。",
       "category": "international"
+    },
+    {
+      "title": "Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.25480",
+      "date": "2026-05-25",
+      "authors": "(arXiv:2605.25480)",
+      "summary": "外部知識をコンパイル可能・合成可能・自己進化する構造として扱うエージェントネイティブ検索システム「LLM-Wiki」を提案。エージェントが検索した知識を再利用可能なWikiに統合し、検索を推論プロセス自体として再定義する。複数ベンチで既存RAGを上回り、長期タスクでの知識蓄積効率を大幅に改善した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.25981",
+      "date": "2026-05-25",
+      "authors": "(arXiv:2605.25981)",
+      "summary": "LLMエージェントの入力ノイズ感度を、表層ノイズ（書式・記号）と意味ノイズ（語彙置換・否定挿入）に分けて68セル設計で測定。Chain-of-ThoughtおよびReActエージェントにおいて、意味ノイズが最終回答を変化させる頻度が表層ノイズより有意に高いことを示し、ホールドアウトのトレースレベル検証で再現性を確認した。",
+      "category": "arxiv"
     },
     {
       "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
@@ -296,6 +400,15 @@
       "category": "arxiv"
     },
     {
+      "title": "ELYZA launches first video advertising campaign for 'ELYZA Works with KDDI' enterprise generative AI tool",
+      "title_ja": "ELYZA、KDDIに提供する法人向け生成AIツール「ELYZA Works with KDDI」初の動画広告配信開始",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000072.000047565.html",
+      "date": "2026-05-22",
+      "summary": "ELYZAは5月22日、KDDIに提供して同社が再販する法人向け生成AI活用ツール「ELYZA Works with KDDI」の初の動画広告配信を開始した。プロンプトスキルや専門知識なしに業務向けAIアプリを作成でき、AIが企画から改善まで支援する。日本企業の生成AI業務組込フェーズへの移行を象徴する事例。",
+      "category": "japan"
+    },
+    {
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
@@ -433,6 +546,23 @@
       "category": "arxiv"
     },
     {
+      "title": "Alibaba's Qwen 3.7 Max launches with 1M-token context, tops Terminal-Bench 2.0 and SWE-Bench Pro",
+      "title_ja": "Alibaba、100万トークン文脈のQwen 3.7 Maxを公開──Terminal-Bench 2.0・SWE-Bench Proで首位",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/",
+      "date": "2026-05-21",
+      "summary": "AlibabaはHangzhouで開催されたAlibaba Cloud SummitでQwen 3.7 Maxを発表。100万トークンの文脈長、Artificial Analysis Intelligence Index 56.6、Terminal-Bench 2.0・SWE-Bench Pro・MCP-AtlasでClaude Opus 4.6 Maxを上回るベンチを示した。100万トークンあたり入力$2.50・出力$7.50でDashScope経由のAPIで提供開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic's Code w/ Claude conference in London showcases coding's future",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "date": "2026-05-21",
+      "summary": "Anthropicが5月20-21日にロンドンで開催した「Code w/ Claude」カンファレンスで、Claudeを中心とするコーディングワークフローの将来像が示された。Claude Codeのリリース更新（ユーザー使用量インサイト、キーボードフレンドリーなdiffスクロール、Markdownタスクリスト改善）と、エンタープライズ向けClaude.ai クラウドMCPコネクタ設定の追加が併せて発表された。",
+      "category": "company_blog"
+    },
+    {
       "title": "All the news from the Google I/O 2026 Developer keynote",
       "title_ja": "Google I/O 2026 開発者キーノート発表まとめ―Antigravity 2.0、Gemini API、AI Studio",
       "source": "Google Developers Blog",
@@ -557,6 +687,24 @@
       "date": "2026-05-20",
       "summary": "LLMエージェント評価ベンチマーク論文12本を対象に、データ汚染・評価条件・再現性・コスト報告・公平比較などの開示項目を体系的に監査したパイロット研究。各論文の自己開示状況をスコア化するオープン採点スキーマを提案し、現行ベンチマークの大半が比較公平性に必要な情報を欠いていることを定量的に明らかにした。エージェントベンチマーク論文の品質向上に向けた最低開示要件を提示する。",
       "authors": "Pilot Audit Authors",
+      "category": "arxiv"
+    },
+    {
+      "title": "Sakana AI introduces RL Conductor: a 7B model that orchestrates GPT-5, Claude Sonnet 4, and Gemini 2.5 Pro",
+      "title_ja": "Sakana AI、GPT-5・Claude Sonnet 4・Gemini 2.5 Proを統括するRL Conductor（7B）を発表",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+      "date": "2026-05-20",
+      "summary": "Sakana AIが5月、強化学習で訓練した小型言語モデル「RL Conductor」を発表。多様なフロンティアLLMワーカーを自動オーケストレーションし、難解な推論・コーディングベンチで個々のGPT-5・Claude Sonnet 4を上回り、高価な人手設計のマルチエージェントパイプラインを凌駕。Sakana AIの商用マルチエージェントサービス「Fugu」のバックボーンとなる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.20173",
+      "date": "2026-05-20",
+      "authors": "(arXiv:2605.20173)",
+      "summary": "本番LLMエージェントのランタイムアーキテクチャパターン（ガードレール、リトライ、フォールバック、キャッシュ、ヒューマンインザループ等）を体系化し、ユースケース要件から適切なパターンの選択・組合せを導出する方法論を提案。実プロダクト事例による評価で、レイテンシ・コスト・信頼性のトレードオフ調整を再現可能にした。",
       "category": "arxiv"
     },
     {
@@ -945,6 +1093,15 @@
       "category": "arxiv"
     },
     {
+      "title": "The Range Shrinks, the Threat Remains: Re-evaluating LLM Package Hallucinations on the 2026 Frontier-Model Cohort",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.17062",
+      "date": "2026-05-16",
+      "authors": "(arXiv:2605.17062)",
+      "summary": "2025年10月〜2026年3月にリリースされた5つのフロンティアコード生成LLMにおけるパッケージハロシネーション率を再評価。発生頻度は減少したが、依然として実害をもたらす供給網リスクが残ること、特にエコシステム横断的なtypoスクワッティング攻撃面が拡大していることを示した。",
+      "category": "arxiv"
+    },
+    {
       "title": "Work with Codex from anywhere",
       "source": "OpenAI",
       "url": "https://openai.com/index/work-with-codex-from-anywhere/",
@@ -1249,6 +1406,15 @@
       "date": "2026-05-14",
       "summary": "不完全情報・敵対的相互作用・資源制約下での戦略推論を評価するマルチエージェント・ベンチマークを提案。LLMエージェントのブラフ、入札、交渉能力を測定し、エージェント能力評価の新たな軸を提示する。",
       "authors": "Anonymous (arXiv preprint)",
+      "category": "arxiv"
+    },
+    {
+      "title": "Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.06161",
+      "date": "2026-05-14",
+      "authors": "(arXiv:2605.06161)",
+      "summary": "LLM-as-a-Judge型の安全性評価において、評価ポリシーの言い換えに対する判定の不変性（Policy Invariance）を新しい信頼性指標として導入。複数のフロンティア判定モデルを横断ベンチした結果、精度が高くてもポリシー摂動で判定が大きく変動する事例を多数発見し、現行の安全性監査のデザイン上の盲点を明示した。",
       "category": "arxiv"
     },
     {
@@ -1584,169 +1750,6 @@
       "url": "https://www.caproasia.com/2026/05/09/united-states-ai-research-startup-anthropic-in-talks-to-raise-new-funding-at-1-trillion-valuation-plans-united-states-ipo-in-2026-october-to-raise-60-billion-founded-in-2021-by-7-ex-openai-employe/",
       "date": "2026-05-09",
       "summary": "AnthropicがFinancial Times報道に基づき評価額1兆ドル前後での$50B規模の資金調達ラウンドを協議中。2026年10月には米国でのIPO（公開規模$60B）を計画していると報じられた。年間ARRは$30B超でClaude CodeとCowork主導で5倍に成長、$45Bへの拡大を見込む。",
-      "category": "international"
-    },
-    {
-      "title": "Has Amazon Found the Next AWS?",
-      "title_ja": "AmazonはAWSに次ぐ柱を見つけたのか？AIエージェント拡充を分析",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/09/has-amazon-found-the-next-aws/",
-      "date": "2026-05-09",
-      "summary": "Amazon QuickやBedrock、Connectのエージェンティック拡張でAWS的な高粗利クラウドの第2の柱を狙う動きを分析。Claude Opus 4.7のBedrock投入と1Mトークンコンテキスト対応、Tableau/Power BIダッシュボードの自動移行エージェントなどを取り上げた。",
-      "category": "international"
-    },
-    {
-      "title": "Unomas Launches Free 'AI Readiness Score' Tool for Cross-Diagnosis of LLMO and SEO",
-      "title_ja": "合同会社ウノマス、LLMOとSEOを横断診断する無料ツール『AI対応スコア』を正式公開",
-      "source": "CodeCamp Trends",
-      "url": "https://trends.codecamp.jp/blogs/media/news3512",
-      "date": "2026-05-09",
-      "summary": "ウノマスが2026年5月9日、WebサイトのLLMO（AI検索最適化）とSEO対応状況を一括診断できる無料ツール『AI対応スコア』を正式リリース。URL入力で6カテゴリ23項目を最短30秒で自動解析し、AI引用可能性スコア（65点満点）とSEO基盤スコア（35点満点）の2指標を提示。中小企業や士業を主要ターゲットとする。",
-      "category": "japan"
-    },
-    {
-      "title": "Multi-Dimensional Evaluation of LLMs for Grammatical Error Correction",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.07635",
-      "date": "2026-05-09",
-      "authors": "GEC Evaluation authors",
-      "summary": "最新世代LLMによる文法誤り訂正(GEC)を多次元評価する研究(AIED 2026採択)。GPT-4oのファインチューンはゼロショットを22.07 ERRANT F0.5上回り、教育用途ではゼロショット運用が不適切と結論。複数LLMの組合せと参照ベース指標の限界も検証。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
-      "title_ja": "Anthropic Mythosが煽る『サイバーセキュリティ・ヒステリア』、専門家は『危機は既に存在』と冷静視",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-      "date": "2026-05-08",
-      "summary": "Anthropicの非公開フロンティアモデル『Mythos』が世界の銀行・規制当局・テック大手を慌てさせた件をCNBCが検証。AmodeiCEOが警告した『6〜12ヶ月で数万件の脆弱性をパッチせよ』という時間軸に対し、複数の研究者が『同等の発見は既存モデルでも可能で過剰反応』と指摘。Project Glasswingでの限定提供（Apple, Amazon, JPMorgan, Palo Alto Networks等）の妥当性も問われている。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI tunes GPT-5.5-Cyber for more permissive security workflows",
-      "title_ja": "OpenAI、防御者向けに緩和した『GPT-5.5-Cyber』を限定プレビュー提供",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/05/08/openai-gpt-5-5-cyber-model/",
-      "date": "2026-05-08",
-      "summary": "OpenAIが重要インフラ防御担当者向けに『GPT-5.5-Cyber』を限定プレビューで提供開始。Trusted Access for Cyber（TAC）枠組みで認証された担当者にはPoC作成・マルウェア解析・バイナリリバース・検出エンジニアリング・パッチ検証など、通常はリフューズされる依頼が許可される。能力自体はGPT-5.5と同等水準で、攻撃用途への転用を防ぐ承認制が肝。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank in Talks with Nvidia and Foxconn to Build Made-in-Japan AI Servers",
-      "title_ja": "ソフトバンク、エヌビディア・鴻海と国産AIサーバー開発を協議",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC0112V0R00C26A5000000/",
-      "date": "2026-05-08",
-      "summary": "ソフトバンクが米エヌビディアや台湾の鴻海精密工業と国産AIサーバーの開発・生産で協議していると報じられた。経済安全保障の観点から「ソブリンAI」需要に対応し、2020年代末までに主要部品設計や最終組立に参入する方針。",
-      "category": "japan"
-    },
-    {
-      "title": "LY Corp Pushes AI Agentization, Launches New AI Plans and Ad Models",
-      "title_ja": "LINEヤフー、AIエージェント化を推進 広告や新AIプランなど発表",
-      "source": "Impress Watch",
-      "url": "https://www.watch.impress.co.jp/docs/news/2107294.html",
-      "date": "2026-05-08",
-      "summary": "LINEヤフーは2025年度通期決算と2026年度事業方針を発表し、AIエージェント化を積極推進すると表明。4月開始の「Agent i」を全サービスへ拡大し、エージェント型広告やLYP連携の新AI課金プランも年度内に投入する方針。",
-      "category": "japan"
-    },
-    {
-      "title": "LY Corp CEO Idezawa: Building AI-Centric Monetization Model",
-      "title_ja": "LINEヤフー決算、出澤氏「AIを起点としたマネタイズモデルを構築」",
-      "source": "ケータイ Watch",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2107318.html",
-      "date": "2026-05-08",
-      "summary": "LINEヤフーの出澤剛CEOは決算説明会で、AIエージェントを軸に新たなマネタイズモデルを構築する方針を表明。AI時代に対応した広告・課金プランを展開し、Agent iを全サービスのエージェント化で利用拡大を図るとした。",
-      "category": "japan"
-    },
-    {
-      "title": "TOPPAN's Food-Specialized AI Image Generation Service OISHICA Turns Smartphone Snaps into Pro-Level Photos",
-      "title_ja": "TOPPANのフードフォト特化型AI生成サービス「OISHICA」、スマホのメモ写真をプロ級の1枚に",
-      "source": "デジカメ Watch (Impress)",
-      "url": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2105948.html",
-      "date": "2026-05-08",
-      "summary": "TOPPANがフードフォト特化型のAI画像生成サービス「OISHICA」の取り組みを公開。同社の1万枚超の食品撮影データを学習に活用し、スマホで撮影した料理写真や、レシピのテキストからプロ品質の食品ビジュアルを生成する。",
-      "category": "japan"
-    },
-    {
-      "title": "LY Corp Posts Record Profit in FY2026, Net Income Up 26% Driven by PayPay",
-      "title_ja": "LINEヤフーが3年ぶり最高益、26年3月期純利益26%増 PayPay好調",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB081GW0Y6A500C2000000/",
-      "date": "2026-05-08",
-      "summary": "LINEヤフーの2026年3月期連結決算は純利益が前期比26%増の1936億円で3年ぶりに過去最高益を更新。売上収益は6%増の2兆363億円。AIエージェント化への投資強化とPayPay好調が業績を牽引した。",
-      "category": "japan"
-    },
-    {
-      "title": "US Commerce Department Urges Japanese Firms to Join AI Export Program",
-      "title_ja": "米商務省、AI技術の輸出で日本企業に参画を要請",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN07B2L0X00C26A5000000/",
-      "date": "2026-05-08",
-      "summary": "米商務省のキミット商務次官が在米日本大使館とジェトロのワシントンでのイベントで講演し、米国製AI技術の世界展開を狙う「AI輸出プログラム」への日本企業の参画を呼びかけた。日米連携でAIの国際展開を加速する狙い。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-      "date": "2026-05-08",
-      "summary": "Anthropicが急増するAI需要に対応するため、Akamai Technologiesと18億ドル規模の7年間クラウド契約を締結したとBloombergが報じた。Akamai社史上最大の契約で、発表後同社株は約25％急騰した。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
-      "date": "2026-05-08",
-      "summary": "ソフトバンクがOpenAI株式を担保にした100億ドルのマージンローン計画を、貸し手の慎重姿勢を受け60億ドルへ40％縮小したとBloombergが報じた。未上場OpenAIの評価困難さが背景にある。",
-      "category": "international"
-    },
-    {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "date": "2026-05-08",
-      "summary": "Cloudflareが社内AI利用の3カ月で600％超増加を背景に、全従業員の約20％にあたる1,100人を削減し「エージェンティックAIファースト」体制へ移行すると発表。同社16年史上初の大規模リストラとなる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports",
-      "source": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-weighs-fundraising-near-1-041404218.html",
-      "date": "2026-05-08",
-      "summary": "AnthropicがコンピュートインフラのためにFTによれば最大500億ドルを調達、評価額は1兆ドル近くに達する可能性があるとReutersが報じた。年率売上高は450億ドルに迫り、IPOを年内にも視野に入れている。",
-      "category": "international"
-    },
-    {
-      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/",
-      "date": "2026-05-08",
-      "summary": "トランプ政権が大手AI企業幹部と政府関係者からなるAIワーキンググループを発足、フロンティアモデルにFDA型の事前承認制を課す大統領令を検討中と報道。規制緩和路線から厳格規制へ転換しつつある。",
-      "category": "international"
-    },
-    {
-      "title": "The secretive AI hacking tool fracturing Trump's White House",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2026/05/08/trump-white-house-ai-regulation-mythos/",
-      "date": "2026-05-08",
-      "summary": "AnthropicのサイバーセキュリティモデルMythosをめぐり、ホワイトハウス内で規制とアクセスをめぐる対立が深まっていると報道。AI国家安全保障政策の方向性を巡る政権内部の亀裂が浮き彫りになった。",
-      "category": "international"
-    },
-    {
-      "title": "EU lawmakers back delay to high-risk AI rules",
-      "source": "Euronews via Europeans Today",
-      "url": "https://www.europeans.today/2026/05/08/eu-lawmakers-back-delay-to-high-risk-ai-rules/",
-      "date": "2026-05-08",
-      "summary": "EU理事会と欧州議会がAI Act改正の暫定合意に達し、生体認証や重要インフラ等の高リスクAI規則の適用を2026年8月から2027年12月に延期。SMEへの免除拡大やNCII禁止条項追加も含まれる。",
-      "category": "international"
-    },
-    {
-      "title": "The Power Needs of AI Are Becoming a Crunch Issue for Governments",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-08/ai-power-use-risks-blowing-up-for-governments",
-      "date": "2026-05-08",
-      "summary": "AIデータセンターの電力消費が世界各国政府にとって深刻な政治・経済課題になっていると分析。複数政府がAIのエネルギー利用について調査を開始しており、インフラ容量制約が成長の障壁となりつつある。",
       "category": "international"
     }
   ]

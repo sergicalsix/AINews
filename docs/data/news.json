@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-27 09:00 (JST)",
+  "lastUpdated": "2026-05-28 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic raises at $965B valuation, eclipsing OpenAI as the world's most valuable private AI company",
+      "title_ja": "Anthropic、評価額9,650億ドルでOpenAIを上回り世界最高評価額の非上場AI企業に",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+      "date": "2026-05-28",
+      "summary": "Anthropicは5月28日、評価額9,650億ドルで650億ドルの資金調達ラウンドを完了。Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capitalが共同でリードした。初めてOpenAIの企業価値を上回り、世界で最も価値ある非上場AI企業となった。年率換算売上は190億ドルに到達しており、四半期黒字化も視野に入る。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic opens Milan office, accelerating European expansion amid 9x EMEA revenue surge",
+      "title_ja": "Anthropic、ミラノにオフィス開設──EMEA売上9倍急伸を背景に欧州展開を加速",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-open-milan-office-expanding-095020601.html",
+      "date": "2026-05-28",
+      "summary": "Anthropicは5月28日、イタリア・ミラノに南欧拠点を開設すると発表。ロンドン、ダブリン、チューリッヒ、パリ、ミュンヘンに次ぐ欧州6拠点目で、過去1年弱で欧州展開を一気に加速した。EMEA地域の年率売上は前年比9倍、大企業顧客数は約10倍に拡大。当面はGenerali、Unipol、Pirelli、Bending Spoons、Satispayなどのイタリア顧客向け営業・技術サポートを担う。",
+      "category": "international"
+    },
+    {
+      "title": "Asahi Kasei, Fujitsu, Yaskawa Electric consider investing in SoftBank-led domestic AI consortium",
+      "title_ja": "旭化成・富士通・安川電機、国産AI開発のソフトバンク系新会社に出資検討──製造業30社規模に拡大",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL279SG0X20C26A5000000/",
+      "date": "2026-05-28",
+      "summary": "ソフトバンクが設立した国産AI基盤モデル開発の新会社に対し、旭化成・富士通・安川電機の3社が新たに出資を検討していることが5月28日に明らかになった。すでにNEC、ホンダ、ソニーグループ、3メガバンク、日本製鉄、神戸製鋼所が出資しており、製造業を中心に出資企業は30社規模に拡大する見込み。1社あたり数千万円規模の出資を想定しており、日本独自の生成AI基盤構築を産業横断で支える枠組みとなる。",
+      "category": "japan"
+    },
     {
       "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
       "title_ja": "富士通とOpenAI、日本のエンタープライズAIトランスフォーメーション加速へ戦略提携を開始",
@@ -35,6 +62,42 @@
       "date": "2026-05-27",
       "summary": "Chan Zuckerberg Biohubが5月27日、タンパク質の構造・機能・相互作用を統合的にモデル化するAI「世界モデル」を発表。創薬や疾病メカニズム解明に向け、AlphaFold以降の生物学AIの新たな枠組みを提供する。Chan Zuckerberg Initiativeが構築する大規模科学AIインフラの一環として位置づけられる。",
       "category": "international"
+    },
+    {
+      "title": "OpenAI introduces election information features and AI transparency safeguards ahead of 2026 global elections",
+      "title_ja": "OpenAI、2026年世界選挙に向け選挙情報機能とAI透明性ガードレールを導入",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/election-safeguards-2026/",
+      "date": "2026-05-27",
+      "summary": "OpenAIは5月27日、2026年の世界各国の選挙に向けた包括的なセーフガードを公表。米国・ブラジルでは秋の選挙夜にAP通信のライブ集計結果をChatGPTで提供する。サイバー防御者支援、AI生成コンテンツの透明性向上、虚偽情報対策を進めるとともに、選挙関連プロンプトについて公式情報源への誘導を強化する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google DeepMind expands Project Genie with Street View integration to simulate real-world places",
+      "title_ja": "Google DeepMind、Project Genieを拡張──Street View統合で実世界の場所をシミュレーション可能に",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/",
+      "date": "2026-05-27",
+      "summary": "Google DeepMindは5月27日、生成的世界モデル「Project Genie」をStreet Viewと統合し、実在する場所を3Dインタラクティブ環境としてシミュレートできる機能を発表。エージェント訓練・ロボット学習・都市計画・教育向けに、世界中の任意の場所をプロンプトから探索可能な仮想空間に変換する。Geminiの世界モデル戦略の中核的アップデート。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Sakana AI proposes DiffusionBlocks: block-wise training framework converting residual networks into independently trainable denoising modules",
+      "title_ja": "Sakana AI、DiffusionBlocksを提案──残差ネットワークを独立訓練可能な拡散モジュールに分割するブロック単位訓練フレームワーク",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+      "date": "2026-05-27",
+      "summary": "Sakana AIと東京大学は5月27日、Transformer系ネットワークをブロック単位で独立に訓練可能とするDiffusionBlocksをICLR 2026で発表。各ブロックを独立した拡散モデルとして扱うことで、GPU間通信を抑えつつ分散訓練を効率化する。Makoto Shing、Masanori Koyama、Takuya Akibaらが主導。大規模LLM訓練のメモリ・計算効率向上に資する設計として注目される。",
+      "category": "arxiv"
+    },
+    {
+      "title": "xAI brings SuperGrok and X Premium+ subscription support to Kilo Code agentic coding platform",
+      "title_ja": "xAI、SuperGrok／X Premium+サブスクをオープンソースのエージェント型コーディング基盤Kilo Codeで利用可能に",
+      "source": "xAI",
+      "url": "https://x.ai/news",
+      "date": "2026-05-27",
+      "summary": "xAIは5月27日、SuperGrokおよびX Premium+のサブスクリプションをオープンソースのエージェント型コーディング基盤「Kilo Code」内で利用可能にすると発表。開発者はGrokの推論・コード生成・ツール利用機能を、専用エディタ環境で従来のAPI課金とは別に活用できるようになる。5月にはGrok 4.3とGrok Build 0.1の投入が続いており、エージェント開発エコシステムの拡張を強化している。",
+      "category": "company_blog"
     },
     {
       "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
@@ -1690,66 +1753,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company",
       "date": "2026-05-10",
       "summary": "Gemini 3.1の好調とAI Modeの拡大、TPU・クラウドのフルスタック戦略が評価され、Alphabetは時価総額で世界最大企業の座をうかがう位置に到達。NvidiaやMicrosoftとの首位争いが一段と激化していると報じた。",
-      "category": "international"
-    },
-    {
-      "title": "AI isn't actually 'taking' your job. Here's what's happening instead",
-      "title_ja": "AIは仕事を『奪う』のではない――業務の自動化と役割再定義が進行中",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/05/10/tech/ai-taking-jobs",
-      "date": "2026-05-10",
-      "summary": "Challenger Gray調べでは4月のレイオフ理由トップは2か月連続でAI。だが企業の実態はポジション全廃ではなく業務の一部自動化で、ソフトウェアエンジニアの役割は『ビルダー』へ再定義されつつある。多くの企業はメトリクスやインセンティブを未調整で、人間に必要なスキルを模索中。",
-      "category": "international"
-    },
-    {
-      "title": "Japan PM's office deepens ties with U.S. AI defense firm",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/World-News/2026/05/10/japan-intergrating-ai-military-intelligence-system/5731778457052/",
-      "date": "2026-05-10",
-      "summary": "高市早苗首相とPalantir共同創設者Peter Thiel氏の首相官邸での会談を契機に、日本がPalantir型AI軍事インテリジェンスを国家安全保障に組み込むかが議論に。国家情報会議および恒常的な国家情報局の新設に向け、AIによる脅威分析の高速化が焦点となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan launches national push to train AI, chip workforce",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/World-News/2026/05/10/japan-cross-ministerial-task-force-train-workders/8941778457833/",
-      "date": "2026-05-10",
-      "summary": "日本政府がAI・半導体など戦略産業向け人材育成のための府省横断タスクフォースを設置する方針を明らかに。Sony・TSMCの次世代イメージセンサー協業など産業基盤の強化と歩調を合わせ、AI人材確保を急ぐ。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic reportedly signs $1.8Bn deal with Akamai as global AI compute race intensifies",
-      "source": "The Tech Portal",
-      "url": "https://thetechportal.com/2026/05/09/anthropic-reportedly-signs-1-8bn-deal-with-akamai-as-global-ai-compute-race-intensifies/",
-      "date": "2026-05-09",
-      "summary": "AnthropicがGoogle・SpaceX・AWSに続きAkamaiとも18億ドルのクラウド契約を結び、グローバルなAIコンピュート争奪戦が加速していると報じた。同社は年率売上高300億ドル超への急成長を支えるためインフラ多角化を進めている。",
-      "category": "international"
-    },
-    {
-      "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
-      "title_ja": "ByteDance、AIインフラ投資を25%増額し2,000億元へ拡大",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-      "date": "2026-05-09",
-      "summary": "ByteDanceが2026年のAIインフラ投資予算を昨年末計画の1,600億元から25%増の2,000億元（約294億ドル）に引き上げたとSCMPが報道。TikTok運営の中国テック大手による生成AI設備投資競争の加速を示す動きで、米中ハイパースケーラーとの軍拡競争が一段と激化している。",
-      "category": "international"
-    },
-    {
-      "title": "ECB's Escrivá Says AI Risks Prompt Finance Infrastructure Review",
-      "title_ja": "ECB理事Escrivá氏、AIリスクで金融インフラ全体の点検を提唱",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
-      "date": "2026-05-09",
-      "summary": "ECB政策理事会メンバーで前スペイン中銀総裁のJosé Luis Escrivá氏は、生成AIの普及に伴い金融インフラの強靱性を点検し直す必要があると発言。ステーブルコインのリスクに対する中央銀行の最終的な保証機能（lender/guarantor of last resort）の確立も急務だと訴えた。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic in Talks to Raise New Funding at $1 Trillion Valuation, Plans US IPO in October 2026 to Raise $60B",
-      "title_ja": "Anthropic、評価額1兆ドルでの資金調達と2026年10月の米IPO（$60B規模）計画と報道",
-      "source": "Caproasia",
-      "url": "https://www.caproasia.com/2026/05/09/united-states-ai-research-startup-anthropic-in-talks-to-raise-new-funding-at-1-trillion-valuation-plans-united-states-ipo-in-2026-october-to-raise-60-billion-founded-in-2021-by-7-ex-openai-employe/",
-      "date": "2026-05-09",
-      "summary": "AnthropicがFinancial Times報道に基づき評価額1兆ドル前後での$50B規模の資金調達ラウンドを協議中。2026年10月には米国でのIPO（公開規模$60B）を計画していると報じられた。年間ARRは$30B超でClaude CodeとCowork主導で5倍に成長、$45Bへの拡大を見込む。",
       "category": "international"
     }
   ]

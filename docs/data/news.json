@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-28 09:00 (JST)",
+  "lastUpdated": "2026-05-29 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI to Provide GPT-5.5-Cyber to Japanese Financial Institutions under Japan Cyber Action Plan",
+      "title_ja": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "date": "2026-05-29",
+      "summary": "OpenAIは5月29日（日本時間）、日本政府とサイバーセキュリティで協力する「日本サイバーアクションプラン」を発表し、まず三菱UFJ・三井住友・みずほの3メガバンク向けにサイバー防御特化型の最新AI「GPT-5.5-Cyber」を提供する。日本AIセーフティ・インスティテュート（AISI）との協力覚書も締結し、米英に次ぐ3カ国目となる。Anthropicの「Mythos」級モデル開放に続く動きで、官民連携によるサイバー防衛の技術標準を日米で形作る競争が本格化した。",
+      "category": "japan"
+    },
+    {
+      "title": "OpenAI launches Rosalind Biodefense program with national labs and CEPI",
+      "title_ja": "OpenAI、生物防衛プログラム「Rosalind Biodefense」を開始 - 国立研究所やCEPIと提携",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/29/openai-biodefense-program",
+      "date": "2026-05-29",
+      "summary": "OpenAIが生命科学特化モデル「GPT-Rosalind」を信頼できる開発者・政府機関に提供する生物防衛プログラムを発表。Lawrence Livermore国立研究所、Johns Hopkins APL、ワクチン連合CEPIが初期パートナーとなり、疫学モデリングや早期検出、ワクチン開発などパンデミック対策での活用を支援する。フロンティアAIを防御側に優位に立たせるという同社の方針を示す重要な動きで、AIバイオセキュリティを巡る議論にも影響を与える。",
+      "category": "international"
+    },
     {
       "title": "Anthropic raises at $965B valuation, eclipsing OpenAI as the world's most valuable private AI company",
       "title_ja": "Anthropic、評価額9,650億ドルでOpenAIを上回り世界最高評価額の非上場AI企業に",
@@ -27,6 +45,171 @@
       "date": "2026-05-28",
       "summary": "ソフトバンクが設立した国産AI基盤モデル開発の新会社に対し、旭化成・富士通・安川電機の3社が新たに出資を検討していることが5月28日に明らかになった。すでにNEC、ホンダ、ソニーグループ、3メガバンク、日本製鉄、神戸製鋼所が出資しており、製造業を中心に出資企業は30社規模に拡大する見込み。1社あたり数千万円規模の出資を想定しており、日本独自の生成AI基盤構築を産業横断で支える枠組みとなる。",
       "category": "japan"
+    },
+    {
+      "title": "Digital Agency Begins Large-scale Pilot of Government AI 'Gennai' Across All Ministries (~180,000 Users)",
+      "title_ja": "ガバメントAI「源内」、全府省庁で大規模実証を開始 約10万人がすでに利用可能、最終的に18万人へ",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000033/",
+      "date": "2026-05-28",
+      "summary": "デジタル庁は5月28日、内製した生成AI利用環境「源内」について全府省庁の政府職員約18万人を対象とした大規模実証を開始したと発表した。すでに約10万人が利用可能で、6月以降は防衛省・文科省などにも拡大、2027年3月まで実証を行う。Claude Sonnet 4.5/4.6・Haiku 4.5・Nova Liteなどを基盤に、国会答弁検索や法令調査、神エクセル変換など約30アプリを実装しており、国産政府AIプラットフォームの本格運用フェーズに入った。",
+      "category": "japan"
+    },
+    {
+      "title": "Mizuho FG and NEC Launch Joint PoC for AI Agent Authentication Platform 'KYA' (Know Your Agent)",
+      "title_ja": "みずほFGとNEC、AIエージェント認証基盤「KYA」構築に向けた共同実証実験を開始",
+      "source": "NEC（プレスリリース）",
+      "url": "https://jpn.nec.com/press/202605/20260528_02.html",
+      "date": "2026-05-28",
+      "summary": "みずほフィナンシャルグループとNECは5月28日、AIエージェントが自律的に金融サービスを利用する「Agentic Finance」時代に備え、DID/VC技術を用いたAIエージェント認証基盤「KYA（Know Your Agent）」の共同実証実験を6月から開始すると発表した。本人確認（KYC）のAI版にあたり、AIエージェントの「認証」「同意」「委任」「監査」の4要素を金融機関が検証できるようにする。金融業界横断の共通認証基盤化と国際標準準拠も視野に入れる。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT Data and FLUX Form Capital and Business Alliance to Strengthen AI Demand Response",
+      "title_ja": "NTTデータ、AIスタートアップFLUXと資本業務提携 シリーズC60億円調達の一環、AI事業1000億円へ",
+      "source": "NTTデータグループ（プレスリリース）",
+      "url": "https://www.nttdata.com/global/ja/news/release/2026/052800/",
+      "date": "2026-05-28",
+      "summary": "NTTデータグループは5月28日、AIコンサルティングスタートアップの株式会社FLUXと資本業務提携を締結し、同日付で出資を完了したと発表した。FLUXはシリーズCファーストクローズで総額60億円（累計約160億円）を調達。NTTデータの顧客基盤・業界知見とFLUXのAIコンサル・エンジニアリング力を組み合わせ、2027年度にAI関連売上高1000億円規模を目指す。日本のSI大手によるAIスタートアップ取り込みが鮮明になった。",
+      "category": "japan"
+    },
+    {
+      "title": "Lenovo Japan Opens 'Neptune Lab', Japan's First Verification Facility for Water-Cooled AI Infrastructure",
+      "title_ja": "レノボ・ジャパン、国内初の水冷AIインフラ検証施設「Neptuneラボ」を開設 GPUサーバの電力・冷却課題に対応",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+      "date": "2026-05-28",
+      "summary": "レノボ・ジャパンは5月28日、水冷技術を活用したAIインフラの国内初の検証施設「Neptuneラボ」を千葉県印西市のMCデジタル・リアリティ「NRT12データセンター」内に開設したと発表した。Lenovo Neptuneの水冷技術にニデック製分配装置やGPUサーバ・ラックを組み合わせ、AI推論・学習環境の電力・冷却性能を本番に近い形で検証可能。生成AIによるGPU需要急増に伴う熱・電力課題への日本市場対応として、SIerやクラウド事業者との共同検証拠点となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Mistral AI signs Airbus and BMW, launches industrial AI stack and Vibe enterprise coding agent",
+      "title_ja": "Mistral AI、AirbusやBMWと提携 - 産業向けAIスタックと企業コーディングエージェント「Vibe」を発表",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
+      "date": "2026-05-28",
+      "summary": "Mistral AIがパリで初の年次サミット「AI Now Summit」を開催し、Airbus・BMW・EDF・CMA CGMを起用顧客とする物理理解型「Mistral for Industrial Engineering」を正式リリース。Airbusとはコックピットへのデプロイで5年間契約、BMWとは車両物理を理解した衝突試験最適化モデルを構築する。同時に企業向けコーディングエージェント基盤Vibeも発表し、独自チップ設計の検討やパリ近郊データセンターの計画にも踏み込み、欧州フルスタックAIプレーヤーへの転換を加速。",
+      "category": "international"
+    },
+    {
+      "title": "Visa invests in Replit to bring agentic payments to developers and AI agents",
+      "title_ja": "Visa、Replitに出資 - 開発者とAIエージェントによる「エージェント決済」基盤を構築",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "date": "2026-05-28",
+      "summary": "Visaが「vibe coding」プラットフォームReplitに出資し、Visa Intelligent CommerceとTrusted Agent ProtocolをReplit上のアプリ・エージェントに統合する戦略提携を発表。AIエージェントが自身を識別して安全に決済を実行・受領できる仕組みを開発者向けに提供する。Visa社員1,000人以上がすでにReplitを利用しているといい、AIエージェントが代理で売買する「agentic payments」の主導権争いが本格化した形。Replitは同時に最大20万ドルまでセルフサーブで契約可能なエンタープライズ向け新プランも開始。",
+      "category": "international"
+    },
+    {
+      "title": "Asana acquires no-code AI agent builder StackAI for $75 million",
+      "title_ja": "Asana、ノーコードAIエージェント基盤StackAIを7,500万ドルで買収",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "date": "2026-05-28",
+      "summary": "ワークマネジメント大手AsanaがノーコードAIエージェントプラットフォームのStackAIを7,500万ドルで買収すると発表。Asanaを「AIネイティブ職場プラットフォーム」へと位置づけ直す戦略の一環で、既存のAI TeammatesやAI Studioと組み合わせて複雑な業務プロセスのエンドツーエンド自動化を狙う。Q1決算発表と同タイミングで公表され、買収後もStackAIは独立ブランドとして運営されMITのPhD出身共同創業者2名がAsanaに合流する。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "title_ja": "Claude Opus 4.8を発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "date": "2026-05-28",
+      "summary": "AnthropicはOpus 4.7発表からわずか41日後、フラッグシップモデルClaude Opus 4.8を一般提供開始。エージェント型コーディングのスコアが64.3%から69.2%へ、知識業務スコアも1753から1890へ向上し、コードの瑕疵見落としが約4分の1に低減。価格は据え置きでclaude.aiに「努力量(effort)」コントロールも追加された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing Dynamic Workflows in Claude Code",
+      "title_ja": "Claude Codeに「Dynamic Workflows」を導入",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/dynamic-workflows",
+      "date": "2026-05-28",
+      "summary": "AnthropicはClaude Codeで巨大タスクを並列処理する「Dynamic Workflows」をリサーチプレビューで提供開始。Claudeがオーケストレーションスクリプトをその場で生成し、最大16並列・累計1000サブエージェントまで起動可能。Bunプロジェクトがこの仕組みで11日間に約75万行のZig→Rust移植を完了した実例も紹介された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI's Frontier Governance Framework",
+      "title_ja": "OpenAIのフロンティアガバナンスフレームワーク",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-frontier-governance-framework/",
+      "date": "2026-05-28",
+      "summary": "OpenAIは、カリフォルニア州のFrontier AI透明性法やEU AI法のGeneral Purpose AI実務規範など新たな規制要件に自社の安全・セキュリティ実務をどう整合させるかを示す「Frontier Governance Framework」を公開。サイバー攻撃・CBRN・有害な操作・制御喪失などのリスク領域を対象に、内部安全評価・第三者評価・インシデント対応プロセスを公開ドキュメント化している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Vibe gets to work",
+      "title_ja": "Vibeが仕事に取り組む — Mistralの統合AIエージェント",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/vibe-agent/",
+      "date": "2026-05-28",
+      "summary": "パリで開催した初の年次イベント「AI Now Summit 2026」でMistralはLe ChatをVibeに統合し、業務向けの「Work Mode」とコーディング向けの「Code Mode」を備えた単一エージェントとして再ローンチ。受信トレイ・カレンダーから長期タスクまで横断処理し、Webアプリ・エディタ・ターミナルにまたがるエンドツーエンドのコーディング作業をプルリクエスト単位で完結させる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Emmi joins Mistral to accelerate the AI-native industry",
+      "title_ja": "Emmi AIがMistralに参画、産業エンジニアリングAIスタックを始動",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
+      "date": "2026-05-28",
+      "summary": "MistralはオーストリアEmmi AIの買収を経て、流体・熱・材料変形をリアルタイムにシミュレートする物理認識型「Mistral for Industrial Engineering」スタックを正式発表。Airbus、BMW、EDF、CMA CGMをローンチ顧客とし、ニューラルネットワークによる代理モデル(surrogate modelling)で従来の数値シミュレーションに匹敵する精度を高速に提供する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Perplexity Is Open-Sourcing Bumblebee — Unigram Tokenizer",
+      "title_ja": "PerplexityがUnigramトークナイザーをオープンソース化",
+      "source": "Perplexity",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
+      "date": "2026-05-28",
+      "summary": "PerplexityはRustで書き直したUnigramトークナイザーをオープンソース推論レポジトリpplx-gardenで公開。本番入力長におけるp50レイテンシはHugging Face tokenizers比で約5倍、SentencePiece(C++)比で約2倍、IREE実装比で約1.5倍高速で、定常状態でヒープ割り当てゼロを実現。Perplexity本番環境ではリランキングのCPU使用率を5〜6分の1に削減し、数十ミリ秒のレイテンシ削減を達成したと報告している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google releases Gemini 3 Deep Think upgrade focused on science and engineering",
+      "title_ja": "Google、Gemini 3 Deep Thinkを大型アップデート - 科学・研究・エンジニアリング特化に",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "date": "2026-05-28",
+      "summary": "Google DeepMindが推論モード「Gemini 3 Deep Think」を大幅刷新し、科学・研究・エンジニアリングの難題に向けた性能を引き上げた。2025年国際物理オリンピアード・化学オリンピアードの記述問題で金メダル級、CMTベンチマーク（高度理論物理）で50.5%を達成。Google AI Ultra加入者は本日からGeminiアプリで利用可能、研究者向けにはGemini API経由のアーリーアクセスプログラムも開始した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing a new design for Microsoft 365 Copilot with task-aware workspace",
+      "title_ja": "Microsoft、Microsoft 365 Copilotを刷新 - タスク認識型ワークスペースを導入",
+      "source": "Microsoft 365 Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design/",
+      "date": "2026-05-28",
+      "summary": "MicrosoftがMicrosoft 365 Copilotの大規模リデザインを発表。従来の静的なプロンプトラインを廃止し、メール・ファイル・会議など作業文脈に応じて動的にツールを提示する「タスク認識型ワークスペース」に刷新した。ロード時間50%以上短縮、応答時間10%改善、Word・Excel・PowerPoint・Outlook利用が27～43%増加。6月末からTargeted Release、8月に一般提供開始の予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "BenchTrace: A Benchmark for Testing Reflection Ability and Controlled Evolution in LLM Agents",
+      "title_ja": "BenchTrace: LLMエージェントの内省能力と制御された進化能力を評価するベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.29225",
+      "date": "2026-05-28",
+      "summary": "LLMエージェントの自己進化能力を評価する新ベンチマークBenchTraceを提案。6種類のタスクにわたる1,821件のアノテーション済みエピソードによるスナップショット-内省データセットを構築し、失敗特定を測る「Reflection Evaluation」と過去の失敗経験が回避行動につながるかを測る「Evolution Evaluation」を提供。Qwen3-32BとGPT-4.1はいずれも30%未満のpass率にとどまり、診断能力がボトルネックであることが示された。",
+      "authors": "Anonymous et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Beyond Consensus: Trace-Level Synthesis in Mixture of Agents",
+      "title_ja": "コンセンサスを超えて: Mixture of Agentsにおけるトレースレベル合成",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.29116",
+      "date": "2026-05-28",
+      "summary": "複数のLLMエージェントが同じ問題を解く際、多数決ではなく完全な推論トレースを読むアグリゲータを用いることで、全員一致時でも正答を回復できる「集約パラドックス」を実証。意味保存型入力摂動でトレース多様性を生み、常に合成を行うSelf-Consistent Mixture of Agents (SCMoA)を提案し、構造化推論、博士レベル科学、競技数学、競技プログラミングで異種モデルプールを上回る性能を示した。",
+      "authors": "Anonymous et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "LoMo: Local Modality Substitution for Deeper Vision-Language Fusion",
+      "title_ja": "LoMo: より深い視覚言語融合のための局所的モダリティ置換",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.30265",
+      "date": "2026-05-28",
+      "summary": "VLMでテキスト質問をその描画画像に置き換えると性能が大幅に劣化する「キャリア感度」問題に着目。対象テキストスパンを動的に選択して描画画像化することで、単一モダリティのプロンプトをシームレスに交互配置したマルチモーダル系列に再構成する、軽量なアーキテクチャ非依存のデータキュレーション手法LoMoを提案。LLaVA-OneVision-1.5-8Bで+2.67、Qwen3.5-9Bで+2.82の改善を達成。",
+      "authors": "Anonymous et al.",
+      "category": "arxiv"
     },
     {
       "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
@@ -98,6 +281,26 @@
       "date": "2026-05-27",
       "summary": "xAIは5月27日、SuperGrokおよびX Premium+のサブスクリプションをオープンソースのエージェント型コーディング基盤「Kilo Code」内で利用可能にすると発表。開発者はGrokの推論・コード生成・ツール利用機能を、専用エディタ環境で従来のAPI課金とは別に活用できるようになる。5月にはGrok 4.3とGrok Build 0.1の投入が続いており、エージェント開発エコシステムの拡張を強化している。",
       "category": "company_blog"
+    },
+    {
+      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+      "title_ja": "マルチモーダル・エージェント推論のためのエージェント探索的方策最適化 (AXPO)",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.28774",
+      "date": "2026-05-27",
+      "summary": "視覚言語エージェントにおいて「思考」と「ツール使用」の構造的非対称性により、GRPOではツール使用が約30%のロールアウトでしか試行されず、約40%の問題で全滅し学習信号が消失する「Thinking-Acting Gap」を特定。全滅したツール使用サブグループの思考プレフィックスを固定するAXPOを提案。9つのマルチモーダルベンチマークでQwen3-VL-Thinkingの3サイズすべてにおいてSFT+GRPOを上回り、8Bが32B Baseを4分の1のパラメータで超える。",
+      "authors": "Anonymous et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "FABSVer: Faster Training and Better Self-Verification for LLM Mathematical Reasoning",
+      "title_ja": "FABSVer: LLM数学推論のための高速学習とより良い自己検証",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.28389",
+      "date": "2026-05-27",
+      "summary": "従来手法では解の生成と検証が別タスクとなり学習時間が増大する問題に対し、両者を単一の生成パスに融合するFABSVerを提案。報酬が頭打ちになる収束ボトルネックを理論・経験の両面で特定し、Dynamic Reference Model Update (DRMU) で克服。3つのモデルスケールで既存手法の51%〜71%の学習時間のみで、より高い自己検証・推論性能を達成した。著者は作業帮(Zuoyebang)。",
+      "authors": "Haihui Pan, Junwei Bao, Hongfei Jiang, Yang Song",
+      "category": "arxiv"
     },
     {
       "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
@@ -1560,200 +1763,6 @@
       "summary": "構造化されたLLMワークフローのための最適化コンパイラFlowCompileを提案。ノード融合、並列化、キャッシュ再利用を自動適用し、複数のLLM呼び出しを含むパイプラインのレイテンシとコストを大幅削減する。",
       "authors": "Anonymous (arXiv preprint)",
       "category": "arxiv"
-    },
-    {
-      "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
-      "title_ja": "Anthropic、法務業界向け「Claude For Legal」を正式リリース",
-      "source": "Artificial Lawyer",
-      "url": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
-      "date": "2026-05-12",
-      "summary": "Anthropicが法務業界向けの包括的サービス「Claude For Legal」を正式に立ち上げ。契約レビューや調査、文書作成などの法務ワークフローに特化した機能を備え、リーガルテック市場を再編する可能性があると報じられた。",
-      "category": "international"
-    },
-    {
-      "title": "Google launches Googlebooks: AI-first laptops combining Gemini, Android and ChromeOS",
-      "title_ja": "Google、Geminiを中核に据えたAIファースト・ラップトップ「Googlebooks」を発表",
-      "source": "Business Today",
-      "url": "https://www.businesstoday.in/technology/story/google-launches-googlebooks-ai-first-laptops-that-combines-gemini-android-and-chromeos-531167-2026-05-12",
-      "date": "2026-05-12",
-      "summary": "Googleが新カテゴリーのノートPC「Googlebooks」を発表。AndroidエコシステムとChromeOS、フラッグシップAIモデルGeminiを統合し、Gemini時代を見据えたハードウェア戦略を打ち出した。",
-      "category": "international"
-    },
-    {
-      "title": "Shaping the future of AI interaction by reimagining the mouse pointer",
-      "title_ja": "Google DeepMind、AIネイティブなカーソル「Magic Pointer」を発表",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/ai-pointer/",
-      "date": "2026-05-12",
-      "summary": "Google DeepMindが、画面上の文脈を認識し関連アクションを即座に提案する新カーソル「Magic Pointer」を発表。Chromeや新型Googlebookラップトップに統合され、ユーザーがプロンプトを書かずにポインタでGeminiに問い合わせ可能になる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ELYZA Works with KDDI が初の動画広告を配信開始",
-      "title_ja": "ELYZA、KDDIが再販する法人向け生成AI活用ツールの初TVCM配信を開始",
-      "source": "エキサイトニュース",
-      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-05-12-47565-72/",
-      "date": "2026-05-12",
-      "summary": "ELYZAとKDDIが提供する法人向け生成AI活用ツール「ELYZA Works with KDDI」が、初の動画広告（TVCM）の配信を開始した。日本企業の生成AI実装拡大を象徴する取り組みとして注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Windows 11 May 2026 Update introduces AI agent monitoring, Xbox mode",
-      "title_ja": "Microsoft、Windows 11 5月アップデートを5月12日に配信 AIエージェント監視機能などを追加",
-      "source": "MSN / Microsoft",
-      "url": "https://www.msn.com/en-us/news/other/windows-11-may-2026-update-pairs-new-features-with-ai-rethink/gm-GMCB6A6D01",
-      "date": "2026-05-12",
-      "summary": "Microsoftが、Windows 11の2026年5月セキュリティ更新を5月12日に配信。タスクバーでのAIエージェント監視、Xboxモード、OneDriveのセマンティック検索、File Explorerの強化などを追加し、Copilotボタンの整理など全体的なAI体験の見直しを実施。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic In Talks to Raise $30 Billion at $900 Billion Valuation",
-      "title_ja": "Anthropic、評価額9000億ドルで300億ドル調達協議中とBloombergが報道",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
-      "date": "2026-05-12",
-      "summary": "Anthropicが評価額9000億ドル超で少なくとも300億ドルの新規資金調達について投資家と早期協議中とBloombergが報じた。同社のランレート売上は約300億ドルに達し、2025年末の約90億ドルから急成長している。ラウンドは今月末にも決着する可能性があるが、ターム・シートはまだ署名されていない。",
-      "category": "international"
-    },
-    {
-      "title": "「楽天GORA」、対話形式で最適なゴルフ場を提案するAIエージェント「楽天GORA AIアシスタント」を本格提供開始",
-      "source": "楽天グループ プレスリリース",
-      "url": "https://corp.rakuten.co.jp/news/press/2026/0512_01.html",
-      "date": "2026-05-12",
-      "summary": "楽天グループはゴルフ場予約サービス「楽天GORA」において、ユーザーの希望条件を対話形式で受け取り最適なゴルフ場を提案する生成AIエージェント「楽天GORA AIアシスタント」を5月12日から本格提供開始。レジャー領域における生成AI実装の代表事例として注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
-      "title_ja": "Thomson ReutersとAnthropic、提携を拡大しClaudeを法務AI「CoCounsel Legal」と接続",
-      "source": "Thomson Reuters",
-      "url": "https://www.thomsonreuters.com/en/press-releases/2026/may/thomson-reuters-and-anthropic-expand-partnership-to-connect-claude-with-cocounsel-legal",
-      "date": "2026-05-12",
-      "summary": "Thomson ReutersはAnthropicとの提携拡大を発表し、新たなMCPコネクターでClaudeを主力法務AI「CoCounsel Legal」と直接接続する。次世代CoCounsel LegalはAnthropicのClaude Agent SDK上で再構築され、ワークフロー中の計画立案・ツール選択・権威ある情報取得・適応的な実行を行うシステムへと進化する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Predictive Maps of Multi-Agent Reasoning: A Successor-Representation Spectrum for LLM Communication Topologies",
-      "title_ja": "マルチエージェントLLMの通信トポロジーに対する後継表現スペクトル診断手法",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.11453",
-      "date": "2026-05-12",
-      "summary": "マルチエージェントLLMの通信トポロジー（chain/star/mesh等）が推論性能に与える影響を、後継表現 M=(I-γP)^-1 のスペクトル半径ρ・スペクトルギャップΔ・条件数κの3指標で事前診断する構造的手法を提案。chain/star/meshについて閉形式スペクトルを導出し、Qwen2.5-7B-Instructを用いた12ステップの状態追跡タスクで100試行検証を実施した。",
-      "authors": "Ethan David James Park, Dalal Alharthi",
-      "category": "arxiv"
-    },
-    {
-      "title": "Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models",
-      "title_ja": "凍結埋め込みモデルへのテスト時計算：259プログラム探索が示す普遍的なソフトマックス重心則",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.11374",
-      "date": "2026-05-12",
-      "summary": "凍結された埋め込みAPIに対して259の推論プログラム候補を90世代にわたるエージェント的プログラム探索で評価し、Pareto最適解が「ローカル上位K文書のソフトマックス加重重心を、クエリと補間する」という単一の代数式に収束することを発見。学習可能パラメータを増やさずに、7系統の埋め込みモデルファミリー（パラメータ数で10倍幅）でnDCG@10を有意に改善した。",
-      "authors": "Han Xiao",
-      "category": "arxiv"
-    },
-    {
-      "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.11388",
-      "date": "2026-05-12",
-      "summary": "汎用エージェントにおいて、タスク特化スキャフォールドを推論時に構造化メタ認知によって構築する手法を提案。形式言語でメタ推論を実行可能な分解として表現し、複雑なタスクに対する深い推論を可能にする。",
-      "authors": "Anonymous (arXiv preprint)",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company/",
-      "date": "2026-05-11",
-      "summary": "OpenAIが、19の投資ファーム・コンサル・SIerと組んで設立した「OpenAI Deployment Company」を発表。40億ドル超の初期出資でフロンティアAIのForward Deployed Engineerを企業に常駐させ、重要業務の再設計と運用化を支援する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Acquires Tomoro to Boost Private Equity-Backed AI Venture",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
-      "date": "2026-05-11",
-      "summary": "OpenAIがフォワード・デプロイド・エンジニア約150人を擁する応用AIコンサル企業Tomoroの買収に合意。新設のOpenAI Deployment Companyの中核チームとして、Tesco・Virgin Atlantic・Supercellなど大企業向けにAI実装を加速させる狙い。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI launches AI consulting arm valued at $14 billion",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/11/openai-deployco-private-equity",
-      "date": "2026-05-11",
-      "summary": "OpenAIがPEファーム主導の「The Deployment Company」(別称DeployCo)を約140億ドル評価で立ち上げ。TPGがリード、Advent・Bain Capital・Brookfieldが共同創設パートナー、SoftBankやGoldman Sachsなど19社が出資した4億ドル超の資金で企業向けAI展開を主導する。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
-      "date": "2026-05-11",
-      "summary": "OpenAIのCRODenise DresserがCNBCで、企業向け売上は既に全体の40%超を占めると説明。年末までに消費者向けと並ぶ規模に達する見通しを示し、Tomoro買収とDeployment Companyで企業ワークフローへの組み込みを加速する。",
-      "category": "international"
-    },
-    {
-      "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
-      "date": "2026-05-11",
-      "summary": "AIチップメーカーCerebrasがIPO価格レンジを150〜160ドルに引き上げ、最大48億ドルを調達する公算。フルダイリュート時価総額は最大488億ドルに達し、2月の23億ドル調達ラウンドから倍以上に上昇。需要は売出株式の20倍超で、5月14日にNASDAQ上場予定。",
-      "category": "international"
-    },
-    {
-      "title": "Google DeepMind's powerful AI co-mathematician",
-      "source": "The Rundown AI",
-      "url": "https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician",
-      "date": "2026-05-11",
-      "summary": "Google DeepMindがGemini 3.1ベースのエージェント型「AI Co-Mathematician」を発表。コーディネータエージェントが研究を並列ワークストリームに分割し、サブエージェントがコード作成・文献検索・証明試行を実行。難関数学ベンチマークで最高記録を更新し、ある研究者は同システムの拒否された証明戦略から未解決問題を解いた。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google catches hackers using AI to break into computers, warns of new threat",
-      "title_ja": "Google、AIを悪用したサイバー攻撃を検知 Anthropicの新モデル「Mythos」にも警鐘",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/",
-      "date": "2026-05-11",
-      "summary": "Googleが、AIを利用してコンピュータに侵入するハッカーを実際に検知したと警告。Anthropicが「驚異的なハッキング能力」を持つ新モデルMythosを限定公開し、Project Glasswingを通じて重要インフラ保護に向けた協力体制を構築している状況を報じた。",
-      "category": "international"
-    },
-    {
-      "title": "コニカミノルタジャパン、東京都から都立学校向け生成AIサービス「都立AI」の2026年度業務を受託",
-      "title_ja": "コニカミノルタジャパン、東京都「都立AI」の2026年度改修・保守・運用業務を受託",
-      "source": "ICT教育ニュース",
-      "url": "https://ict-enews.net/2026/05/11-2/",
-      "date": "2026-05-11",
-      "summary": "コニカミノルタジャパンが、東京都教育委員会から都立学校向け生成AIサービス「都立AI」の2026年度改修・保守・運用等業務を受託したと発表。都立学校での生成AI活用の本格運用を支える体制が整備される。",
-      "category": "japan"
-    },
-    {
-      "title": "NTT DATAが全社を挙げて取り組むAIとサステナビリティのこれから",
-      "title_ja": "NTTデータ、全社横断のAI×サステナビリティ戦略を公開",
-      "source": "NTT DATA DATA INSIGHT",
-      "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0511/",
-      "date": "2026-05-11",
-      "summary": "NTTデータが、生成AIを活用した業務変革とサステナビリティの両立に向けた全社的な取り組みを公開。AIファースト企業への変革と、CO2排出削減・社会課題解決を結びつける戦略の方向性を示した。",
-      "category": "japan"
-    },
-    {
-      "title": "Token Economics for LLM Agents: A Dual-View Study from Computing and Economics",
-      "title_ja": "LLMエージェントのトークン経済学：計算機科学と経済学の両側面からの研究",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.09104",
-      "date": "2026-05-11",
-      "summary": "本論文は、エージェント型AIにおけるトークンを核となる経済単位として捉え、その指数関数的な消費が計算・協調・セキュリティの観点でボトルネックになることを示す。計算機科学と経済学を融合した二重の視点から分析を行い、持続可能なエージェント運用の設計指針を提案する。",
-      "authors": "anonymous (arXiv:2605.09104)",
-      "category": "arxiv"
-    },
-    {
-      "title": "AI Wins Have Alphabet Poised to Become World's Biggest Company",
-      "title_ja": "AI勝利でAlphabetが時価総額世界1位企業に迫る",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company",
-      "date": "2026-05-10",
-      "summary": "Gemini 3.1の好調とAI Modeの拡大、TPU・クラウドのフルスタック戦略が評価され、Alphabetは時価総額で世界最大企業の座をうかがう位置に到達。NvidiaやMicrosoftとの首位争いが一段と激化していると報じた。",
-      "category": "international"
     }
   ]
 }

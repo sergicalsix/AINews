@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29 09:00 (JST)",
+  "lastUpdated": "2026-05-30 09:00 (JST)",
   "articles": [
     {
       "title": "OpenAI to Provide GPT-5.5-Cyber to Japanese Financial Institutions under Japan Cyber Action Plan",
@@ -17,6 +17,33 @@
       "url": "https://www.axios.com/2026/05/29/openai-biodefense-program",
       "date": "2026-05-29",
       "summary": "OpenAIが生命科学特化モデル「GPT-Rosalind」を信頼できる開発者・政府機関に提供する生物防衛プログラムを発表。Lawrence Livermore国立研究所、Johns Hopkins APL、ワクチン連合CEPIが初期パートナーとなり、疫学モデリングや早期検出、ワクチン開発などパンデミック対策での活用を支援する。フロンティアAIを防御側に優位に立たせるという同社の方針を示す重要な動きで、AIバイオセキュリティを巡る議論にも影響を与える。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI publishes 'A shared playbook for trustworthy third party evaluations'",
+      "title_ja": "OpenAI、第三者評価の信頼性を高めるための『共通プレイブック』を公開",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+      "date": "2026-05-29",
+      "summary": "OpenAIは5月29日、外部組織がフロンティアAIモデルの能力や安全策、検証性を独立評価する際の方法論を整理した「共通プレイブック」を公開した。Frontier Governance Frameworkの公表と同日のリリースで、ハーネス選定や安全装置の影響、メモリゼーション対策など評価で見落としやすい論点を体系化し、業界横断の評価標準を狙う。サイバー・CBRN・操作・統制喪失の各リスク領域で第三者評価を運用する自社の経験も併せて開示している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "ChatGPT for iOS and Android can now start and steer Codex work on Windows",
+      "title_ja": "ChatGPTのiOS/Androidアプリから、Windows上のCodexタスクを起動・遠隔操作できるように",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/",
+      "date": "2026-05-29",
+      "summary": "OpenAIは5月29日、Codexの「Computer Use」機能をWindowsで一般提供するとともに、ChatGPTのiOS/Androidアプリから外出先でWindows上のCodexタスクを開始・継続できる遠隔操作機能を追加したと発表した。Codexは前面で実際にマウス・キーボードを操作するため作業中はPC利用が中断されるが、画面外からモバイル経由で進捗確認やプロンプト追加が可能になる。EEA・英国・スイスでは未提供で、配信は順次拡大される。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic to roll out 'Mythos-class' cyber AI broadly within weeks, including outside the US",
+      "title_ja": "Anthropic、「ミュトス級」サイバー特化AIを数週間内に一般公開 - 米国外でも提供へ",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN28D7M0Y6A520C2000000/",
+      "date": "2026-05-29",
+      "summary": "Anthropicは、サイバー攻撃能力の高さを理由に当初は非公開としていたClaude Mythosと同等性能の技術を今後数週間で一般顧客に提供すると表明した。日本など米国外でも利用可能になる見通しで、防御側にフロンティアAIの優位性を持たせる同社方針の本格的な実装フェーズに入る。OpenAIのGPT-5.5-Cyberや日本サイバーアクションプランと並び、サイバー防衛特化AIの公開競争が一気に加速する局面となる。",
       "category": "international"
     },
     {
@@ -303,6 +330,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Atom raises 3 billion yen seed round to develop humanoid Physical AI robots for Japanese factories and logistics",
+      "title_ja": "ヒューマノイドAIロボのアトム、シードで30億円調達 - 国産フィジカルAIで製造・物流現場へ",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC22CC00S6A520C2000000/",
+      "date": "2026-05-27",
+      "summary": "Turing共同創業者の青木俊介氏が2025年11月に立ち上げたフィジカルAIスタートアップ「アトム」は5月27日、シードラウンドで30億円を調達したと発表。ANRI、Beyond Next Ventures、ジャフコグループが共同リードを務め、ALPHA、JIC VGI、住商ベンチャーパートナーズ、三菱UFJキャピタル、SMBC VCなどが参画した。資金は双腕二足ヒューマノイドの開発加速と、製造業・物流での社会実装、量産体制構築に充てる。2027年3月までに100機程度の量産体制を目指し、「日本のGDPを1%押し上げる」ことを掲げる。",
+      "category": "japan"
+    },
+    {
       "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
       "title_ja": "ソフトバンクG株が13%急騰し過去最高値更新──アナリストはなおも上振れ余地を指摘",
       "source": "Invezz",
@@ -361,6 +397,16 @@
       "date": "2026-05-26",
       "summary": "OpenAIは5月26日、Codexの広範囲アップデートを公開。ゴール機能をデフォルト有効化し専用ストレージで複数ターンの進捗を追跡。リモート制御をフォアグラウンドコマンド同様に動作させ、Permissionプロファイルにリストアクセス・継承・managed requirements.toml対応・Windowsサンドボックス統合強化を追加。プラグイン探索・マーケットプレイス対応も改善。",
       "category": "company_blog"
+    },
+    {
+      "title": "Agentic AI Workload Characteristics",
+      "title_ja": "エージェント型AIワークロードの特性分析",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.26297",
+      "date": "2026-05-26",
+      "summary": "UIUC・Gimlet Labs・Intelの共同研究チームが、ReAct型エージェントをLLMサービング側とツール実行側の双方からエンドツーエンドにトレースし、エージェントAIワークロードの特性を体系化。コンテキストキャッシュが効くため入力トークンの大半は再利用され、実行はデコード支配になる一方で長寿命なKVキャッシュ状態への依存が高まることを明らかにした。さらにツール利用には時系列構造があり、序盤の「読み取り・探索」から終盤の「実行・書き込み」へとパターンが移行することを定量化している。",
+      "authors": "Yuanjie Lyu, Jiale Lao, Yiwen Zhu, Sanjay Krishnan et al.",
+      "category": "arxiv"
     },
     {
       "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
@@ -458,6 +504,16 @@
       "date": "2026-05-25",
       "authors": "(arXiv:2605.25981)",
       "summary": "LLMエージェントの入力ノイズ感度を、表層ノイズ（書式・記号）と意味ノイズ（語彙置換・否定挿入）に分けて68セル設計で測定。Chain-of-ThoughtおよびReActエージェントにおいて、意味ノイズが最終回答を変化させる頻度が表層ノイズより有意に高いことを示し、ホールドアウトのトレースレベル検証で再現性を確認した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "PolyGnosis 2.0: Enhancing LLM Reasoning via Agentic Harness Engineering for Polymarket and OSINT Insight Extraction",
+      "title_ja": "PolyGnosis 2.0: PolymarketとOSINTからの洞察抽出のためのエージェント型ハーネス工学によるLLM推論強化",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.25958",
+      "date": "2026-05-25",
+      "summary": "Polymarketの異常シグナルとグローバルOSINTストリームを統合し、予測知能を抽出するマルチエージェントアーキテクチャを提案。反省ループ、ツール呼び出し、分割統治、Chain-of-Thoughtといった「ハーネス工学」手法を定量比較し、LLM推論強化に対する各要素の寄与を切り分けた。市場予測や情勢分析へのエージェントAIの応用可能性と、ハーネス設計が単体モデル性能と並んでエージェント品質を左右することを示した研究。",
+      "authors": "Anonymous (arXiv preprint)",
       "category": "arxiv"
     },
     {
@@ -1709,60 +1765,6 @@
       "date": "2026-05-13",
       "summary": "Anthropicが中小企業オーナー向けの新パッケージ「Claude for Small Business」を発表。QuickBooks/PayPal/HubSpot/Canva/Docusign/Google Workspace/Microsoft 365へのコネクター、15種のプリビルトワークフロー、15種のスキルを提供する。Claude Cowork内のトグルで有効化でき、5月14日のシカゴを皮切りに全米10都市でAIフルーエンシー研修ツアーも実施。",
       "category": "international"
-    },
-    {
-      "title": "Introducing Claude for Small Business",
-      "title_ja": "Anthropic公式：Claude for Small Business 発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "date": "2026-05-13",
-      "summary": "Anthropicが中小企業を主要顧客層として位置づけた新パッケージを公式発表。Claude Cowork内のトグルで、QuickBooks/PayPal/HubSpot/Canva/Docusign/Google Workspace/Microsoft 365への接続、財務・運営・営業・マーケ・HR・カスタマーサービスの15ワークフローと15スキルを利用可能になる。ライセンス料以外の追加料金は不要。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Claude Platform on AWS is now generally available",
-      "title_ja": "Claude Platform on AWS、一般提供開始",
-      "source": "AWS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/",
-      "date": "2026-05-13",
-      "summary": "AWSが、Anthropicの「Claude Platform on AWS」の一般提供開始を発表。AWS認証・課金・コミットメント消化と統合された形でClaude APIフルセット（Managed Agents、Skills、MCP connector、Files API、Web Search、Code Execution、Prompt Caching、Citations、Batch等）へアクセス可能。AWSは当該プラットフォームを提供する初のクラウドプロバイダー。",
-      "category": "company_blog"
-    },
-    {
-      "title": "【生成AI活用事例分析レポート 2025年10月〜2026年3月】 キーワードランキング第1位は「AIエージェント」。AIエージェント活用、検証段階から業務実装へ",
-      "source": "一般社団法人生成AI活用普及協会（PR TIMES）",
-      "url": "https://prtimes.jp/main/html/rd/p/000000092.000121559.html",
-      "date": "2026-05-13",
-      "summary": "生成AI活用普及協会が国内最大級の「生成AI活用事例データベース」を更新し、2025年10月〜2026年3月の事例472件を分析。キーワードランキングの第1位は「AIエージェント」で、企業のAI活用が単発業務の効率化を超え、業務プロセス・運用環境・組織体制の再設計を前提とした協働段階へ移行しつつある実態を提示した。",
-      "category": "japan"
-    },
-    {
-      "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
-      "title_ja": "重み空間で語り合うエージェント協調：TFlowによるLoRA摂動転送フレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.13839",
-      "date": "2026-05-13",
-      "summary": "テキストではなく重み空間でエージェント間通信を行うフレームワーク「TFlow」を提案。送信側エージェントの内部活性化から学習済みパラメータ生成器が低ランクLoRA摂動を生成し、受信側モデルの生成中のみに適用してインスタンス単位の適応を実現する。Qwen3-4B×3エージェント構成で受信モデル単体比+8.5ポイント精度向上、処理トークン最大32.7%削減、テキストベース3エージェント比で総トークン最大83.3%削減・推論時間最大4.6倍高速化を達成。",
-      "authors": "未指定",
-      "category": "arxiv"
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "title_ja": "OpenAI公式：Codex on Windowsのネイティブ・サンドボックス実装解説",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/building-codex-windows-sandbox/",
-      "date": "2026-05-13",
-      "summary": "OpenAIエンジニアリングブログ。Codex for Windowsで「全コマンド承認 or フルアクセス」の二択を強いられていた状態を解消するため、Windowsネイティブ・サンドボックスを開発した経緯と設計を解説。専用の低特権サンドボックス・ユーザー、ファイルシステム権限境界、ファイアウォールルール、ローカルポリシー変更を組み合わせる「エレベーテッド・サンドボックス」を採用し、Codexコマンドと派生プロセス全てを同一境界内に閉じ込める。最新更新ではサンドボックス・ユーザーへのデスクトップ・ランタイム・バイナリキャッシュへのアクセス付与、DPAPI制御の強化を実施した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "FlowCompile: An Optimizing Compiler for Structured LLM Workflows",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.13647",
-      "date": "2026-05-13",
-      "summary": "構造化されたLLMワークフローのための最適化コンパイラFlowCompileを提案。ノード融合、並列化、キャッシュ再利用を自動適用し、複数のLLM呼び出しを含むパイプラインのレイテンシとコストを大幅削減する。",
-      "authors": "Anonymous (arXiv preprint)",
-      "category": "arxiv"
     }
   ]
 }

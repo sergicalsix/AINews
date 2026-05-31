@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-30 09:00 (JST)",
+  "lastUpdated": "2026-05-31 09:00 (JST)",
   "articles": [
+    {
+      "title": "SoftBank Group to Build 5 GW of AI Data Center Capacity in France (~€75B Investment)",
+      "title_ja": "ソフトバンクG、仏に5GW級AIデータセンター構築へ ― 最大€75B（約12兆円）投資、欧州最大級のAIインフラに",
+      "source": "SoftBank Group（プレスリリース）",
+      "url": "https://group.softbank/en/news/press/20260531_0",
+      "date": "2026-05-31",
+      "summary": "ソフトバンクグループは5月30日、仏「Choose France」サミットでフランスに最大5GWのAIデータセンター容量を整備すると発表（公式プレスリリースは5月31日付）。投資総額は最大€75B（約12兆円）規模で、第1フェーズはオー＝ド＝フランス地域のダンケルク（ロン＝プラージュ）、ボスケル、ブシャンに2031年までに3.1GWを展開。EDFが旧火力跡地を提供し、Schneider Electricと組んでダンケルク港に大規模産業クラスターを構築する。欧州AIインフラ単独投資としては過去最大級で、孫正義氏のソブリンAI戦略の中核となる。",
+      "category": "japan"
+    },
+    {
+      "title": "SoftBank to invest up to €75 billion to build French data centers",
+      "title_ja": "ソフトバンク、最大€75B投じ仏に5GW級AIデータセンター ― 米中欧追撃の最大級欧州AI投資",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "date": "2026-05-30",
+      "summary": "TechCrunchは5月30日、ソフトバンクグループのフランス向け€75B投資・5GWデータセンター計画を速報。仏EDFが旧石炭火力跡地を提供しSchneider Electricが冷却・電力で参画、第1段3.1GWは2031年運用開始。Macron仏大統領のChoose Franceサミットで発表され、欧州が米中に対抗するAI主権インフラ構想の柱となる。Stargate（米）・英ロンドンOpenAI拠点に続くソフトバンクのソブリンAI戦略のグローバル展開を示す。",
+      "category": "international"
+    },
+    {
+      "title": "DeepMind's AlphaProof Nexus cracks 9 open Erdős problems with Lean-verified proofs",
+      "title_ja": "DeepMindのAlphaProof Nexus、56年未解決を含むエルデシュ問題9件をLean検証付きで解決",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317447/20260530/ai-math-proof-milestone-deepmind-cracks-9-erds-problems-magnetar-confirmed.htm",
+      "date": "2026-05-30",
+      "summary": "Google DeepMindの数学AIシステム「AlphaProof Nexus」は、Paul Erdős問題集353問のうち9問（うち2問は56年間未解決）を形式的に解き、OEIS（整数列百科）の予想44件を証明したと報告。Gemini 3.1 Proが証明戦略を提案し、Lean証明アシスタントが論理ステップを検証する構成で、推論コストは1問あたり数百ドル程度。Hassabis CEOは「まだAGIではない」と慎重姿勢を示しつつ、AI数学研究がベンチマーク超えのプロ研究領域に到達したことを象徴する成果となった。",
+      "category": "international"
+    },
     {
       "title": "OpenAI to Provide GPT-5.5-Cyber to Japanese Financial Institutions under Japan Cyber Action Plan",
       "title_ja": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
@@ -44,6 +71,42 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN28D7M0Y6A520C2000000/",
       "date": "2026-05-29",
       "summary": "Anthropicは、サイバー攻撃能力の高さを理由に当初は非公開としていたClaude Mythosと同等性能の技術を今後数週間で一般顧客に提供すると表明した。日本など米国外でも利用可能になる見通しで、防御側にフロンティアAIの優位性を持たせる同社方針の本格的な実装フェーズに入る。OpenAIのGPT-5.5-Cyberや日本サイバーアクションプランと並び、サイバー防衛特化AIの公開競争が一気に加速する局面となる。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
+      "title_ja": "Microsoft、GitHub Copilot＋Copilot Chat＋Cowork＋Autopilotを統合する「Copilotスーパーアプリ」を開発中",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/",
+      "date": "2026-05-29",
+      "summary": "Fortuneは5月29日、Microsoftが分散しているCopilotブランド群（GitHub Copilot、Copilot Chat、Copilot Cowork、新しいエージェント機能「Autopilot」）を統合する『スーパーアプリ』を開発中だと報道。新Copilot責任者Jacob Andreouが「Delivering one Copilot」を合言葉に推進し、コンシューマー版と法人M365 Copilot間のトグルも検討。今夏中の公開を目標とし、Build 2026では一部構成要素のみ言及予定で、AI体験のフラグメンテーション解消が狙い。",
+      "category": "international"
+    },
+    {
+      "title": "Copilot Health: Now in Preview for Microsoft 365 Personal/Family/Premium",
+      "title_ja": "Microsoft、消費者向け「Copilot Health」をプレビュー提供開始 ― 信頼できる医療情報源を統合",
+      "source": "Microsoft Copilot Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/05/29/copilot-health-now-in-preview/",
+      "date": "2026-05-29",
+      "summary": "Microsoftは5月29日、米国の18歳以上のMicrosoft 365 Personal/Family/Premium加入者向けに「Copilot Health」のプレビュー提供を開始。信頼できる医療情報源にグラウンディングした回答や症状アシスト、医師検索などを統合した家庭向けAI健康アシスタント。生成AIによる医療領域への進出は規制配慮を要する分野で、Microsoftは情報源の透明性と免責表示を組み込みつつ、消費者向けAI市場でのCopilotブランド拡張を狙う。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Apple-Google Gemini Siri deal: $1B/year licensing for next-gen Apple Intelligence",
+      "title_ja": "Apple、Siri刷新のためGoogle Geminiを年10億ドルでライセンス ― オンデバイスとクラウドのハイブリッド戦略",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/apples-next-ai-move-google-deal-nvidia-chips-and-on-device-intelligence-focus-533841-2026-05-29",
+      "date": "2026-05-29",
+      "summary": "Business Todayは5月29日、AppleがSiri刷新のためにGoogle Geminiモデルをライセンスする複数年契約（年10億ドル規模）を締結したと報道。新世代Apple Foundation ModelsはGeminiおよびGoogle Cloudをベースとし、6月のWWDC 2026でよりパーソナライズされたSiriとして披露される見通し。Apple自社モデル路線からの実質的な方針転換で、オンデバイスAI（自社チップ）とクラウドフロンティアモデル（Google）の役割分担が進む。",
+      "category": "international"
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "title_ja": "AIなしでは働けない開発者たち ― GitHub Copilotなど依存とコード品質の課題、TechCrunchが警鐘",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "date": "2026-05-29",
+      "summary": "TechCrunchは5月29日、Anthropic Claude Code・GitHub Copilot・OpenAI Codexなどが「不可欠」となる中、AIを前提にする開発者は離せなくなる一方でAI生成コードの品質には依然として懸念が残ると指摘する記事を掲載。生産性の上昇とコード品質の劣化、シニアエンジニアの育成パイプラインの空洞化リスクなどを論じ、企業の開発組織におけるAIガバナンスの再設計が急務だと結論付けた。",
       "category": "international"
     },
     {
@@ -239,6 +302,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents",
+      "title_ja": "LLMトレーディング・エージェントにおける表現シグネチャとリスク・フィードバック・アラインメント",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.28850",
+      "date": "2026-05-28",
+      "summary": "金融トレーディングを担うLLMエージェントの内部表現を解析し、ポートフォリオ判断の根拠となる「表現シグネチャ」を抽出。さらに市場フィードバックを通じてリスク選好をアラインさせるRLパイプラインを提案する。エージェントが過剰リスクを取りやすい構造的バイアスを特定し、損益指標と整合した行動を引き出すための介入手法を実験的に評価した。エージェント金融応用の安全性とアラインメント研究の前進。",
+      "category": "arxiv"
+    },
+    {
       "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
       "title_ja": "富士通とOpenAI、日本のエンタープライズAIトランスフォーメーション加速へ戦略提携を開始",
       "source": "Fujitsu Global",
@@ -337,6 +409,15 @@
       "date": "2026-05-27",
       "summary": "Turing共同創業者の青木俊介氏が2025年11月に立ち上げたフィジカルAIスタートアップ「アトム」は5月27日、シードラウンドで30億円を調達したと発表。ANRI、Beyond Next Ventures、ジャフコグループが共同リードを務め、ALPHA、JIC VGI、住商ベンチャーパートナーズ、三菱UFJキャピタル、SMBC VCなどが参画した。資金は双腕二足ヒューマノイドの開発加速と、製造業・物流での社会実装、量産体制構築に充てる。2027年3月までに100機程度の量産体制を目指し、「日本のGDPを1%押し上げる」ことを掲げる。",
       "category": "japan"
+    },
+    {
+      "title": "Learning to Translate from Soft to Hard LLM Prompts",
+      "title_ja": "ソフトプロンプトをハード（自然言語）プロンプトに翻訳する学習手法",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.27642",
+      "date": "2026-05-27",
+      "summary": "ソフトプロンプトチューニングは強力だが解釈性に乏しく可搬性が低い。本研究は専用のソフト→自然言語プロンプト翻訳モデルを学習させることで、解釈可能で他モデルにも転送可能なハードプロンプトを生成する手法を提案。既存のソフト→ハード変換よりも下流タスク品質が向上することを示し、プロンプト圧縮や転送・監査の実用性を高める。",
+      "category": "arxiv"
     },
     {
       "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
@@ -1681,90 +1762,6 @@
       "summary": "LLMエージェントの事後学習で主流となったRLは軌跡レベル報酬のみで長期相互作用への教師が粗いが、On-Policy Self-Distillation（OPSD）が補完しても、多ターン環境では不安定さが増幅され負例の教師拒否を非対称に扱う必要が生じる。本論文はOPSDをRLに対するゲート付き補助目的関数として組み込むSDARを提案。デタッチされたトークン単位の信号をシグモイドゲートに写像し、教師肯定の正のギャップトークンで蒸留を強化、教師拒否は緩やかに減衰させる。Qwen2.5/Qwen3で ALFWorld(+9.4%)、Search-QA(+7.0%)、WebShop-Acc(+10.2%)とGRPOを大幅に改善し、ハイブリッド系列も上回る。",
       "authors": "Zhengxi Lu et al. (Zhejiang University, Meituan, Tsinghua University)",
       "category": "arxiv"
-    },
-    {
-      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
-      "title_ja": "MemEye: マルチモーダルエージェント記憶の視覚中心評価フレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15128",
-      "date": "2026-05-14",
-      "summary": "長期エージェント記憶はマルチモーダル化が進む一方、既存評価はキャプションやテキストトレースのみで回答可能なケースが多く、視覚証拠の保持が真に問われていない。MemEyeは『決定的視覚証拠の粒度（場面〜ピクセル）』と『証拠の使用方法（単独〜進化的合成）』の2軸で能力を測定。8つの生活シナリオタスク・789質問・回答可能性／ショートカット耐性／視覚必要性／推論構造を検証するアブレーション駆動ゲートを備え、画像を除去するとフロンティアLVLMが精度2%未満に落ちることを確認。",
-      "authors": "Rutgers, Notre Dame, Princeton, U. Minnesota et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "ExploitBench: A Capability Ladder Benchmark for LLM Cybersecurity Agents",
-      "title_ja": "ExploitBench: LLMサイバーセキュリティエージェントの能力階段ベンチマーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14153",
-      "date": "2026-05-14",
-      "summary": "従来のLLMサイバーセキュリティ評価はクラッシュ＝成功とみなし、攻撃能力の段階を区別できなかった。ExploitBenchは硬化された本番V8ターゲット上で、到達→トリガー→エンジン特化プリミティブ→汎用プリミティブ→制御奪取の5階層・16能力フラグに分解し、決定的なオラクル（チャレンジレスポンス組み込み関数、グラウンドトゥルース差分実行、in-engineシグナルハンドラ／prctlオラクル）で人手判定なしに検証。AIエージェントの実エクスプロイト開発能力をはしご状に段階測定する。",
-      "authors": "Seunghyun Lee, David Brumley",
-      "category": "arxiv"
-    },
-    {
-      "title": "Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience",
-      "title_ja": "経験の反復蒸留によるブラックボックスLLM向け多段推論・ツール利用プロンプトポリシー学習",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14443",
-      "date": "2026-05-14",
-      "summary": "フリーズしたワーカーLLM向けに、軽量プロンプタモデルをRLで最適化しタスク特化報酬を最大化する枠組みを提案。スカラ報酬と密なテキスト批評を結合する対比型経験バッファにより、反復的なプロンプト精錬を単発のポリシー重みへ償却する。Big Bench Extra Hard (BBEH)とTau-benchで評価し、論理集約推論で55%→90%、ツール利用で74%→91%へと大幅改善。",
-      "authors": "Krishna Sayana, Ketan Todi, Ambarish Jash",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenDeepThink: Parallel Reasoning via Bradley-Terry Aggregation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15177",
-      "date": "2026-05-14",
-      "summary": "テスト時計算スケーリングを推論強化の主軸と位置づけ、複数の並列推論パスをBradley-Terryモデルで集約することで、単一の長CoTより少ないトークン消費で同等以上の精度を達成する手法を提案。再現可能なオープン実装を提供。",
-      "authors": "OpenDeepThink Team",
-      "category": "arxiv"
-    },
-    {
-      "title": "Cattle Trade: A Multi-Agent Benchmark for LLM Bluffing, Bidding, and Bargaining",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14537",
-      "date": "2026-05-14",
-      "summary": "不完全情報・敵対的相互作用・資源制約下での戦略推論を評価するマルチエージェント・ベンチマークを提案。LLMエージェントのブラフ、入札、交渉能力を測定し、エージェント能力評価の新たな軸を提示する。",
-      "authors": "Anonymous (arXiv preprint)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.06161",
-      "date": "2026-05-14",
-      "authors": "(arXiv:2605.06161)",
-      "summary": "LLM-as-a-Judge型の安全性評価において、評価ポリシーの言い換えに対する判定の不変性（Policy Invariance）を新しい信頼性指標として導入。複数のフロンティア判定モデルを横断ベンチした結果、精度が高くてもポリシー摂動で判定が大きく変動する事例を多数発見し、現行の安全性監査のデザイン上の盲点を明示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
-      "title_ja": "Nvidia、英スタートアップ「Ineffable Intelligence」と提携し超知能AIの開発を加速",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
-      "date": "2026-05-13",
-      "summary": "Nvidiaが、Google DeepMindの強化学習リードを務めた研究者が創業した英スタートアップIneffable Intelligenceとの提携を発表。超知能（superintelligence）のAIシステム開発に向けた共同投資・コラボレーションで、AIインフラの「次のフロンティア」を目指す。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Floats Idea of Global AI Governance Body With US, China",
-      "title_ja": "OpenAI、米中主導のグローバルAIガバナンス機関構想を提唱",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china",
-      "date": "2026-05-13",
-      "summary": "OpenAIのグローバル渉外担当副社長Chris Lehane氏が、米国主導で中国もメンバーに含めるグローバルAIガバナンス機関の設立を支持すると表明。IAEA（国際原子力機関）のような枠組みを想定し、米商務省CAISIと各国AI安全研究所を連携させる構想を示した。Trump大統領のXi主席訪中会談を前にした発言として注目を集めている。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "title_ja": "Anthropic、中小企業向け「Claude for Small Business」を投入",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "date": "2026-05-13",
-      "summary": "Anthropicが中小企業オーナー向けの新パッケージ「Claude for Small Business」を発表。QuickBooks/PayPal/HubSpot/Canva/Docusign/Google Workspace/Microsoft 365へのコネクター、15種のプリビルトワークフロー、15種のスキルを提供する。Claude Cowork内のトグルで有効化でき、5月14日のシカゴを皮切りに全米10都市でAIフルーエンシー研修ツアーも実施。",
-      "category": "international"
     }
   ]
 }

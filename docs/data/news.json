@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-31 09:00 (JST)",
+  "lastUpdated": "2026-06-01 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
+      "title_ja": "Anthropic、SEC機密S-1提出でIPO申請 ― $965B評価のAI最大手、OpenAIに先行して上場へ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "date": "2026-06-01",
+      "summary": "Anthropicは6月1日、米SECに新規株式公開（IPO）に向けた登録届出書（Form S-1）を機密提出したと公式に発表した。直近のSeries Gで$965B評価に達した同社は年率$47Bの売上を計上、OpenAIに先んじてAI大手として初の上場プレイヤーになる可能性が高まった。年内10月の上場を視野に、最終的に$1.75T〜$1.8T評価・最大$75B調達という史上最大規模のIPOを目指すとも報じられ、SpaceX・OpenAIと並ぶ「トリリオン級AI IPO」競争の号砲となった。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
+      "title_ja": "Anthropicが機密IPO目論見書を提出、AI業界の地殻変動を示す上場準備",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+      "date": "2026-06-01",
+      "summary": "CNBCは6月1日、AnthropicがSECに機密S-1を提出しIPO準備を本格化させたと報道。1週間前に発表したClaude Opus 4.8の好評と、OpenAIを抜いたエンタープライズ採用シェア、$47Bの年率ARRが背景にあり、株式市場でのAI評価の試金石となる。同時にOpenAIの非機密IPO検討、SpaceXの財務情報提出も明らかになり、フロンティアAI企業3社の上場ラッシュ局面に突入した。",
+      "category": "international"
+    },
+    {
+      "title": "NVIDIA announces Isaac GR00T Reference Humanoid Robot at GTC Taipei (Computex 2026)",
+      "title_ja": "NVIDIA、Isaac GR00T 参照ヒューマノイドロボットを発表 ― Unitree H2＋Jetson Thorで研究機関向けにオープン提供",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design",
+      "date": "2026-06-01",
+      "summary": "NVIDIAはGTC Taipei（Computex 2026）で、Jetson Thor搭載・Unitree H2 Plus筐体・Sharpa五本指ハンドを組み合わせた初のオープン仕様ヒューマノイド参照設計「NVIDIA Isaac GR00T Reference Humanoid Robot」を発表した。Ai2、ETH Zurich、Stanford Robotics Center、UC San Diegoなどが導入予定で、Isaac GR00T基盤モデル群と組み合わせて研究用途で利用可能。2026年後半にUnitreeから提供開始予定で、フィジカルAI研究の標準プラットフォーム化を狙う。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Jensen Huang unveils NVIDIA RTX Spark Windows laptop chip at Computex 2026",
+      "title_ja": "NVIDIA、Windowsノート向けAI SoC「RTX Spark」を発表 ― Computex基調講演でApple/Intel/AMDに正面挑戦",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-06-nvidia-windows-laptop-chip-ai.html",
+      "date": "2026-06-01",
+      "summary": "NVIDIAのジェンスン・フアンCEOは台北Computex 2026のGTC基調講演で、Windowsノート/デスクトップ向けAI対応CPU「RTX Spark」を初公開した。Microsoftと共同でAI時代のPC像を再定義するとし、Apple、Intel、AMDの牙城に直接参入。次世代Vera Rubin（後半量産）にも触れ、データセンターから消費者AI PCまでスタックを縦に拡張する戦略を鮮明にした。台湾CPO・先端パッケージ周辺の急拡大とも連動する。",
+      "category": "international"
+    },
+    {
+      "title": "GitHub Copilot moves to usage-based billing on June 1, 2026",
+      "title_ja": "GitHub Copilot、6月1日から従量課金制（AI Credits）へ ― Pro/Pro+も自動移行、Codexと熾烈な競争",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "date": "2026-06-01",
+      "summary": "GitHubは6月1日、Copilotの全プランをトークンベースの従量課金（GitHub AI Credits）へ移行した。Copilot Pro（$10/月で同額のAI Credits）、Pro+（$39/月で同額）に加え、Business/Enterprise顧客は6〜8月に促進的な含み枠を付与。月額契約のPro/Pro+ユーザーは自動移行、年間契約はプラン満了まで現行プレミアムリクエスト方式を維持。Codexやエージェント呼び出しの増加でコスト構造を透明化する一方、利用者からは「10〜50倍に膨らむ恐れ」との反発も広がる。",
+      "category": "company_blog"
+    },
     {
       "title": "SoftBank Group to Build 5 GW of AI Data Center Capacity in France (~€75B Investment)",
       "title_ja": "ソフトバンクG、仏に5GW級AIデータセンター構築へ ― 最大€75B（約12兆円）投資、欧州最大級のAIインフラに",
@@ -9,6 +54,24 @@
       "date": "2026-05-31",
       "summary": "ソフトバンクグループは5月30日、仏「Choose France」サミットでフランスに最大5GWのAIデータセンター容量を整備すると発表（公式プレスリリースは5月31日付）。投資総額は最大€75B（約12兆円）規模で、第1フェーズはオー＝ド＝フランス地域のダンケルク（ロン＝プラージュ）、ボスケル、ブシャンに2031年までに3.1GWを展開。EDFが旧火力跡地を提供し、Schneider Electricと組んでダンケルク港に大規模産業クラスターを構築する。欧州AIインフラ単独投資としては過去最大級で、孫正義氏のソブリンAI戦略の中核となる。",
       "category": "japan"
+    },
+    {
+      "title": "NVIDIA launches Alpamayo 2 Super — open 32B-parameter reasoning VLA model for robotaxis",
+      "title_ja": "NVIDIA、ロボタクシー向けに32Bパラメータの推論型VLAモデル「Alpamayo 2 Super」をオープン公開",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
+      "date": "2026-05-31",
+      "summary": "NVIDIAはGTC Taipeiで、レベル4自律走行向けの推論型VLA（Vision-Language-Action）モデル「Alpamayo 2 Super」を発表。32Bパラメータで全方位360度センサーから知覚・推論・計画・行動までを一貫実行し、譲歩・車線変更・停止などのマクロ操作を意味づけする「Meta-Actions」も搭載。併せて、閉ループ強化学習基盤「AlpaGym」と、生成型フォトリアルワールドモデル「OmniDreams」も公開し、AVスタックの自己改善ループを開放。重みはこの夏GitHub/Hugging Faceで提供開始予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.31584",
+      "date": "2026-05-31",
+      "summary": "Tsinghua大学KEGの研究グループは、長文脈推論を強化するためにサーチエージェントの軌跡とルーブリック報酬を用いる強化学習手法「LongTraceRL」を提案。重要情報を膨大な妨害情報から特定・統合する能力を高めるよう設計され、5つの長文脈ベンチマークで推論系LLMの性能を一貫して向上させたと報告。長文脈エージェントの再学習レシピとして、検索系トラジェクトリ＋ルーブリック評価の有効性を示した。",
+      "authors": "Nianyi Lin, Jiajie Zhang, Lei Hou, Juanzi Li (THU-KEG, Tsinghua)",
+      "category": "arxiv"
     },
     {
       "title": "SoftBank to invest up to €75 billion to build French data centers",
@@ -26,6 +89,15 @@
       "url": "https://www.techtimes.com/articles/317447/20260530/ai-math-proof-milestone-deepmind-cracks-9-erds-problems-magnetar-confirmed.htm",
       "date": "2026-05-30",
       "summary": "Google DeepMindの数学AIシステム「AlphaProof Nexus」は、Paul Erdős問題集353問のうち9問（うち2問は56年間未解決）を形式的に解き、OEIS（整数列百科）の予想44件を証明したと報告。Gemini 3.1 Proが証明戦略を提案し、Lean証明アシスタントが論理ステップを検証する構成で、推論コストは1問あたり数百ドル程度。Hassabis CEOは「まだAGIではない」と慎重姿勢を示しつつ、AI数学研究がベンチマーク超えのプロ研究領域に到達したことを象徴する成果となった。",
+      "category": "international"
+    },
+    {
+      "title": "'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs",
+      "title_ja": "「冗談か」GitHub Copilotの従量課金移行に開発者が猛反発 ― トークン枯渇と料金跳ね上げを懸念",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "date": "2026-05-30",
+      "summary": "TechCrunchは5月30日、GitHub Copilotの6月1日からの従量課金移行を巡って開発者コミュニティで反発が高まっていると報道。Premium Requestsという従来のクレジット枠が分かりにくく、エージェント実行やCodex呼び出しで急速に消費され、実質的な値上げと感じる声が多い。Visual Studio MagazineやGitHub Discussionsでも「得られるものは減るのに価格は同じ」「会社の負担が予測不能」との指摘が並び、AnthropicやCursor、Codexへの乗り換え議論を加速させている。",
       "category": "international"
     },
     {
@@ -308,6 +380,24 @@
       "url": "https://arxiv.org/abs/2605.28850",
       "date": "2026-05-28",
       "summary": "金融トレーディングを担うLLMエージェントの内部表現を解析し、ポートフォリオ判断の根拠となる「表現シグネチャ」を抽出。さらに市場フィードバックを通じてリスク選好をアラインさせるRLパイプラインを提案する。エージェントが過剰リスクを取りやすい構造的バイアスを特定し、損益指標と整合した行動を引き出すための介入手法を実験的に評価した。エージェント金融応用の安全性とアラインメント研究の前進。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Mistral CEO Arthur Mensch says startup is exploring designing its own AI chips",
+      "title_ja": "Mistral、独自AIチップ設計検討を表明 ― データセンター・産業AIへの垂直統合を加速",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+      "date": "2026-05-28",
+      "summary": "Mistral AIのアルチュール・マンシュCEOはCNBCのインタビューで、自社AIチップの設計を検討中だと表明。AI Now Summit 2026での産業AI参入（Mistral for Industrial Engineering）、Emmi AI買収、Les Ulisの10MWインフレース施設新設、Airbus・BMWとの提携に続く垂直統合戦略の延長線上の動き。OpenAI/Anthropic/Googleの自社シリコン路線を欧州系も追う構図が鮮明になり、Nvidia依存からの脱却を狙う。",
+      "category": "international"
+    },
+    {
+      "title": "Large language model for unified and accurate description of multidimensional nuclear properties",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.29408",
+      "date": "2026-05-28",
+      "summary": "DeepSeek-R1-1.5BをLoRAで微調整し、原子核の電荷半径・質量・束縛エネルギー・分離エネルギー・崩壊エネルギーなど7観測量を統一的に高精度予測するLLM駆動型マルチタスク学習フレームワークを提案。事前学習パラメータを保ったまま軽量アダプタを導入し、学習損失を98%以上削減した上で各観測量で精度を大幅改善。物理ドメイン知識を埋め込んだ「事前知識インフォームドLLM」の有望なケーススタディとなった。",
+      "authors": "S. J. Guo, S. Y. Wang, E. H. Wang, Z. M. Niu, Y. M. Ding (Shandong Univ., Anhui Univ.)",
       "category": "arxiv"
     },
     {
@@ -674,6 +764,15 @@
       "date": "2026-05-23",
       "summary": "本論文はスカラー報酬のみに依存する従来RLポストトレーニングの情報量不足を補うため、Critic モデルが自然言語フィードバックを生成しActor推論モデルを誘導する「学習可能テキストフィードバック付きRL（RL-LTF）」を提案。Bilevel最適化定式化によりCriticのフィードバック生成方策とActorの推論方策を同時最適化し、推論精度・収束速度ともに改善。スカラー報酬を超えたリッチな学習シグナルがLLM推論の新たな鍵となることを示唆する研究。",
       "authors": "Utsav Singh et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.24426",
+      "date": "2026-05-23",
+      "summary": "Ant Group・Westlake大・ミシガン大・USTCの共同研究グループは、対話型ツール使用エージェントとその学習環境を共進化させる閉ループ枠組み「SEAL」を提案。実行可能検証下でオンポリシ軌跡を収集し、失敗ロールアウトをターンレベルの失敗ラベルへ分解することで、エージェントの汎化と頑健性を同時に高める。エージェント・カリキュラム自動生成の新潮流として、自己進化型LLMエージェント研究の最新成果に位置付けられる。",
+      "authors": "Yihao Hu, Zhihao Wen, Xiujin Liu, Pan Wang, Xin Zhang, Wei Wu (Ant Group, Westlake University, University of Michigan, USTC)",
       "category": "arxiv"
     },
     {
@@ -1109,6 +1208,15 @@
       "authors": "(arXiv:2605.20173)",
       "summary": "本番LLMエージェントのランタイムアーキテクチャパターン（ガードレール、リトライ、フォールバック、キャッシュ、ヒューマンインザループ等）を体系化し、ユースケース要件から適切なパターンの選択・組合せを導出する方法論を提案。実プロダクト事例による評価で、レイテンシ・コスト・信頼性のトレードオフ調整を再現可能にした。",
       "category": "arxiv"
+    },
+    {
+      "title": "Ricoh releases open-source SafeGuard LLM 'Llama-Ricoh-SafeGuard-20260520' free of charge",
+      "title_ja": "リコー、有害情報検知に特化した日本語セーフガードLLM「Llama-Ricoh-SafeGuard-20260520」を無償公開",
+      "source": "リコー（プレスリリース）",
+      "url": "https://jp.ricoh.com/release/2026/0520_1",
+      "date": "2026-05-20",
+      "summary": "リコーは5月20日、生成AIの入出力に含まれる有害情報を検知する自社開発セーフガードモデル「Llama-Ricoh-SafeGuard-20260520」を無償公開した。日本語強化版Llama-3.1-Swallow-8B-Instruct-v0.5を独自量子化で軽量化し、暴力・犯罪・差別・プライバシー侵害など14カテゴリの有害判定を学習。これまで「RICOH On-Premise LLM Starter Kit」の標準機能だったものを広く公開し、国産LLMの安全運用ガードレールの普及を促す。",
+      "category": "japan"
     },
     {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
@@ -1652,116 +1760,6 @@
       "date": "2026-05-14",
       "summary": "Anthropic公式。PwCとの戦略アライアンス拡張を発表し、Claudeを技術構築・ディール実行・エンタープライズ機能再発明の3軸でクライアントワークに導入。米国チームからClaude Code/Cowork展開を開始し、世界数十万人のプロフェッショナル向けへ拡張する。共同CoEを設立し、3万人のPwC専門職にClaudeトレーニングと認定を提供。Claude／Claude Cowork／Claude Codeを組み合わせた財務組織向け変革ビジネスグループも新設し、保険引受サイクルを10週から10日に圧縮した先行事例を公表した。",
       "category": "company_blog"
-    },
-    {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "title_ja": "OpenAI公式：ChatGPTのメンタルヘルス文脈認識を強化、不適切応答を65〜80%削減",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/",
-      "date": "2026-05-14",
-      "summary": "OpenAI公式ブログ。ChatGPTが時間経過にともなう微妙・潜在的シグナルから精神状態リスクの兆候を識別し、文脈に応じた安全応答を生成できるよう改良したと発表。1,000件超の困難なメンタルヘルス会話で新GPT-5は望ましい振る舞いに92%準拠、旧版27%から大幅改善し、各タクソノミーで非準拠応答が65〜80%減少。安全サマリー機能で関連性のある場合のみ過去文脈を一時保存する仕組みも導入する。精神疾患・自傷・AIへの感情依存の3領域を中心に、170名超の臨床医・研究者と継続協業して評価基盤を整備する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "EYストラテジー・アンド・コンサルティング、攻撃者視点で生成AIリスクを検証する新サービス「エンドツーエンドAIレッドチーミング」を発表",
-      "source": "EYストラテジー・アンド・コンサルティング（沖縄タイムス配信）",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1836885",
-      "date": "2026-05-14",
-      "summary": "EYストラテジー・アンド・コンサルティングが、生成AI／LLMを組み込んだアプリケーションを対象に、攻撃者視点でリスクを検証する新サービス「エンドツーエンドAIレッドチーミング」の提供開始を発表。ユーザー入力から生成AI出力までの利用フロー全体を俯瞰し、実際に起こり得る攻撃・悪用シナリオに基づく検証で、従来診断では把握しづらかった生成AI特有リスクを可視化する。技術的検証だけでなく、経営層と共有できる評価レポートにより意思決定を支援することを特徴とする。",
-      "category": "japan"
-    },
-    {
-      "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-      "title_ja": "ATLAS：単一の機能トークンでエージェント操作と潜在的視覚推論を統合",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15198",
-      "date": "2026-05-14",
-      "summary": "視覚推論において、ツール呼び出し型エージェント手法（実行レイテンシ大）と潜在埋め込み型手法（タスク汎化困難）の長所を統合する単一トークン枠組み「ATLAS」を提案。各「機能トークン」を内部視覚操作に紐付けつつ、トークナイザー語彙の通常トークンとして扱うことで、視覚教師信号なしに次トークン予測で生成可能にする。中間視覚コンテンツの冗長生成を回避しつつ、標準的なSFT／RL訓練と互換性を維持。機能トークンのRL時の希薄性に対しては、静的重み付き補助目的でアンカーするLatent-Anchored GRPO (LA-GRPO)で勾配更新を安定化する。",
-      "authors": "Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng",
-      "category": "arxiv"
-    },
-    {
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "title_ja": "Grepで十分か？エージェント・ハーネスがエージェント探索を再構築するか実証分析",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15184",
-      "date": "2026-05-14",
-      "summary": "LLMエージェントが自律的に情報検索・ツール呼び出し・大規模コーパス上の推論を行う現代的ワークフローにおいて、検索戦略選択がエージェント・アーキテクチャやツール呼び出しパラダイムとどう相互作用するかを系統的に比較。ツール出力の提示方法や、無関係テキストが増えた際の性能変化など実務上重要な側面を2つの実験で実証分析する。RAGの普及にも関わらず欠落していた、エージェント・ループ内での検索戦略×ハーネス設計の比較を提示し、grep類のシンプルな検索がエージェントによって十分競争力を持つ条件を明らかにする。",
-      "authors": "Sahil Sen, Akhil Kasturi, Elias Lumer, Anmol Gulati, Vamse Kumar Subbiah",
-      "category": "arxiv"
-    },
-    {
-      "title": "Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy",
-      "title_ja": "アクション・ボトルネック解消：トークン単位エネルギーを活用したエージェント強化学習",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14558",
-      "date": "2026-05-14",
-      "summary": "長い推論トレースと短い環境向けアクションが交互に現れるマルチターン軌跡でLLMを訓練するエージェント強化学習において、アクション・トークンの希薄性に起因する「アクション・ボトルネック」を解消する新手法を提案。トークン単位エネルギー指標を導入し、推論-行動の境界における学習信号を再配分することで、長尺推論を保ちつつ実行アクションの学習効率を向上させる。",
-      "authors": "Langzhou He, ほか10名",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI says Codex is coming to your phone",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "date": "2026-05-14",
-      "summary": "OpenAIがコーディングエージェントCodexをChatGPTモバイルアプリで提供することを発表したと報道。OpenAIとAnthropicがエージェント型コーディングツールの主導権を巡って激しく競争する中、出先でのコード変更承認やデバッグ起動など開発ワークフローをモバイルへ拡張する戦略的アップデート。",
-      "category": "international"
-    },
-    {
-      "title": "MeMo: Memory as a Model",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15156",
-      "date": "2026-05-14",
-      "authors": "MeMo team",
-      "summary": "任意のLLMに学習済みメモリモデルを付与することで、最新情報やドメイン特化知識を低コストで追加するフレームワークMeMoを提案。再学習が不要で、破滅的忘却を抑制しつつ知識更新を可能にする。",
-      "category": "arxiv"
-    },
-    {
-      "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15034",
-      "date": "2026-05-14",
-      "authors": "Anonymous authors",
-      "summary": "LLMベースのマルチエージェントシステムが「観察されている」という社会的文脈を認識して言語表現を体系的に変化させるかを検証。観察知覚下では戦略的行動と語彙レジスタの調整が観測され、評価・監視文脈下のモデル行動の信頼性に課題を提起する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Non-linear Interventions on Large Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14749",
-      "date": "2026-05-14",
-      "authors": "Sangwoo Kim",
-      "summary": "LLMの内部表現を理解するための非線形介入手法を提案。従来の線形プローブ・線形介入では捉えきれない概念表現の構造を解析し、解釈可能性研究のための新たなツールを提示する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Factorization-Error-Free Discrete Diffusion Language Model via Speculative Decoding",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.14305",
-      "date": "2026-05-14",
-      "authors": "Anonymous authors",
-      "summary": "離散拡散言語モデルの並列デコードにおける因数分解誤差を、投機的デコーディングで補正する手法を提案。誤差ゼロを保ちながら高速生成を実現し、自己回帰モデルに匹敵する品質と推論効率の両立を目指す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Netflix Staffing for 'INKubator' AI-Powered Experimental Animation Studio",
-      "title_ja": "Netflix、生成AIによる短編アニメ制作専門スタジオ「INKubator」の人材獲得を本格化",
-      "source": "Animation Magazine",
-      "url": "https://www.animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio/",
-      "date": "2026-05-14",
-      "summary": "Netflixが3月にひっそりと立ち上げた実験的AIアニメスタジオ「INKubator」のスタッフ採用を本格化。DreamWorks Animation・MRC Studios・A24で戦略・運営を経験したSerrena Iyer氏が率い、プロデューサー・ソフトウェアエンジニア・CGアーティストなど幅広い職種で募集中。短編・特別番組での生成AI活用を起点に長尺コンテンツへの展開も視野。Netflix Animation Studiosの長編作品は従来手法を維持し、INKubatorは独立した実験部門と位置付けられている。「クリエイターが新しいツール・ワークフローと従来のアニメ実践を組み合わせて表現を強化する場」とNetflixはコメント。",
-      "category": "international"
-    },
-    {
-      "title": "Self-Distilled Agentic Reinforcement Learning",
-      "title_ja": "SDAR: 自己蒸留型エージェント強化学習",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.15155",
-      "date": "2026-05-14",
-      "summary": "LLMエージェントの事後学習で主流となったRLは軌跡レベル報酬のみで長期相互作用への教師が粗いが、On-Policy Self-Distillation（OPSD）が補完しても、多ターン環境では不安定さが増幅され負例の教師拒否を非対称に扱う必要が生じる。本論文はOPSDをRLに対するゲート付き補助目的関数として組み込むSDARを提案。デタッチされたトークン単位の信号をシグモイドゲートに写像し、教師肯定の正のギャップトークンで蒸留を強化、教師拒否は緩やかに減衰させる。Qwen2.5/Qwen3で ALFWorld(+9.4%)、Search-QA(+7.0%)、WebShop-Acc(+10.2%)とGRPOを大幅に改善し、ハイブリッド系列も上回る。",
-      "authors": "Zhengxi Lu et al. (Zhejiang University, Meituan, Tsinghua University)",
-      "category": "arxiv"
     }
   ]
 }

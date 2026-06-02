@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-01 09:00 (JST)",
+  "lastUpdated": "2026-06-02 09:00 (JST)",
   "articles": [
+    {
+      "title": "Microsoft unveils MAI-Thinking-1, its first flagship reasoning model at Build 2026",
+      "title_ja": "Microsoft、初の旗艦推論モデル「MAI-Thinking-1」をBuild 2026で発表",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "date": "2026-06-02",
+      "summary": "Microsoftは6月2日、サンフランシスコで開幕したBuild 2026開発者会議で、同社初の旗艦推論モデル「MAI-Thinking-1」を公開した。35Bアクティブパラメータ・256Kコンテキスト窓を備え、クリーンで商用ライセンス済みの企業データでフルスクラッチ学習。AIME 2026で94.5%、AIME 2025で97.0%を達成し、Claude Sonnet 4.6を盲検評価で上回ったとする。Microsoft Foundryで非公開プレビュー提供を開始し、OpenAI依存からの脱却を加速する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft introduces MAI-Code-1-Flash, a Copilot-native coding model at Build 2026",
+      "title_ja": "Microsoft、Copilotネイティブのコーディングモデル「MAI-Code-1-Flash」をBuild 2026で発表",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "date": "2026-06-02",
+      "summary": "MicrosoftはBuild 2026で、GitHub Copilot/Visual Studio Codeに統合される推論効率重視のコーディングモデル「MAI-Code-1-Flash」を発表した。同価格帯でClaude Haiku 4.5を上回り、難問を最大60%少ないトークンで解くと主張、レイテンシ低減とコスト圧縮を実現。OpenAI/Anthropicの牙城に正面挑戦しつつ、Copilot主軸の戦略を自社モデルで強化する転換点となる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs",
+      "title_ja": "Microsoft、自社AIモデルで脱OpenAI依存と開発者コスト低減を狙う",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "date": "2026-06-02",
+      "summary": "CNBCは6月2日、Microsoftが自社開発の推論モデル「MAI-Thinking-1」とコーディングモデル「MAI-Code-1-Flash」を発表したと報道。2026年4月にMicrosoft-OpenAI契約の制限が解除され、Microsoftが自社モデルを製品に標準搭載する権利を獲得して以降、Build 2026がその初の本格的な行使の場となった。OpenAI、Anthropic、Googleとの競合構図がさらに鮮明化し、開発者の選択肢が広がる。",
+      "category": "international"
+    },
+    {
+      "title": "Alibaba's Qwen team launches Qwen3.7-Plus with vision, deep reasoning and tool use on Bailian",
+      "title_ja": "アリババQwenチーム、視覚・深層推論・ツール呼び出し対応のQwen3.7-PlusをBailianで提供開始",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/",
+      "date": "2026-06-02",
+      "summary": "アリババのQwenチームは6月2日、画像・動画理解、深層推論、ツール呼び出し、自律反復を兼ね備えたマルチモーダルLLM「Qwen3.7-Plus」をAlibaba CloudのBailianプラットフォームで提供開始した。5月の杭州Alibaba Cloud SummitでQwen3.7世代を披露して以降、長時間タスク向けエージェント機能を強化する位置付けで、米中AI競争での中国勢の追い上げを象徴する一手となった。",
+      "category": "company_blog"
+    },
     {
       "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
       "title_ja": "Anthropic、SEC機密S-1提出でIPO申請 ― $965B評価のAI最大手、OpenAIに先行して上場へ",
@@ -45,6 +81,42 @@
       "date": "2026-06-01",
       "summary": "GitHubは6月1日、Copilotの全プランをトークンベースの従量課金（GitHub AI Credits）へ移行した。Copilot Pro（$10/月で同額のAI Credits）、Pro+（$39/月で同額）に加え、Business/Enterprise顧客は6〜8月に促進的な含み枠を付与。月額契約のPro/Pro+ユーザーは自動移行、年間契約はプラン満了まで現行プレミアムリクエスト方式を維持。Codexやエージェント呼び出しの増加でコスト構造を透明化する一方、利用者からは「10〜50倍に膨らむ恐れ」との反発も広がる。",
       "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA ramps up production of Vera Rubin, the foundation of the next generation of AI factories",
+      "title_ja": "NVIDIA、次世代AIファクトリーの基盤「Vera Rubin」を本格量産フェーズへ",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/01/nvidia-ramps-production-vera-rubin-foundation-next-generation-ai-factories/",
+      "date": "2026-06-01",
+      "summary": "SiliconANGLEは6月1日、NVIDIAがGTC Taipei基調講演で、Vera Rubinプラットフォームが「史上最大級のインフラ構築」として本格量産フェーズに入ったと発表したと報道。7つの新チップで構成され、Blackwell世代比1/4のGPU数で大規模MoEモデルを学習、推論では10倍のスループットを1/10のコストで実現する。エージェンティックAI時代に対応した完全な再設計で、パートナーからの提供は2026年後半に開始予定。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+      "title_ja": "MicrosoftとGoogle、AIコーディングモデルでAnthropicとOpenAIに参入",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "date": "2026-06-01",
+      "summary": "CNBCは6月1日、Anthropicが「Claude Code」でAIコーディング分野を席巻する中、MicrosoftとGoogleが自社モデルで巻き返しを図るとレポート。Microsoftは6月2日からのBuild 2026で関連発表を控え、Googleも5月のI/Oでデベロッパ訴求を強化。生成AI市場の中核に位置する「AIコーディング」を巡る四つ巴の競争が加熱している状況を整理した。",
+      "category": "international"
+    },
+    {
+      "title": "Unified Context Evolution for LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.02304",
+      "date": "2026-06-01",
+      "summary": "LLMベースのエージェントが多段階タスクを推論と環境フィードバックを組み合わせて解くための統合フレームワーク「Unified Context Evolution」を提案した論文。経験を「メモリ」「戦略」「ワークフロー」「スキル」の4つの補完的な型に分解して進化させ、複雑な多段階インタラクティブタスクで性能向上を達成したと報告。",
+      "authors": "(arXiv 2606.02304)",
+      "category": "arxiv"
+    },
+    {
+      "title": "Mechanistic Diagnostics of Spatial Lexical Bias in Multimodal Large Language Model Spatial Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.01914",
+      "date": "2026-06-01",
+      "summary": "マルチモーダルLLMの空間推論失敗をメカニスティック解釈可能性ツールで診断した論文。多くの失敗が視覚側ではなく言語側で発生していることを示し、空間語彙バイアスの存在を明らかにした。MLLMのVision-Language統合における根本課題に光を当てる成果。",
+      "authors": "(arXiv 2606.01914)",
+      "category": "arxiv"
     },
     {
       "title": "SoftBank Group to Build 5 GW of AI Data Center Capacity in France (~€75B Investment)",
@@ -1687,78 +1759,6 @@
       "url": "https://openai.com/index/personal-finance-chatgpt/",
       "date": "2026-05-15",
       "summary": "OpenAIが公式ブログで、米国ChatGPT Proユーザー向けに個人向け資産管理機能のプレビュー提供を発表。Plaidを通じて銀行・投資口座を安全に接続し、純資産・投資・支出・サブスク・将来計画までを一つのダッシュボードで把握できる。文脈に根ざした自然言語Q&Aを実現し、フィードバックを基に対象拡大を予定。Intuitとの統合も近く追加する。Web・iOSで提供開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Fiserv Forms Strategic Collaboration with OpenAI to Bring AI to How Fiserv Serves Financial Institutions",
-      "title_ja": "Fiserv、OpenAIと戦略的提携 銀行AI基盤を共同構築",
-      "source": "Fiserv (Press Release)",
-      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forms-strategic-collaboration-openai-bring-ai-how-fiserv",
-      "date": "2026-05-14",
-      "summary": "決済・金融テクノロジー大手Fiservが、OpenAIとの戦略的提携を発表。agentOS上での戦略的エージェント構築、銀行モダナイゼーションの加速、銀行向け特化AI能力の開拓、AI時代のサイバーセキュリティ強化の4領域で共同作業を進める。両社合同チームは既に活動を開始しており、Fiservクライアントへの展開が2026年中に進む見込み。",
-      "category": "international"
-    },
-    {
-      "title": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking",
-      "title_ja": "Fiserv、銀行向けエージェンティックAI基盤OS「agentOS」を発表",
-      "source": "Fiserv (Press Release)",
-      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-launches-agentos-operating-system-agentic-ai-banking",
-      "date": "2026-05-14",
-      "summary": "Fiservが、金融機関がAIエージェントを銀行ワークフロー全体に展開・管理・スケールするためのエージェンティックAIオペレーティングシステム「agentOS」を発表。2026年8月までに一般提供開始予定で、6つの金融機関が共同開発に参画し、2機関が既にベータ運用中。OpenAIとの戦略的提携の中核を担う。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic tightens Claude limits as OpenAI courts agent users",
-      "title_ja": "Anthropic、Agent SDK利用枠を分離 6月15日からサブスクと別枠化",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/14/anthropic-claude-price-openai-tokens",
-      "date": "2026-05-14",
-      "summary": "Anthropicが6月15日より、Agent SDKおよび `claude -p` 経由の利用について、対話的なサブスクリプション利用枠とは別の専用クレジットに変更すると発表。エージェント用途の急増を受けた料金体系の再編で、OpenAIがエージェントユーザーを奪いに来る競争環境への対応とAxiosは分析している。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
-      "title_ja": "Anthropic×ゲイツ財団、$200Mで保健・教育・農業向けAIを4年計画で展開",
-      "source": "Reuters (Yahoo Finance)",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/anthropic-gates-foundation-launch-200-150123648.html",
-      "date": "2026-05-14",
-      "summary": "Anthropicとゲイツ財団が、世界保健・生命科学・教育・経済モビリティ分野で総額2億ドル規模のAI活用プログラムを4年間にわたり展開する戦略的パートナーシップを発表。ゲイツ財団が助成と現場知見を提供、Anthropicは技術スタッフ稼働とClaude利用クレジットで等価分を拠出する。低中所得国の必須医療サービス未到達46億人を主対象にし、ポリオ・HPV・妊娠高血圧腎症など顧みられない疾患の研究支援、サブサハラ・アフリカ／インド向け基礎リテラシー・算数アプリ、スマホール農家向けClaude農業最適化ベンチマークの公開などを盛り込む。",
-      "category": "international"
-    },
-    {
-      "title": "PwC expands Anthropic alliance, will train 30,000 staff on Claude",
-      "title_ja": "PwC、Anthropicとの戦略提携を全面拡張──Claude Code/Cowork導入と3万人認定プログラム",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/05/14/pwc-expands-anthropic-alliance-will-train-30000-staff-claude/",
-      "date": "2026-05-14",
-      "summary": "PwCとAnthropicが提携の大幅拡張を発表。米国チームを皮切りに全世界数十万人の専門職へClaude CodeとClaude Coworkを展開し、共同Center of ExcellenceでPwCプロフェッショナル3万人のClaude認定研修プログラムを開始する。エージェント技術構築、AIネイティブM&A、エンタープライズ機能再発明の3領域に注力し、新設のClaudeベース財務部門変革ビジネスグループも立ち上げる。導入企業の保険引受で従来10週間掛かっていたサイクルが10日に短縮した実績を提示した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Updates ChatGPT to Better Respond to Mental Health Crises",
-      "title_ja": "OpenAI、ChatGPTのメンタルヘルス関連応答を大幅強化──不適切回答を最大80%削減",
-      "source": "eWeek",
-      "url": "https://www.eweek.com/news/openai-chatgpt-sensitive-responses/",
-      "date": "2026-05-14",
-      "summary": "OpenAIが170名超のメンタルヘルス専門家との協業を通じ、ChatGPTの危機検知・共感応答・現実世界支援への誘導を強化した安全アップデートを公開。新しいGPT-5モデルがGPT-4o比で困難なメンタルヘルス会話の望ましくない応答を39%削減し、自殺・自傷シナリオの安全応答率を50%、対他害シナリオを16%改善した。経時的に蓄積する微妙な兆候をChatGPTが文脈として把握し、de-escalation・有害詳細の拒否・安全代替への誘導を行う仕組みを導入。安全関連の限定的サマリー保持機能も組み合わせる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "title_ja": "Anthropic公式：ゲイツ財団との2億ドルパートナーシップ発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "date": "2026-05-14",
-      "summary": "Anthropic公式ニュース。ゲイツ財団との4年間2億ドル規模パートナーシップを発表し、健康・生命科学（最重点）／教育／経済モビリティの3領域でClaude活用を展開する。技術スタッフ駐在とClaudeクレジット拠出により低中所得国向けにワクチン・治療法開発加速、政府保健データを活用した意思決定支援、ポリオ・HPV・妊娠高血圧腎症など顧みられない疾患の研究を支援。サブサハラ・アフリカ／インドではGlobal AI for Learning Alliance (GAILA)経由で読み書き・算数アプリを展開し、20億人の小農家を対象とする農業特化Claude改善とベンチマークを公開する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "title_ja": "Anthropic公式：PwCがClaude Code/Coworkを全社展開、エンタープライズ向け提携拡張",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "date": "2026-05-14",
-      "summary": "Anthropic公式。PwCとの戦略アライアンス拡張を発表し、Claudeを技術構築・ディール実行・エンタープライズ機能再発明の3軸でクライアントワークに導入。米国チームからClaude Code/Cowork展開を開始し、世界数十万人のプロフェッショナル向けへ拡張する。共同CoEを設立し、3万人のPwC専門職にClaudeトレーニングと認定を提供。Claude／Claude Cowork／Claude Codeを組み合わせた財務組織向け変革ビジネスグループも新設し、保険引受サイクルを10週から10日に圧縮した先行事例を公表した。",
       "category": "company_blog"
     }
   ]

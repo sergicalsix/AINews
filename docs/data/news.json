@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-02 09:00 (JST)",
+  "lastUpdated": "2026-06-03 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/06/03/anthropic-project-glasswing-expansion/",
+      "date": "2026-06-03",
+      "summary": "Help Net Securityは、AnthropicがProject Glasswingに約150組織を新規追加し、医療・エネルギー・通信・テクノロジー等のインフラ事業者を含めたと報じた。参加には所定のセキュリティ要件を満たす必要があり、同社はGlasswing向けに開発した脆弱性発見ツールを信頼できるセキュリティチームに提供する方針。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Invites 150 More Organizations Into Project Glasswing",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/06/03/claude-mythos-access-expanded-150-organizations/",
+      "date": "2026-06-03",
+      "summary": "Dataconomyは、AnthropicがClaude Mythos Previewへのアクセスを150組織に追加付与し、Project Glasswingを世界15か国以上へ拡大したと報じた。NYSE親会社Intercontinental Exchangeなどがグローバルインフラ全体にMythos Previewを展開すると同日発表した。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today — June 3, 2026: Microsoft Build Day 2 + 15 More Stories",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-3-2026",
+      "date": "2026-06-03",
+      "summary": "Mustafa Suleymanが基調講演でMAI-Thinking-1を披露しBuild 2026 Day 2を締めくくった。Microsoftは新たに、リアルタイムなウェブ情報をエージェントに供給するWeb IQを発表。Sam AltmanがStargate Michiganの起工式に出席し、AI需要を牽引するのはコーディングモデルだと言及した。",
+      "category": "international"
+    },
     {
       "title": "Microsoft unveils MAI-Thinking-1, its first flagship reasoning model at Build 2026",
       "title_ja": "Microsoft、初の旗艦推論モデル「MAI-Thinking-1」をBuild 2026で発表",
@@ -36,6 +60,101 @@
       "date": "2026-06-02",
       "summary": "アリババのQwenチームは6月2日、画像・動画理解、深層推論、ツール呼び出し、自律反復を兼ね備えたマルチモーダルLLM「Qwen3.7-Plus」をAlibaba CloudのBailianプラットフォームで提供開始した。5月の杭州Alibaba Cloud SummitでQwen3.7世代を披露して以降、長時間タスク向けエージェント機能を強化する位置付けで、米中AI競争での中国勢の追い上げを象徴する一手となった。",
       "category": "company_blog"
+    },
+    {
+      "title": "Expanding Project Glasswing to 150 organizations across 15+ countries",
+      "title_ja": "Anthropic、Project Glasswingを150組織・15か国以上へ拡大",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "date": "2026-06-02",
+      "summary": "Anthropicは、Claude Mythosを用いて重要インフラのソフトウェア脆弱性を発見・修正する産業横断イニシアチブProject Glasswingを、電力・水道・医療・通信・ハードウェア分野を含む150の新規組織（15か国以上）へ拡大すると発表。初期パートナーはすでに高深刻度の脆弱性を1万件超発見している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "title_ja": "OpenAI、Codexに役割別プラグイン・Sites・Annotationsを追加し非開発者にも展開",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "date": "2026-06-02",
+      "summary": "OpenAIは、CodexにSnowflake・Figma・Salesforceなど62の業務アプリと110のスキルをまとめた6つの役割別プラグイン、共有可能なインタラクティブWeb/アプリを生成する「Sites」、選択範囲だけを反復改善できる「Annotations」を追加。週500万人超が利用し、非開発者ユーザーが開発者比3倍速で増加していると公表。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Announcing Microsoft Web IQ — a grounding API for AI agents",
+      "title_ja": "Microsoft、AIエージェント向けグラウンディングAPI「Web IQ」を発表",
+      "source": "Microsoft Bing Blog",
+      "url": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ",
+      "date": "2026-06-02",
+      "summary": "Microsoft AIはBuild 2026でWeb IQを公開。エージェント時代向けに再設計されたグラウンディングAPI群で、95%のリクエストに165ms未満で応答し、従来検索APIに比べトークン消費を約60%削減する。Azure Agent Meshと連携し、リアルタイムのウェブ情報を構造化してエージェントに供給する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+      "title_ja": "NVIDIA、フィジカルAI向けオープン基盤モデル「Cosmos 3」を公開",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "date": "2026-06-02",
+      "summary": "NVIDIAは、視覚推論・世界生成・行動予測を単一モデルに統合した完全オープンなオムニモデル「Cosmos 3」をComputex 2026で発表。Super（32B）とNano（8B）の2サイズを提供し、ロボティクスや自動運転向けにテキスト・画像・動画・音・行動をネイティブに扱う。20兆トークンのマルチモーダルデータで学習。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA Debuts Nemotron 3 Family of Open Models",
+      "title_ja": "NVIDIA、推論・エージェント向けオープンモデル群「Nemotron 3」を発表",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
+      "date": "2026-06-02",
+      "summary": "NVIDIAはComputex 2026で、複雑な推論とエージェントワークフローを狙うオープンモデル群Nemotron 3を発表。最上位のNemotron 3 Ultraは500〜550Bパラメータ規模で、毎秒300トークン超を生成し、Artificial Analysis Intelligence Indexで米国製モデル最高となる48点を記録。コストは約30%削減した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+      "title_ja": "NVIDIAとMicrosoft、パーソナルAI時代に向けたWindows PCを共同で再設計",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "date": "2026-06-02",
+      "summary": "NVIDIAとMicrosoftは、エージェント時代に向けたWindows on ArmプラットフォームRTX Spark Superchipの共同開発を発表。スリムなノートや小型デスクトップ向けにArm CPU+Blackwell GPU+128GB統合メモリを統合し、ローカルで120Bパラメータ規模のLLM推論やAIエージェントの常駐実行を可能にする。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "date": "2026-06-02",
+      "summary": "TechCrunchによると、Anthropicはサイバーセキュリティ向けの最強モデルClaude Mythosのプレビューを電力・水道・医療・通信など重要インフラ事業者150社に拡大した。初期50社は数週間で1万件以上の高深刻度ゼロデイを発見しており、近く一般顧客にもMythosクラスの公開モデルを提供する計画。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html",
+      "date": "2026-06-02",
+      "summary": "CNBCは、AnthropicがProject Glasswingの参加組織を15か国以上の150団体へ拡大したと報じた。Claude Mythos PreviewはApple, Google, Microsoft, AWSを含む先行50社で約1万件の重大脆弱性を発見しており、Anthropicは強化されたサイバー安全対策を整え次第、Mythosクラスを全顧客へ公開する方針。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
+      "date": "2026-06-02",
+      "summary": "VentureBeatは、OpenAIがCodexに役割別プラグイン、共有URLで配布可能なインタラクティブアプリを生成する「Sites」、部分編集を可能にする「Annotations」を追加したと報じた。アナリスト・マーケター・デザイナーなど非開発者をターゲットに、エンタープライズ向けに大幅拡張された。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI putting Codex inside ChatGPT, 6 new business plugins now available",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/",
+      "date": "2026-06-02",
+      "summary": "OpenAIはCodexをChatGPTアプリに統合し、Snowflake, Figma, Salesforceなど計62の業務アプリと110スキルをまとめた6つのビジネスプラグインを提供開始。Business/Enterprise向けにSites機能もプレビュー提供され、Codex利用者の約20%は非開発者になっている。",
+      "category": "international"
+    },
+    {
+      "title": "COMAP: Co-Evolving World Models and Agent Policies for LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.02372",
+      "date": "2026-06-02",
+      "summary": "言語エージェントに環境ダイナミクスを予測しアクション候補を評価させるため、テキスト世界モデルとエージェントポリシーを閉ループ相互作用で共進化させる新フレームワークCOMAPを提案。世界モデルと方策を同時に改善することで、複数の長期計画ベンチマークで既存手法を上回ったと報告。",
+      "authors": "anonymous (arXiv preprint)",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
@@ -116,6 +235,15 @@
       "date": "2026-06-01",
       "summary": "マルチモーダルLLMの空間推論失敗をメカニスティック解釈可能性ツールで診断した論文。多くの失敗が視覚側ではなく言語側で発生していることを示し、空間語彙バイアスの存在を明らかにした。MLLMのVision-Language統合における根本課題に光を当てる成果。",
       "authors": "(arXiv 2606.01914)",
+      "category": "arxiv"
+    },
+    {
+      "title": "HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.01779",
+      "date": "2026-06-01",
+      "summary": "エージェントシステムをハーネス（実行構造）とポリシー（推論挙動）のペアとして定式化し、両者を同時に進化させるメタ適応フレームワークHarnessForgeを提案。タスク分布の変化に応じてハーネスとポリシーが共進化することで、固定構造のエージェントを上回る安定的な適応性能を示した。",
+      "authors": "anonymous (arXiv preprint)",
       "category": "arxiv"
     },
     {
@@ -1630,136 +1758,6 @@
       "date": "2026-05-18",
       "summary": "Anthropicは5月18日、サイバーセキュリティモデル『Mythos』の利用者が発見した脅威情報を、他社のセキュリティチーム、業界団体、規制当局・政府機関、OSSメンテナー、メディア・一般にも共有することを認める方針へ転換すると発表。米国政府ではPentagonが連邦システムの脆弱性検出・修正にMythosを展開しており、責任ある開示の枠組み整備が急ぎ進む。",
       "category": "international"
-    },
-    {
-      "title": "Google I/O 2026 Keynote Opens Tuesday as New Gemini Lands Behind Mythos and GPT-5.5",
-      "title_ja": "Google I/O 2026、5月19日キーノート開幕―新Gemini投入もMythos・GPT-5.5に一歩及ばずか",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm",
-      "date": "2026-05-17",
-      "summary": "Google I/O 2026が日本時間5月20日深夜（米PT 5/19 10時）開幕。新Geminiモデル投入が確実視されるが、OpenAI GPT-5.5と同等クラスでAnthropic Claude Mythosには届かない位置付けとの観測。リリースサイクルからGemini 3.2か3.5が有力でGemini 4.0は確度低めとの分析。あわせてGooglebook、Aluminium OS、Android XRグラス、Gemini Intelligence、Android 17、Magic PointerのChrome展開などが予定。",
-      "category": "international"
-    },
-    {
-      "title": "CyberCorrect: A Cybernetic Framework for Closed-Loop Self-Correction in Large Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.17305",
-      "date": "2026-05-17",
-      "authors": "Yuning Wu, Yingmin Liu, Yang Shu, et al.",
-      "summary": "LLMの自己修正をサイバネティクス理論に基づく閉ループ制御系として形式化する『CyberCorrect』を提案。三モーダルのError Detector（生成・知識・推論）と型指向のCorrection Controllerにより、出力誤りの検出から目的指向の修正までを循環的に行い、安定した自己訂正を実現する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Salesforce expects to spend $300 million on Anthropic tokens this year, and Benioff wants coding inside Slack next",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/salesforce-benioff-300-million-anthropic-tokens-slack-coding",
-      "date": "2026-05-16",
-      "summary": "Salesforce CEOマーク・ベニオフが、同社が2026年にAnthropicトークン購入で約3億ドルを支出する見通しであることをAll-Inポッドキャストで明らかにし、その大半がコーディング用途だと説明。今後はSlack内でのコーディングを容易にする技術を投入する方針で、3月のSlack刷新で発表した30以上のAI機能はすべてClaudeで稼働する。フロンティアモデルと小型モデルをルーティングする「中間層」の必要性にも言及。",
-      "category": "international"
-    },
-    {
-      "title": "The Unlearnability Phenomenon in RLVR for Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.16787",
-      "date": "2026-05-16",
-      "authors": "Anonymous Authors et al.",
-      "summary": "Reinforcement Learning with Verifiable Reward (RLVR) における未学習現象を研究。正しいロールアウトが存在しても、難しい例の相当部分が学習不可能なまま残ることを明らかにした。RLVRの根本的な制約と、それを克服するための新たなアプローチについて議論する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Scientific Logicality Enriched Methodology for LLM Reasoning: A Practice in Physics",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.17104",
-      "date": "2026-05-16",
-      "authors": "Anonymous Authors et al.",
-      "summary": "LLMの科学的推論の内部論理性を初めて体系的に調査し、科学的論理性を強化する手法を開発した。物理学領域における実践を通じて、LLMがより信頼性の高い科学的推論を行うためのフレームワークを提示している。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Range Shrinks, the Threat Remains: Re-evaluating LLM Package Hallucinations on the 2026 Frontier-Model Cohort",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.17062",
-      "date": "2026-05-16",
-      "authors": "(arXiv:2605.17062)",
-      "summary": "2025年10月〜2026年3月にリリースされた5つのフロンティアコード生成LLMにおけるパッケージハロシネーション率を再評価。発生頻度は減少したが、依然として実害をもたらす供給網リスクが残ること、特にエコシステム横断的なtypoスクワッティング攻撃面が拡大していることを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Work with Codex from anywhere",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "date": "2026-05-15",
-      "summary": "OpenAIがCodexをChatGPTモバイルアプリ(iOS/Android)で利用可能にすると発表。ラップトップやdevbox、リモート環境上のCodexをモバイルから操作でき、セキュアなリレー層が信頼済みマシン間のセッション状態と文脈を同期する。出先からの調査開始、承認、モデル切替などフルフィーチャーのモバイル体験を提供。Free/Goを含む全プランで全対応リージョンに展開。",
-      "category": "company_blog"
-    },
-    {
-      "title": "2028: Two scenarios for global AI leadership",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "date": "2026-05-15",
-      "summary": "Anthropicが米中AI競争に関する戦略予測論文を公開。2028年を画期点とし、世界のAIリーダーシップを2つのシナリオ(少数開発者への集中と複数地域への分散)で描出。半導体輸出規制の強化と米AIモデルへの中国アクセス制限を米国及び同盟国に提言し、計算資源・規制枠組み・人材集積が決定的要因と論じる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Brings Codex Remote Access to ChatGPT Mobile App",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
-      "date": "2026-05-15",
-      "summary": "OpenAIがCodexのリモートアクセス機能をChatGPTモバイルアプリにプレビュー展開したと報道。iPhone/iPadおよびAndroidのChatGPTアプリから、Codexが実行中のラップトップやリモート環境にアクセスし、出先でも承認・モデル切替・出力確認が可能になる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Executive Vows to Cooperate with Japan on Mythos",
-      "source": "Nippon.com / Jiji",
-      "url": "https://www.nippon.com/en/news/yjj2026051501128/",
-      "date": "2026-05-15",
-      "summary": "Anthropicのグローバル渉外責任者マイケル・セリットが、東京で自民党サイバーセキュリティ戦略本部長の平将明氏と会談し、Claude Mythosに関する日本の対応に全面協力すると表明。日本がAnthropicにとって最重要国の一つであると述べ、サイバー攻撃対策での協力強化を約束。Mythosは脆弱性自動発見能力が高く、現在は限定的な企業・団体にしか公開されていない。",
-      "category": "international"
-    },
-    {
-      "title": "Japan megabanks to gain access to Anthropic's powerful AI model Mythos",
-      "title_ja": "日本の3メガバンクがAnthropicの強力AIモデルMythosへのアクセスを獲得へ",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/finance/japan-megabanks-to-gain-access-to-anthropic-s-powerful-ai-model-mythos",
-      "date": "2026-05-15",
-      "summary": "MUFG、みずほ、SMFGの日本3メガバンクが、今後2週間以内にAnthropicのClaude Mythosへのアクセス権を獲得する見込みであるとNikkei Asiaが報道。AnthropicがアクセスをAWS・Apple・Microsoft・Google等に限定するProject Glasswing枠組みに、日本の金融機関として初めて追加される。脆弱性自動発見能力の高さから国内金融セクターでの活用が期待される。",
-      "category": "international"
-    },
-    {
-      "title": "Beppu City launches generative AI consultation pilot via LINE for children and parents",
-      "title_ja": "別府市、生成AIが子どもや保護者の悩みに24時間回答する実証事業をLINEで開始",
-      "source": "TOSオンライン",
-      "url": "https://tosonline.jp/news/20260515/00000007.html",
-      "date": "2026-05-15",
-      "summary": "大分県別府市が15日から、子どもや妊婦などが悩みを気軽に打ち明けられる環境づくりを目的に、生成AIがLINEで24時間相談に回答する実証事業を開始した。匿名で気軽に利用できる点を強調し、自治体による生成AIの市民向け実装事例として注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI",
-      "title_ja": "Microsoft、社内開発者のClaude Codeライセンスを順次取消―GitHub Copilot CLIへ全面移行",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives",
-      "date": "2026-05-15",
-      "summary": "Microsoftが、2025年12月から社内数千人の開発者・PM・デザイナーに開放してきたAnthropicのClaude Codeライセンスを段階的に取消し、自社のGitHub Copilot CLIへ移行させていることが明らかに。Windows / Microsoft 365 / Outlook / Teams / SurfaceなどExperiences + Devices部門は6月末までに完全移行する見込み。Copilot CLIが社内コードベース・セキュリティ要件・ワークフロー向けに深くカスタマイズ可能であるという戦略的理由に加え、6月30日に終わる会計年度を前にコスト削減を狙う財務的動機が指摘されている。社員はこれまで機能差からClaude Codeを好む傾向だったため、内部で反発もあるという。Anthropicモデル自体はOpenAI・Microsoft独自モデルと並んでCopilot CLI内では引き続き利用可能。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "title_ja": "OpenAI、ChatGPTに個人向け資産管理機能をプレビュー公開―銀行口座を連携してダッシュボード化",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "date": "2026-05-15",
-      "summary": "OpenAIが5月15日、米国のChatGPT Proユーザー向けに個人向け資産管理機能のプレビューを開始。Plaid連携によりSchwab、Fidelity、Chase、Robinhood、American Express、Capital Oneなど12,000以上の金融機関口座を接続でき、ポートフォリオ実績・支出・サブスク・予定支払いを可視化するダッシュボードを提供。GPT-5.5の文脈推論力強化により、支出分析から将来計画まで文脈接続された自然言語Q&Aが可能。Web版とiOSで提供を開始し、Plus層への展開はフィードバック反映後を予定。Intuit連携も近く追加へ。",
-      "category": "international"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "title_ja": "ChatGPTで新しい個人向け資産管理エクスペリエンスを開始",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/personal-finance-chatgpt/",
-      "date": "2026-05-15",
-      "summary": "OpenAIが公式ブログで、米国ChatGPT Proユーザー向けに個人向け資産管理機能のプレビュー提供を発表。Plaidを通じて銀行・投資口座を安全に接続し、純資産・投資・支出・サブスク・将来計画までを一つのダッシュボードで把握できる。文脈に根ざした自然言語Q&Aを実現し、フィードバックを基に対象拡大を予定。Intuitとの統合も近く追加する。Web・iOSで提供開始。",
-      "category": "company_blog"
     }
   ]
 }

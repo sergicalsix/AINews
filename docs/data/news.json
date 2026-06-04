@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-03 09:00 (JST)",
+  "lastUpdated": "2026-06-04 09:00 (JST)",
   "articles": [
+    {
+      "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
+      "title_ja": "カナダ・カーニー首相、国家AI戦略「AI for All」を発表",
+      "source": "Prime Minister of Canada",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/06/04/prime-minister-carney-launches-ai-all-canadas-new-national-artificial",
+      "date": "2026-06-04",
+      "summary": "カナダのマーク・カーニー首相は6月4日、国家AI戦略「AI for All」を発表した。今後5年で2000億ドル超の経済成長と25万人のAI関連雇用、2034年までにAI採用率を12%超から60%へ引き上げることを掲げる。23億ドル超の人材・採用・スタートアップ支援、無料AIリテラシー教育、2031年までの主権スーパーコンピュータ構築、プライバシー法近代化やオンライン安全法・AI生成コンテンツの透かし導入も盛り込み、対外依存からの「主権AI」志向を明確化した。",
+      "category": "international"
+    },
+    {
+      "title": "Self-Evolving Deep Research via Joint Generation and Evaluation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.04507",
+      "date": "2026-06-04",
+      "authors": "Zheng Liu, et al.",
+      "summary": "生成と評価を統合的に進めるディープリサーチ手法「Self-Evolving Deep Research」を提案。生成器が出力した結果を同一モデルが評価し、評価信号で次サイクルの生成を改善する自己進化ループを構成。研究探索系タスクで既存パイプラインを上回り、エージェント型リサーチで品質改善と人手評価コスト低減を両立できることを示した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05112",
+      "date": "2026-06-04",
+      "authors": "Various contributors",
+      "summary": "標準化模擬患者（SP）を用いた動的な臨床意思決定の対話評価ベンチマーク「MedSP1000」を提案。1,638件のSPケースと24,602件の軌道レベル評価ルールセットを整備し、医学的推論・問診・診断・治療提示を一貫評価。フロンティアLLMの臨床エージェント能力の限界、特に長時間対話での一貫性と安全性の課題を定量化した。",
+      "category": "arxiv"
+    },
     {
       "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
       "source": "Help Net Security",
@@ -23,6 +50,33 @@
       "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-3-2026",
       "date": "2026-06-03",
       "summary": "Mustafa Suleymanが基調講演でMAI-Thinking-1を披露しBuild 2026 Day 2を締めくくった。Microsoftは新たに、リアルタイムなウェブ情報をエージェントに供給するWeb IQを発表。Sam AltmanがStargate Michiganの起工式に出席し、AI需要を牽引するのはコーディングモデルだと言及した。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "title_ja": "Anthropic、Claude Partner Networkに「Services Track」と「Partner Hub」を導入",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "date": "2026-06-03",
+      "summary": "Anthropicは6月3日、Claude Partner Networkに新たに「Services Track」（Select／Preferred／Global Premierの3ティア）と、進捗・要件確認用のポータル「Partner Hub」を導入した。Selectは認定者10名・本番導入2件・公開事例1件、Preferredは100名・15件・3件、Global Premierは1000名・100件超・15件超を要件とする。昇格審査は年2回（1月/7月）、初年度は10月にも追加実施。3月開始の同プログラムにはすでに4万社以上が申請し、1万人以上がClaude認定を取得した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "What we learned mapping a year's worth of AI-enabled cyber threats to MITRE ATT&CK",
+      "title_ja": "Anthropic、AI悪用のサイバー脅威1年分をMITRE ATT&CKにマッピングし公開",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "date": "2026-06-03",
+      "summary": "Anthropicは6月3日、2025年3月～2026年3月にClaude悪用を理由にBANした832アカウントをMITRE ATT&CKフレームワークで分析した報告書を公開した。Mid／High脅威アクターのAI活用率が33%→56%に1.7倍化、67.3%がマルウェア作成や攻撃準備にAIを使用。AI支援フィッシングは8.6%低下する一方、侵入後のアカウント発見は8.9%上昇し、AI利用が攻撃ライフサイクルの後半へシフトしている実態が示された。同社はATT&CK単独では自律型AI攻撃を捉え切れないと結論付けた。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft introduces Surface RTX Spark Dev Box, GitHub Copilot app, Project Solara, and new AI models at Build 2026",
+      "title_ja": "Microsoft、Build 2026でSurface RTX Spark Dev Box・GitHub Copilotアプリ・Project Solaraを発表",
+      "source": "The Tech Portal",
+      "url": "https://thetechportal.com/2026/06/03/microsoft-introduces-surface-rtx-spark-dev-box-github-copilot-app-project-solara-and-new-ai-models-at-build-2026/",
+      "date": "2026-06-03",
+      "summary": "MicrosoftはBuild 2026で、NVIDIA RTX Sparkを採用し1ペタフロップ／128GB統合メモリで120B超パラメータのモデルをローカル実行できる小型ワークステーション「Surface RTX Spark Dev Box」、ネイティブデスクトップ版「GitHub Copilotアプリ」（プレビュー）、エージェント中心の新プラットフォーム「Project Solara」、計7種の新MAIモデルを発表。GitHub Copilotアプリは複数エージェントの並列管理やPR-to-mergeのライフサイクル統合を提供する。",
       "category": "international"
     },
     {
@@ -157,6 +211,33 @@
       "category": "arxiv"
     },
     {
+      "title": "Snowflake CoCo Redefines Enterprise AI Development as the Coding Agent Built for Faster, Easier, and More Powerful Innovation Anywhere",
+      "title_ja": "Snowflake、企業データ文脈を理解するコーディングエージェント「CoCo」（旧Cortex Code）を発表",
+      "source": "Snowflake",
+      "url": "https://www.snowflake.com/en/news/press-releases/snowflake-coco-redefines-enterprise-ai-development-as-the-coding-agent-built-for-faster-easier-and-more-powerful-innovation-anywhere/",
+      "date": "2026-06-02",
+      "summary": "SnowflakeはSummit 2026で、旧Cortex Codeを刷新した企業向けコーディングエージェント「Snowflake CoCo」を発表。企業データのスキーマや文脈を理解しながらワークフロー自動化・アプリ開発・AIモデルの運用化を支援する。同時にApache Kafka向け完全マネージドストリーミング「Snowflake Datastream6」も発表。Salesforce／Microsoft 365／Slack／Google WorkspaceからMCP接続で文脈を取り込むSnowflake Intelligenceや、Anthropicとの戦略提携深化も発表した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anyscale Launches on Microsoft Azure as a Native Integration for Enterprises to Build Sovereign AI",
+      "title_ja": "Anyscale、Microsoft AzureネイティブとしてRayプラットフォームを公開プレビュー提供開始",
+      "source": "Anyscale",
+      "url": "https://www.anyscale.com/press/anyscale-on-azure-cost-efficient-and-sovereign-ai-microsoft-build",
+      "date": "2026-06-02",
+      "summary": "AnyscaleはBuild 2026で、Microsoft Azure上にRay基盤のAIコンピューティングをネイティブ提供する「Anyscale on Azure」の公開プレビューを発表。Azure Kubernetes Service／ARM上に構築され、企業はマルチモーダルなデータ前処理から学習・推論までを自社テナント内で実行可能。Wayve、Xoople等が早期採用し、最大4倍の実験速度・最大90%のTCO削減を実現したという。規制データや主権AI要件をもつ顧客がターゲット。",
+      "category": "international"
+    },
+    {
+      "title": "Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.01629",
+      "date": "2026-06-02",
+      "authors": "Yifan Wang, et al.",
+      "summary": "長文生成出力に対するLLM-as-a-Judgeの安定性を体系的に評価するベンチマーク「LongJudgeBench」を提案。多様な実シナリオと複数の評価プロトコルでLLM審判モデルを比較し、現在のLLM審判は長文評価では不安定であり、シナリオ間の一貫性も欠けることを示した。長文評価における信頼性向上のための制約と改善方向を整理。",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
       "title_ja": "Anthropic、SEC機密S-1提出でIPO申請 ― $965B評価のAI最大手、OpenAIに先行して上場へ",
       "source": "TechCrunch",
@@ -245,6 +326,24 @@
       "summary": "エージェントシステムをハーネス（実行構造）とポリシー（推論挙動）のペアとして定式化し、両者を同時に進化させるメタ適応フレームワークHarnessForgeを提案。タスク分布の変化に応じてハーネスとポリシーが共進化することで、固定構造のエージェントを上回る安定的な適応性能を示した。",
       "authors": "anonymous (arXiv preprint)",
       "category": "arxiv"
+    },
+    {
+      "title": "MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model",
+      "title_ja": "中国MiniMax、フロンティア級コーディング・100万トークン・ネイティブマルチモーダルを兼ね備えた「MiniMax M3」を公開",
+      "source": "MiniMax",
+      "url": "https://www.minimax.io/blog/minimax-m3",
+      "date": "2026-06-01",
+      "summary": "MiniMaxは6月1日、フロンティア級のコーディング・エージェント性能、100万トークンのコンテキスト、テキスト/画像/動画ネイティブ入力を1モデルに統合したオープンウェイトモデル「MiniMax M3」を公開した。独自のMSA（MiniMax Sparse Attention）を採用し、SWE-Bench Pro 59.0%、BrowseComp 83.5でGPT-5.5やGemini 3.1 Proを上回り、Claude Opus 4.7に肉薄したと主張。学習コード・推論オペレータは10日以内にHugging FaceとGitHubで公開予定とする。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Mistral Replaces Le Chat Assistant with New Vibe AI Agent for Work and Coding",
+      "title_ja": "Mistral、Le Chatを「Vibe」へ刷新し業務・コーディング統合エージェントに",
+      "source": "WinBuzzer",
+      "url": "https://winbuzzer.com/2026/06/01/mistral-rebrands-le-chat-as-vibe-for-work-and-coding-xcxwbn/",
+      "date": "2026-06-01",
+      "summary": "Mistralは6月1日、消費者向けアシスタント「Le Chat」を業務・コーディング統合エージェント「Vibe」にリブランド。同時に旗艦モデル「Medium 3.5」（128B密／256kコンテキスト）を投入し、SWE-Bench Verified 77.6%を記録。Vibeにはクラウドで並列実行されるリモートコーディングエージェントと、複数ステップ業務を遂行する「Work mode」が搭載され、ローカルCLIからの「Teleport」によるセッション継続も可能となった。",
+      "category": "international"
     },
     {
       "title": "SoftBank Group to Build 5 GW of AI Data Center Capacity in France (~€75B Investment)",
@@ -1660,104 +1759,6 @@
       "date": "2026-05-19",
       "summary": "Google DeepMindはGeminiベースのマルチエージェント科学研究システム「Co-Scientist」をNature論文と共に正式発表。仮説生成・議論・進化を専門エージェント群が反復し、複雑な科学課題に対する新規仮説を導出する。Gemini for Scienceの実験ツールHypothesis Generationを通じて研究者に順次提供される。",
       "category": "company_blog"
-    },
-    {
-      "title": "Cohere acquires Reliant AI to expand sovereign enterprise AI",
-      "source": "Cohere",
-      "url": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
-      "date": "2026-05-19",
-      "summary": "CohereはモントリオールとベルリンにオフィスをもつバイオファーマAI企業Reliant AIの買収を発表。文献レビューや競合分析、非構造化規制データ抽出を自動化するReliantの研究ワークベンチを統合し、Cohereの主権AI戦略を医療・ライフサイエンス領域に拡張する。新製品「North for Pharma」の開発も加速する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.20179",
-      "date": "2026-05-19",
-      "authors": "Zhiben Chen, Youpeng Zhao, Yang Sui, Jun Wang, Yuzhang Shang",
-      "summary": "MoEアーキテクチャを用いた拡散LLM（dLLM）をリソース制約デバイス上で効率的に推論するためのシステムTIDEを提案。拡散プロセス中のエキスパート活性化の時間的安定性を活用し、I/Oを意識したエキスパートオフロードによりロスレスかつ高効率な推論を実現する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Do Vision-Language Models Understand 3D Scenes or Just Catalogue Objects?",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.20448",
-      "date": "2026-05-19",
-      "authors": "Animesh Maheshwari, Divyansh Sahu, Nishit Verma",
-      "summary": "VLMが3Dシーンの空間構造を本当に理解しているかを検証する3,034サンプルの人手作成ベンチマークを公開。最新6つのフロンティアモデルが、可視レイアウトの再配置では53-97%の精度に対し、オクルージョン推論で6-45%、鏡面反射推論では7%未満と大きく性能が落ちることを示し、現行VLMの3D理解が表層的であることを明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.19723",
-      "date": "2026-05-19",
-      "authors": "Husnain Amjad, Raja Khurram Shahzad, Aamir Shahzad, Mehwish Fatima",
-      "summary": "約120本の査読論文・プレプリントを統合し、LLMの数学的推論研究の進展を体系化したサーベイ。データセット・アーキテクチャ・学習戦略・評価プロトコルを構造的に分析し、現状の到達点と未解決課題を整理している。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
-      "title_ja": "OpenAIとDell Technologies、Codexをハイブリッド・オンプレ環境へ展開する提携を発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership/",
-      "date": "2026-05-18",
-      "summary": "OpenAIとDellは、Codexを企業のオンプレ・ハイブリッド環境に展開するための提携を発表。CodexはDell AI Data PlatformやAI Factoryと連携し、社内データの近接環境でコード支援を提供する。Codexは現在週次4M人の開発者が利用する成長分野。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI Launches AI Personal Finance Tools and Consolidates Products Under Co-Founder Greg Brockman",
-      "title_ja": "OpenAI、パーソナルファイナンス機能を提供開始、共同創業者Greg Brockman主導でプロダクト統合へ",
-      "source": "The AI Insider",
-      "url": "https://theaiinsider.tech/2026/05/18/openai-launches-ai-personal-finance-tools-and-consolidates-products-under-co-founder-greg-brockman/",
-      "date": "2026-05-18",
-      "summary": "OpenAIはChatGPTのPersonal Finance機能をProユーザー向けに公開すると同時に、Greg BrockmanがChatGPTとCodexを単一プラットフォームに統合する計画を明らかにした。コンシューマーとエンタープライズを横断する『エージェント中心』戦略を強化する。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos",
-      "title_ja": "Anthropic、Mythosが発見したサイバー脆弱性について各国金融当局にブリーフィング実施へ",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/05/18/anthropic-to-brief-global-financial-watchdog-on-cyber-flaws-exposed-by-mythos/",
-      "date": "2026-05-18",
-      "summary": "Anthropicは、Claude Mythos Previewが発見したソフトウェア脆弱性について、イングランド銀行総裁の要請を受け、世界の主要財務省・中央銀行に非公開ブリーフィングを実施する。Project Glasswingの一環として金融セクターのリスク低減を狙う。",
-      "category": "international"
-    },
-    {
-      "title": "Dell targets enterprise AI execution gap with local agentic AI systems and integrated AI infrastructure",
-      "title_ja": "Dell、ローカルなエージェント型AIと統合インフラで企業AI実装ギャップに対応",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/05/18/dell-targets-enterprise-ai-execution-gap-local-agentic-ai-systems-integrated-ai-infrastructure/",
-      "date": "2026-05-18",
-      "summary": "Dell Technologies Worldにて、DellはローカルなエージェントAIシステムとAI Factory拡張を発表。OpenAI Codexのオンプレ統合に加え、NVIDIA Blackwell、AMD MI355X、Intel Gaudi 3に対応するAI PCとサーバーで企業のAI実装を加速する。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "title_ja": "Anthropic、SDK/MCPサーバ生成基盤のStainlessを買収―エージェント接続レイヤーを強化",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "date": "2026-05-18",
-      "summary": "Anthropicは5月18日、SDKおよびMCPサーバツールの先駆者Stainlessを買収すると発表。Stainlessは2022年創業で、TypeScript、Python、Go、Java、Kotlinなど主要言語向けにSDK・CLI・MCPサーバを自動生成し、数百社が採用している。買収額は3億ドル超とされ、AnthropicはMCPに続きエージェント接続スタックでのリードを固める。",
-      "category": "company_blog"
-    },
-    {
-      "title": "PwC and Anthropic expand alliance for enterprise agentic AI",
-      "title_ja": "PwCとAnthropic、戦略アライアンスを大幅拡張―エンタープライズのエージェント開発を加速",
-      "source": "PwC",
-      "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html",
-      "date": "2026-05-18",
-      "summary": "PwCとAnthropicは戦略的アライアンスの大規模拡張を発表し、Claudeを活用したテクノロジー構築、ディール実行、エンタープライズ機能の再設計を全業界で推進する。Claude Codeを用いるエンジニアリングチームは金融サービス、製薬、ヘルスケア、消費財向けの本番ソフトを四半期単位から数週間で出荷できるようになっており、エージェント構築ポートフォリオが拡大している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic to Let Partners Share Mythos Cybersecurity Findings With Others",
-      "title_ja": "Anthropic、Mythosのサイバー脆弱性発見を第三者と共有可能に―責任ある開示へ方針転換",
-      "source": "U.S. News",
-      "url": "https://money.usnews.com/investing/news/articles/2026-05-18/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others",
-      "date": "2026-05-18",
-      "summary": "Anthropicは5月18日、サイバーセキュリティモデル『Mythos』の利用者が発見した脅威情報を、他社のセキュリティチーム、業界団体、規制当局・政府機関、OSSメンテナー、メディア・一般にも共有することを認める方針へ転換すると発表。米国政府ではPentagonが連邦システムの脆弱性検出・修正にMythosを展開しており、責任ある開示の枠組み整備が急ぎ進む。",
-      "category": "international"
     }
   ]
 }

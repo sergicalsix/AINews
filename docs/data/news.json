@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-04 09:00 (JST)",
+  "lastUpdated": "2026-06-05 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today – June 5, 2026: 9 Biggest Stories",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-5-2026",
+      "date": "2026-06-05",
+      "summary": "6月5日のAI業界9大ニュースとして、ChatGPTのメモリ刷新「Dreaming V3」、超党派『Great American AI Act』討議草案、Anthropic IPO（評価額9650億ドル・売上RR約470億ドル）、NVIDIA RTX SparkによるWindows PC再定義、Claude Sonnet 4.8リーク、Claude Opus 4.8の1Mトークン展開、OpenAI Lockdown Mode、ChatGPT記憶倍増、Claude Codeエンジン強化を解説。AI業界が「モデル単発リリース」から「メモリ・規制・自己改善」へ軸を移したと指摘。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Recap: June 5, 2026",
+      "source": "NeuralBuddies",
+      "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-5-2026",
+      "date": "2026-06-05",
+      "summary": "NeuralBuddiesによる6月5日まとめ。Claude Opus 4.8の100万トークン文脈での複雑ロジック・コード・自律エージェント能力向上、OpenAIによる「Dreaming V3」記憶アーキテクチャ刷新（米国Plus/Pro先行）、Lockdown Modeの提供、Anthropicの2026年6月1日付S-1機密提出（評価額9650億ドル）、Great American AI Actが州法を3年間プリエンプトする内容、Claude Sonnet 4.8の信ぴょう性ある6月中旬リリース観測を整理。",
+      "category": "international"
+    },
     {
       "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
       "title_ja": "カナダ・カーニー首相、国家AI戦略「AI for All」を発表",
@@ -26,6 +42,78 @@
       "date": "2026-06-04",
       "authors": "Various contributors",
       "summary": "標準化模擬患者（SP）を用いた動的な臨床意思決定の対話評価ベンチマーク「MedSP1000」を提案。1,638件のSPケースと24,602件の軌道レベル評価ルールセットを整備し、医学的推論・問診・診断・治療提示を一貫評価。フロンティアLLMの臨床エージェント能力の限界、特に長時間対話での一貫性と安全性の課題を定量化した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "When AI builds itself",
+      "title_ja": "Anthropic、再帰的自己改善時代に備えた「フロンティアAI開発の一時停止」研究を提唱",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "date": "2026-06-04",
+      "summary": "Anthropicは6月4日、Marina FavaroとJack Clarkによる論考「When AI builds itself」を公開し、フロンティアAI開発を世界協調で減速・一時停止できる検証可能な仕組みの研究を開始すると発表した。2026年5月時点で同社コードベースにマージされたコードの80%以上をClaudeが執筆、GitHubの週間コミット数は2025年通年の約10億から2026年中盤に2.75億/週へ急増しており、再帰的自己改善の段階が現実化していると主張。実施は他フロンティア研究所が検証可能な形で同調することを条件とする。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing memory improvements in ChatGPT (Dreaming V3)",
+      "title_ja": "OpenAI、ChatGPTメモリ機能を「Dreaming V3」アーキテクチャに刷新",
+      "source": "Cryptonomist",
+      "url": "https://en.cryptonomist.ch/2026/06/05/openai-chatgpt-dreaming-v3-memory/",
+      "date": "2026-06-04",
+      "summary": "OpenAIは6月4日、ChatGPTのメモリ機能を抜本刷新する「Dreaming V3」アーキテクチャをChatGPT Plus／Pro（米国）から順次展開開始。会話の鮮度（freshness）、継続性（continuity）、関連性（relevance）の3軸で文脈を再構成し、アイドル時間に記憶を整理する「夢のような」自己更新機構を採用。同一機能を提供する計算コストを従来比約1/5に圧縮し、Free／Goティアと国際市場への展開も計画。Plus／Proはメモリ容量も増加、ユーザーは記憶の閲覧・編集・削除や一時チャットでの完全オプトアウトが可能。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "title_ja": "OpenAI、ChatGPTにプロンプトインジェクション対策の「Lockdown Mode」と高リスクラベルを導入",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+      "date": "2026-06-04",
+      "summary": "OpenAIは6月4日、プロンプトインジェクション攻撃への追加防御策として、Webブラウジング・Deep Research・エージェントモード等のネットワーク連動機能を停止する「Lockdown Mode」と、高リスク操作を可視化する「Elevated Risk」ラベルをChatGPT全ティアで提供開始。インジェクション自体は防げないが、攻撃者がアカウントから機密データを抽出する経路を遮断する設計。無料ユーザーを含むパーソナルアカウント全員が設定の「Safety and security > Advanced security」から有効化できる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Obernolte, Trahan release discussion draft of the Great American AI Act",
+      "title_ja": "米下院、超党派の包括的AI規制「Great American AI Act」討議草案を公表（州AI法を3年間プリエンプト）",
+      "source": "U.S. House Representative Jay Obernolte",
+      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
+      "date": "2026-06-04",
+      "summary": "下院議員Jay Obernolte（R-CA）とLori Trahan（D-MA）は6月4日、269頁の超党派AI規制「Great American Artificial Intelligence Act」討議草案を公表。フロンティアAIモデルガバナンスの確立、労働市場の変化把握、サイバー耐性強化、AI研究開発促進の4本柱で構成し、年収5億ドル超の大手開発者に安全フレームワークの公表・重大インシデント報告・年2回の第三者監査を義務化。商務省のCenter for AI Standards and Innovationを法制化し2027–2029年度に年1億ドル拠出、州のAI法を3年間プリエンプトする規定を含む。",
+      "category": "international"
+    },
+    {
+      "title": "The Self-Correction Illusion: LLMs Correct Others but Not Themselves",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05976",
+      "date": "2026-06-04",
+      "authors": "Kuan-Yen Chen, Fang-Yi Su, Jung-Hsien Chiang",
+      "summary": "LLMが自身の推論軌跡では誤りを訂正しにくい一方、同一の誤主張が外部ソースとして提示されると訂正率が大幅に上昇する非対称性を、誤主張のバイト列を維持したままチャット役割ラベルのみ操作する統制実験で検証。能力差ではなく役割ラベル由来のアーティファクトに起因することを示し、LLM自己訂正研究の評価枠組み見直しを提言。",
+      "category": "arxiv"
+    },
+    {
+      "title": "ReasoningFlow: Discourse Structures for Understanding LLM Reasoning Traces",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05402",
+      "date": "2026-06-04",
+      "authors": "Jinu Lee, Shivam Agarwal, Amruta Parulekar, Siddarth Madala, Dilek Hakkani-Tur, Julia Hockenmaier",
+      "summary": "推論モデル（LRM）のバックトラックや自己訂正を含む非線形な推論軌跡を、粒度の細かい有向非巡回グラフ（DAG）として捉える談話構造化フレームワーク「ReasoningFlow」を提案。推論軌跡の評価・可視化・モニタリングを構造化された談話単位で行えるようにし、複雑推論の解釈性と監査可能性を高める。",
+      "category": "arxiv"
+    },
+    {
+      "title": "CHASE: Adversarial Red-Blue Teaming for Improving LLM Safety using Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05523",
+      "date": "2026-06-04",
+      "authors": "Various contributors",
+      "summary": "ブラックボックス攻撃者と安全整合された防御者を強化学習で共進化させる閉ループ赤青チーミングフレームワーク「CHASE（Co-evolutionary Hardening through Adversarial Safety-Escalation）」を提案。攻撃・防御を同時に強化することで、固定された安全データセットでのRLHFやDPOよりも堅牢な防御を獲得でき、未知の攻撃パターンに対する汎化性能が向上することを示した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Membrane: A Self-Evolving Contrastive Safety Memory for LLM Agent Defense",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05743",
+      "date": "2026-06-04",
+      "authors": "Various contributors",
+      "summary": "LLMエージェント向けの自己進化型ガードレール「Membrane」を提案。各有害インタラクションと対応する良性カウンターパートを攻撃戦略でインデックスした「コントラスト学習セル」に蒸留し、攻撃の進化に追従して防御を更新する対照的安全メモリを構築。閉鎖型ルールベースガードレールよりも未知攻撃への適応性が高く、エージェントの防御能力を継続的に強化できる。",
       "category": "arxiv"
     },
     {
@@ -1673,91 +1761,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "date": "2026-05-19",
       "summary": "GoogleがGemini 3.5 Flashモデルを発表。コーディング・自動化・エージェント型ワークフロー向けに設計された軽量モデルで、Gemini 3.1 Proを上回るベンチマーク性能を実現。Terminal-Bench 2.1で76.2%、GDPval-AAで1656 Elo、MCP Atlasで83.6%、マルチモーダル理解のCharXiv Reasoningで84.2%を記録。",
-      "category": "company_blog"
-    },
-    {
-      "title": "A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.19944",
-      "date": "2026-05-19",
-      "authors": "Anonymous Authors et al.",
-      "summary": "最適輸送(optimal transport)を介して推論を形式化することにより、分布外汎化を支配する理論的メカニズムを扱った論文。構造的汎化と近似限界の測度論的分析を提供し、LLMの推論能力の理論的基盤を強化する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.19952",
-      "date": "2026-05-19",
-      "summary": "LLMエージェントの長期記憶のための新フレームワーク「TriMem」を提案。生の対話セグメント、抽出された原子的事実、合成プロファイルの3つの粒度で記憶を保持することで、表面的事実検索を超えた深い推論を可能にする。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.19852",
-      "date": "2026-05-19",
-      "summary": "マルチモーダルLLMの推論において、各クエリの特性に応じてツール呼び出しの必要性を適応的に判断するAutoToolを提案。常にツールを使用するアプローチに比べ、効率と精度の両立を実現する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Code as Agent Harness",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.18747",
-      "date": "2026-05-19",
-      "summary": "LLMエージェントを駆動するためのハーネスとしてコード自体を用いる「Code as Agent Harness」を提案。汎用的なツールコールよりも構造化されたコード環境でエージェント能力を引き出すアプローチで、複雑なタスクの実行性能を向上させる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients, and is Strengthened by Ongoing Project Glasswing Work",
-      "title_ja": "IBM、最先端AI駆動セキュリティポートフォリオを顧客に提供──Project Glasswing連携で強化",
-      "source": "IBM Newsroom",
-      "url": "https://newsroom.ibm.com/2026-05-19-IBM-Brings-Its-Most-Advanced-AI-Powered-Security-Portfolio-to-Clients,-and-is-Strengthened-by-Ongoing-Project-Glasswing-Work",
-      "date": "2026-05-19",
-      "summary": "IBMがAnthropic主導のProject Glasswingに参画し、最先端AI駆動セキュリティポートフォリオを顧客向けに提供開始。世界の重要ソフトウェアインフラ防衛のためのClaude Mythos活用を強化。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NTT Updates Tsuzumi 2 LLM with Vision Model for Japanese Business Documents with Charts and Diagrams",
-      "title_ja": "NTT版LLM「tsuzumi 2」がVisionモデルを追加、図表入り日本語ビジネス文書の読解に対応",
-      "source": "NTT (Press Release)",
-      "url": "https://group.ntt/jp/newsrelease/2026/05/19/260519a.html",
-      "date": "2026-05-19",
-      "summary": "NTTは2026年5月19日、純国産LLM「tsuzumi 2」のVisionモデルを発表した。図表やグラフを含む日本語ビジネス文書を1GPU(40GBメモリ)環境で高精度に処理でき、ベンチマークではGPT-5やGemma 3、Llama 4 Scoutなどの大規模モデルに匹敵する性能を達成。オンプレミスやプライベートクラウドでの利用を想定し、機微情報を含む業務DXのラストマイルを支える。",
-      "category": "japan"
-    },
-    {
-      "title": "Circlace Hires Second In-House AI Agent Employee 'CDX-one' to Boost Productivity",
-      "title_ja": "サークレイス、2人目の社内AIエージェント社員「CDX-one」を採用し全社業務を高度化",
-      "source": "Circlace (PR TIMES)",
-      "url": "https://prtimes.jp/main/html/rd/p/000000081.000071975.html",
-      "date": "2026-05-19",
-      "summary": "サークレイスは2026年5月19日、2人目の社内AIエージェント社員「CDX-one」の採用を発表した。社内規程・ナレッジ横断検索、各種申請の自動起票、問い合わせ起票をチャットから24時間365日対応し、複数業務システムを横断する社員作業を大幅に簡素化。AIを人型「社員」として組織に組み込む国内の先進事例として注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan's LDP Unveils National AI and Blockchain Finance Strategy Proposal",
-      "title_ja": "自民党、AIとブロックチェーンを軸とする国家金融戦略提言を発表",
-      "source": "Crypto Times",
-      "url": "https://www.cryptotimes.io/2026/05/19/japan-unveils-national-ai-and-blockchain-finance-strategy-proposal/",
-      "date": "2026-05-19",
-      "summary": "自民党のデジタル社会推進本部と次世代AI・オンチェーン金融イニシアチブは2026年5月19日、AIとブロックチェーンを基盤に「24/7/365自動運用」の経済モデルを構築する国家戦略提言を発表した。AIエージェントが自律的に取引執行、サプライチェーン調整、決済、金融管理を行う将来像と、ステーブルコイン・トークン化預金の普及を柱に据え、米ドル系ステーブルコインに対抗する決済基盤の近代化を訴えた。",
-      "category": "japan"
-    },
-    {
-      "title": "Widening the conversation on frontier AI",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai",
-      "date": "2026-05-19",
-      "summary": "Anthropicは哲学者・聖職者・倫理学者など15以上の宗教・文化的グループと対話を進め、フロンティアAIに関する議論を技術的なアライメントを超えて広げていると発表。これらの対話はClaudeの「憲法」にも反映され、初期実験では「倫理的コミットメント・リマインダーツール」が不整合な挙動を大きく削減する効果を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-      "source": "DeepMind",
-      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-      "date": "2026-05-19",
-      "summary": "Google DeepMindはGeminiベースのマルチエージェント科学研究システム「Co-Scientist」をNature論文と共に正式発表。仮説生成・議論・進化を専門エージェント群が反復し、複雑な科学課題に対する新規仮説を導出する。Gemini for Scienceの実験ツールHypothesis Generationを通じて研究者に順次提供される。",
       "category": "company_blog"
     }
   ]

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-05 09:00 (JST)",
+  "lastUpdated": "2026-06-06 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today - June 6, 2026: 16 Biggest Stories",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026",
+      "date": "2026-06-06",
+      "summary": "BuildFastWithAIによる6月6日まとめ。米下院がGreat American AI Act（269頁、州AI法を3年間プリエンプト）を金曜日までに提示、ChatGPT Dreaming V3記憶刷新が米国Plus/Proへ展開開始、AnthropicがS-1機密提出（$965B評価）、Claude Sonnet 4.8リーク、SpaceXが$75B IPOロードショー突入、Microsoftが自社製7モデル「MAI」シリーズを発表、AnthropicがJack Clarkら共著の論考でフロンティアAI開発の協調一時停止を提唱、OpenAI CodexのBedrock GAなど計16本を整理。AI業界が単発モデル発表から「ガバナンス・記憶・IPO・自社モデル化」への構造シフトに移行したと指摘。",
+      "category": "international"
+    },
     {
       "title": "AI News Today – June 5, 2026: 9 Biggest Stories",
       "source": "BuildFastWithAI",
@@ -16,6 +24,60 @@
       "date": "2026-06-05",
       "summary": "NeuralBuddiesによる6月5日まとめ。Claude Opus 4.8の100万トークン文脈での複雑ロジック・コード・自律エージェント能力向上、OpenAIによる「Dreaming V3」記憶アーキテクチャ刷新（米国Plus/Pro先行）、Lockdown Modeの提供、Anthropicの2026年6月1日付S-1機密提出（評価額9650億ドル）、Great American AI Actが州法を3年間プリエンプトする内容、Claude Sonnet 4.8の信ぴょう性ある6月中旬リリース観測を整理。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic Calls for AI Pause Button to Let Humans Take Stock",
+      "title_ja": "Anthropic、AI開発の一時停止ボタン設置を提唱 ― 「再帰的自己改善」リスクに警鐘",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
+      "date": "2026-06-05",
+      "summary": "Bloombergは6月5日、Anthropicが各国政府とAI開発企業が集団で開発速度を緩めるか一時停止するかを決められる仕組みの創設を提唱したと報道。共同創業者Jack ClarkとAnthropic Institute主任Marina Favaroが連名で発表したブログ投稿で、AIが自律的にタスクを完了する能力は約4か月で倍増しており、人間の介入なしで自己改善できる「フルリカーシブ自己改善」段階に向かっていると警告した。各国・各社が一斉に同意するハードルは高く、抜け駆けを防ぐピアラボ間の相互検証の必要性も指摘。今後数か月、政策担当者・AI企業との協議を予定。",
+      "category": "international"
+    },
+    {
+      "title": "The Week's 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+      "title_ja": "週間メガラウンド10選 ― Ramp $750M、Supabase・Impulse Space・Flourish各$500Mが牽引（6月5日週）",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
+      "date": "2026-06-05",
+      "summary": "Crunchbase Newsは6月5日週の大型調達トップ10を集計。スペンドマネジメントのRampがIconiq・GIC・オンタリオ州教員年金主導で$750M（評価額$44B）を調達し首位。OSS×AI向けDB基盤のSupabaseはGIC主導で$500M（$10.5B評価）、宇宙輸送のImpulse Spaceも$500M Series D、Jeff Bezos・Lux Capital・GVらが出資する脳着想型AIスタートアップFlourishが初回ラウンドで$500M、AI市場情報のAlphaSenseがVitruvian/Accenture Ventures/JPMAM主導で$350M（$7.5B評価）など、AI・エンタープライズソフト・スペーステックが上位を占めた。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Wants a Global AI Pause If Everyone Else Does",
+      "title_ja": "Anthropic、フロンティア各社が同調するなら世界的AI開発一時停止に賛同 ― 検証可能な仕組みを研究へ",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-wants-a-global-ai-pause-if-everyone-else-does/",
+      "date": "2026-06-05",
+      "summary": "PYMNTSは6月5日、Anthropicが他のフロンティア研究所が同調する場合に限り世界的なAI開発一時停止を支持すると報じた。同社は6月4日のブログ「When AI builds itself」で、再帰的自己改善が現実化する中、各国政府と開発企業が協調的に開発を減速・停止できる「検証可能な仕組み」の研究を開始すると表明していた。Anthropic単独行動は競争上不利になるため一斉同期型の停止メカニズムを志向し、実行時には抜け駆け監視のためのピアラボ間相互検証を制度化する点が焦点となる。",
+      "category": "international"
+    },
+    {
+      "title": "IR3DE: A Linear Router for Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.06098",
+      "date": "2026-06-05",
+      "authors": "Eros Fanì, Oğuzhan Ersoy",
+      "summary": "増え続けるLLMから各プロンプトに最適なモデルを選ぶ推論ルータとして、Ridge回帰ベースのドメインエキスパート向け線形ルータ「IR3DE」を提案。トークン埋め込みからドメインエキスパートを安価かつ高速に選択でき、エキスパートの追加・削除に対するルータ全体の再構築を不要とする軽量設計。次トークン予測（CLM）の2設定では既存手法と同等性能、ドメイン別推論設定では既存手法を上回ったと報告。コスト最適化や全強・全弱ルーティングに偏った既存研究を補完する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Drag reduction or reward hacking? Recurrent multi-agent reinforcement learning that earns its reward",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.06227",
+      "date": "2026-06-05",
+      "authors": "Various contributors",
+      "summary": "RLエージェントが意図された目的から逸れた形で報酬を最大化する「報酬ハッキング」を、壁面乱流での抗力低減タスクを具体例として分析。再帰的マルチエージェントRLの枠組みで、報酬関数設計と多時刻信号の取り扱いが報酬ハッキング発生率に与える影響を体系的に検証し、物理的に妥当な抗力低減を達成する報酬定式化と評価プロトコルを提案する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Value-and-Structure Alignment for Routing-Consistent Quantization of Mixture-of-Experts Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05688",
+      "date": "2026-06-05",
+      "authors": "Various contributors",
+      "summary": "大規模MoEモデルの実用展開に不可欠な量子化において、量子化後にエキスパート選択挙動が崩れる問題に着目し、価値（重み分布）と構造（ルータ出力）を同時に整合させるルーティング一貫量子化手法「VSRAQ」を提案。エキスパート選択の整合性を維持しつつ低ビット量子化することで、推論精度劣化を抑制しながらメモリ・帯域・レイテンシを大幅に削減できることを示した。",
+      "category": "arxiv"
     },
     {
       "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
@@ -165,6 +227,15 @@
       "url": "https://thetechportal.com/2026/06/03/microsoft-introduces-surface-rtx-spark-dev-box-github-copilot-app-project-solara-and-new-ai-models-at-build-2026/",
       "date": "2026-06-03",
       "summary": "MicrosoftはBuild 2026で、NVIDIA RTX Sparkを採用し1ペタフロップ／128GB統合メモリで120B超パラメータのモデルをローカル実行できる小型ワークステーション「Surface RTX Spark Dev Box」、ネイティブデスクトップ版「GitHub Copilotアプリ」（プレビュー）、エージェント中心の新プラットフォーム「Project Solara」、計7種の新MAIモデルを発表。GitHub Copilotアプリは複数エージェントの並列管理やPR-to-mergeのライフサイクル統合を提供する。",
+      "category": "international"
+    },
+    {
+      "title": "SpaceX targets fixed $135 IPO price for roadshow, source says",
+      "title_ja": "SpaceX、$135固定価格でIPOロードショー開始 ― $1.75T評価・$75B調達で史上最大規模に",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "date": "2026-06-03",
+      "summary": "CNBCは6月3日、SpaceXが$135固定価格でIPOロードショーを開始したと報道。総額$75B調達・評価額$1.75Tを目指し、Saudi Aramcoの2019年IPO（$25.6B）の約3倍となる史上最大の新規上場を狙う。需要は早くも約$150Bに達し、配分の25–30%を個人投資家に割り当てる前例のない設計を採用。価格決定は6月11日、6月12日に取引開始予定。Charles Schwab、Fidelity、Robinhood、SoFi、Morgan Stanley E*TRADEで予約申込が可能。",
       "category": "international"
     },
     {
@@ -324,6 +395,23 @@
       "authors": "Yifan Wang, et al.",
       "summary": "長文生成出力に対するLLM-as-a-Judgeの安定性を体系的に評価するベンチマーク「LongJudgeBench」を提案。多様な実シナリオと複数の評価プロトコルでLLM審判モデルを比較し、現在のLLM審判は長文評価では不安定であり、シナリオ間の一貫性も欠けることを示した。長文評価における信頼性向上のための制約と改善方向を整理。",
       "category": "arxiv"
+    },
+    {
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security (Executive Order)",
+      "title_ja": "Trump大統領、フロンティアAIの「自主的事前提供」を柱とする大統領令に署名 ― 強制ライセンスは禁止明記",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "date": "2026-06-02",
+      "summary": "ホワイトハウスは6月2日、Trump大統領が「Promoting Advanced Artificial Intelligence Innovation and Security」大統領令に署名したと発表。連邦政府は産業界と協調するAIサイバーセキュリティ・クリアリングハウスを設立し、ソフトウェア脆弱性の特定と修復を大規模化する。対象フロンティアモデルの開発者は、リリース前に最大30日間、政府を含む信頼できるパートナーへ早期アクセスを「自主的に」提供する枠組みを構築。一方で「強制的なライセンス・事前承認・許可制」の創設は明示的に禁止し、業界の反発に配慮した形となった。",
+      "category": "international"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "date": "2026-06-02",
+      "summary": "TechCrunchは6月2日、Trump大統領が業界の反発を受け、当初案より大幅に縮小したAI監督関連の大統領令に署名したと報道。フロンティアAIモデルの公開前に政府レビューを義務化する案は撤回され、最大30日間の事前アクセス提供は「任意」となった。サイバーセキュリティ・クリアリングハウスの設立と重要インフラ保護を主軸とし、規制強化を最小限に抑えた形で「米国のAIリーダーシップ」を堅持する方針を打ち出した。",
+      "category": "international"
     },
     {
       "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
@@ -1676,92 +1764,6 @@
       "date": "2026-05-19",
       "summary": "GoogleはI/O 2026で『Google AI Ultra』価格を月額250→100ドルへ大幅引き下げ、開発者・ナレッジワーカーを取り込む。Gemini 3.5 Flashを基盤とした24/7パーソナルエージェント『Gemini Spark』を米国Ultra加入者向けに来週公開、Gentle Monster・Warby Parker・Samsungと組んだAndroid XRオーディオグラスも秋投入予定。",
       "category": "international"
-    },
-    {
-      "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
-      "title_ja": "Google I/O 2026発表まとめ：Gemini、Search、Android XRほか",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
-      "date": "2026-05-19",
-      "summary": "9to5GoogleがI/O 2026の発表を網羅的に整理。Gemini 3.5 Flash/Spark/Omni、Search刷新、Workspace統合、Android XRグラス、AI Ultra値下げ、Veoアップデート、Aluminium OSなど。同社はAIエージェントへのシフトを軸に、消費者・エンタープライズ双方の体験を再設計する戦略を打ち出した。",
-      "category": "international"
-    },
-    {
-      "title": "Google Search's I/O 2026 updates: AI agents and more",
-      "title_ja": "Google Search、I/O 2026アップデート―AIエージェントなどを発表",
-      "source": "Google Blog",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "date": "2026-05-19",
-      "summary": "Googleは公式ブログでSearchのI/O 2026アップデートを公表。Gemini 3.5 FlashをAI Modeのデフォルトに据え、Information Agentsで住居・購買・スポーツ等の継続監視と通知を提供。booking機能を拡大し、AI OverviewsからAI Modeへフォローアップ質問を可能にするなど、検索全体をエージェント駆動の体験へ刷新する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "東芝、統合人事給与システム「Generalist」V8を提供開始―MCP連携の人財検索AI機能を搭載",
-      "source": "Nikkei",
-      "url": "https://www.nikkei.com/article/DGXZRSP707231_Z10C26A5000000/",
-      "date": "2026-05-19",
-      "summary": "東芝は5月19日、統合人事給与システム『Generalist』の新バージョン（V8）を提供開始したと発表。MCP対応でLLMと業務データを安全に接続するAI活用基盤を整備し、新機能『人財検索AI機能』では自然言語で要望を入力するとAIが検索意図と条件案を提示。条件設計と検索の手間を軽減し、人財情報への迅速なアクセスを実現する。",
-      "category": "japan"
-    },
-    {
-      "title": "【東芝】統合人事給与システム「Generalist®」新バージョンを提供開始",
-      "source": "東芝デジタルプレスリリース",
-      "url": "https://digitalpr.jp/r/135038",
-      "date": "2026-05-19",
-      "summary": "東芝の公式リリース。Generalist V8は人事業務に特化したMCP対応AI基盤を備え、自然言語の要望から検索意図と条件案をAIが提案する『人財検索AI機能』を新搭載。スキル・経験・配置などの人財情報へのアクセスを高速化し、人事担当の業務横断支援を狙う。中堅・大企業向けの統合人事給与基盤として展開する。",
-      "category": "japan"
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "title_ja": "Google、Antigravity 2.0をI/O 2026で正式発表―デスクトップアプリとCLIを刷新",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
-      "date": "2026-05-19",
-      "summary": "GoogleはI/O 2026でエージェント開発プラットフォーム『Antigravity 2.0』をグローバルに一般公開。コーディング環境を超えた自律AIエージェントの開発・管理プラットフォームへ進化し、専用デスクトップアプリと新CLIを提供する。サブエージェントを生成して複雑なワークフローを並列実行でき、クロスプラットフォームのターミナルサンドボックスや認証情報マスキング、堅牢なGitポリシーを標準搭載する。",
-      "category": "international"
-    },
-    {
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "title_ja": "KPMG、世界27.6万人にClaudeを展開―AnthropicとグローバルアライアンスでDigital Gatewayに統合",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-kpmg",
-      "date": "2026-05-19",
-      "summary": "AnthropicとKPMGは5月19日、グローバルアライアンスを締結。KPMGの業務基盤『Digital Gateway』にClaudeを組み込み、税務・法務向けの新ツールを皮切りに全世界27.6万人超の社員と顧客がClaudeを活用できるようにする。Big 4におけるClaude統合の最大規模の事例となり、エンタープライズAIの展開競争が加速している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OlmoEarth v1.1: A more efficient family of models",
-      "title_ja": "Ai2、OlmoEarth v1.1を公開―地球観測モデルの推論コストを最大1/3に削減",
-      "source": "Allen Institute for AI (Ai2)",
-      "url": "https://allenai.org/blog/olmoearth-v1-1",
-      "date": "2026-05-19",
-      "summary": "Allen Institute for AI（Ai2）は5月19日、地球観測ファウンデーションモデル『OlmoEarth v1.1』を公開。研究ベンチマークおよびパートナー構築のタスクで前バージョンと同等の性能を維持しつつ、推論コストを最大3倍削減し、惑星規模のマップ更新を低コストで頻繁に実行可能にする。マングローブ変化追跡、森林損失要因分類、国家規模の作付け地図生成などへの展開を後押しする。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Code with Claude comes to San Francisco, London, and Tokyo",
-      "title_ja": "Anthropic開発者会議『Code with Claude』、SF・ロンドン・東京で開催決定",
-      "source": "Anthropic (Claude Blog)",
-      "url": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
-      "date": "2026-05-19",
-      "summary": "Anthropicは開発者向けカンファレンス『Code with Claude 2026』を、サンフランシスコ（5月6日）、ロンドン（5月19日）、東京（6月10日）の3都市で開催すると発表。1日のハンズオン技術ワークショップ、新機能のライブデモ、Anthropicエンジニアとの1:1オフィスアワーを提供し、各イベントはライブストリーミングでも視聴可能。Tokyo会場は2026年6月10日に開催される。",
-      "category": "company_blog"
-    },
-    {
-      "title": "JCBIとMawari、AI・空間コンピューティング・分散インフラ部会を設立",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000027.000070300.html",
-      "date": "2026-05-19",
-      "summary": "Japan Contents Blockchain Initiative（JCBI）と空間コンピューティング基盤のMawariは5月19日、加盟企業と共同で『AI・空間コンピューティング・分散インフラ部会』を設立したと発表。生成AIと空間コンピューティングが融合する時代に向け、コンテンツの真正性証明、権利管理、分散インフラの標準化を推進し、日本発のXR/AI流通基盤の整備を目指す。",
-      "category": "japan"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "date": "2026-05-19",
-      "summary": "GoogleがGemini 3.5 Flashモデルを発表。コーディング・自動化・エージェント型ワークフロー向けに設計された軽量モデルで、Gemini 3.1 Proを上回るベンチマーク性能を実現。Terminal-Bench 2.1で76.2%、GDPval-AAで1656 Elo、MCP Atlasで83.6%、マルチモーダル理解のCharXiv Reasoningで84.2%を記録。",
-      "category": "company_blog"
     }
   ]
 }

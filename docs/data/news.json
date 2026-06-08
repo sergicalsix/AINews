@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07 09:00 (JST)",
+  "lastUpdated": "2026-06-08 09:00 (JST)",
   "articles": [
+    {
+      "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
+      "title_ja": "WWDC 2026: 期待の高まるSiri刷新、Apple Intelligence、iOS 27などの最新情報",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "date": "2026-06-08",
+      "summary": "AppleがWWDC 2026を開催。Google Geminiを搭載した新Siri（年間約10億ドルのライセンス契約と報道）、iOS 27、macOS 27、Apple IntelligenceのExtensions（ChatGPT・Gemini・Claudeを選択可能）が発表予定。",
+      "category": "international"
+    },
+    {
+      "title": "Apple WWDC 2026: Siri Rebuilt on Gemini, homeOS Previewed in Cook Farewell Keynote",
+      "title_ja": "Apple WWDC 2026: Geminiベースで再構築されたSiriとhomeOSをクック最後の基調講演でプレビュー",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317985/20260608/apple-wwdc-2026-siri-rebuilt-gemini-homeos-previewed-cook-farewell-keynote.htm",
+      "date": "2026-06-08",
+      "summary": "Tim Cookの基調講演で、カスタム1.2兆パラメータのGoogle Gemini基盤による完全刷新Siri、3階層ルーティング（端末/Private Cloud Compute/Nvidia Blackwell B200搭載のGoogle Cloud）、homeOSが発表された。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Calls Its New Assistant \"Siri AI\" at WWDC 2026, Gemini Partnership Now Official",
+      "title_ja": "Apple、WWDC 2026で新アシスタントを「Siri AI」と命名、Geminiとの提携が正式発表",
+      "source": "MacObserver",
+      "url": "https://www.macobserver.com/news/apple-calls-its-new-assistant-siri-ai-at-wwdc-2026-gemini-partnership-now-official/",
+      "date": "2026-06-08",
+      "summary": "Appleは新アシスタントを「Siri AI」とブランディングし、Google Geminiとの提携を公式化。スタンドアロンアプリ化、画面コンテンツ理解、アプリ横断アクション実行などの新機能が発表された。",
+      "category": "international"
+    },
+    {
+      "title": "Apple overhauling Siri with Google Gemini AI at WWDC 2026",
+      "title_ja": "AppleがWWDC 2026でGoogle GeminiベースのSiriへ全面刷新",
+      "source": "Quartz",
+      "url": "https://qz.com/apple-siri-ai-google-gemini-wwdc-2026-060826",
+      "date": "2026-06-08",
+      "summary": "15年ぶりの大規模刷新となるSiriは、Googleのカスタム版Geminiモデルを採用。複数年契約で年間約10億ドルが支払われる見込みで、iOS 27/iPadOS 27/macOS 27/watchOS 27/visionOS 27の無償アップデートで秋に提供予定。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today - June 8, 2026: 16 Biggest Stories",
+      "title_ja": "AIニュース今日 - 2026年6月8日: 16の主要ストーリー",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+      "date": "2026-06-08",
+      "summary": "6月8日の主要AIニュースを総括。Apple WWDCのGemini版Siri、Microsoft FoundryにOpenAI・Anthropic・Googleモデルが揃う11,000以上のカタログ、Claudeの四半期306%成長などをカバー。",
+      "category": "international"
+    },
     {
       "title": "AI News Today - June 7, 2026: 16 Biggest Stories",
       "title_ja": "AIニュース 2026年6月7日: 16の主要トピック",
@@ -197,6 +242,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "title_ja": "Gemma 4 12Bを発表: 統合型エンコーダーフリーのマルチモーダルモデル",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "date": "2026-06-05",
+      "summary": "Google DeepMindがGemma 4 12Bを発表。ノートPC上での高性能なマルチモーダル推論を実現する中型モデルで、E4Bと26B MoEの中間に位置付け。同社初の中型モデルとしてネイティブ音声入力をサポート。",
+      "category": "company_blog"
+    },
+    {
       "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
       "title_ja": "カナダ・カーニー首相、国家AI戦略「AI for All」を発表",
       "source": "Prime Minister of Canada",
@@ -296,6 +350,69 @@
       "category": "arxiv"
     },
     {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "title_ja": "Dreaming: より役立つChatGPTのための改良されたメモリ",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "date": "2026-06-04",
+      "summary": "OpenAIがChatGPTメモリの新世代「Dreaming」を発表。バックグラウンドで会話を統合してメモリを更新し、時間経過を反映（「7月にシンガポール訪問予定」→「2026年7月にシンガポールへ行った」）。事実再現82.8%、嗜好遵守71.3%、時間正確性75.1%、計算効率5倍。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "title_ja": "Co-Scientist: 研究を加速するマルチエージェントAIパートナー",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "date": "2026-06-04",
+      "summary": "Geminiベースのマルチエージェントシステム「Co-Scientist」がNatureで論文発表。新規仮説を反復生成・討論・進化させ、肝線維症治療研究で薬剤再目的化候補を特定し、ラボ試験で線維化反応の91%を阻害することに成功。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05558",
+      "date": "2026-06-04",
+      "authors": "Jiaxin Wang, et al.",
+      "summary": "オンライン環境でのLLMエージェント評価が高コストで危険な問題に対処し、事前収集トラジェクトリのみから新規LLMエージェントポリシーの性能を推定するフレームワーク「ADWM」を提案。自己回帰型拡散世界モデルでオフポリシー評価を実現。",
+      "category": "arxiv"
+    },
+    {
+      "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05557",
+      "date": "2026-06-04",
+      "authors": "et al.",
+      "summary": "AURAは情景認識とツール使用の間に推論ステップを挿入し、暗黙的なニーズの構造化推定値「IntentFrame」とギャップスコアを生成。クエリごとの探索予算とツール選択を制御し、状況依存LLMエージェントで暗黙的ニーズを浮上させる。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Predictable Scaling Laws of Optimal Hyperparameters for LLM Continued Pre-training",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05610",
+      "date": "2026-06-04",
+      "authors": "et al.",
+      "summary": "LLMの継続事前学習において、最適ハイパーパラメータが安定で予測可能なスケーリング則に従うことを実証的に発見。学習プロセス全体を通じてハイパーパラメータの最適値を予測可能にし、計算リソースを節約する手法を提示。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05403",
+      "date": "2026-06-04",
+      "authors": "et al.",
+      "summary": "LLMは捏造された統計値を検出する能力を持つが、複数情報源の統合時にはその能力を発揮せず、捏造データと有効データで類似した数値推定を生成することを示す。LLMの情報源評価における認識論的盲点を明らかにした研究。",
+      "category": "arxiv"
+    },
+    {
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "date": "2026-06-04",
+      "authors": "et al.",
+      "summary": "中止されたフィールド実験において、未開示のAI生成アカウントがライブ討論でユーザーと関わった事例を分析。隠密LLMエージェントが用いた説得戦術を定量化し、AIエージェントのオンライン討論における倫理的・社会的影響を考察した研究。",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
       "source": "Help Net Security",
       "url": "https://www.helpnetsecurity.com/2026/06/03/anthropic-project-glasswing-expansion/",
@@ -354,6 +471,15 @@
       "date": "2026-06-03",
       "summary": "CNBCは6月3日、SpaceXが$135固定価格でIPOロードショーを開始したと報道。総額$75B調達・評価額$1.75Tを目指し、Saudi Aramcoの2019年IPO（$25.6B）の約3倍となる史上最大の新規上場を狙う。需要は早くも約$150Bに達し、配分の25–30%を個人投資家に割り当てる前例のない設計を採用。価格決定は6月11日、6月12日に取引開始予定。Charles Schwab、Fidelity、Robinhood、SoFi、Morgan Stanley E*TRADEで予約申込が可能。",
       "category": "international"
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "title_ja": "GPT-Rosalindの新機能を発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/",
+      "date": "2026-06-03",
+      "summary": "OpenAIが生命科学研究向けGPT-Rosalindのアップデートを発表。GPT-5.5のエージェント的コーディング/ツール使用能力に医化学・ゲノミクスなど創薬領域の専門知能を組み合わせ、GPT-5.5比31%少ないトークンで動作。世界中の対象機関にリサーチプレビュー開放、Rosalind Biodefenseイニシアチブも開始。",
+      "category": "company_blog"
     },
     {
       "title": "Microsoft unveils MAI-Thinking-1, its first flagship reasoning model at Build 2026",
@@ -528,6 +654,24 @@
       "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
       "date": "2026-06-02",
       "summary": "TechCrunchは6月2日、Trump大統領が業界の反発を受け、当初案より大幅に縮小したAI監督関連の大統領令に署名したと報道。フロンティアAIモデルの公開前に政府レビューを義務化する案は撤回され、最大30日間の事前アクセス提供は「任意」となった。サイバーセキュリティ・クリアリングハウスの設立と重要インフラ保護を主軸とし、規制強化を最小限に抑えた形で「米国のAIリーダーシップ」を堅持する方針を打ち出した。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Build 2026: MAI-Thinking-1 Is First In-House Reasoning Model, Trained Without OpenAI Data",
+      "title_ja": "Microsoft Build 2026: MAI-Thinking-1は初の自社製推論モデル、OpenAIデータ不使用で訓練",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317631/20260602/microsoft-build-2026-mai-thinking-1-first-house-reasoning-model-trained-without-openai-data.htm",
+      "date": "2026-06-02",
+      "summary": "MicrosoftがBuild 2026で初の自社推論モデル「MAI-Thinking-1」を発表。35Bアクティブパラメータの疎MoE、256Kコンテキストで、AIME 2025で97.0%・AIME 2026で94.5%。コーディング用「MAI-Code-1-Flash」(5B)もGitHub Copilotに展開開始しSWE-Bench ProでClaude Haiku 4.5を16ポイント上回る。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft unveils MAI-Thinking-1 reasoning and MAI-Code-1 coding models",
+      "title_ja": "Microsoft、推論モデル「MAI-Thinking-1」とコーディングモデル「MAI-Code-1」を発表",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/microsoft-unveils-mai-thinking-1-reasoning-and-mai-code-1-coding-models/",
+      "date": "2026-06-02",
+      "summary": "MicrosoftがBuild 2026で初の自社推論モデルMAI-Thinking-1を含む7つの自社開発AIモデルを発表。商用ライセンスデータのみで学習し、OpenAIなど第三者モデルからの蒸留を一切使用していない点を強調。",
       "category": "international"
     },
     {
@@ -993,6 +1137,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "title_ja": "Anthropic、新「ダイナミックワークフロー」ツール搭載のOpus 4.8をリリース",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "date": "2026-05-28",
+      "summary": "AnthropicがClaude Opus 4.8を5月28日にリリース。新機能「ダイナミックワークフロー」（研究プレビュー）はClaude Codeでの大規模タスクで数百の並列サブエージェントを単一セッションで実行可能。価格は$5/M入力・$25/M出力でOpus 4.7から据え置き、Fastモードは前世代比3分の1の価格。",
+      "category": "international"
+    },
+    {
       "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
       "title_ja": "富士通とOpenAI、日本のエンタープライズAIトランスフォーメーション加速へ戦略提携を開始",
       "source": "Fujitsu Global",
@@ -1278,6 +1431,15 @@
       "summary": "Polymarketの異常シグナルとグローバルOSINTストリームを統合し、予測知能を抽出するマルチエージェントアーキテクチャを提案。反省ループ、ツール呼び出し、分割統治、Chain-of-Thoughtといった「ハーネス工学」手法を定量比較し、LLM推論強化に対する各要素の寄与を切り分けた。市場予測や情勢分析へのエージェントAIの応用可能性と、ハーネス設計が単体モデル性能と並んでエージェント品質を左右することを示した研究。",
       "authors": "Anonymous (arXiv preprint)",
       "category": "arxiv"
+    },
+    {
+      "title": "Fujitsu develops self-evolving multi-AI-agent technology that continues to learn through operations",
+      "title_ja": "富士通、業務とともに学び続ける自己進化マルチAIエージェント技術を開発",
+      "source": "Fujitsu",
+      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/25-01",
+      "date": "2026-05-25",
+      "summary": "富士通は、複数のAIエージェントがチームとして業務を遂行し、実行結果・フィードバック・制度改定などの変化から継続的かつ安全に自律学習する技術を開発。製造・医療・金融・行政の領域で「Takane」を継続改善し、業務特化前比で平均28ポイントの精度向上を確認。",
+      "category": "japan"
     },
     {
       "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
@@ -1611,159 +1773,6 @@
       "authors": "（著者情報未取得）",
       "summary": "推論チェーンを検証可能なサブ問題に分解し、カリキュラム型強化学習でLLMの推論に対するクレジット割当を可能にする手法を提案。長い推論軌跡における報酬希薄性問題に対応。",
       "category": "arxiv"
-    },
-    {
-      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.21467",
-      "date": "2026-05-21",
-      "authors": "（著者情報未取得）",
-      "summary": "検証可能な報酬からの強化学習（RLVR）における識別的なトークン単位クレジット割当手法DelTAを提案。重要なトークンへのクレジット集中により、LLM推論タスクでの学習効率を改善。",
-      "category": "arxiv"
-    },
-    {
-      "title": "AI Phone Support Startup IVRy Raises 4.5 Billion Yen in Debt Financing from Japan's Three Megabanks",
-      "title_ja": "対話AIのIVRy、3メガバンクから総額45億円のデットファイナンス調達",
-      "source": "Nikkei xTECH",
-      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03236/",
-      "date": "2026-05-21",
-      "summary": "AI電話応対支援サービスを提供するIVRyは2026年5月21日、三井住友銀行、みずほ銀行、三菱UFJ銀行の3メガバンクから総額45億円の長期デットファイナンスを実施したと発表した。累計資金調達額は151.1億円に到達。AIプロダクト開発とエンタープライズ領域強化、通話・メールを統合管理するデータ基盤拡充に資金を充当する。",
-      "category": "japan"
-    },
-    {
-      "title": "Unified Data Selection for LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.22389",
-      "date": "2026-05-21",
-      "authors": "Xiaoyuan Li, Yubo Ma, Chengpeng Li, Fengbin Zhu, Yiyao Yu, Keqin Bao, Wenjie Wang, Fuli Feng, Dayiheng Liu",
-      "summary": "長いChain-of-Thought推論データの大規模高品質化が学習のボトルネックとなっている問題に対し、訓練不要の指標High-Entropy Sum（HES）を提案。各推論サンプル中で最も高エントロピーなトップトークンの和のみを集計することで推論品質を定量化し、統一的データ選択を実現する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Alibaba's Qwen 3.7 Max launches with 1M-token context, tops Terminal-Bench 2.0 and SWE-Bench Pro",
-      "title_ja": "Alibaba、100万トークン文脈のQwen 3.7 Maxを公開──Terminal-Bench 2.0・SWE-Bench Proで首位",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/05/21/qwen-introduces-qwen3-7-max-a-reasoning-agent-model-with-a-1m-token-context-window/",
-      "date": "2026-05-21",
-      "summary": "AlibabaはHangzhouで開催されたAlibaba Cloud SummitでQwen 3.7 Maxを発表。100万トークンの文脈長、Artificial Analysis Intelligence Index 56.6、Terminal-Bench 2.0・SWE-Bench Pro・MCP-AtlasでClaude Opus 4.6 Maxを上回るベンチを示した。100万トークンあたり入力$2.50・出力$7.50でDashScope経由のAPIで提供開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic's Code w/ Claude conference in London showcases coding's future",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "date": "2026-05-21",
-      "summary": "Anthropicが5月20-21日にロンドンで開催した「Code w/ Claude」カンファレンスで、Claudeを中心とするコーディングワークフローの将来像が示された。Claude Codeのリリース更新（ユーザー使用量インサイト、キーボードフレンドリーなdiffスクロール、Markdownタスクリスト改善）と、エンタープライズ向けClaude.ai クラウドMCPコネクタ設定の追加が併せて発表された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "All the news from the Google I/O 2026 Developer keynote",
-      "title_ja": "Google I/O 2026 開発者キーノート発表まとめ―Antigravity 2.0、Gemini API、AI Studio",
-      "source": "Google Developers Blog",
-      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "date": "2026-05-20",
-      "summary": "Googleは5月20日の開発者キーノートで、Gemini 3.5、Antigravity 2.0、Antigravity CLI/SDK、Gemini APIのManaged Agents、安定版Android CLI、Android Bench、Android移行エージェント、WebMCP、Chrome DevTools for agents、HTML-in-Canvasなどを一斉発表した。エージェント開発を中核に据え、Antigravityを4サーフェスの統合プラットフォームへ刷新する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "I/O 2026 developer highlights: Antigravity, Gemini API, AI Studio",
-      "title_ja": "Google I/O 2026 開発者ハイライト―Antigravity、Gemini API、AI Studio",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
-      "date": "2026-05-20",
-      "summary": "Googleは公式ブログでI/O 2026開発者キーノートのハイライトを公開。Gemini 3.5 Flashを基盤に、Antigravity 2.0のデスクトップアプリとCLI、Gemini APIのManaged Agents、Google AI Studioの強化を打ち出した。サブエージェントの並列実行、ターミナルサンドボックス、Git保護などエージェント運用基盤を整える方針を強調している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "date": "2026-05-20",
-      "summary": "OpenAIの新しい推論モデルが、1946年にPaul Erdősが提起した離散幾何学の長年未解決の予想を反証する独自の数学的証明を生成した。AIシステムが活発な数学分野の主要な未解決問題を自律的に解いた初の事例となり、外部の数学者による検証も行われたと報告された。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "date": "2026-05-20",
-      "summary": "Anthropicは2029年5月までxAI(SpaceX)のColossusスーパーコンピューティングインフラへのアクセスのため月額12.5億ドルを支払う契約を結んだ。最初の2か月は割引価格となり、契約総額はxAIに400億ドル以上の収益をもたらす可能性がある。AnthropicはColossus 2施設にも拡張する計画を発表した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic is paying SpaceX $15 billion per year",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
-      "date": "2026-05-20",
-      "summary": "Anthropicが2029年までSpaceX/xAIに年間約150億ドル支払う計算契約の詳細が明らかになった。同社はColossus 1の220,000以上のNVIDIA GPUへのアクセスを取得し、Claude Pro/Maxユーザー向け容量を直接強化する。軌道上AI計算インフラの共同開発にも関心を表明している。",
-      "category": "international"
-    },
-    {
-      "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
-      "date": "2026-05-20",
-      "summary": "Cohereが2180億パラメータのSparse Mixture-of-Expertsアーキテクチャを採用したCommand A+をApache 2.0ライセンスで公開した。アクティブパラメータ250億で、エージェント型ワークフロー・複雑な推論・マルチモーダル文書処理向けに最適化されている。日本語含む48言語をサポートし、ロスレス量子化とネイティブ引用機能を備える。",
-      "category": "international"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "date": "2026-05-20",
-      "summary": "OpenAIの推論モデルが80年来の離散幾何学の予想を反証したと公式発表。1946年にErdősが提起した「平面上の単位距離問題」について、従来の格子状配置よりも優れた新しい数学的構成のファミリーを発見した。代数的整数論を活用し、人間が想定していたよりも効率的な点の配置方法を見つけ出した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing Command A+",
-      "source": "Cohere",
-      "url": "https://cohere.com/blog/command-a-plus",
-      "date": "2026-05-20",
-      "summary": "CohereがApache 2.0ライセンスで初のフルオープンソースモデルCommand A+を公開した。218BパラメータのMoEモデルで、エージェント型ワークフロー、マルチモーダル文書処理、複雑な推論に最適化。48言語対応で日本語トークン効率は18%向上。主権AI推進の戦略的一手となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google introduces Gemini 3.5 Flash at I/O 2026: A faster and cheaper model for AI agents and coding",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
-      "date": "2026-05-20",
-      "summary": "Google I/O 2026でGemini 3.5 Flashが発表された。エージェントとコーディング用に最適化されており、Terminal-Bench 2.1で76.2%を記録するなどGemini 3.1 Proを超える性能を、より低価格・高速で提供する。",
-      "category": "international"
-    },
-    {
-      "title": "NTT Marketing Act ProCX deploys AI Voice Agent at Kobe City Tax Department",
-      "title_ja": "NTTマーケティングアクトProCX、神戸市税務部にAIボイスエージェントを本格導入",
-      "source": "NTT Press Release",
-      "url": "https://group.ntt/jp/newsrelease/2026/",
-      "date": "2026-05-20",
-      "summary": "NTTマーケティングアクトProCXが神戸市税務部にAIボイスエージェントを本格導入。VOC分析・FAQ設計に基づき、市民問い合わせ対応の自動化と効率化を実現する。日本の自治体DXの実例。",
-      "category": "japan"
-    },
-    {
-      "title": "NTT DOCOMO Business launches AI SOC service for autonomous cyber threat analysis and response",
-      "title_ja": "NTTドコモビジネス、AIエージェントが脅威分析から自動対処まで行う「AI SOC」を提供開始",
-      "source": "NTT DOCOMO Business",
-      "url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0520.html",
-      "date": "2026-05-20",
-      "summary": "NTTドコモビジネスが5月20日、ログを自律分析するAIエージェント「AI Advisor」とマネージドSOARを組み合わせた「AI SOC」サービスを提供開始。従来1〜2時間かかった相関分析を約10分に短縮し、セキュリティアラートの95%を自動処理可能。エンドポイント隔離やウイルススキャンも自動実行。",
-      "category": "japan"
-    },
-    {
-      "title": "NTT-affiliated AI agent automates cyber defense from threat analysis to response",
-      "title_ja": "NTT系AIエージェントがサイバー防御を自動化、脅威分析から対処まで",
-      "source": "Nikkei",
-      "url": "https://www.nikkei.com/article/DGXZQOUC19ABR0Z10C26A5000000/",
-      "date": "2026-05-20",
-      "summary": "日経が、NTTドコモビジネスの「AI SOC」サービスを報道。AIエージェントが脅威分析から対処まで一気通貫で自動化し、企業の高度サイバー攻撃対応を効率化する点を強調。国内SOC市場の人手不足解消への期待も示す。",
-      "category": "japan"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "date": "2026-05-20",
-      "summary": "OpenAIはC2PA運営委員会への参加、Google DeepMindのSynthIDを使ったChatGPT/Codex/API生成画像へのウォーターマーク導入、そしてopenai.com/verifyでの公開検証ツールのプレビューを発表。メタデータが削除されてもウォーターマーク信号が残る多層的なコンテンツ来歴体系の構築を進める。",
-      "category": "company_blog"
     }
   ]
 }

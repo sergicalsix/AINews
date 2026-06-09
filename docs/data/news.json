@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-08 09:00 (JST)",
+  "lastUpdated": "2026-06-09 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "title_ja": "Anthropic、Google・Broadcomとの提携を拡大し次世代計算基盤を複数ギガワット規模で確保",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "date": "2026-06-09",
+      "summary": "AnthropicはGoogleおよびBroadcomと2028年までに20GW超の計算容量を可能にする「AI XPV Platform」をApollo・Blackstone主導で立ち上げたと発表。初期トランシェ350億ドルでAnthropicの1GW超の容量拡張を後押しし、新規容量は米国に展開予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Broadcom, Apollo and Blackstone establish landmark strategic platform for AI infrastructure",
+      "title_ja": "Broadcom、Apollo、BlackstoneがAIインフラ向けの戦略的プラットフォーム「AI XPV」を設立",
+      "source": "Stock Titan / Broadcom",
+      "url": "https://www.stocktitan.net/news/BX/broadcom-apollo-and-blackstone-establish-landmark-strategic-platform-upr401jc54fs.html",
+      "date": "2026-06-09",
+      "summary": "Broadcom、Apollo、Blackstoneが共同で「AI XPV Platform」を設立。AnthropicやOpenAIなどフロンティアAIラボ向けに2028年までに20GW以上の計算容量を整備する構想で、初期投資350億ドルからスタート。",
+      "category": "international"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "title_ja": "WWDC 2026総まとめ: Siri AI、iOS 27、Apple Intelligenceなど発表内容を網羅",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "date": "2026-06-09",
+      "summary": "TechCrunchがWWDC 2026の全発表を整理。Google Geminiベースで全面刷新されたSiri AI、スタンドアロンアプリ化、自然な音声と速度・表現の調整機能、サードパーティ製AIをデフォルトアシスタントに選択できるiOS 27 Extensionsなどを総括。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI and Anthropic IPOs Will Put AI Enthusiasm to the Test",
+      "title_ja": "OpenAIとAnthropicのIPOが「AI熱狂」を試金石にかける",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/openai-and-anthropic-ipos-will-put-ai-enthusiasm-to-the-test",
+      "date": "2026-06-09",
+      "summary": "BloombergはOpenAI（評価額8520億ドル）とAnthropic（同9650億ドル）の相次ぐ秘密裡IPO申請を受け、各々が1兆ドル前後の評価で公開市場に挑む見通しを分析。SpaceXを含む大型AI関連IPOの連鎖が市場のAI熱を問う展開になると指摘。",
+      "category": "international"
+    },
     {
       "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
       "title_ja": "WWDC 2026: 期待の高まるSiri刷新、Apple Intelligence、iOS 27などの最新情報",
@@ -47,6 +83,69 @@
       "category": "international"
     },
     {
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "title_ja": "Apple、次世代Apple IntelligenceとSiri AIなどを正式発表",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "date": "2026-06-08",
+      "summary": "Appleの公式ニュースルーム発表。Geminiベースの基盤モデルとオンデバイス＋Private Cloud Computeを組み合わせた新Siri AI、Liquid Glass刷新、アプリ横断アクション、プライバシー設計強化、iOS 27 ExtensionsによるサードパーティAIアシスタント選択などを公式に発表。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Apple Unveils Siri AI, Smarter Assistant With More Customizable Voices",
+      "title_ja": "Apple、よりカスタマイズ可能な音声を備えた賢いアシスタント「Siri AI」を発表",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/apple-siri-ai-wwdc26-announcements-1236769265/",
+      "date": "2026-06-08",
+      "summary": "Varietyは新Siri AIがより自然な音声と速度・表現性の調整機能を備え、iPhone内の全アプリ・データにアクセスしつつ強力なプライバシー制御を実装すると報道。米国で英語から提供開始し、EU・中国は規制対応のため遅れる見込み。",
+      "category": "international"
+    },
+    {
+      "title": "Hey, Siri: Apple just announced a long-awaited AI update",
+      "title_ja": "「Hey, Siri」: Appleが長く待たれたAIアップデートを発表",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook",
+      "date": "2026-06-08",
+      "summary": "NPRがTim Cook最後の基調講演で発表されたSiri AIを取り上げ、GoogleのGeminiを採用したマルチイヤー提携、Apple Intelligenceのアプリ統合強化、年内米国英語提供開始の計画を報じる。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+      "title_ja": "Apple、Google Geminiモデルを中核とした新AIアーキテクチャを公開",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "date": "2026-06-08",
+      "summary": "MacRumorsはAppleの新AIアーキテクチャを解説。Geminiベースのカスタム基盤モデル、オンデバイス処理とPrivate Cloud Compute、Google CloudのNvidia Blackwell B200を組み合わせた3階層ルーティング、プライバシー設計を詳述。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
+      "title_ja": "OpenAI、IPOに向けたSECへの秘密裡申請書類を提出—ウォール街上場への扉開く",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/06/08/openai-ipo-chatgpt/e7573db2-6384-11f1-bdd4-805ebb99a693_story.html",
+      "date": "2026-06-08",
+      "summary": "Washington PostはOpenAIが5/22頃にS-1ドラフトをSECに秘密裡提出し、6/8に公表したと報道。9月以降の公開上場を目指し、Goldman Sachs・Morgan Stanley・JPMorganが主幹事を担う見通し。",
+      "category": "international"
+    },
+    {
+      "title": "Why Anthropic, OpenAI and SpaceX are all racing to go public now",
+      "title_ja": "なぜAnthropic・OpenAI・SpaceXがいま揃ってIPOへ走るのか",
+      "source": "Northeastern Global News",
+      "url": "https://news.northeastern.edu/2026/06/08/anthropic-openai-spacex-ipo-race/",
+      "date": "2026-06-08",
+      "summary": "ノースイースタン大学の解説。AnthropicとOpenAIの秘密裡IPO申請、SpaceXの1.75兆ドル評価でのIPO値付け、そして3社あわせて3.6兆ドル超のIPOパイプラインが形成される背景を分析。",
+      "category": "international"
+    },
+    {
+      "title": "InquiTree: Evaluating AI Agents in the Scientific Inquiry Loop with Paper-Derived Research Trees",
+      "title_ja": "InquiTree: 論文から構築した研究木で科学探究ループ内のAIエージェントを評価",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.09550",
+      "date": "2026-06-08",
+      "summary": "科学探究プロセスをインタラクティブな「Research Tree」として形式化した診断環境を提案。AIエージェントが仮説・実験設計・結果解釈の各ステップで人間研究者と同等のループを回せるかを論文由来のツリーで評価。",
+      "category": "arxiv"
+    },
+    {
       "title": "AI News Today - June 7, 2026: 16 Biggest Stories",
       "title_ja": "AIニュース 2026年6月7日: 16の主要トピック",
       "source": "Build Fast with AI",
@@ -72,6 +171,15 @@
       "date": "2026-06-07",
       "summary": "AnthropicはProject Glasswingを拡大し、日本の金融機関を含む約150の組織にClaude Mythos Previewへのアクセスを提供開始。重要産業での実証導入を加速。",
       "category": "japan"
+    },
+    {
+      "title": "PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+      "title_ja": "PerspectiveGap: マルチエージェントオーケストレーション用プロンプト能力ベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.08878",
+      "date": "2026-06-07",
+      "summary": "LLMがマルチエージェントシステム向けのオーケストレーション用プロンプトを構成できるかを評価する新規ベンチマーク。110のシナリオを「ロール片の割当」と「フリーフォームプロンプト記述」の2形式（妨害要素混在）で計測し、現行モデルの限界を可視化。",
+      "category": "arxiv"
     },
     {
       "title": "AI News Today - June 6, 2026: 16 Biggest Stories",
@@ -160,6 +268,15 @@
       "date": "2026-06-06",
       "authors": "Komi-Yazva Corpus Team",
       "summary": "コミ・ヤズヴァ語-ロシア語の初の対訳コーパス(457文ペア)と漏洩を考慮した評価プロトコルを公開。極めて低資源な絶滅危惧言語におけるLLM翻訳能力の検証を可能にする。",
+      "category": "arxiv"
+    },
+    {
+      "title": "ToolChoiceConfusion: Causal Minimal Tool Filtering for Reliable LLM Agents",
+      "title_ja": "ToolChoiceConfusion: 信頼性の高いLLMエージェントのための因果最小ツールフィルタリング",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.06284",
+      "date": "2026-06-06",
+      "summary": "LLMエージェントが多数のツール候補から誤った選択を行う「Tool Choice Confusion」を抑制する手法を提案。因果関係に基づく最小限のツールフィルタリングで関連ツールのみを提示し、エージェントの信頼性とタスク成功率を向上。",
       "category": "arxiv"
     },
     {
@@ -1663,116 +1780,6 @@
       "date": "2026-05-22",
       "summary": "ELYZAは5月22日、KDDIに提供して同社が再販する法人向け生成AI活用ツール「ELYZA Works with KDDI」の初の動画広告配信を開始した。プロンプトスキルや専門知識なしに業務向けAIアプリを作成でき、AIが企画から改善まで支援する。日本企業の生成AI業務組込フェーズへの移行を象徴する事例。",
       "category": "japan"
-    },
-    {
-      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
-      "date": "2026-05-21",
-      "summary": "Microsoftが自社のAI推論チップ「Maia 200」をAnthropicに供給するため初期協議中であることが報じられた。これはMicrosoftがカスタムAIシリコンの提供で競合のAWS・Googleに追いつく重要な機会となる。Maia 200は2026年1月に発表され、最新シリコンと比較してドル当たり30%以上のトークン効率向上を実現したと言われる。",
-      "category": "international"
-    },
-    {
-      "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
-      "date": "2026-05-21",
-      "summary": "トランプ大統領は5月21日に予定されていたAI業界に関する大統領令の署名式を急遽延期した。「特定の側面が気に入らなかった」「AIは大きな利益を生み出しており、阻害要因になり得る」と説明。当初の大統領令はフロンティアAIシステムの自主的な政府テストを求める内容で、リリース前90日間の政府との共有を義務付ける枠組みを目指していた。",
-      "category": "international"
-    },
-    {
-      "title": "Trump delays AI security executive order: 'I don't want to get in the way of that leading'",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "date": "2026-05-21",
-      "summary": "トランプ大統領は予定していたAIセキュリティ大統領令の署名を直前で延期した。米国がAI分野で中国や世界をリードしているとし、リーダーシップを妨げる可能性のある措置を回避したいと表明。サイバー責任者室がAIモデルのセキュリティ評価プロセスを開発するという内容だったが、業界寄りに見直される可能性がある。",
-      "category": "international"
-    },
-    {
-      "title": "Alibaba introduces Qwen3.7-Max as next-gen AI agent model",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/05/21/alibaba-introduces-qwen3-7-max-as-next-gen-ai-agent-model/",
-      "date": "2026-05-21",
-      "summary": "Alibabaが100万トークンのコンテキストウィンドウと拡張思考モードを持つフラッグシップ推論モデルQwen3.7-Max-Previewを発表した。同社の最先端エージェントモデルで、コーディング・デバッグ・オフィスワークフロー自動化に対応し、長期タスクで最大35時間自律実行可能。Artificial Analysis Intelligence Indexで57を記録し公開ランキング1位となった。",
-      "category": "international"
-    },
-    {
-      "title": "How Google plans to win the AI war",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
-      "date": "2026-05-21",
-      "summary": "Google I/O 2026の発表を踏まえ、GoogleがOpenAI・Anthropicに対して優位を確立するための戦略を分析。Gemini 3.5 Flash・Omni・Sparkといった製品ラインアップ、価格戦略、垂直統合された自社TPUインフラストラクチャを武器に、AI時代の主導権獲得を目指す姿勢を解説している。",
-      "category": "international"
-    },
-    {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "title_ja": "Spotify、ElevenLabs技術を活用したオーディオブック作成ツールを発表",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "date": "2026-05-21",
-      "summary": "SpotifyはElevenLabsの音声AI技術を用いてセルフパブリッシュのオーディオブックを作成できるツールをSpotify for Authorsに導入。2026年6月から招待制ベータで英語限定で開始される。著者は他のプラットフォームでも作品を販売可能。",
-      "category": "international"
-    },
-    {
-      "title": "Books on Spotify: New Updates for Listeners and Authors",
-      "source": "Spotify Newsroom",
-      "url": "https://newsroom.spotify.com/2026-05-21/investor-day-audiobook-features-updates/",
-      "date": "2026-05-21",
-      "summary": "Spotifyはオーディオブック戦略の次章として、Audiobooks+サブスクリプションの拡大とElevenLabs技術を活用したセルフパブリッシュ向けAI音声ツールの提供を発表。Spotify for Authorsはフランス語、ドイツ語、オランダ語、スウェーデン語など10言語に対応拡大する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Innovations from Google I/O 26 on Google Cloud",
-      "source": "Google Cloud Blog",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
-      "date": "2026-05-21",
-      "summary": "Google CloudはI/O 2026でGemini 3.5 FlashのEnterprise Agent Platform対応、Antigravity経由でのデプロイ、AI Studioでの開発体験など、エンタープライズ向けAI基盤の刷新を発表した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive 'universal' AI interface",
-      "title_ja": "Brett Adcock率いるHark、AIハードウェアで$700M Series A調達（評価額$6B）",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "date": "2026-05-21",
-      "summary": "Figure.AI、Archer創業者のBrett AdcockによるAIハードウェアスタートアップHarkがParkway Venture Capital主導でSeries A $700M（評価額$6B）を調達。NVIDIA、AMD Ventures、Intel Capital、Qualcomm Ventures、Salesforce Venturesらが参加。今夏にAIモデルを先行公開し、その後AIネイティブなハードウェアデバイスを投入予定。",
-      "category": "international"
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "title_ja": "Spotify×UMG、ファンによるAIカバー・リミックスを許可する歴史的ライセンス契約",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "date": "2026-05-21",
-      "summary": "SpotifyとUniversal Music Groupが、ファンが参加アーティストの楽曲をAIでカバー・リミックスできる新ツールのライセンス契約に合意。Premium加入者向け有料アドオンとして提供予定。「同意・クレジット・報酬」の3本柱に基づくオプトイン方式で、アーティスト・作曲家に新たな収益源を創出。",
-      "category": "international"
-    },
-    {
-      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.22791",
-      "date": "2026-05-21",
-      "authors": "Ali Hatamizadeh, Yejin Choi, Jan Kautz (NVIDIA)",
-      "summary": "Gated DeltaNet-2は線形アテンションにおけるdelta ruleの消去と書き込みを分離する再帰アテンション層。GDNの「単一スカラーゲートが消去と書き込みを同時に制御する」制約を、key側eraseとvalue側writeのチャネル単位ゲート2つに分割。長文脈検索で明確な性能向上を示し、複数キーが競合するケースで特に有効。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.22567",
-      "date": "2026-05-21",
-      "authors": "（著者情報未取得）",
-      "summary": "強化学習による多段推論強化は多言語コンテキストでは効果が薄れる問題に取り組み、漸進的減衰付き言語条件ヒントと言語適応機構を導入。言語一貫性を損なわずに多言語推論性能を向上させるLANGフレームワークを提案。",
-      "category": "arxiv"
-    },
-    {
-      "title": "From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.22074",
-      "date": "2026-05-21",
-      "authors": "（著者情報未取得）",
-      "summary": "推論チェーンを検証可能なサブ問題に分解し、カリキュラム型強化学習でLLMの推論に対するクレジット割当を可能にする手法を提案。長い推論軌跡における報酬希薄性問題に対応。",
-      "category": "arxiv"
     }
   ]
 }

@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-09 09:00 (JST)",
+  "lastUpdated": "2026-06-10 09:00 (JST)",
   "articles": [
+    {
+      "title": "SoftBank's Attempt to Get $6 Billion OpenAI Margin Loan Stalls",
+      "title_ja": "ソフトバンクのOpenAI株担保60億ドルマージンローン交渉が停滞",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls",
+      "date": "2026-06-10",
+      "summary": "ソフトバンクGがOpenAI株を担保に少なくとも60億ドルを調達するマージンローン交渉が停滞していると報道。当初目標100億ドルから既に減額しており、AI投資を支える資金調達ルートの難航が露呈。後日再開の可能性も残るとされる。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Deep Dive, June 10: The 550B Free Model That Makes Self-Hosted AI Enterprise Real",
+      "title_ja": "AIニュース詳細解説（6月10日）: 自社運用エンタープライズAIを現実にする550Bの無償モデル",
+      "source": "Asanify",
+      "url": "https://asanify.com/blog/news/self-hosted-ai-enterprise-june-10-2026/",
+      "date": "2026-06-10",
+      "summary": "NVIDIAが商用許諾付きで公開した550Bパラメータの Nemotron 3 Ultra（MoEで実効55Bアクティブ）が、自社運用エンタープライズAIを現実にした6月10日のAI業界動向を整理。Artificial Analysis Intelligence Indexで47.7と米国製オープンウェイトモデル最高スコアを記録した点を解説。",
+      "category": "international"
+    },
     {
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
       "title_ja": "Anthropic、Google・Broadcomとの提携を拡大し次世代計算基盤を複数ギガワット規模で確保",
@@ -35,6 +53,60 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-09/openai-and-anthropic-ipos-will-put-ai-enthusiasm-to-the-test",
       "date": "2026-06-09",
       "summary": "BloombergはOpenAI（評価額8520億ドル）とAnthropic（同9650億ドル）の相次ぐ秘密裡IPO申請を受け、各々が1兆ドル前後の評価で公開市場に挑む見通しを分析。SpaceXを含む大型AI関連IPOの連鎖が市場のAI熱を問う展開になると指摘。",
+      "category": "international"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "title_ja": "Claude Fable 5 と Claude Mythos 5 を発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "date": "2026-06-09",
+      "summary": "AnthropicがOpus上位の新階層「Mythosクラス」の初公開モデル Claude Fable 5 と、限定提供版 Claude Mythos 5 を正式発表。Pro/Max/Team/Enterpriseで6/9〜6/22の無償提供、API/Bedrock経由は10/50ドル/100万トークン。サイバー・生物・化学・モデル蒸留など高リスク領域ではOpus 4.8にフォールバック。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+      "title_ja": "Anthropic Claude Fable 5 が AWS で提供開始、Mythosクラス機能と内蔵ガードレールが利用可能に",
+      "source": "AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
+      "date": "2026-06-09",
+      "summary": "AWSがAnthropicのMythosクラス新モデル Claude Fable 5 をAmazon Bedrockで即時提供開始したと発表。コーディング・知識業務・視覚タスクで最先端性能を発揮しつつ、高リスク領域ではOpus 4.8へ自動フォールバックする内蔵セーフガードを備える。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic released Claude Fable 5, its most powerful model publicly, days after warning AI is getting too dangerous",
+      "title_ja": "AnthropicがMythos版「Claude Fable 5」を公開、AIが危険になりすぎていると警告した直後の発表",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "date": "2026-06-09",
+      "summary": "Anthropicが「フロンティアAI開発の世界協調的な一時停止」を提唱した数日後に最も強力な公開モデル Claude Fable 5 をリリース。Mythosクラスの能力を持ちつつ、サイバー・生物分野で応答をブロックする安全策を内蔵し、より制約の少ないMythos 5は限定アクセス組織のみに提供。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic releases Mythos-like AI model to the public, Claude Fable 5",
+      "title_ja": "Anthropic、Mythos相当のAIモデル「Claude Fable 5」を一般公開",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "date": "2026-06-09",
+      "summary": "CNBCはAnthropicが内部Mythosモデルと同等の能力を持つ Claude Fable 5 を一般公開したと報道。Opus 4.8の2倍の価格設定（入力10ドル/出力50ドル/100万トークン）で、Claude API・Amazon Bedrock経由で即日利用可能。安全策は会話の5%未満で起動するとAnthropicは説明。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic releases Fable 5, the first public Mythos-class model",
+      "title_ja": "Anthropic、初の公開Mythosクラスモデル「Fable 5」をリリース",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/security/fable-5-anthropic-release-public-mythos-claude-model-rcna349104",
+      "date": "2026-06-09",
+      "summary": "NBC NewsはAnthropicが初の公開Mythosクラスモデル Claude Fable 5 をリリースしたと報道。コーディング・科学研究・サイバーセキュリティ・自律業務でフロンティアレベルの性能を主張する一方、サイバー・生物・化学領域は強力なガードレールでブロックすると伝える。",
+      "category": "international"
+    },
+    {
+      "title": "Initial impressions of Claude Fable 5",
+      "title_ja": "Claude Fable 5 を試してみた初期印象",
+      "source": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+      "date": "2026-06-09",
+      "summary": "Simon Willison氏がAnthropicの新モデル Claude Fable 5 を試した初期レビュー。コーディングタスクや長文推論での挙動、安全フォールバックの動作、Opusとの違いを実例とともに報告し、Mythosクラスの公開がもたらす実利用上のインパクトを考察。",
       "category": "international"
     },
     {
@@ -143,6 +215,43 @@
       "url": "https://arxiv.org/abs/2606.09550",
       "date": "2026-06-08",
       "summary": "科学探究プロセスをインタラクティブな「Research Tree」として形式化した診断環境を提案。AIエージェントが仮説・実験設計・結果解釈の各ステップで人間研究者と同等のループを回せるかを論文由来のツリーで評価。",
+      "category": "arxiv"
+    },
+    {
+      "title": "The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model",
+      "title_ja": "中立の仮面: RLHFが大規模言語モデルに表層的アライメントを与えつつ党派的構造を温存する仕組み",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.09735",
+      "date": "2026-06-08",
+      "summary": "RLHFが配備済みLLMの振る舞いをどう形成するかを政治的回答軸で検証。表層的な中立さは獲得しても、潜在表現には党派的構造が温存されることを示し、「中立の仮面」現象としてアライメントの深さに関する課題を提起する。",
+      "authors": "Wendy K. Tam et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "title_ja": "感覚から意思決定へ: マルチモーダルLLMにおける聴覚・視覚情報の流れ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.10147",
+      "date": "2026-06-08",
+      "summary": "音声・視覚信号がマルチモーダルLLM内部でどのように経路選択・統合され意思決定に至るかを解析。モダリティ間のルーティング挙動を可視化し、知覚情報が言語的判断に変換されるメカニズムへの理解を深める。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Hallucination Cascade: Analyzing Error Propagation in Multi-Agent LLM Systems",
+      "title_ja": "ハルシネーション・カスケード: マルチエージェントLLMシステムにおける誤り伝播の分析",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.07937",
+      "date": "2026-06-08",
+      "summary": "複数LLMエージェントが連結するカスケード構成での事実誤り伝播を分析。クレーム単位の不一致追跡により、ハルシネーションが下流エージェントへ増幅される条件と防止策の設計指針を導出する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
+      "title_ja": "Role-Agent: 二重役割進化による LLM エージェントのブートストラップ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.10917",
+      "date": "2026-06-08",
+      "summary": "1体のLLMをエージェント役と環境役の双方に役割割当することで、World-In-Agent と Agent-In-World の構成要素を介した共進化型ブートストラップを実現するフレームワークを提案。外部環境なしにエージェント能力を引き上げる枠組みを示す。",
       "category": "arxiv"
     },
     {
@@ -368,6 +477,15 @@
       "category": "company_blog"
     },
     {
+      "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+      "title_ja": "エージェントメモリ: 長期文脈ステートフルワークロードの特性とシステム実装上の含意",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.06448",
+      "date": "2026-06-05",
+      "summary": "長期インタラクション履歴に対する持続的推論が要求されるLLMエージェントについて、エージェントメモリのアクセスパターンとシステム側の負荷特性を計測。長期ホライズン運用時のキャッシュ設計やストレージ階層の最適化指針を提供する。",
+      "category": "arxiv"
+    },
+    {
       "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
       "title_ja": "カナダ・カーニー首相、国家AI戦略「AI for All」を発表",
       "source": "Prime Minister of Canada",
@@ -528,6 +646,14 @@
       "authors": "et al.",
       "summary": "中止されたフィールド実験において、未開示のAI生成アカウントがライブ討論でユーザーと関わった事例を分析。隠密LLMエージェントが用いた説得戦術を定量化し、AIエージェントのオンライン討論における倫理的・社会的影響を考察した研究。",
       "category": "arxiv"
+    },
+    {
+      "title": "経産省の「GENIAC」第4期に16件採択、日本の生成AI開発は現場特化へ",
+      "source": "日経クロステック",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11804/",
+      "date": "2026-06-04",
+      "summary": "経済産業省とNEDOがGENIAC第4期の採択結果を公表し、16件のプロジェクトを選定。汎用基盤モデルから現場特化型・産業データ活用型・ロボット基盤モデルへと方向性が広がり、日本の生成AI開発が応用領域に深く踏み込む転換点と位置付けられる。",
+      "category": "japan"
     },
     {
       "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
@@ -1033,6 +1159,22 @@
       "date": "2026-05-29",
       "summary": "TechCrunchは5月29日、Anthropic Claude Code・GitHub Copilot・OpenAI Codexなどが「不可欠」となる中、AIを前提にする開発者は離せなくなる一方でAI生成コードの品質には依然として懸念が残ると指摘する記事を掲載。生産性の上昇とコード品質の劣化、シニアエンジニアの育成パイプラインの空洞化リスクなどを論じ、企業の開発組織におけるAIガバナンスの再設計が急務だと結論付けた。",
       "category": "international"
+    },
+    {
+      "title": "GENIAC-PRIZE 2026始動、懸賞金・計算リソース総額10億円のAIコンテスト—経産省・NEDOが挑む人手不足とフィジカルAI",
+      "source": "Innovatopia",
+      "url": "https://innovatopia.jp/ai/ai-news/106416/",
+      "date": "2026-05-29",
+      "summary": "経済産業省とNEDOが「GENIAC-PRIZE 2026」を発表。懸賞金最大6.3億円＋テーマ2参加者向け最大4億円相当の計算リソースを含む総額約10億円のAIコンテストで、エッセンシャルワーカー支援とフィジカルAI人材育成を二本柱に設計された。",
+      "category": "japan"
+    },
+    {
+      "title": "総額約10億円の懸賞金・計算リソースを提供するAIコンテスト「GENIAC-PRIZE 2026」が始動します",
+      "source": "経済産業省",
+      "url": "https://www.meti.go.jp/press/2026/05/20260529003/20260529003.html",
+      "date": "2026-05-29",
+      "summary": "経済産業省は2026年5月29日、NEDOと共同で「GENIAC-PRIZE 2026」を正式発表。総額約10億円の懸賞金・計算リソースを提供し、エッセンシャルワーカーを支援する基盤モデル開発などをテーマとした生成AI技術コンテストを始動する。",
+      "category": "japan"
     },
     {
       "title": "Anthropic raises at $965B valuation, eclipsing OpenAI as the world's most valuable private AI company",
@@ -1645,141 +1787,6 @@
       "summary": "Ant Group・Westlake大・ミシガン大・USTCの共同研究グループは、対話型ツール使用エージェントとその学習環境を共進化させる閉ループ枠組み「SEAL」を提案。実行可能検証下でオンポリシ軌跡を収集し、失敗ロールアウトをターンレベルの失敗ラベルへ分解することで、エージェントの汎化と頑健性を同時に高める。エージェント・カリキュラム自動生成の新潮流として、自己進化型LLMエージェント研究の最新成果に位置付けられる。",
       "authors": "Yihao Hu, Zhihao Wen, Xiujin Liu, Pan Wang, Xin Zhang, Wei Wu (Ant Group, Westlake University, University of Michigan, USTC)",
       "category": "arxiv"
-    },
-    {
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "date": "2026-05-22",
-      "summary": "Google I/O 2026におけるAI発表（Gemini 3.5、AlphaFold関連の進展など）から、AI駆動の科学研究の方向性がどのように変化しているかを論じる記事。一般用AIから科学発見のための専用ツール群へのシフトを示している。",
-      "category": "international"
-    },
-    {
-      "title": "COMPUTEX 2026 to Spotlight NVIDIA's Latest AI Innovations in Upcoming Keynote",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/computex-2026-to-spotlight-nvidias-latest-ai-innovations-in-upcoming-keynote-302748402.html",
-      "date": "2026-05-22",
-      "summary": "NVIDIAがCOMPUTEX 2026でVera CPUシリーズを発表予定。AMD/Intelのx86 CPUと比較して最大1.5倍の性能を主張。Vera Rubin NVL72ラックスケールAIスーパーコンピュータがGolden AwardとSustainable Tech Special Awardを受賞。",
-      "category": "international"
-    },
-    {
-      "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What's Next in AI",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-      "date": "2026-05-22",
-      "summary": "Jensen HuangがCOMPUTEX 2026の基調講演を実施。エージェントAI向けの新しいVera CPU、Rubinベースのインフラ、ロボティクスとエッジAI向けのJetson Thorプラットフォームなど、最新AIエコシステムの全体像を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
-      "title_ja": "ザッカーバーグ、AI競争勝利のための従業員監視を擁護──リーク音声で発覚",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
-      "date": "2026-05-22",
-      "summary": "Meta社内タウンホールのリーク音声で、ザッカーバーグCEOが「Model Capability Initiative (MCI)」と呼ぶ社内監視プログラムを擁護。Gmail、Google Chat、Metamate、VS Codeなど全活動を追跡しAIの学習データとして利用。約8,000人のレイオフ通知と同日に音声が公開され社内外で炎上。",
-      "category": "international"
-    },
-    {
-      "title": "The big questions OpenAI's trillion-dollar IPO filing may finally answer",
-      "title_ja": "OpenAI、機密ベースでS-1提出──$1兆規模IPOがついに現実化",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/",
-      "date": "2026-05-22",
-      "summary": "OpenAIが5月22日にSECへ機密ベースのS-1書類を提出。評価額$852B〜$1Tを目指す2026年Q4上場を視野に、ゴールドマン・サックスとモルガン・スタンレーが主幹事を務める。1Qで$1の売上に対し$1.22の損失計上という財務状況下でのIPO挑戦が注目される。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic's Project Glasswing Finds 'More Than 10,000' Critical Bugs, Expands To Additional Partners",
-      "title_ja": "Anthropicの「Project Glasswing」、Mythosで10,000件超の重大脆弱性を発見、新パートナーへ拡大",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/private-markets/26/05/52759147/anthropics-project-glasswing-finds-more-than-10000-critical-bugs-expands-to-additional-partners",
-      "date": "2026-05-22",
-      "summary": "Anthropicが5月22日、Project Glasswingの初期アップデートを公表。Mythos Previewが広く使われるソフトウェアで高・重大度の脆弱性を1万件超発見。Cloudflareは約2,000件（うち重大度高400件）、MozillaはFirefox 150で271件を修正。VerizonやIBMが新たに参画し、対象ソフトウェアを拡大。",
-      "category": "international"
-    },
-    {
-      "title": "Project Glasswing: An initial update",
-      "title_ja": "Project Glasswing：初期アップデート（公式）",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "date": "2026-05-22",
-      "summary": "Anthropic公式ブログがProject Glasswing開始から約1か月の成果を共有。Claude Mythos Previewによる脆弱性発見、Claude Securityのパブリックベータ開始、約50の主要技術組織との連携、Verizon・IBMら新規パートナーの参画、責任ある情報開示原則に基づく脆弱性情報共有の緩和方針などを発表。",
-      "category": "company_blog"
-    },
-    {
-      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.22794",
-      "date": "2026-05-22",
-      "authors": "Qianshu Cai, Yonggang Zhang, Xianzhang Jia, Wei Xue, Jun Song, Xinmei Tian, Yike Guo",
-      "summary": "自律エージェントシステムが配備後も静的である問題に対し、本番エージェント基盤に対してソースレベルでの自己書き換えを行うMOSSを提案。テキスト変更可能な範囲のスーパーセットを構成する手段としてソースレベル適応がチューリング完全で決定論的に作用すると主張。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic Launches Claude Security in Public Beta for Enterprise Customers",
-      "source": "Pulse 2.0",
-      "url": "https://pulse2.com/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/",
-      "date": "2026-05-22",
-      "summary": "Anthropicは企業向けにClaude Securityをパブリックベータとして提供開始した。Claude Opus 4.7を活用してコードリポジトリの脆弱性をスキャンし、修正案を提示する仕組みで、API統合不要でClaude.aiのサイドバーから直接利用可能。最初の3週間で2,100件以上の脆弱性パッチ生成に活用された。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Ships Codex Updates: Goal Mode GA, Appshots, and Locked-Mac Remote Use",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
-      "date": "2026-05-22",
-      "summary": "OpenAIは「Codex Thursday」と銘打ち、Codexに3つの大型アップデートを投入した。Goal modeが一般提供となり、数時間〜数日にわたる自律タスクを実行可能となったほか、macOSアプリのスクリーンショットを瞬時に渡せるAppshots機能、画面ロック中のMacでもCodexがリモートから稼働できる機能を追加した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Named a Leader in 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader/",
-      "date": "2026-05-22",
-      "summary": "OpenAIは2026年Gartner Magic Quadrant for Enterprise AI Coding AgentsでLeaderに選出されたと発表した。Codexは週間400万人以上に利用されNVIDIAなど大企業にも採用されており、Gartnerはエージェント型ソフトウェア開発、ガバナンス、サンドボックス、柔軟なデプロイ形態を高く評価した。",
-      "category": "international"
-    },
-    {
-      "title": "Grok Adds Vercel, Canva, Gamma, and S&P Global Connectors to Become AI Workstation",
-      "source": "Digg",
-      "url": "https://digg.com/ai/zpdwxn8k",
-      "date": "2026-05-22",
-      "summary": "xAIはGrokに第三者コネクタを一気に追加し、Vercelでのサイト構築・デプロイ、Canvaでのデザイン作成、Gammaでのプレゼン作成、S&P Globalからのライブ市場データ取得をチャット内で完結できるようにした。Grokを単なるチャットボットから統合型生産性プラットフォームへと押し上げる動きとされる。",
-      "category": "international"
-    },
-    {
-      "title": "Adobe, Canva, and CapCut Land Inside Gemini as Google Builds a One-Stop Creative Studio",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317031/20260522/gemini-locks-adobe-canva-capcut-creative-integrations-land-usage-limits-tighten.htm",
-      "date": "2026-05-22",
-      "summary": "Google I/O 2026から数日のうちに、Adobe・Canva・CapCutがGeminiアプリへのネイティブ統合を相次いで確定させた。CanvaコネクタはすでにロールアウトされGeminiチャット内で@Canvaから直接デザイン生成・編集が可能となり、CapCutは動画編集機能、Adobeは50以上のプロ向け編集ツールを提供予定。GoogleがGeminiをクリエイティブ制作のハブに据える戦略が鮮明になった。",
-      "category": "international"
-    },
-    {
-      "title": "Google's AI Agent Ambitions Are Real — But Locked Behind a $100 Monthly Paywall",
-      "source": "The AI Insider",
-      "url": "https://theaiinsider.tech/2026/05/22/googles-ai-agent-ambitions-are-real-but-remain-locked-behind-a-100-monthly-paywall/",
-      "date": "2026-05-22",
-      "summary": "GoogleがGemini Sparkによる個人タスク管理、Google Alertsを置き換える情報エージェント、GmailとCalendarを統合するDaily Brief、エージェント化が進むChromeブラウザを含む野心的なAIエージェント群を発表した一方、主要機能の多くは月額100ドルのUltraプラン購読者に限定されている点を批判的に分析した記事。",
-      "category": "international"
-    },
-    {
-      "title": "Metacognition as Reward: Reinforcing LLM Reasoning via Knowledge and Regulation Signals",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.23384",
-      "date": "2026-05-22",
-      "summary": "近年のRL手法によるLLM推論能力向上を受け、本論文ではメタ認知に着想を得たRLフレームワーク「Metacognition-as-Reward (MaR)」を提案。メタ認知的知識（自分の何を知っているかの認識）と調整シグナル（推論プロセスの監視・制御）をRL報酬に組み込むことで、外部の検証可能報酬のみに依存する従来のGRPO/PPO型手法より、汎化可能で堅牢な推論を獲得できることを実験的に示した。数学・科学推論ベンチマークで一貫した改善を報告。",
-      "authors": "Sirui Chen et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "ELYZA launches first video advertising campaign for 'ELYZA Works with KDDI' enterprise generative AI tool",
-      "title_ja": "ELYZA、KDDIに提供する法人向け生成AIツール「ELYZA Works with KDDI」初の動画広告配信開始",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000072.000047565.html",
-      "date": "2026-05-22",
-      "summary": "ELYZAは5月22日、KDDIに提供して同社が再販する法人向け生成AI活用ツール「ELYZA Works with KDDI」の初の動画広告配信を開始した。プロンプトスキルや専門知識なしに業務向けAIアプリを作成でき、AIが企画から改善まで支援する。日本企業の生成AI業務組込フェーズへの移行を象徴する事例。",
-      "category": "japan"
     }
   ]
 }

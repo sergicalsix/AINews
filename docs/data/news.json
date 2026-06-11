@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-10 09:00 (JST)",
+  "lastUpdated": "2026-06-11 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic walks back Claude Fable 5 frontier AI research safeguards after backlash",
+      "title_ja": "Anthropic、Claude Fable 5の「フロンティアAI研究」用ガードレールを批判受け撤回",
+      "source": "Simon Willison's blog",
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+      "date": "2026-06-11",
+      "summary": "Anthropicが6月9日に公開したClaude Fable 5のシステムカードに、フロンティアLLM開発関連プロンプトに対し steering vector / プロンプト改変で出力を密かに劣化させる仕組みが含まれていたことが判明し、Nathan Lambertら研究者が「反科学的」と批判。同社は『誤ったトレードオフだった』と謝罪し、当該セーフガードを可視化する形に変更すると発表した。",
+      "category": "international"
+    },
+    {
+      "title": "AI Regulation Push: Amodei Demands Power Blocking Unsafe Models, Anthropic Pledges $350 Million",
+      "title_ja": "AI規制強化要求：アモデイ氏が危険モデルの差止権限を要求、Anthropicは3.5億ドル拠出",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/318217/20260611/ai-regulation-push-amodei-demands-power-blocking-unsafe-models-anthropic-pledges-350-million.htm",
+      "date": "2026-06-11",
+      "summary": "TechTimesがAnthropicの新政策パッケージを整理。Amodei CEOが提案するFAA型のフロンティアAI規制（10^25 FLOPs閾値、第三者テスト、政府差止権限）に加え、雇用市場の混乱に備えてEconomic Futures Research Fund（2億ドル）と全米フェローシップ（1.5億ドル）に計3.5億ドルを拠出すると報じる。",
+      "category": "international"
+    },
     {
       "title": "SoftBank's Attempt to Get $6 Billion OpenAI Margin Loan Stalls",
       "title_ja": "ソフトバンクのOpenAI株担保60億ドルマージンローン交渉が停滞",
@@ -17,6 +35,42 @@
       "url": "https://asanify.com/blog/news/self-hosted-ai-enterprise-june-10-2026/",
       "date": "2026-06-10",
       "summary": "NVIDIAが商用許諾付きで公開した550Bパラメータの Nemotron 3 Ultra（MoEで実効55Bアクティブ）が、自社運用エンタープライズAIを現実にした6月10日のAI業界動向を整理。Artificial Analysis Intelligence Indexで47.7と米国製オープンウェイトモデル最高スコアを記録した点を解説。",
+      "category": "international"
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "title_ja": "OpenAI、Oracleクラウド契約枠でOpenAIモデルとCodexを利用可能に",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-on-oracle-cloud/",
+      "date": "2026-06-10",
+      "summary": "OpenAIとOracleが提携し、Oracle Cloud Infrastructure（OCI）の既存のUniversal Credits枠を使ってOpenAIの最先端モデルとCodexを購入できるようにすると発表。今後数週間で順次提供を開始し、企業は新たな調達フローを作らずに既存のクラウド契約・ガバナンス内でAI導入を進められるようになる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic CEO Says Government Should Be Able to Block New Models",
+      "title_ja": "AnthropicのアモデイCEO、政府に危険なAIモデルの公開差止権限を求める",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-says-government-should-be-able-to-block-new-models",
+      "date": "2026-06-10",
+      "summary": "Anthropic CEO Dario Amodeiが政策エッセイ『Policy on the AI Exponential』を発表し、米政府に対し独立した安全性テストに失敗したフロンティアAIモデルの公開を差し止め・撤回できる法的権限を持つよう要請。10^25 FLOPs超または年間AI売上5億ドル超の企業のモデルを第三者監査の対象に置く航空（FAA）型の規制案を打ち出した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+      "title_ja": "アモデイCEO、強力なAIモデルにFAA型規制を提唱──企業が知るべきポイント",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
+      "date": "2026-06-10",
+      "summary": "VentureBeatがAmodei CEOの『Policy on the AI Exponential』エッセイを分析。サイバー・生物兵器・自律性・自動化R&Dの4領域で第三者テストを義務化し、政府に差止権限を与える案で、25年のSB53等の透明性法を超える『拘束力ある規制』への移行を求めた点を解説。Anthropicは雇用対策に3.5億ドル（経済未来研究基金2億ドル＋フェローシップ1.5億ドル）も拠出すると発表。",
+      "category": "international"
+    },
+    {
+      "title": "Dario Amodei — Policy on the AI Exponential",
+      "title_ja": "Dario Amodei『Policy on the AI Exponential』エッセイ公開",
+      "source": "darioamodei.com",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "date": "2026-06-10",
+      "summary": "Anthropic CEO Dario Amodei本人が長編エッセイを公開。AIの能力曲線が政策の追従速度を上回りつつあるとして、フロンティアモデルの第三者強制テスト、政府による公開差止権限、地政学戦略を提案。透明性中心の従来路線から、より拘束力のある安全規制への明確な方針転換を打ち出した。",
       "category": "international"
     },
     {
@@ -108,6 +162,24 @@
       "date": "2026-06-09",
       "summary": "Simon Willison氏がAnthropicの新モデル Claude Fable 5 を試した初期レビュー。コーディングタスクや長文推論での挙動、安全フォールバックの動作、Opusとの違いを実例とともに報告し、Mythosクラスの公開がもたらす実利用上のインパクトを考察。",
       "category": "international"
+    },
+    {
+      "title": "RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference",
+      "title_ja": "RKSC：マルチステップLLM推論のための推論認識KVキャッシュ共有と確信度ベース早期終了",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.09937",
+      "date": "2026-06-09",
+      "summary": "学習不要の推論フレームワーク RKSC を提案。マルチブランチ推論パイプラインにおける構造的冗長性を排除し、KVキャッシュを推論パス間で共有しながら確信度の高い時点で早期終了することで、精度を維持しつつ推論コストを大幅に削減する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Does Reasoning Preserve Alignment? On the Trustworthiness of Large Reasoning Models",
+      "title_ja": "推論能力はアラインメントを維持するか：大規模推論モデルの信頼性評価",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.11046",
+      "date": "2026-06-09",
+      "summary": "中間推論ステップを生成するよう訓練されたLLMが、推論精度だけでなく、不許可リクエストの拒否、毒性回避、プライバシー尊重、倫理的判断を一貫して維持できるかを評価する大規模研究。推論を学習させることで安全性が劣化するケースを系統的に示し、信頼性ベンチマーク群を提供する。",
+      "category": "arxiv"
     },
     {
       "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
@@ -288,6 +360,15 @@
       "url": "https://arxiv.org/abs/2606.08878",
       "date": "2026-06-07",
       "summary": "LLMがマルチエージェントシステム向けのオーケストレーション用プロンプトを構成できるかを評価する新規ベンチマーク。110のシナリオを「ロール片の割当」と「フリーフォームプロンプト記述」の2形式（妨害要素混在）で計測し、現行モデルの限界を可視化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents",
+      "title_ja": "TRACE: LLMエージェントの軌跡を適応的にクロスステップ集約して評価する推論フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.07054",
+      "date": "2026-06-07",
+      "summary": "長時間動作するLLMエージェントの軌跡を監視するためのフレームワーク TRACE を提案。Triage-Inspect-Judge（TIJ）ループで高シグナル領域を特定し、軌跡レベルの判断を合成することで、コストを抑えつつエージェント挙動の継続的な評価・デバッグを可能にする。",
       "category": "arxiv"
     },
     {
@@ -1707,86 +1788,6 @@
       "date": "2026-05-24",
       "summary": "AppleInsiderはApple Intelligenceから独立した新サブドメイン「genai.apple.com」の登場を報道。6月8日のWWDC 2026基調講演でiOS 27世代に向けた大型生成AI発表を計画している裏付けと指摘する。Siriの大規模刷新（チャットボット型のSiri 2.0）に加え、Photos、Visual Intelligence、Voice Controlなどの生成AI機能拡張、ウォレット用パス自動生成などが見込まれている。",
       "category": "international"
-    },
-    {
-      "title": "xAI's Grok V9-Medium (1.5T) Finishes Training, Release in 2-3 Weeks",
-      "title_ja": "xAIの「Grok V9-Medium」（1.5兆パラメータ）が訓練完了、2〜3週間で公開へ",
-      "source": "Basenor",
-      "url": "https://www.basenor.com/blogs/news/grok-v9-medium-1-5t-finishes-training-release-in-2-3-weeks",
-      "date": "2026-05-24",
-      "summary": "Elon Muskは5月24日、xAIの新世代基盤モデル「Grok V9-Medium」（1.5兆パラメータ）の訓練完了を発表した。前世代V8（約0.5兆パラメータ）の約3倍規模で、AIコーディングアシスタントCursorのデータを補助訓練に大量投入することでコーディング用途を強化。教師ありファインチューニングは既に進行中で、近日中に強化学習へ移行、2〜3週間以内の公開を予定する。",
-      "category": "international"
-    },
-    {
-      "title": "Nvidia at Computex 2026: Jensen Huang Flies to TSMC as Vera Rubin Ramp Strains Taiwan Supply Chain",
-      "title_ja": "NVIDIA Jensen Huang氏、Computex期間中にTSMCを電撃訪問──Vera Rubin量産で台湾サプライチェーンが逼迫",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317079/20260524/nvidia-computex-2026-jensen-huang-flies-tsmc-vera-rubin-ramp-strains-taiwan-supply-chain.htm",
-      "date": "2026-05-24",
-      "summary": "Jensen HuangCEOがComputex期間中の5月23日に台北松山空港に降り立ち、TSMC会長C.C. Weiと面会。次世代AIプラットフォーム「Vera Rubin」（学習性能3.5倍・推論性能5倍・推論コスト1/7）の生産コミットを確保することが訪問の主目的。NVIDIAは2026-27年のCoWoSキャパシティの半分以上を既に予約しているが、Q1 FY2027の売上が前年比85%増の$81.62Bに達する中、TSMCとの拘束力ある合意は週末時点で未締結。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic and Microsoft Negotiate Maia 200 Chip Deal: Claude Could Become Custom Silicon's First Frontier Test",
-      "title_ja": "Anthropic×Microsoft、Maia 200チップ交渉──Claudeがカスタムシリコン初のフロンティア検証台に",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317072/20260524/anthropic-microsoft-negotiate-maia-200-chip-deal-claude-could-become-custom-silicons-first.htm",
-      "date": "2026-05-24",
-      "summary": "TechTimesは、AnthropicがMicrosoftのカスタムAIチップ「Maia 200」採用に向け初期交渉中であると詳報。実現すればAnthropicの4社目のシリコンベンダー追加となり、ClaudeをMaia 200の初のフロンティアモデル実証ワークロードとして稼働させる構図となる。Microsoft Maia 200は最新シリコン比で30%以上の「トークン/$」改善を主張し、AWSのTrainium、Google TPUに対抗する形でカスタムAIシリコン競争を激化させる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Funding Round to Top $30B: $900B Valuation Would Surpass OpenAI as Most Valuable AI Startup",
-      "title_ja": "Anthropic、$30B超の資金調達ラウンドへ──$900B評価でOpenAI超え",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm",
-      "date": "2026-05-23",
-      "summary": "Anthropicが$30B超の調達ラウンドをまもなく完了し、評価額は$900Bを上回りOpenAIを抜いて世界最高評価のAIスタートアップとなる見通し。Sequoia、Dragoneer、Altimeter、Greenoaksが各$2Bを共同主導。",
-      "category": "international"
-    },
-    {
-      "title": "AI Is Changing the Internet Forever — Google's Search Bar Gets Its Biggest Update in 25 Years",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
-      "date": "2026-05-23",
-      "summary": "CNNはGoogleが検索ボックスに25年ぶりとなる大規模刷新を行い、AIが質問に応じてカスタムビジュアル、インタラクティブグラフィックス、ミニアプリを動的に生成する機能を導入したと報じた。AIサービスから米国小売サイトへの流入は前年比393%増となり、Meta、Amazon、Google、OpenAIが軒並みAIショッピング機能を投入する競争状況も伝えた。",
-      "category": "international"
-    },
-    {
-      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
-      "title_ja": "Apple、WWDCを前に新ドメイン「genai.apple.com」を準備──大型AI発表の前兆か",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
-      "date": "2026-05-23",
-      "summary": "AppleがWWDC 2026開幕を数週間後に控え、新しいサブドメイン「genai.apple.com」をDNSに追加したとMacRumorsが報道。ページはまだ非公開だが、既存のApple Intelligenceとは別の生成AI関連特設サイトとなる可能性が高い。iOS 27、iPadOS 27、macOS 27でのSiri全面刷新「Siri 2.0」やApple Intelligenceの大規模強化に向けた布石と見られる。",
-      "category": "international"
-    },
-    {
-      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-      "title_ja": "NVIDIA、$2,000億CPU市場予測には中国市場を含むと表明",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/23/nvidia-forecast-for-200-billion-cpu-market-includes-china.html",
-      "date": "2026-05-23",
-      "summary": "NVIDIAは5月23日、自社が示した$2,000億規模のCPU市場予測には中国市場のシェアが含まれているとCNBCに表明。米国の対中AIチップ制限が続く中でも、Veraシリーズを軸とした次世代CPUは中国市場を一定範囲で取り込める前提で設計されているとし、データセンター市場でAMD/Intelのx86シェアを侵食する戦略を強調した。",
-      "category": "international"
-    },
-    {
-      "title": "RL with Learnable Textual Feedback: A Bilevel Approach",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.24547",
-      "date": "2026-05-23",
-      "summary": "本論文はスカラー報酬のみに依存する従来RLポストトレーニングの情報量不足を補うため、Critic モデルが自然言語フィードバックを生成しActor推論モデルを誘導する「学習可能テキストフィードバック付きRL（RL-LTF）」を提案。Bilevel最適化定式化によりCriticのフィードバック生成方策とActorの推論方策を同時最適化し、推論精度・収束速度ともに改善。スカラー報酬を超えたリッチな学習シグナルがLLM推論の新たな鍵となることを示唆する研究。",
-      "authors": "Utsav Singh et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.24426",
-      "date": "2026-05-23",
-      "summary": "Ant Group・Westlake大・ミシガン大・USTCの共同研究グループは、対話型ツール使用エージェントとその学習環境を共進化させる閉ループ枠組み「SEAL」を提案。実行可能検証下でオンポリシ軌跡を収集し、失敗ロールアウトをターンレベルの失敗ラベルへ分解することで、エージェントの汎化と頑健性を同時に高める。エージェント・カリキュラム自動生成の新潮流として、自己進化型LLMエージェント研究の最新成果に位置付けられる。",
-      "authors": "Yihao Hu, Zhihao Wen, Xiujin Liu, Pan Wang, Xin Zhang, Wei Wu (Ant Group, Westlake University, University of Michigan, USTC)",
-      "category": "arxiv"
     }
   ]
 }

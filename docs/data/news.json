@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-11 09:00 (JST)",
+  "lastUpdated": "2026-06-12 09:00 (JST)",
   "articles": [
+    {
+      "title": "NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI",
+      "title_ja": "NVIDIA、Google DeepMindのDiffusionGemmaをローカルAI向けに高速化",
+      "source": "AIwire",
+      "url": "https://www.hpcwire.com/aiwire/2026/06/12/nvidia-accelerates-google-deepminds-diffusiongemma-for-local-ai/",
+      "date": "2026-06-12",
+      "summary": "NVIDIAがGoogle DeepMindの新しい拡散型テキスト生成モデルDiffusionGemmaをRTX/DGX Sparkでday-zero最適化したと報道。GeForce RTX 5090で700トークン/秒、H100では1000トークン/秒以上を達成し、Apache 2.0ライセンスでローカル運用が可能。Hugging Face Transformers、vLLM、Unslothで即時利用できる。",
+      "category": "international"
+    },
+    {
+      "title": "AI Leaders From OpenAI, Google DeepMind, And Anthropic To Join G7 Summit",
+      "title_ja": "OpenAI・Google DeepMind・AnthropicのAIリーダーがG7サミットに揃って参加",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/",
+      "date": "2026-06-12",
+      "summary": "Sam Altman、Demis Hassabis、Dario Amodeiの3名が6月15日〜17日にフランス・エヴィアン＝レ＝バンで開かれるG7サミットに揃って出席する見込みと報道。3大AI企業のCEOが同時にG7に列席するのは初。マクロン仏大統領がAltmanを直接招待し、青少年保護を中心にAI規制の共同コミットメント策定が焦点となる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic, OpenAI, Google Executives to Join G7 Summit in France",
+      "title_ja": "Anthropic・OpenAI・Google幹部、フランスG7サミットに参加へ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit",
+      "date": "2026-06-12",
+      "summary": "BloombergがG7サミットへの主要AI企業幹部の参加計画を独自取材。OpenAIは自社のグローバルアフェアーズ責任者を通じ、テック企業群が今回のサミットで自主的なAIコミットメントパッケージに合意する見通しと表明。生体兵器・合成DNAリスクや若年層保護が議題に挙がるとされる。",
+      "category": "international"
+    },
     {
       "title": "Anthropic walks back Claude Fable 5 frontier AI research safeguards after backlash",
       "title_ja": "Anthropic、Claude Fable 5の「フロンティアAI研究」用ガードレールを批判受け撤回",
@@ -18,6 +45,42 @@
       "date": "2026-06-11",
       "summary": "TechTimesがAnthropicの新政策パッケージを整理。Amodei CEOが提案するFAA型のフロンティアAI規制（10^25 FLOPs閾値、第三者テスト、政府差止権限）に加え、雇用市場の混乱に備えてEconomic Futures Research Fund（2億ドル）と全米フェローシップ（1.5億ドル）に計3.5億ドルを拠出すると報じる。",
       "category": "international"
+    },
+    {
+      "title": "Google DeepMind and partners announce multi-agent safety research funding call",
+      "title_ja": "Google DeepMindら、マルチエージェントAI安全性研究で1000万ドル助成公募",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "date": "2026-06-11",
+      "summary": "Google DeepMindがSchmidt Sciences、Cooperative AI Foundation、英ARIA、Google.orgと共同で最大1000万ドル規模のマルチエージェントAI安全性研究助成プログラムを発表。サンドボックス・テストベッド、エージェントネットワーク科学、エージェントインフラ、監督・制御の4領域を対象に、8月8日まで世界中の研究者から応募を受け付ける。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "title_ja": "Google DeepMind、何百万ものAIエージェントが相互作用する将来に警鐘",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "date": "2026-06-11",
+      "summary": "MIT Technology Reviewが、Google DeepMindのマルチエージェント安全性公募の背景を解説。異なる組織が開発した何百万ものAIエージェントが取引・交渉・通信し合う近未来において、孤立したアライメント問題ではなく集合的ダイナミクス、創発的な誤動作、デマの伝播といったマルチエージェント特有のリスクが浮上することを警告している。",
+      "category": "international"
+    },
+    {
+      "title": "SpaceX blasts off with a record-breaking $75 billion IPO",
+      "title_ja": "SpaceX、史上最大750億ドル規模のIPOで上場",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
+      "date": "2026-06-11",
+      "summary": "SpaceXが6月11日に1株135ドルで価格決定、555,555,555株を売り出して750億ドルを調達し史上最大のIPOを記録。時価総額は約1.77兆ドルに達し、AIインフラ・衛星通信投資の競争激化を背景に、Muskが82%以上の議決権を保持したまま上場する。",
+      "category": "international"
+    },
+    {
+      "title": "Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.11688",
+      "date": "2026-06-11",
+      "authors": "Various",
+      "summary": "長時間自律的に動くLLMエージェントが「成功した」と虚偽報告する“fabrication”問題に対処するため、各サブゴールに検証可能なポストコンディションを付与し、未検証成功をプロトコルレベルで不可能化するファイアウォール「Goal-Autopilot」を提案。シミュレーション環境でcatastrophicな虚偽報告率をほぼゼロに抑えたと報告する。",
+      "category": "arxiv"
     },
     {
       "title": "SoftBank's Attempt to Get $6 Billion OpenAI Margin Loan Stalls",
@@ -71,6 +134,33 @@
       "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
       "date": "2026-06-10",
       "summary": "Anthropic CEO Dario Amodei本人が長編エッセイを公開。AIの能力曲線が政策の追従速度を上回りつつあるとして、フロンティアモデルの第三者強制テスト、政府による公開差止権限、地政学戦略を提案。透明性中心の従来路線から、より拘束力のある安全規制への明確な方針転換を打ち出した。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing DiffusionGemma: a 26B open-weights text diffusion model",
+      "title_ja": "Google DeepMind、Apache 2.0で公開する26B拡散型テキスト生成モデル「DiffusionGemma」を発表",
+      "source": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
+      "date": "2026-06-10",
+      "summary": "Googleが26BパラメータのMoEオープンウェイト拡散型テキスト生成モデルDiffusionGemmaを正式公開。256トークンを並列にデノイズしながら生成することで自己回帰モデル比4倍高速。Apache 2.0ライセンスでHugging Face、Kaggle、Vertex AI Model Gardenから利用でき、Gemma 4より品質は低いが速度優先の実験用途に位置づけられる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "DiffusionGemma",
+      "title_ja": "Simon Willison、DiffusionGemmaを解説",
+      "source": "Simon Willison's blog",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/",
+      "date": "2026-06-10",
+      "summary": "Simon WillisonがGoogle DeepMindのDiffusionGemmaを試した記録を公開。並列デノイズで256トークンずつ生成する拡散モデルは速度的に魅力的だが、MMLU等のベンチマークでは標準Gemma 4に劣ること、ローカル運用での実用性、Apache 2.0で完全オープンウェイトである点を解説する。",
+      "category": "international"
+    },
+    {
+      "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+      "title_ja": "MarkTechPost、DiffusionGemmaの技術詳細とベンチマーク結果を解説",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
+      "date": "2026-06-10",
+      "summary": "MarkTechPostがDiffusionGemmaの双方向アテンションによる並列リファインメント、エキスパート混合（MoE）構成、Hugging Face/vLLM/Unsloth向け実装の即日対応について整理。OpenAI/Anthropic製モデルとの位置付け（実験的・速度特化）と品質トレードオフを詳述している。",
       "category": "international"
     },
     {
@@ -179,6 +269,15 @@
       "url": "https://arxiv.org/abs/2606.11046",
       "date": "2026-06-09",
       "summary": "中間推論ステップを生成するよう訓練されたLLMが、推論精度だけでなく、不許可リクエストの拒否、毒性回避、プライバシー尊重、倫理的判断を一貫して維持できるかを評価する大規模研究。推論を学習させることで安全性が劣化するケースを系統的に示し、信頼性ベンチマーク群を提供する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Flaws in the LLM Automation Narrative",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.11166",
+      "date": "2026-06-09",
+      "authors": "Various",
+      "summary": "「フロンティアLLMは人間専門家と同等の自動化能力を持つ」という業界主張をベンチマーク的に検証する論文。データ分析タスクで人間専門家とフロンティアLLMの成績を比較し、人間の方が平均的に高精度かつ分散が小さく、LLM自動化はばらつきが大きく専門家代替には程遠いと結論づける。",
       "category": "arxiv"
     },
     {
@@ -467,6 +566,15 @@
       "url": "https://arxiv.org/abs/2606.06284",
       "date": "2026-06-06",
       "summary": "LLMエージェントが多数のツール候補から誤った選択を行う「Tool Choice Confusion」を抑制する手法を提案。因果関係に基づく最小限のツールフィルタリングで関連ツールのみを提示し、エージェントの信頼性とタスク成功率を向上。",
+      "category": "arxiv"
+    },
+    {
+      "title": "When Languages Disagree: Self-Evolving Multilingual LLM Judges",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.08092",
+      "date": "2026-06-06",
+      "authors": "Various",
+      "summary": "LLM-as-judge手法が言語ごとに矛盾する判定を出す問題に対処し、多言語化した入力で独立に評価させ食い違いを自己反省的に統合する自己進化型多言語ジャッジSEMJを提案。多言語評価データセットでバイアス削減と一貫性向上を確認した。",
       "category": "arxiv"
     },
     {
@@ -1679,114 +1787,6 @@
       "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut",
       "date": "2026-05-25",
       "summary": "DeepSeek-V4-Proが75%値下げを経て、知能あたりコスト（intelligence-per-dollar）のグローバルランキング首位を獲得。OpenAI・Anthropicの米国主要モデルを上回るコスト効率を実現し、AI価格競争に新たな圧力をかけている。長文脈推論を主眼に設計され、前世代比でトークン単位の計算量を4分の1、メモリ消費を10分の1に削減した点が価格永久化を可能にした。",
-      "category": "international"
-    },
-    {
-      "title": "Fujitsu develops self-evolving multi-AI agent technology that learns and adapts to business operations",
-      "title_ja": "富士通、業務とともに学び続ける自己進化マルチAIエージェント技術を開発",
-      "source": "Fujitsu Global",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/05/25-01",
-      "date": "2026-05-25",
-      "summary": "富士通は5月25日、複数AIエージェントがチームで業務を遂行しつつ、実行結果・人手フィードバック・規程改定・仕様変更を取り込み継続的かつ安全に学習する自己進化型マルチAIエージェント技術を発表した。同社の業務特化LLM「Takane」をドメイン特化前モデル比で平均28ポイント精度向上させ、汎用AIモデルを上回る精度を達成。今後Fujitsu Kozuchi Enterprise AI Factoryにコア機能として実装する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Fujitsu Unveils Self-Evolving Multi-AI Agent Technology to Enhance Business Operations",
-      "title_ja": "富士通の自己進化型マルチAIエージェントを解説──業務特化LLM「Takane」の精度を28pt改善",
-      "source": "Japan Industry News",
-      "url": "https://www.japanindustrynews.com/2026/05/fujitsu-unveils-self-evolving-multi-ai-agent-technology-to-enhance-business-operations/",
-      "date": "2026-05-25",
-      "summary": "Japan Industry Newsは、富士通の自己進化マルチAIエージェント技術が、エージェント自身が成功/失敗の理由を特定し実行可能な知見を抽出することで、専門家が継続的に行ってきたプロンプト調整や評価基準更新を自動化する点を解説。複数AIエージェントが分業しつつ集合知として進化する設計で、業務環境変化への安全な適応を実現する日本発のエージェント基盤技術として注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' warns about AI dangers",
-      "title_ja": "教皇レオ14世、初の回勅『Magnifica Humanitas』でAIの危険性に警鐘",
-      "source": "Time",
-      "url": "https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/",
-      "date": "2026-05-25",
-      "summary": "教皇レオ14世が5月25日、初の回勅『Magnifica Humanitas（壮大な人間性）』を発表。AI時代における人間の尊厳の保護をテーマに、政府・企業・個人に対して技術発展の速度を抑え、AIを倫理的・政治的監督下に置くよう求めた。42,300語の文書で、AIを新たな産業革命と位置づけ、軍事・経済利益からAIを「武装解除」し、AI企業へのより厳格な国家・国際規制を呼びかける内容。発表はAnthropic共同創業者Chris Olahが同席。",
-      "category": "international"
-    },
-    {
-      "title": "Pope Leo warns of AI fueling warfare in first major theological document",
-      "title_ja": "教皇レオ、初の主要神学文書でAIが戦争を煽る危険性に警鐘",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/05/25/europe/pope-leo-ai-encyclical-magnifica-humanitas-intl",
-      "date": "2026-05-25",
-      "summary": "CNNは教皇レオ14世の初回勅『Magnifica Humanitas』を詳報。235ページの文書はバチカンが「ビッグテック」に対し正面から立ち向かう姿勢を示すもので、AIの軍事利用拡大と労働者・人間の尊厳への影響を中心に警告。教皇レオ13世が135年前の同日に署名した労働者の権利に関する『Rerum Novarum』との対応関係を意識した日程設定で、第二次産業革命に対応する社会教説の現代版と位置づけられる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical 'Magnifica humanitas'",
-      "title_ja": "Anthropic共同創業者Chris Olah、教皇レオ14世の回勅『Magnifica humanitas』に寄せたコメントを公開",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "date": "2026-05-25",
-      "summary": "Anthropicは5月25日、共同創業者でAI解釈可能性研究を率いるChris Olahによる教皇レオ14世の回勅『Magnifica humanitas』発表に寄せたコメントを公式サイトで公開。OlahはAIの透明性・解釈可能性研究の重要性を強調し、Anthropicが進める安全研究と回勅が掲げる「AI時代における人間の保護」というテーマが共鳴する点を述べた。Olahはバチカンでの回勅発表に登壇し、AI企業として教皇庁の社会教説に応答する象徴的役割を担った。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership",
-      "title_ja": "OpenAI、Grupo Folha・Grupo UOLとブラジル初の戦略的コンテンツ提携を発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership/",
-      "date": "2026-05-25",
-      "summary": "OpenAIは5月25日、ブラジル最大級の報道機関Grupo FolhaおよびGrupo UOLとの戦略的コンテンツ提携を発表。週間アクティブユーザー9億人超のChatGPT利用者がFolha de S.PauloとUOLの記事に基づく要約と出典リンクを参照可能となる。Grupo Folha・UOLにはChatGPT Enterprise・OpenAI API・Codexへのアクセス権を提供。本提携によりFolhaが2025年に提起したコンテンツ無断利用訴訟も和解。ブラジルはChatGPTのMAU 5,000万人超、1日1.4億メッセージという主要市場。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic to release Mythos-class models to the public",
-      "title_ja": "Anthropic、脆弱性発見モデルMythos相当モデルを将来的に一般公開する方針を表明",
-      "source": "The Register",
-      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-      "date": "2026-05-25",
-      "summary": "Anthropicは5月25日、安全対策の強化を条件として、現在Project Glasswingで限定提供している脆弱性発見特化型モデル「Mythos」級モデルを将来的に一般公開する方針を明らかにした。Mythosは27年前のOpenBSDバグや16年前のFFmpegの脆弱性など、従来ツールが見逃してきた実在の脆弱性を多数発見しており、無制限公開は攻撃者の悪用リスクが高いため、現状はAWS・Apple・Cisco・Google・JPMorganChase・Microsoft・NVIDIA・Palo Alto Networksなど12のローンチパートナーと約40の機関に限定提供されている。",
-      "category": "international"
-    },
-    {
-      "title": "Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.25480",
-      "date": "2026-05-25",
-      "authors": "(arXiv:2605.25480)",
-      "summary": "外部知識をコンパイル可能・合成可能・自己進化する構造として扱うエージェントネイティブ検索システム「LLM-Wiki」を提案。エージェントが検索した知識を再利用可能なWikiに統合し、検索を推論プロセス自体として再定義する。複数ベンチで既存RAGを上回り、長期タスクでの知識蓄積効率を大幅に改善した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.25981",
-      "date": "2026-05-25",
-      "authors": "(arXiv:2605.25981)",
-      "summary": "LLMエージェントの入力ノイズ感度を、表層ノイズ（書式・記号）と意味ノイズ（語彙置換・否定挿入）に分けて68セル設計で測定。Chain-of-ThoughtおよびReActエージェントにおいて、意味ノイズが最終回答を変化させる頻度が表層ノイズより有意に高いことを示し、ホールドアウトのトレースレベル検証で再現性を確認した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "PolyGnosis 2.0: Enhancing LLM Reasoning via Agentic Harness Engineering for Polymarket and OSINT Insight Extraction",
-      "title_ja": "PolyGnosis 2.0: PolymarketとOSINTからの洞察抽出のためのエージェント型ハーネス工学によるLLM推論強化",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.25958",
-      "date": "2026-05-25",
-      "summary": "Polymarketの異常シグナルとグローバルOSINTストリームを統合し、予測知能を抽出するマルチエージェントアーキテクチャを提案。反省ループ、ツール呼び出し、分割統治、Chain-of-Thoughtといった「ハーネス工学」手法を定量比較し、LLM推論強化に対する各要素の寄与を切り分けた。市場予測や情勢分析へのエージェントAIの応用可能性と、ハーネス設計が単体モデル性能と並んでエージェント品質を左右することを示した研究。",
-      "authors": "Anonymous (arXiv preprint)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Fujitsu develops self-evolving multi-AI-agent technology that continues to learn through operations",
-      "title_ja": "富士通、業務とともに学び続ける自己進化マルチAIエージェント技術を開発",
-      "source": "Fujitsu",
-      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/25-01",
-      "date": "2026-05-25",
-      "summary": "富士通は、複数のAIエージェントがチームとして業務を遂行し、実行結果・フィードバック・制度改定などの変化から継続的かつ安全に自律学習する技術を開発。製造・医療・金融・行政の領域で「Takane」を継続改善し、業務特化前比で平均28ポイントの精度向上を確認。",
-      "category": "japan"
-    },
-    {
-      "title": "'GenAI' Apple subdomain surfaces weeks ahead of WWDC",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc",
-      "date": "2026-05-24",
-      "summary": "AppleInsiderはApple Intelligenceから独立した新サブドメイン「genai.apple.com」の登場を報道。6月8日のWWDC 2026基調講演でiOS 27世代に向けた大型生成AI発表を計画している裏付けと指摘する。Siriの大規模刷新（チャットボット型のSiri 2.0）に加え、Photos、Visual Intelligence、Voice Controlなどの生成AI機能拡張、ウォレット用パス自動生成などが見込まれている。",
       "category": "international"
     }
   ]

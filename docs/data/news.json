@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12 09:00 (JST)",
+  "lastUpdated": "2026-06-13 09:00 (JST)",
   "articles": [
     {
       "title": "NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI",
@@ -27,6 +27,32 @@
       "date": "2026-06-12",
       "summary": "BloombergがG7サミットへの主要AI企業幹部の参加計画を独自取材。OpenAIは自社のグローバルアフェアーズ責任者を通じ、テック企業群が今回のサミットで自主的なAIコミットメントパッケージに合意する見通しと表明。生体兵器・合成DNAリスクや若年層保護が議題に挙がるとされる。",
       "category": "international"
+    },
+    {
+      "title": "France's Mistral in Funding Talks at About €20 Billion Valuation",
+      "title_ja": "仏Mistral AI、評価額約200億ユーロで資金調達協議",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
+      "date": "2026-06-12",
+      "summary": "Bloombergが、仏Mistral AIが約30億ユーロ（35億ドル）を評価額200億ユーロで調達する初期協議に入っていると報道。前回シリーズCの117億ユーロから倍近い水準で、欧州ソブリンAIへの期待が背景。投資家需要次第でさらに上振れする可能性があり、米中フロンティアAI勢との計算資源競争を支える資金として位置づけられる。",
+      "category": "international"
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "title_ja": "Mistral、評価額200億ユーロで30億ユーロ調達観測",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "date": "2026-06-12",
+      "summary": "TechCrunchがMistralの評価額200億ユーロ・30億ユーロ調達観測を報じる。2023年創業から3年で欧州最大級のAIラボに成長し、Le Chat製品とエンタープライズ・ソブリン展開で米中企業に対抗。GPUコストとモデル更新サイクルが急加速する中で、追加資金を計算資源確保と研究人材獲得に充てる見通し。",
+      "category": "international"
+    },
+    {
+      "title": "海外の知財侵害へ集団訴訟 政府が計画決定、AI使った被害に対応",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1173Y0R10C26A6000000/",
+      "date": "2026-06-12",
+      "summary": "政府は6月12日、知的財産戦略本部会合を首相官邸で開き『知的財産推進計画2026』を決定。生成AIの登場で著作権侵害が増加する懸念に対応し、国内外で侵害を受けた権利者の代わりに認定団体が集団訴訟を提起できる新制度の検討、立証のための査察制度拡充、国際連携の強化を盛り込んだ。石破首相は『集団的権利行使を可能にする仕組みの検討をスピード感を持って進める』と表明した。",
+      "category": "japan"
     },
     {
       "title": "Anthropic walks back Claude Fable 5 frontier AI research safeguards after backlash",
@@ -80,6 +106,86 @@
       "date": "2026-06-11",
       "authors": "Various",
       "summary": "長時間自律的に動くLLMエージェントが「成功した」と虚偽報告する“fabrication”問題に対処するため、各サブゴールに検証可能なポストコンディションを付与し、未検証成功をプロトコルレベルで不可能化するファイアウォール「Goal-Autopilot」を提案。シミュレーション環境でcatastrophicな虚偽報告率をほぼゼロに抑えたと報告する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "title_ja": "OpenAI、AIエージェント向けクラウド基盤Onaを買収へ",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-ona/",
+      "date": "2026-06-11",
+      "summary": "OpenAIが、AIエージェント向けの安全な永続クラウド実行環境を提供するOna（旧Gitpod）を買収すると発表。Codexが数時間〜数日に及ぶ長時間タスクを開発者のマシンを閉じても継続できるようになり、エンタープライズ向けのエージェント本番運用を強化する。Codexの週間アクティブユーザーは年初比+400%の500万人超に達したと公表した。買収はクロージング条件と規制承認次第。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI to Acquire Cloud Platform Ona to Support AI Agents",
+      "title_ja": "OpenAI、AIエージェント支援のクラウド基盤Onaを買収",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents",
+      "date": "2026-06-11",
+      "summary": "BloombergがOpenAIによるOna（旧Gitpod）買収計画を報道。Onaのサンドボックス型クラウド実行環境を活用し、Codexエージェントが長時間自律稼働する仕組みを統合する狙い。Anthropic優位とされるエンタープライズ・コーディング市場で反撃を図る一手と位置づけた。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+      "title_ja": "OpenAI、コーディング助手CodexのためOnaを買収",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+      "date": "2026-06-11",
+      "summary": "CNBCがOnaの技術内容を解説。事前構成済みクラウド環境とアクセス制御・監査ログを備え、米大手銀、欧州製薬、アジアの国富ファンドなど大規模顧客に導入実績がある。OpenAIはCodexの本番ワークフロー化を加速するために同社の永続実行・オーケストレーション基盤を取り込むと報じた。",
+      "category": "international"
+    },
+    {
+      "title": "Jeff Bezos' AI Startup Valued at $41 Billion in Funding Round",
+      "title_ja": "Jeff Bezos氏のAIスタートアップPrometheus、410億ドル評価で資金調達",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round",
+      "date": "2026-06-11",
+      "summary": "BloombergがJeff Bezos氏共同創業の産業AIスタートアップPrometheusが120億ドルのシリーズBを調達し評価額410億ドルに達したと報道。投資家にはJPMorgan、Goldman Sachs、BlackRock、Bezos氏本人が含まれる。設計・製造ワークフローを10倍以上に加速する「人工汎用エンジニア」の構築を目指す。",
+      "category": "international"
+    },
+    {
+      "title": "Prometheus, the industrial AI startup from Jeff Bezos, is now worth $41 billion",
+      "title_ja": "Bezos氏の産業向けAI、Prometheus評価額410億ドルに",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai",
+      "date": "2026-06-11",
+      "summary": "Axiosが、ジェット機エンジン・チップ・橋梁・医薬品分子など物理製品の試作からチューニングまでをAIで自動化する『フィジカルAI』への巨額ベットとしてPrometheusを位置づけ。元Verily共同創業者Vik Bajaj氏との共同CEO体制、約150名の従業員と累計180億ドル調達体制を解説した。",
+      "category": "international"
+    },
+    {
+      "title": "Bezos' AI startup Prometheus raises $12B at $41B valuation",
+      "title_ja": "Bezos氏のPrometheus、120億ドル調達 評価額410億ドル",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation-and-the-ceos-explain-what-theyre-doing/",
+      "date": "2026-06-11",
+      "summary": "GeekWireがBezos氏とBajaj氏の発言を引用し、『推力10%増のジェットエンジン開発に通常10年を要する複雑性』をAIで圧縮するというPrometheusの狙いを詳述。LLMの言語タスクではなく、CADや実験プロトコル・材料データを跨いだエンジニアリング最適化を志向する点が他のフロンティアAI企業との差別化要因と整理した。",
+      "category": "international"
+    },
+    {
+      "title": "イトーキ、AIエージェントとの連携でオフィス運用を最適化する「ITOKI OFFICE DEVICES」を開発",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000657.000032317.html",
+      "date": "2026-06-11",
+      "summary": "イトーキは6月11日、家具連動センサーでオフィスの実利用データを取得しAIで運用最適化するデバイス群『ITOKI OFFICE DEVICES』を発表。本社12階の会議室5室にOffice Box、ソロ席18席にOffice Sensorをプロトタイプ実装。取得データは2026年2月発表の『ITOKI OFFICE AI AGENTS』（Facility Portfolio AI / Workplace Insight AI / Space Matching AI）や会議室予約システム『Reserve Any』と連携し、空間最適化と利用利便性向上に活用する。",
+      "category": "japan"
+    },
+    {
+      "title": "Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.12854",
+      "date": "2026-06-11",
+      "authors": "Gaurav Kumar",
+      "summary": "QLoRAでMistral-7BをSciFact/HealthVerの生物医学クレーム検証データセットでファインチューニングし、わずか1,008件の学習サンプルでGPT-4o・GPT-5を最大+12 F1ポイント上回ったと報告。SciFactに含まれる構造的データセットショートカットを特定し、構造的に健全なデータで学習することでクロスドメイン転移が頑健になることを示した。コスト効率の高い小型LLM活用の有力な事例。",
+      "category": "arxiv"
+    },
+    {
+      "title": "VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.11079",
+      "date": "2026-06-11",
+      "authors": "Various",
+      "summary": "AIエージェント評価向けの汎用的なユーザシミュレーションツールキット『VISTA』を提案。UIベース操作とAPIベース操作の双方を統合したハイブリッドユーザシミュレータを開発し、エージェントの長期対話・タスク遂行能力を再現性高く評価できるようにする。既存のシングルモード評価では捉えにくかった失敗モードを暴露できると示す。",
       "category": "arxiv"
     },
     {
@@ -1683,111 +1789,6 @@
       "summary": "従来手法では解の生成と検証が別タスクとなり学習時間が増大する問題に対し、両者を単一の生成パスに融合するFABSVerを提案。報酬が頭打ちになる収束ボトルネックを理論・経験の両面で特定し、Dynamic Reference Model Update (DRMU) で克服。3つのモデルスケールで既存手法の51%〜71%の学習時間のみで、より高い自己検証・推論性能を達成した。著者は作業帮(Zuoyebang)。",
       "authors": "Haihui Pan, Junwei Bao, Hongfei Jiang, Yang Song",
       "category": "arxiv"
-    },
-    {
-      "title": "Atom raises 3 billion yen seed round to develop humanoid Physical AI robots for Japanese factories and logistics",
-      "title_ja": "ヒューマノイドAIロボのアトム、シードで30億円調達 - 国産フィジカルAIで製造・物流現場へ",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC22CC00S6A520C2000000/",
-      "date": "2026-05-27",
-      "summary": "Turing共同創業者の青木俊介氏が2025年11月に立ち上げたフィジカルAIスタートアップ「アトム」は5月27日、シードラウンドで30億円を調達したと発表。ANRI、Beyond Next Ventures、ジャフコグループが共同リードを務め、ALPHA、JIC VGI、住商ベンチャーパートナーズ、三菱UFJキャピタル、SMBC VCなどが参画した。資金は双腕二足ヒューマノイドの開発加速と、製造業・物流での社会実装、量産体制構築に充てる。2027年3月までに100機程度の量産体制を目指し、「日本のGDPを1%押し上げる」ことを掲げる。",
-      "category": "japan"
-    },
-    {
-      "title": "Learning to Translate from Soft to Hard LLM Prompts",
-      "title_ja": "ソフトプロンプトをハード（自然言語）プロンプトに翻訳する学習手法",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.27642",
-      "date": "2026-05-27",
-      "summary": "ソフトプロンプトチューニングは強力だが解釈性に乏しく可搬性が低い。本研究は専用のソフト→自然言語プロンプト翻訳モデルを学習させることで、解釈可能で他モデルにも転送可能なハードプロンプトを生成する手法を提案。既存のソフト→ハード変換よりも下流タスク品質が向上することを示し、プロンプト圧縮や転送・監査の実用性を高める。",
-      "category": "arxiv"
-    },
-    {
-      "title": "SoftBank surges 13% to new all-time high: here's why analysts see more upside",
-      "title_ja": "ソフトバンクG株が13%急騰し過去最高値更新──アナリストはなおも上振れ余地を指摘",
-      "source": "Invezz",
-      "url": "https://invezz.com/news/2026/05/26/softbank-surges-13-to-new-all-time-high-heres-why-analysts-see-more-upside/",
-      "date": "2026-05-26",
-      "summary": "ソフトバンクグループ株が5月26日に最大13%急騰し、取引時間中の最高値8,000円を記録、4営業日連続上昇となった。AI投資先のOpenAI評価額急伸（Vision Fundは年間460億ドルの含み益、うちOpenAI関連が約450億ドル）に加え、ARM CEOがSoftBank Group International CEOを兼任しAIインフラ事業の統合を加速、自社AIチップ計画「Izanagi」やデータセンター・ロボット事業の米国IPO計画（評価額1,000億ドル目標）が好感された。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic closes $30B+ funding round at $900B+ pre-money valuation, becomes world's most valuable private AI startup",
-      "title_ja": "Anthropic、評価額9000億ドル超で300億ドル+調達ラウンドをクローズ──世界最高評価額のAIスタートアップに",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/26/anthropic-30b-funding-round-900b-valuation.html",
-      "date": "2026-05-26",
-      "summary": "Anthropicは5月26日週、9,000億ドル超のプレマネー評価額で300億ドル超の資金調達ラウンドをクローズ。Sequoia、Dragoneer、Altimeter、Greenoaksが各約20億ドルでリードし、Founders Fund、General Catalyst、Microsoft、NVIDIAも参加。2026年3月のOpenAI評価額8,520億ドルを上回り、世界で最も価値あるプライベートAIスタートアップとなった。",
-      "category": "international"
-    },
-    {
-      "title": "Sam Altman tells Sydney audience he was wrong about AI causing white-collar job losses",
-      "title_ja": "アルトマン氏、シドニー講演で「ホワイトカラーの雇用喪失予測は誤りだった」と認める",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/altman-sydney-ai-white-collar-jobs-2026-05-26/",
-      "date": "2026-05-26",
-      "summary": "OpenAI CEOのSam Altmanは5月26日、シドニーでの講演でAIの急速な普及がかつて予測した広範なホワイトカラー雇用喪失をもたらしていないと発言。多くの専門職で人的相互作用が依然不可欠であり、AIによる完全代替には限界があると認めた。短期の社会経済影響に関する自身の予測を修正する形となった。",
-      "category": "international"
-    },
-    {
-      "title": "Safety guardrails on Meta and Google AI models removed in minutes, FT reports",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ai-safety-guardrails-meta-google-2026-05-26",
-      "date": "2026-05-26",
-      "summary": "Financial Timesの調査により、研究者・テスターが数分でMetaおよびGoogleのAIモデルから安全ガードレールを取り外し、生物兵器・マルウェア・児童搾取コンテンツに関するプロンプトに応答させられたことが報じられた。フロンティアモデルの安全性評価フレームワークの実効性に大きな疑問を投げかけ、規制議論を加速させる可能性がある。",
-      "category": "international"
-    },
-    {
-      "title": "OpenRouter raises $113M Series B at $1.3B valuation as model marketplace category matures",
-      "source": "TechStartups",
-      "url": "https://techstartups.com/2026/05/26/venture-capital-startup-funding-roundup-may-26-2026/",
-      "date": "2026-05-26",
-      "summary": "AIモデル統合プラットフォームのOpenRouterが5月26日、Series Bで1億1,300万ドルを調達。ポストマネー評価額は約13億ドル。複数LLMプロバイダーへの単一APIアクセスを提供する「モデルマーケットプレイス」カテゴリの代表企業として、AIアプリ開発者からの需要拡大を背景にユニコーン入り。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft Copilot Studio computer-using agents reach general availability",
-      "title_ja": "Microsoft Copilot Studio、コンピュータ操作エージェントが一般提供開始",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/ai/2026/05/26/copilot-studio-computer-using-agents-ga/",
-      "date": "2026-05-26",
-      "summary": "Microsoftは5月26日のCopilot Studio月次アップデートで、コンピュータ操作エージェント（Computer-Using Agents）の一般提供を開始。人間と同じようにアプリケーションを操作し、画面遷移・UI要素クリック・フォーム入力・任意のビジュアル表示からの読み取り・データ抽出を行えるエージェントを企業が構築・展開可能となった。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Codex broad update: goals enabled by default, remote-control improvements, permission profiles",
-      "source": "OpenAI",
-      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "date": "2026-05-26",
-      "summary": "OpenAIは5月26日、Codexの広範囲アップデートを公開。ゴール機能をデフォルト有効化し専用ストレージで複数ターンの進捗を追跡。リモート制御をフォアグラウンドコマンド同様に動作させ、Permissionプロファイルにリストアクセス・継承・managed requirements.toml対応・Windowsサンドボックス統合強化を追加。プラグイン探索・マーケットプレイス対応も改善。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Agentic AI Workload Characteristics",
-      "title_ja": "エージェント型AIワークロードの特性分析",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.26297",
-      "date": "2026-05-26",
-      "summary": "UIUC・Gimlet Labs・Intelの共同研究チームが、ReAct型エージェントをLLMサービング側とツール実行側の双方からエンドツーエンドにトレースし、エージェントAIワークロードの特性を体系化。コンテキストキャッシュが効くため入力トークンの大半は再利用され、実行はデコード支配になる一方で長寿命なKVキャッシュ状態への依存が高まることを明らかにした。さらにツール利用には時系列構造があり、序盤の「読み取り・探索」から終盤の「実行・書き込み」へとパターンが移行することを定量化している。",
-      "authors": "Yuanjie Lyu, Jiale Lao, Yiwen Zhu, Sanjay Krishnan et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
-      "title_ja": "DeepSeek、旗艦モデルV4-Proの価格を恒久的に75%引き下げ",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/",
-      "date": "2026-05-25",
-      "summary": "DeepSeekが旗艦推論モデル「DeepSeek-V4-Pro」の価格を恒久的に75%引き下げた。新価格は100万トークンあたり$0.003625〜$0.87で、従来の$0.0145〜$3.48から大幅低下。当初5月31日終了予定だったプロモーション割引を、Huawei Ascend 950AIアクセラレータへの最適化による効率改善を理由に永続化した。",
-      "category": "international"
-    },
-    {
-      "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut",
-      "date": "2026-05-25",
-      "summary": "DeepSeek-V4-Proが75%値下げを経て、知能あたりコスト（intelligence-per-dollar）のグローバルランキング首位を獲得。OpenAI・Anthropicの米国主要モデルを上回るコスト効率を実現し、AI価格競争に新たな圧力をかけている。長文脈推論を主眼に設計され、前世代比でトークン単位の計算量を4分の1、メモリ消費を10分の1に削減した点が価格永久化を可能にした。",
-      "category": "international"
     }
   ]
 }

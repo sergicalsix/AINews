@@ -1,6 +1,140 @@
 {
-  "lastUpdated": "2026-06-13 09:00 (JST)",
+  "lastUpdated": "2026-06-14 09:00 (JST)",
   "articles": [
+    {
+      "title": "Trump administration reignites its feud with Anthropic over latest AI models",
+      "title_ja": "NYT/Inquirer：トランプ政権、最新AIモデルめぐりAnthropicとの対立を再燃",
+      "source": "The Philadelphia Inquirer (via NYT)",
+      "url": "https://www.inquirer.com/news/nation-world/anthropic-trump-administration-pentagon-fable-mythos-deny-foreign-access-amodei-lutnick-20260614.html",
+      "date": "2026-06-14",
+      "summary": "The Philadelphia Inquirer掲載のNYT記事が、トランプ政権とAnthropicの関係悪化の経緯を総括。両者は数か月間、AnthropicのAIシステムを軍事・諜報用途に使うことについて対立してきたが、Pentagon側がAnthropicを『サプライチェーンリスク』と認定するに至り対立が深刻化。Fable 5/Mythos 5の輸出管理指令はその延長線上にある政治的措置であり、土曜夜にもラトニック商務長官とAnthropic幹部の交渉が継続予定。AI企業と政府の安全保障観のずれが米国AI政策の最大の論点として浮上している。",
+      "category": "international"
+    },
+    {
+      "title": "US asks Anthropic to block global access to top AI models: Why it matters",
+      "title_ja": "Al Jazeera解説：米政府がAnthropicに最上位AIの全世界アクセス遮断要求、その意味とは",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
+      "date": "2026-06-14",
+      "summary": "Al Jazeeraが、米国によるAnthropicへの全世界アクセス遮断要請の地政学的意義を解説。半導体や暗号技術と同様にフロンティアAIモデルが『デュアルユース技術』として輸出管理体制に組み込まれ、米中AI覇権競争が新たな段階に入ったと分析。欧州・中東・アジアのAI企業や政府が米国製AIへの依存リスクを再評価する契機となり、Mistralの200億ユーロ評価額調達やUAE・サウジのソブリンAI投資加速の文脈と結び付けて報じている。",
+      "category": "international"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "title_ja": "Anthropic公式声明：米政府指令によりFable 5とMythos 5のアクセスを停止",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "date": "2026-06-13",
+      "summary": "Anthropicが6月12日17:21 ET（日本時間13日朝）に米商務省から国家安全保障に基づく輸出管理指令を受領し、Claude Fable 5とMythos 5へのアクセスを全ユーザー向けに即時停止したと公式発表。指令は『外国人国民への提供』を禁じる内容で、リアルタイムで利用者の国籍を判別できないため全アカウントを対象とせざるを得なかったと説明。同社は『政府は不適切な配備を差し止める権限を持つべきだが、それは法的根拠と技術的事実に基づく透明・公平なプロセスでなければならず、今回はその原則に反する』と批判し、可及的速やかな復旧を目指す姿勢を示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access",
+      "title_ja": "Anthropic、米政府の外国人アクセス禁止令を受けFable・Mythosを全面停止",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+      "date": "2026-06-13",
+      "summary": "Fortuneが、Anthropicが米商務省の輸出管理指令を受けFable 5とMythos 5を全世界で停止した件を詳報。指令は外国人ユーザーへの提供を国家安全保障上の理由で禁止する内容で、Anthropicは『米国ユーザーと外国人ユーザーをリアルタイムに区別できない』ため全顧客を対象に遮断した。両モデルは6月9日にリリースされたばかりで、商用展開からわずか3日でのシャットダウンとなる。Opus 4.8など他のClaudeモデルは引き続き利用可能。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Says US Orders Halt to Foreign Access for Fable 5, Mythos 5 AI Models",
+      "title_ja": "Bloomberg：米政府がAnthropicに外国人向けFable 5・Mythos 5提供停止を命令",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "date": "2026-06-13",
+      "summary": "Bloombergが、米政府がAnthropicのフロンティアモデル『Claude Fable 5』『Mythos 5』に対し外国人向けアクセスを全面停止するよう命じたと報道。商務長官ハワード・ラトニックがAnthropicのアモデイCEOに書面で輸出管理対象指定を通知し、米国内外を問わずすべての外国人国民への提供を禁じた。Anthropicは指令受領から数時間で全ユーザー向け停止に踏み切り、両モデルが米国の主要AI企業として政府の指示でリリース後に運用停止された初の事例となった。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
+      "title_ja": "Anthropic、米政府指令でClaude Fable 5・Mythos 5の全公開アクセス遮断──企業の対応指針",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+      "date": "2026-06-13",
+      "summary": "VentureBeatが企業向けに、Claude Fable 5・Mythos 5停止の経緯と対策を解説。指令の引き金となった6月10日の『Pliny the Liberator』によるバイラルジェイルブレイクは、Unicode細工・長文コンテキストの参照追跡・文書スタイルのフレーミング・フィクションフレーミング・要求の分割など複合的な『パックハント』手法を用い、Anthropic側は『広範な安全性は破られていない』と反論。エンタープライズ顧客には『Sonnet 4.6/Opus 4.8への切替』『シャドーITとしての海外API利用の監視』『輸出管理コンプライアンス体制の確認』を推奨している。",
+      "category": "international"
+    },
+    {
+      "title": "US orders Anthropic to disable AI models for all foreign nationals",
+      "title_ja": "Al Jazeera：米政府、Anthropicに全外国人国民向けAIモデル停止を命令",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals",
+      "date": "2026-06-13",
+      "summary": "Al JazeeraがAnthropicへの米政府輸出管理指令を国際的視点から報道。指令はFable 5・Mythos 5を対象に、海外居住者だけでなく米国内に滞在する外国籍ユーザー（Anthropicの外国人従業員も含む）への提供も禁止する厳格な内容で、AIモデルが事実上の二重用途技術として輸出管理体制下に組み込まれた象徴的事例と位置づけている。商務省は具体的な国家安全保障上の懸念内容を開示しておらず、業界からは透明性の欠如への懸念が表明されている。",
+      "category": "international"
+    },
+    {
+      "title": "White House move to limit Anthropic linked to concerns about Chinese access to Mythos",
+      "title_ja": "Semafor：ホワイトハウスのAnthropic制限、中国によるMythosアクセス懸念が背景",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos",
+      "date": "2026-06-13",
+      "summary": "Semaforが独自取材で、トランプ政権がAnthropicに対し輸出管理指令を出した背景に『中国系グループがMythos 5に不正アクセスし、ジェイルブレイク手法を取得していた疑い』があると報道。政権関係者は『他社からの通報を受け、国家安全保障上のリスクを認識した』と述べ、事前にAnthropicに最新モデルのリリース停止を要請したが拒否されたため輸出管理に踏み切ったと説明。米中AI技術競争が輸出管理という形で初めて顕在化した事案として注目される。",
+      "category": "international"
+    },
+    {
+      "title": "US government warned Anthropic that Fable 5 had been jailbroken, but firm 'refused' to fix before US implemented export controls",
+      "title_ja": "Tom's Hardware：米政府がFable 5のジェイルブレイクを警告したがAnthropicは『修正拒否』、Sacks氏暴露",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-adviser-david-sacks-says-anthropic-refused-to-fix-fable-5-jailbreak-before-us-export-controls",
+      "date": "2026-06-13",
+      "summary": "Tom's Hardwareが、元AI政策顧問のデイヴィッド・サックス氏のX投稿を中心に、トランプ政権側の主張を整理。サックス氏は『政権は輸出管理指令の前にAmodei氏にFable 5の停止または修正を要請したが、Amodei氏は「ジェイルブレイクは深刻ではない」として拒否した』と暴露。Anthropicが安全性重視を掲げながら消費者向け展開を優先したと批判している。Anthropic側はジェイルブレイク主張は『誇張』と反論しており、政府・企業間の事実認識のずれが鮮明になっている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+      "title_ja": "SecurityWeek：AnthropicがFable 5ジェイルブレイク主張に反論",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+      "date": "2026-06-13",
+      "summary": "SecurityWeekが、AnthropicがPliny the Liberatorによるバイラル・ジェイルブレイク主張に対し『広範なセーフガード破壊ではない』と公式に反論した経緯を整理。同社のセキュリティチームは『当該手法は特定の限定的なシナリオで一時的に出力を引き出すもので、Mythos 5の包括的なサイバー攻撃支援能力を解放するものではない』と説明。一方でジェイルブレイクの一部成功は認めており、輸出管理指令が出された米政府との認識ギャップが業界の論点となっている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+      "title_ja": "MarkTechPost：Anthropic、米政府命令でClaude Fable 5・Mythos 5を全面停止",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+      "date": "2026-06-13",
+      "summary": "MarkTechPostが、米政府の輸出管理指令によりAnthropicがClaude Fable 5・Mythos 5を全顧客に対し停止した経緯と技術的影響を整理。Mythos 5は『Project Glasswing』の信頼パートナーのみに限定提供されていた高度モデルで、Fable 5はサイバー・バイオ等の高リスク領域に強い制限を設けて一般公開されていた。指令を受け、AWS Bedrock・Vertex AIなど主要クラウド経由のアクセスも遮断され、エンタープライズユーザーはOpus 4.8系へのフォールバックを余儀なくされている。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "title_ja": "OpenAI、IPO直前にユーザー被害めぐる複数州合同調査に直面",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/13/openai-multistate-probe-possible-user-harm-confidential-filing-ipo/",
+      "date": "2026-06-13",
+      "summary": "Fortuneが、OpenAIが複数州司法長官から召喚状を受け、ChatGPTが利用者に与える可能性のある安全性問題について合同調査を開始されたと報道。直近では木曜にカナダ人母親がOpenAIとSam Altman CEOを娘の自殺に関与したとして米裁判所に提訴し、フロリダ州司法長官も2件の銃撃事件で容疑者がChatGPTに犯行計画を相談していた件で同社を訴えていた。同社が6月初旬に秘密裏にSECへIPO申請を提出した直後の動きで、規制リスクがIPO評価に影響する可能性がある。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "title_ja": "PBS：OpenAIにユーザー被害めぐる複数州合同調査──IPO申請直後",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
+      "date": "2026-06-13",
+      "summary": "PBS NewsHourがOpenAIへの複数州合同調査を詳報。同社は『調査に建設的に対応する』と表明し、未成年者・困難な状況にあるユーザー向けの保護的体験、実世界リソースや信頼できる人物への誘導機能を既に実装済みと反論。一方でChatGPTが自殺念慮や犯罪計画に対し『励まし』と受け取れる応答をしたとの告発が続いており、IPOプロセスへの影響と『AIの安全な配備』を巡る政策議論が再燃している。",
+      "category": "international"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 (Simon Willison's commentary)",
+      "title_ja": "Simon Willison、Anthropicの米政府指令対応声明を独自解説",
+      "source": "Simon Willison's blog",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/",
+      "date": "2026-06-13",
+      "summary": "AI解説ブロガーのSimon Willisonが、Anthropicの公式声明を引用しつつ独自に解説。『これは公開済みの汎用LLMが政府指令で停止された初の事例であり、米国のAI輸出管理が事実上のキルスイッチとして機能した』と評価。Willisonは『政府介入の透明性が著しく欠けており、技術的事実に基づく審査機関が存在しないことが今後の規制議論の中心になる』と指摘し、開発者コミュニティ内でも『代替モデル（Llama 4・Gemini 3.5・GPT-5.4）のフォールバック設計』が急務になっていると述べた。",
+      "category": "international"
+    },
+    {
+      "title": "「Claude Fable 5」「Mythos 5」全面停止 米政府の指令により Anthropicは早期復旧を宣言",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+      "date": "2026-06-13",
+      "summary": "ITmedia NEWSが、米商務省輸出管理指令によりAnthropicがClaude Fable 5・Mythos 5を全ユーザー向けに停止した件を国内向けに解説。指令は日本時間6月13日朝に到着し、Anthropicは『不適切な配備を差し止める政府の権限自体は認めるが、本件は透明・公平な法的プロセスに基づいていない』と異議を表明。日本企業ユーザーにも影響が及び、AWS Bedrock・Claude APIユーザーは即座にOpus 4.8等への切替を強いられている。",
+      "category": "japan"
+    },
     {
       "title": "NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI",
       "title_ja": "NVIDIA、Google DeepMindのDiffusionGemmaをローカルAI向けに高速化",
@@ -1651,143 +1785,6 @@
       "date": "2026-05-28",
       "summary": "複数のLLMエージェントが同じ問題を解く際、多数決ではなく完全な推論トレースを読むアグリゲータを用いることで、全員一致時でも正答を回復できる「集約パラドックス」を実証。意味保存型入力摂動でトレース多様性を生み、常に合成を行うSelf-Consistent Mixture of Agents (SCMoA)を提案し、構造化推論、博士レベル科学、競技数学、競技プログラミングで異種モデルプールを上回る性能を示した。",
       "authors": "Anonymous et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "LoMo: Local Modality Substitution for Deeper Vision-Language Fusion",
-      "title_ja": "LoMo: より深い視覚言語融合のための局所的モダリティ置換",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.30265",
-      "date": "2026-05-28",
-      "summary": "VLMでテキスト質問をその描画画像に置き換えると性能が大幅に劣化する「キャリア感度」問題に着目。対象テキストスパンを動的に選択して描画画像化することで、単一モダリティのプロンプトをシームレスに交互配置したマルチモーダル系列に再構成する、軽量なアーキテクチャ非依存のデータキュレーション手法LoMoを提案。LLaVA-OneVision-1.5-8Bで+2.67、Qwen3.5-9Bで+2.82の改善を達成。",
-      "authors": "Anonymous et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Representation Signatures and Risk-Feedback Alignment in LLM Trading Agents",
-      "title_ja": "LLMトレーディング・エージェントにおける表現シグネチャとリスク・フィードバック・アラインメント",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.28850",
-      "date": "2026-05-28",
-      "summary": "金融トレーディングを担うLLMエージェントの内部表現を解析し、ポートフォリオ判断の根拠となる「表現シグネチャ」を抽出。さらに市場フィードバックを通じてリスク選好をアラインさせるRLパイプラインを提案する。エージェントが過剰リスクを取りやすい構造的バイアスを特定し、損益指標と整合した行動を引き出すための介入手法を実験的に評価した。エージェント金融応用の安全性とアラインメント研究の前進。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Mistral CEO Arthur Mensch says startup is exploring designing its own AI chips",
-      "title_ja": "Mistral、独自AIチップ設計検討を表明 ― データセンター・産業AIへの垂直統合を加速",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
-      "date": "2026-05-28",
-      "summary": "Mistral AIのアルチュール・マンシュCEOはCNBCのインタビューで、自社AIチップの設計を検討中だと表明。AI Now Summit 2026での産業AI参入（Mistral for Industrial Engineering）、Emmi AI買収、Les Ulisの10MWインフレース施設新設、Airbus・BMWとの提携に続く垂直統合戦略の延長線上の動き。OpenAI/Anthropic/Googleの自社シリコン路線を欧州系も追う構図が鮮明になり、Nvidia依存からの脱却を狙う。",
-      "category": "international"
-    },
-    {
-      "title": "Large language model for unified and accurate description of multidimensional nuclear properties",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.29408",
-      "date": "2026-05-28",
-      "summary": "DeepSeek-R1-1.5BをLoRAで微調整し、原子核の電荷半径・質量・束縛エネルギー・分離エネルギー・崩壊エネルギーなど7観測量を統一的に高精度予測するLLM駆動型マルチタスク学習フレームワークを提案。事前学習パラメータを保ったまま軽量アダプタを導入し、学習損失を98%以上削減した上で各観測量で精度を大幅改善。物理ドメイン知識を埋め込んだ「事前知識インフォームドLLM」の有望なケーススタディとなった。",
-      "authors": "S. J. Guo, S. Y. Wang, E. H. Wang, Z. M. Niu, Y. M. Ding (Shandong Univ., Anhui Univ.)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
-      "title_ja": "Anthropic、新「ダイナミックワークフロー」ツール搭載のOpus 4.8をリリース",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "date": "2026-05-28",
-      "summary": "AnthropicがClaude Opus 4.8を5月28日にリリース。新機能「ダイナミックワークフロー」（研究プレビュー）はClaude Codeでの大規模タスクで数百の並列サブエージェントを単一セッションで実行可能。価格は$5/M入力・$25/M出力でOpus 4.7から据え置き、Fastモードは前世代比3分の1の価格。",
-      "category": "international"
-    },
-    {
-      "title": "Fujitsu and OpenAI launch strategic partnership to accelerate AI transformation across Japan's enterprise sector",
-      "title_ja": "富士通とOpenAI、日本のエンタープライズAIトランスフォーメーション加速へ戦略提携を開始",
-      "source": "Fujitsu Global",
-      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/27-02",
-      "date": "2026-05-27",
-      "summary": "富士通は5月27日、OpenAIとの戦略的協業を開始したと発表。OpenAIの最先端AIと富士通の業界知見・システム構築力を組み合わせ、日本の大企業に対する業務特化型生成AIソリューションを共同開発・提供する。富士通の業務特化LLM「Takane」とOpenAIモデルを統合したマルチモデル・エージェントを国内顧客に展開する計画。",
-      "category": "japan"
-    },
-    {
-      "title": "Fujitsu and Anthropic sign strategic partnership; all 100,000 Fujitsu Group employees to use Claude",
-      "title_ja": "富士通とAnthropic、戦略的パートナーシップを締結──富士通グループ全社員10万人がClaudeを業務活用",
-      "source": "Fujitsu Global",
-      "url": "https://global.fujitsu/ja-jp/pr/news/2026/05/27-01",
-      "date": "2026-05-27",
-      "summary": "富士通は5月27日、Anthropicと戦略的パートナーシップを締結し、富士通グループの約10万人全社員がAnthropicのClaudeを業務に活用すると発表。Anthropicの安全性重視LLMと富士通のFujitsu Kozuchi Enterprise AI Factoryを統合し、規制産業向けにエンタープライズグレードのAIエージェント基盤を提供する。",
-      "category": "japan"
-    },
-    {
-      "title": "Meta to sell AI chatbot subscriptions for the first time to offset hundreds of billions in AI spending",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/meta-to-sell-ai-chatbot-subscriptions-in-bid-to-offset-spending",
-      "date": "2026-05-27",
-      "summary": "Meta Platformsが初めてMeta AIチャットボットの消費者向け有料サブスクリプションを開始。月額$7.99の「Meta One Plus」基本プランは、画像・動画生成や拡張推論を頻繁に利用するユーザー向け。広告収益のみに依存しないAI事業のマネタイズ手段として、巨額のAI投資を回収する第一歩となる。",
-      "category": "international"
-    },
-    {
-      "title": "Zuckerberg's Biohub unveils AI 'world model' of proteins",
-      "title_ja": "ザッカーバーグのBiohub、タンパク質の「世界モデル」AIを発表",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/27/zuckerbergs-biohub-unveils-ai-world-model-of-proteins",
-      "date": "2026-05-27",
-      "summary": "Chan Zuckerberg Biohubが5月27日、タンパク質の構造・機能・相互作用を統合的にモデル化するAI「世界モデル」を発表。創薬や疾病メカニズム解明に向け、AlphaFold以降の生物学AIの新たな枠組みを提供する。Chan Zuckerberg Initiativeが構築する大規模科学AIインフラの一環として位置づけられる。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI introduces election information features and AI transparency safeguards ahead of 2026 global elections",
-      "title_ja": "OpenAI、2026年世界選挙に向け選挙情報機能とAI透明性ガードレールを導入",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/election-safeguards-2026/",
-      "date": "2026-05-27",
-      "summary": "OpenAIは5月27日、2026年の世界各国の選挙に向けた包括的なセーフガードを公表。米国・ブラジルでは秋の選挙夜にAP通信のライブ集計結果をChatGPTで提供する。サイバー防御者支援、AI生成コンテンツの透明性向上、虚偽情報対策を進めるとともに、選挙関連プロンプトについて公式情報源への誘導を強化する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google DeepMind expands Project Genie with Street View integration to simulate real-world places",
-      "title_ja": "Google DeepMind、Project Genieを拡張──Street View統合で実世界の場所をシミュレーション可能に",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/",
-      "date": "2026-05-27",
-      "summary": "Google DeepMindは5月27日、生成的世界モデル「Project Genie」をStreet Viewと統合し、実在する場所を3Dインタラクティブ環境としてシミュレートできる機能を発表。エージェント訓練・ロボット学習・都市計画・教育向けに、世界中の任意の場所をプロンプトから探索可能な仮想空間に変換する。Geminiの世界モデル戦略の中核的アップデート。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Sakana AI proposes DiffusionBlocks: block-wise training framework converting residual networks into independently trainable denoising modules",
-      "title_ja": "Sakana AI、DiffusionBlocksを提案──残差ネットワークを独立訓練可能な拡散モジュールに分割するブロック単位訓練フレームワーク",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
-      "date": "2026-05-27",
-      "summary": "Sakana AIと東京大学は5月27日、Transformer系ネットワークをブロック単位で独立に訓練可能とするDiffusionBlocksをICLR 2026で発表。各ブロックを独立した拡散モデルとして扱うことで、GPU間通信を抑えつつ分散訓練を効率化する。Makoto Shing、Masanori Koyama、Takuya Akibaらが主導。大規模LLM訓練のメモリ・計算効率向上に資する設計として注目される。",
-      "category": "arxiv"
-    },
-    {
-      "title": "xAI brings SuperGrok and X Premium+ subscription support to Kilo Code agentic coding platform",
-      "title_ja": "xAI、SuperGrok／X Premium+サブスクをオープンソースのエージェント型コーディング基盤Kilo Codeで利用可能に",
-      "source": "xAI",
-      "url": "https://x.ai/news",
-      "date": "2026-05-27",
-      "summary": "xAIは5月27日、SuperGrokおよびX Premium+のサブスクリプションをオープンソースのエージェント型コーディング基盤「Kilo Code」内で利用可能にすると発表。開発者はGrokの推論・コード生成・ツール利用機能を、専用エディタ環境で従来のAPI課金とは別に活用できるようになる。5月にはGrok 4.3とGrok Build 0.1の投入が続いており、エージェント開発エコシステムの拡張を強化している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
-      "title_ja": "マルチモーダル・エージェント推論のためのエージェント探索的方策最適化 (AXPO)",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.28774",
-      "date": "2026-05-27",
-      "summary": "視覚言語エージェントにおいて「思考」と「ツール使用」の構造的非対称性により、GRPOではツール使用が約30%のロールアウトでしか試行されず、約40%の問題で全滅し学習信号が消失する「Thinking-Acting Gap」を特定。全滅したツール使用サブグループの思考プレフィックスを固定するAXPOを提案。9つのマルチモーダルベンチマークでQwen3-VL-Thinkingの3サイズすべてにおいてSFT+GRPOを上回り、8Bが32B Baseを4分の1のパラメータで超える。",
-      "authors": "Anonymous et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "FABSVer: Faster Training and Better Self-Verification for LLM Mathematical Reasoning",
-      "title_ja": "FABSVer: LLM数学推論のための高速学習とより良い自己検証",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.28389",
-      "date": "2026-05-27",
-      "summary": "従来手法では解の生成と検証が別タスクとなり学習時間が増大する問題に対し、両者を単一の生成パスに融合するFABSVerを提案。報酬が頭打ちになる収束ボトルネックを理論・経験の両面で特定し、Dynamic Reference Model Update (DRMU) で克服。3つのモデルスケールで既存手法の51%〜71%の学習時間のみで、より高い自己検証・推論性能を達成した。著者は作業帮(Zuoyebang)。",
-      "authors": "Haihui Pan, Junwei Bao, Hongfei Jiang, Yang Song",
       "category": "arxiv"
     }
   ]

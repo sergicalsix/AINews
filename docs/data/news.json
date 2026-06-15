@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-06-14 09:00 (JST)",
+  "lastUpdated": "2026-06-15 09:00 (JST)",
   "articles": [
+    {
+      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+      "title_ja": "Axios：「我々はやられた」──人間関係のもつれがAnthropicの最新モデルをオフラインに",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos",
+      "date": "2026-06-15",
+      "summary": "Axiosが、Anthropic幹部・トランプ政権関係者双方の証言を取材し、Fable 5/Mythos 5輸出管理に至った根本要因は『技術的な脅威』というより両者のコミュニケーション不全と人間関係の悪化だったと報道。Anthropicが直近の連邦サイバーセキュリティ大統領令への対応で『誠実さに欠ける』とみなされたこと、起用したセキュリティ専門家がトランプ陣営に『過激派民主党員』と認識される人物だったこと、その後同氏がChris Krebs元CISA長官に称賛され関係がさらに悪化したことなどが背景。今週中に商務省・CIA・ホワイトハウス科学顧問とAnthropicエンジニアの会合が予定されているが、米国限定アクセス容認や部分的制限緩和の可能性はまだ示されていない。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic to meet with Trump administration over Mythos dispute",
+      "title_ja": "CNBC：AnthropicがMythos対応でトランプ政権と直接会談予定",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
+      "date": "2026-06-15",
+      "summary": "CNBCが、AnthropicがFable 5・Mythos 5輸出管理指令を受け、商務長官ハワード・ラトニック、サイバー長官ショーン・ケアンクロスらと対面会合に臨むと報道。土曜の打ち合わせには両長官が参加し、Amazon CEOアンディ・ジャシーが財務長官スコット・ベセントに警告を上げた経緯も明らかに。Anthropicは『政府は安全でないAI展開を停止する権限を持つべきだが、それは透明で技術的根拠のある法定プロセスで行うべきで、今回の措置はその原則に反する』と批判している。",
+      "category": "international"
+    },
+    {
+      "title": "Alex Stamos, cybersecurity leaders push Trump to restore Anthropic Mythos and Fable access",
+      "title_ja": "Axios：Alex Stamosらサイバーセキュリティ業界100人、Mythos/Fable停止解除を政権に要求",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin",
+      "date": "2026-06-15",
+      "summary": "Axiosが、元Facebook最高セキュリティ責任者Alex Stamos（現Corridor CPO）を筆頭に、Nvidia・Adobe・Zoom・Google・Sophos・Anaplan等の現役CISOやセキュリティ研究者ら約100名がトランプ政権宛の公開書簡に署名し、Anthropic Fable 5/Mythos 5の輸出管理解除を求めたと報道。書簡は『この措置は最高性能のモデルを防御側から奪い、市場の不確実性を生み、米国のAI主導権を実質的なリスクと釣り合わない形で危険にさらした』と非難。Stamos氏は『規制は証拠ベース・明確な定義・一貫した適用が必要だが、今回はそのいずれも満たしていない』と強調した。",
+      "category": "international"
+    },
+    {
+      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
+      "title_ja": "TechCrunch：米政府によるAnthropicモデル停止、本質はジェイルブレイクではなく政治対立",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "date": "2026-06-15",
+      "summary": "TechCrunchが、Fable 5/Mythos 5に関する輸出管理指令の真の動機を分析。表向きの理由は『Amazon研究者によるFable 5ジェイルブレイクで攻撃情報が引き出された』点だが、専門家からは『指摘された手法は誰でもGoogle検索で得られる範囲』との反論。Axios報道と合わせて、Anthropicと政権との『性格的対立』が短期間で輸出管理という極端な措置に発展した経緯を指摘。サイバーセキュリティ業界からは『防御側を弱体化させる結果になる』との抗議が広がり、AI政策の透明性欠如が新たな論点として浮上している。",
+      "category": "international"
+    },
+    {
+      "title": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models",
+      "title_ja": "TechCrunch：サイバーセキュリティ業界の重鎮、米政府によるAnthropic停止令を『危険』と抗議",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "date": "2026-06-15",
+      "summary": "TechCrunchが、Luta SecurityのKatie Moussourisら著名セキュリティ専門家76名がAnthropic Fable 5/Mythos 5の輸出管理解除を求める公開書簡に署名したと報道。Moussouris氏はAnthropicから問題のジェイルブレイク報告のレビューを依頼されており、『この命令は完全な過剰反応』『防御側はAIに「このファイルのバグを直し、修正の意味を説明し、修正を確認するテストを書け」と頼める必要がある』と批判。書簡はNVIDIA・Adobe・Zoom・Sophosなど大手企業のセキュリティ責任者も署名し、AI業界・サイバー防衛コミュニティに広範な動揺をもたらしている。",
+      "category": "international"
+    },
+    {
+      "title": "'Fix this code.' The three little words behind the U.S. government decision that shut down Anthropic's Fable and Mythos AI models",
+      "title_ja": "Fortune：「このコードを直せ」──Anthropic Fable/Mythos停止を招いた3語の真相",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/15/fix-this-code-three-words-behind-us-government-shut-down-anthropic-fable-mythos-ai-models-katie-moussouris-open-letter/",
+      "date": "2026-06-15",
+      "summary": "Fortuneが、米政府によるAnthropic Fable 5/Mythos 5停止のトリガーとなったAmazonリサーチャーの『ジェイルブレイク』手法を詳報。脆弱性のあるコードを与えて『セキュリティ上の問題をレビューせよ』と頼むとガードレールに遮断されるが、『このコードを直せ』と頼むとパッチを生成する──というシンプルな多段プロンプトだったと指摘。Katie Moussouris氏ら76名の専門家による公開書簡を中心に、『これは脆弱性ではなく、防御側にとって必要な機能だ』との反論を整理。AI輸出管理の境界が極めて曖昧であるという根本問題が浮き彫りになっている。",
+      "category": "international"
+    },
+    {
+      "title": "Macron's G7 legacy hangs on fickle AI funding and data centers",
+      "title_ja": "Japan Times/Bloomberg：マクロン仏大統領のG7レガシー、不安定なAI投資とデータセンターが鍵に",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/06/15/tech/macron-g7-legacy-ai-data-centers/",
+      "date": "2026-06-15",
+      "summary": "Japan Times（Bloomberg配信）が、6月15日からエヴィアン・レ・バンで開幕する第52回G7サミットを前に、ホスト国フランスのマクロン大統領がAIとデータセンター投資を欧州の技術覇権再構築の柱に据える戦略を解説。Mistralの200億ユーロ評価額の追加調達やSoftBankからの最大750億ユーロのフランス向けAI投資コミットを背景に、マクロン陣営は本作戦を『プロジェクト・マレンゴ』（ナポレオンの勝利にちなむ）と命名。OpenAIのアルトマン、AnthropicのアモデイCEO、Google DeepMindのハサビス氏が主要AI 3社代表として初めてG7に揃って出席することが決まっており、AIガバナンスと産業誘致が議題の中心となる。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Faces US Ban on Foreign Use of Advanced AI After Jailbreak Concerns",
+      "title_ja": "Bloomberg：Anthropicへの米国の外国人利用禁止令、シリコンバレーへの政策転換警告",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+      "date": "2026-06-15",
+      "summary": "Bloombergが、Anthropic Fable 5/Mythos 5への米政府輸出管理がAI業界全体へ与える政策的インパクトを分析。これまで『イノベーション推進』を掲げてきたトランプ政権が一転、安全保障を理由にフロンティアモデルを公開後数日で停止させた事実は『シリコンバレーに対する明確な警告』であり、米AI企業の対外サービス展開戦略を根本から見直す契機になると指摘。アナリストは『他のフロンティアモデル提供者も同様の措置の対象になり得る』とし、米政府のAI規制が予測不能で恣意的に運用される懸念を表明している。",
+      "category": "international"
+    },
+    {
+      "title": "'They screwed us': Personality clashes sent Anthropic's models offline",
+      "title_ja": "Simon Willison：Axios記事『人間関係のもつれがAnthropicモデルをオフラインに』",
+      "source": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
+      "date": "2026-06-15",
+      "summary": "Simon Willison氏が、AxiosのAnthropic-ホワイトハウス対立記事を引用しつつ、AI政策の意思決定が高度に属人化している現状を批判。『Anthropicが起用したサイバーセキュリティ専門家を政権が「過激派民主党員」と認識し、その人物がChris Krebs元CISA長官に称賛されたことが関係をさらに悪化させた』『個人的感情でフロンティアAIモデルが世界中で停止される時代になった』と指摘。技術的脆弱性の話と思われていた本件が、実は政治と人間関係の問題であったことを技術コミュニティ向けに解説している。",
+      "category": "international"
+    },
     {
       "title": "Trump administration reignites its feud with Anthropic over latest AI models",
       "title_ja": "NYT/Inquirer：トランプ政権、最新AIモデルめぐりAnthropicとの対立を再燃",
@@ -18,6 +99,33 @@
       "date": "2026-06-14",
       "summary": "Al Jazeeraが、米国によるAnthropicへの全世界アクセス遮断要請の地政学的意義を解説。半導体や暗号技術と同様にフロンティアAIモデルが『デュアルユース技術』として輸出管理体制に組み込まれ、米中AI覇権競争が新たな段階に入ったと分析。欧州・中東・アジアのAI企業や政府が米国製AIへの依存リスクを再評価する契機となり、Mistralの200億ユーロ評価額調達やUAE・サウジのソブリンAI投資加速の文脈と結び付けて報じている。",
       "category": "international"
+    },
+    {
+      "title": "Scoop: Anthropic flies staff to D.C. to clean up White House fight",
+      "title_ja": "Axios独自：Anthropic、ホワイトハウスとの対立収束へ技術スタッフをワシントンに派遣",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
+      "date": "2026-06-14",
+      "summary": "Axiosが独自取材で、AnthropicがFable 5/Mythos 5の輸出管理指令を受け、シニア技術スタッフをワシントンD.C.に派遣しトランプ政権との直接交渉に入ったと報道。同社は12日金曜のホワイトハウスからの初動連絡以降、すでにバーチャル会合を重ねており、両者とも『早期解決を望んでいる』と関係筋。Anthropicは『モデルは安全に制御可能であり、米国の防衛セクターやインフラ事業者にとってむしろ不可欠なツールだ』と訴えているが、政府側は具体的な国家安全保障上の懸念内容を依然開示していない。",
+      "category": "international"
+    },
+    {
+      "title": "A warning from Amazon led the White House to shut down Anthropic's Mythos model",
+      "title_ja": "Fortune：Amazonからの警告がホワイトハウスをAnthropic Mythos停止に動かした",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/14/how-a-warning-from-amazon-led-the-white-house-to-shut-down-anthropics-mythos-model/",
+      "date": "2026-06-14",
+      "summary": "Fortuneが、Anthropic Fable 5/Mythos 5への輸出管理指令の発端を取材で明らかにした記事。Amazon CEOアンディ・ジャシーが木曜夜、財務長官スコット・ベセントら政権高官に対し、『Amazonの研究者がプロンプト工夫でFable 5のガードレールを部分的に突破し、サイバー攻撃に転用可能な情報を引き出した』というレポートを共有したのが直接の引き金。Amazonが政府要請でテストしていたのか、独自判断だったのかは不明。ホワイトハウスはこれを受け緊急会合を招集、商務省を通じた輸出管理発動に至った。",
+      "category": "international"
+    },
+    {
+      "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち",
+      "title_ja": "ITmedia：Amazon、Anthropic最新AIの懸念を米政権に事前報告──停止命令の引き金に",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+      "date": "2026-06-14",
+      "summary": "ITmedia NEWSが、米政権によるAnthropic Fable 5/Mythos 5外国人アクセス禁止令の背景を整理。Amazonの研究者がFable 5に特定の方法でプロンプトを与え、サイバー攻撃に転用可能な脆弱性情報を引き出すことに成功した結果、Amazon CEOアンディ・ジャシーがベセント財務長官ら高官にレポートを共有。これを受けホワイトハウスが対応協議を開始し、商務省輸出管理指令の発出に至った。Anthropic自身も『モデルの安全ガードレールを迂回する手法がある』と政府から通知されていたが、その後の対応が間に合わなかった経緯を日本語で伝えている。",
+      "category": "japan"
     },
     {
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
@@ -136,6 +244,15 @@
       "category": "japan"
     },
     {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "title_ja": "TechCrunch：AnthropicのFable/Mythos停止を機にインドがAI将来戦略を議論",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "date": "2026-06-13",
+      "summary": "TechCrunchが、Anthropic Fable 5/Mythos 5の全世界アクセス停止を受け、インド政府・産業界が『米国製AIへの依存リスク』を巡って国内議論を活発化させていると報道。Modi政権の閣僚やAIスタートアップ経営者からは『自国フロンティアモデルへの本格投資なしには戦略的自律性は実現できない』との声が相次ぎ、Sarvam・Krutrim・Bhashiniなど国産AIプロジェクトへの追加予算配分やソブリンGPUクラスター整備の要求が強まっている。米中AI覇権競争のなかでインドが第3極を狙う動きが鮮明化している。",
+      "category": "international"
+    },
+    {
       "title": "NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI",
       "title_ja": "NVIDIA、Google DeepMindのDiffusionGemmaをローカルAI向けに高速化",
       "source": "AIwire",
@@ -187,6 +304,16 @@
       "date": "2026-06-12",
       "summary": "政府は6月12日、知的財産戦略本部会合を首相官邸で開き『知的財産推進計画2026』を決定。生成AIの登場で著作権侵害が増加する懸念に対応し、国内外で侵害を受けた権利者の代わりに認定団体が集団訴訟を提起できる新制度の検討、立証のための査察制度拡充、国際連携の強化を盛り込んだ。石破首相は『集団的権利行使を可能にする仕組みの検討をスピード感を持って進める』と表明した。",
       "category": "japan"
+    },
+    {
+      "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+      "title_ja": "arXiv：GitOfThoughts──Git管理による『再生・差分・マージ可能』なLLMエージェント記憶機構",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.14470",
+      "date": "2026-06-12",
+      "summary": "QpiAI（インド・ベンガルール）のPavan C Shekarらが、LLMエージェントの推論履歴をGitリポジトリとして保存する『GitOfThoughts』を提案。各思考ステップを『コミット』、スコアを『notes』、最終結果を『tag』として記録することで、『git log』による履歴検索や枝分かれの差分・マージが可能になる。本論文は『複雑なメモリ機構（vector・graph・git）が実際に新規問題でエージェントの精度を改善するのか』を5基盤・2ベンチマーク・2モデル規模で事前登録型に検証し、『新規問題では明確な改善は得られなかった』というネガティブ結果も併せて報告している。",
+      "authors": "Pavan C Shekar, Abhishek H S, Aswanth Krishnan",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic walks back Claude Fable 5 frontier AI research safeguards after backlash",
@@ -402,6 +529,16 @@
       "date": "2026-06-10",
       "summary": "MarkTechPostがDiffusionGemmaの双方向アテンションによる並列リファインメント、エキスパート混合（MoE）構成、Hugging Face/vLLM/Unsloth向け実装の即日対応について整理。OpenAI/Anthropic製モデルとの位置付け（実験的・速度特化）と品質トレードオフを詳述している。",
       "category": "international"
+    },
+    {
+      "title": "A Controlled Study of Decoding-Time Truthfulness Methods on Instruction-Tuned LLMs",
+      "title_ja": "arXiv：指示調整LLMにおけるデコード時真実性手法の制御実験",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.12160",
+      "date": "2026-06-10",
+      "summary": "Layer-Contrast DecodingやInference-Time Intervention、学習済みlogitアダプタなど『デコード時の真実性向上手法』は、ベースLLMでTruthfulQAを10〜30ポイント改善することが知られているが、本論文は現代の指示調整LLM（既に61〜76%のスコアを獲得）でも同様に効くのかを6種のコントロール条件で厳密に検証。5モデル（1B〜70B）×3ベンチマーク×15手法を比較した結果、多くの手法が指示調整モデルではベースラインを超えず、効果が大きいと報告されていた手法でも条件によっては逆効果になり得ることを示した。ICANN 2026採択。",
+      "authors": "(著者リストは論文を参照)",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
@@ -1649,143 +1786,6 @@
       "date": "2026-05-28",
       "summary": "みずほフィナンシャルグループとNECは5月28日、AIエージェントが自律的に金融サービスを利用する「Agentic Finance」時代に備え、DID/VC技術を用いたAIエージェント認証基盤「KYA（Know Your Agent）」の共同実証実験を6月から開始すると発表した。本人確認（KYC）のAI版にあたり、AIエージェントの「認証」「同意」「委任」「監査」の4要素を金融機関が検証できるようにする。金融業界横断の共通認証基盤化と国際標準準拠も視野に入れる。",
       "category": "japan"
-    },
-    {
-      "title": "NTT Data and FLUX Form Capital and Business Alliance to Strengthen AI Demand Response",
-      "title_ja": "NTTデータ、AIスタートアップFLUXと資本業務提携 シリーズC60億円調達の一環、AI事業1000億円へ",
-      "source": "NTTデータグループ（プレスリリース）",
-      "url": "https://www.nttdata.com/global/ja/news/release/2026/052800/",
-      "date": "2026-05-28",
-      "summary": "NTTデータグループは5月28日、AIコンサルティングスタートアップの株式会社FLUXと資本業務提携を締結し、同日付で出資を完了したと発表した。FLUXはシリーズCファーストクローズで総額60億円（累計約160億円）を調達。NTTデータの顧客基盤・業界知見とFLUXのAIコンサル・エンジニアリング力を組み合わせ、2027年度にAI関連売上高1000億円規模を目指す。日本のSI大手によるAIスタートアップ取り込みが鮮明になった。",
-      "category": "japan"
-    },
-    {
-      "title": "Lenovo Japan Opens 'Neptune Lab', Japan's First Verification Facility for Water-Cooled AI Infrastructure",
-      "title_ja": "レノボ・ジャパン、国内初の水冷AIインフラ検証施設「Neptuneラボ」を開設 GPUサーバの電力・冷却課題に対応",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
-      "date": "2026-05-28",
-      "summary": "レノボ・ジャパンは5月28日、水冷技術を活用したAIインフラの国内初の検証施設「Neptuneラボ」を千葉県印西市のMCデジタル・リアリティ「NRT12データセンター」内に開設したと発表した。Lenovo Neptuneの水冷技術にニデック製分配装置やGPUサーバ・ラックを組み合わせ、AI推論・学習環境の電力・冷却性能を本番に近い形で検証可能。生成AIによるGPU需要急増に伴う熱・電力課題への日本市場対応として、SIerやクラウド事業者との共同検証拠点となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Mistral AI signs Airbus and BMW, launches industrial AI stack and Vibe enterprise coding agent",
-      "title_ja": "Mistral AI、AirbusやBMWと提携 - 産業向けAIスタックと企業コーディングエージェント「Vibe」を発表",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
-      "date": "2026-05-28",
-      "summary": "Mistral AIがパリで初の年次サミット「AI Now Summit」を開催し、Airbus・BMW・EDF・CMA CGMを起用顧客とする物理理解型「Mistral for Industrial Engineering」を正式リリース。Airbusとはコックピットへのデプロイで5年間契約、BMWとは車両物理を理解した衝突試験最適化モデルを構築する。同時に企業向けコーディングエージェント基盤Vibeも発表し、独自チップ設計の検討やパリ近郊データセンターの計画にも踏み込み、欧州フルスタックAIプレーヤーへの転換を加速。",
-      "category": "international"
-    },
-    {
-      "title": "Visa invests in Replit to bring agentic payments to developers and AI agents",
-      "title_ja": "Visa、Replitに出資 - 開発者とAIエージェントによる「エージェント決済」基盤を構築",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "date": "2026-05-28",
-      "summary": "Visaが「vibe coding」プラットフォームReplitに出資し、Visa Intelligent CommerceとTrusted Agent ProtocolをReplit上のアプリ・エージェントに統合する戦略提携を発表。AIエージェントが自身を識別して安全に決済を実行・受領できる仕組みを開発者向けに提供する。Visa社員1,000人以上がすでにReplitを利用しているといい、AIエージェントが代理で売買する「agentic payments」の主導権争いが本格化した形。Replitは同時に最大20万ドルまでセルフサーブで契約可能なエンタープライズ向け新プランも開始。",
-      "category": "international"
-    },
-    {
-      "title": "Asana acquires no-code AI agent builder StackAI for $75 million",
-      "title_ja": "Asana、ノーコードAIエージェント基盤StackAIを7,500万ドルで買収",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "date": "2026-05-28",
-      "summary": "ワークマネジメント大手AsanaがノーコードAIエージェントプラットフォームのStackAIを7,500万ドルで買収すると発表。Asanaを「AIネイティブ職場プラットフォーム」へと位置づけ直す戦略の一環で、既存のAI TeammatesやAI Studioと組み合わせて複雑な業務プロセスのエンドツーエンド自動化を狙う。Q1決算発表と同タイミングで公表され、買収後もStackAIは独立ブランドとして運営されMITのPhD出身共同創業者2名がAsanaに合流する。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Claude Opus 4.8",
-      "title_ja": "Claude Opus 4.8を発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "date": "2026-05-28",
-      "summary": "AnthropicはOpus 4.7発表からわずか41日後、フラッグシップモデルClaude Opus 4.8を一般提供開始。エージェント型コーディングのスコアが64.3%から69.2%へ、知識業務スコアも1753から1890へ向上し、コードの瑕疵見落としが約4分の1に低減。価格は据え置きでclaude.aiに「努力量(effort)」コントロールも追加された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing Dynamic Workflows in Claude Code",
-      "title_ja": "Claude Codeに「Dynamic Workflows」を導入",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/dynamic-workflows",
-      "date": "2026-05-28",
-      "summary": "AnthropicはClaude Codeで巨大タスクを並列処理する「Dynamic Workflows」をリサーチプレビューで提供開始。Claudeがオーケストレーションスクリプトをその場で生成し、最大16並列・累計1000サブエージェントまで起動可能。Bunプロジェクトがこの仕組みで11日間に約75万行のZig→Rust移植を完了した実例も紹介された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI's Frontier Governance Framework",
-      "title_ja": "OpenAIのフロンティアガバナンスフレームワーク",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-frontier-governance-framework/",
-      "date": "2026-05-28",
-      "summary": "OpenAIは、カリフォルニア州のFrontier AI透明性法やEU AI法のGeneral Purpose AI実務規範など新たな規制要件に自社の安全・セキュリティ実務をどう整合させるかを示す「Frontier Governance Framework」を公開。サイバー攻撃・CBRN・有害な操作・制御喪失などのリスク領域を対象に、内部安全評価・第三者評価・インシデント対応プロセスを公開ドキュメント化している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Vibe gets to work",
-      "title_ja": "Vibeが仕事に取り組む — Mistralの統合AIエージェント",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/vibe-agent/",
-      "date": "2026-05-28",
-      "summary": "パリで開催した初の年次イベント「AI Now Summit 2026」でMistralはLe ChatをVibeに統合し、業務向けの「Work Mode」とコーディング向けの「Code Mode」を備えた単一エージェントとして再ローンチ。受信トレイ・カレンダーから長期タスクまで横断処理し、Webアプリ・エディタ・ターミナルにまたがるエンドツーエンドのコーディング作業をプルリクエスト単位で完結させる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Emmi joins Mistral to accelerate the AI-native industry",
-      "title_ja": "Emmi AIがMistralに参画、産業エンジニアリングAIスタックを始動",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
-      "date": "2026-05-28",
-      "summary": "MistralはオーストリアEmmi AIの買収を経て、流体・熱・材料変形をリアルタイムにシミュレートする物理認識型「Mistral for Industrial Engineering」スタックを正式発表。Airbus、BMW、EDF、CMA CGMをローンチ顧客とし、ニューラルネットワークによる代理モデル(surrogate modelling)で従来の数値シミュレーションに匹敵する精度を高速に提供する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Perplexity Is Open-Sourcing Bumblebee — Unigram Tokenizer",
-      "title_ja": "PerplexityがUnigramトークナイザーをオープンソース化",
-      "source": "Perplexity",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
-      "date": "2026-05-28",
-      "summary": "PerplexityはRustで書き直したUnigramトークナイザーをオープンソース推論レポジトリpplx-gardenで公開。本番入力長におけるp50レイテンシはHugging Face tokenizers比で約5倍、SentencePiece(C++)比で約2倍、IREE実装比で約1.5倍高速で、定常状態でヒープ割り当てゼロを実現。Perplexity本番環境ではリランキングのCPU使用率を5〜6分の1に削減し、数十ミリ秒のレイテンシ削減を達成したと報告している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google releases Gemini 3 Deep Think upgrade focused on science and engineering",
-      "title_ja": "Google、Gemini 3 Deep Thinkを大型アップデート - 科学・研究・エンジニアリング特化に",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "date": "2026-05-28",
-      "summary": "Google DeepMindが推論モード「Gemini 3 Deep Think」を大幅刷新し、科学・研究・エンジニアリングの難題に向けた性能を引き上げた。2025年国際物理オリンピアード・化学オリンピアードの記述問題で金メダル級、CMTベンチマーク（高度理論物理）で50.5%を達成。Google AI Ultra加入者は本日からGeminiアプリで利用可能、研究者向けにはGemini API経由のアーリーアクセスプログラムも開始した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing a new design for Microsoft 365 Copilot with task-aware workspace",
-      "title_ja": "Microsoft、Microsoft 365 Copilotを刷新 - タスク認識型ワークスペースを導入",
-      "source": "Microsoft 365 Blog",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design/",
-      "date": "2026-05-28",
-      "summary": "MicrosoftがMicrosoft 365 Copilotの大規模リデザインを発表。従来の静的なプロンプトラインを廃止し、メール・ファイル・会議など作業文脈に応じて動的にツールを提示する「タスク認識型ワークスペース」に刷新した。ロード時間50%以上短縮、応答時間10%改善、Word・Excel・PowerPoint・Outlook利用が27～43%増加。6月末からTargeted Release、8月に一般提供開始の予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "BenchTrace: A Benchmark for Testing Reflection Ability and Controlled Evolution in LLM Agents",
-      "title_ja": "BenchTrace: LLMエージェントの内省能力と制御された進化能力を評価するベンチマーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.29225",
-      "date": "2026-05-28",
-      "summary": "LLMエージェントの自己進化能力を評価する新ベンチマークBenchTraceを提案。6種類のタスクにわたる1,821件のアノテーション済みエピソードによるスナップショット-内省データセットを構築し、失敗特定を測る「Reflection Evaluation」と過去の失敗経験が回避行動につながるかを測る「Evolution Evaluation」を提供。Qwen3-32BとGPT-4.1はいずれも30%未満のpass率にとどまり、診断能力がボトルネックであることが示された。",
-      "authors": "Anonymous et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Beyond Consensus: Trace-Level Synthesis in Mixture of Agents",
-      "title_ja": "コンセンサスを超えて: Mixture of Agentsにおけるトレースレベル合成",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.29116",
-      "date": "2026-05-28",
-      "summary": "複数のLLMエージェントが同じ問題を解く際、多数決ではなく完全な推論トレースを読むアグリゲータを用いることで、全員一致時でも正答を回復できる「集約パラドックス」を実証。意味保存型入力摂動でトレース多様性を生み、常に合成を行うSelf-Consistent Mixture of Agents (SCMoA)を提案し、構造化推論、博士レベル科学、競技数学、競技プログラミングで異種モデルプールを上回る性能を示した。",
-      "authors": "Anonymous et al.",
-      "category": "arxiv"
     }
   ]
 }

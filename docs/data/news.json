@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-15 09:00 (JST)",
+  "lastUpdated": "2026-06-16 09:00 (JST)",
   "articles": [
+    {
+      "title": "Microsoft makes Copilot Cowork generally available worldwide",
+      "title_ja": "Microsoft、AIエージェント「Copilot Cowork」を世界展開で一般提供開始",
+      "source": "Redmondmag",
+      "url": "https://redmondmag.com/articles/2026/06/16/microsoft-makes-copilot-cowork-generally-available-worldwide.aspx",
+      "date": "2026-06-16",
+      "summary": "Microsoftが3か月間のFrontierプログラムプレビューを経て、エンタープライズ向けAIエージェント『Copilot Cowork』のグローバル一般提供を開始した。エージェント単位の従量課金（$0.01/Copilot Credit）と中央IT統制機能を導入し、Fortune 500の半数超で採用済みと発表。競合のClaude Coworkに比べて30〜40%コスト効率が高いとアピールし、今後リリース予定の自社モデル『Cowork 1』への移行も予告した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic had 90 minutes to restrict Claude Fable 5 as White House feared Chinese access",
+      "title_ja": "Anthropic、ホワイトハウスのチャイナアクセス懸念を受けFable 5を90分以内に制限要請される",
+      "source": "BusinessToday",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-had-90-minutes-to-restrict-claude-fable-5-as-white-house-feared-chinese-access-537095-2026-06-16",
+      "date": "2026-06-16",
+      "summary": "6月12日に米商務省がAnthropic宛てに送付した輸出管理指令の内幕が明らかになった。中国系グループがFable 5/Mythos 5のジェイルブレイクを通じて情報を取得した懸念から、外国籍ユーザー（Anthropic従業員含む）への提供を90分以内に停止するよう求められたという。Anthropicは当該指令を即時履行したが、根拠の詳細はまだ開示されていない。",
+      "category": "international"
+    },
+    {
+      "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
+      "title_ja": "Claudeが12日間で10度目の障害──急成長で疲弊するAnthropicのインフラ事情",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm",
+      "date": "2026-06-16",
+      "summary": "Claude Opus 4.8とHaiku 4.5で6月16日午後にエラーが多発し、6月5日以降10回目のサービス障害となった。Anthropicの年率換算売上は2025年末の90億ドルから2026年4月初頭に300億ドル超まで急増し、年間100万ドル以上を支払う企業顧客も2か月で500社から1,000社に倍増。Anthropic自身が需要急増でインフラが逼迫していることを認めている。",
+      "category": "international"
+    },
+    {
+      "title": "Indian IT's AI partnerships face first sovereignty scare after US curbs Anthropic models",
+      "title_ja": "米国のAnthropic規制で、インドIT勢の海外モデル依存に初の『AI主権』ショック",
+      "source": "BusinessToday",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/indian-its-ai-partnerships-face-first-sovereignty-scare-after-us-curbs-anthropic-models-537149-2026-06-16",
+      "date": "2026-06-16",
+      "summary": "米国のFable 5/Mythos 5輸出規制が、Anthropicとパートナーシップを結ぶTCS・Infosys・Wiproなどインド大手IT各社のAI戦略に影響を与え始めている。短期的な業務影響は限定的とされる一方、フロンティアモデルへのアクセスが地政学に左右される時代に入ったとの認識が広がっており、各社は国内モデル併用やマルチベンダー戦略を加速させている。",
+      "category": "international"
+    },
+    {
+      "title": "Copilot Cowork is now generally available",
+      "title_ja": "Copilot Coworkが正式リリース──エージェント単位の従量課金と中央統制機能を搭載",
+      "source": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
+      "date": "2026-06-16",
+      "summary": "Microsoftが公式ブログでCopilot Coworkの一般提供開始を発表。Microsoft 365内のマルチツールAIエージェントが本番運用に移行し、Copilot Credit（$0.01/credit）による従量課金とIT管理者向け統制機能を提供。発表時点ではAnthropicのOpus 4.8/Sonnet 4.6を内部モデルとして使用し、自社モデル『Cowork 1』への将来移行を予告した。",
+      "category": "company_blog"
+    },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
       "title_ja": "Axios：「我々はやられた」──人間関係のもつれがAnthropicの最新モデルをオフラインに",
@@ -83,6 +128,40 @@
       "category": "international"
     },
     {
+      "title": "Microsoft CEO Issues AI Warning: Companies That Rent Models Risk Industry Hollowing",
+      "title_ja": "Microsoft CEO『モデルを借りるだけの企業は産業空洞化のリスク』と警鐘",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/318394/20260615/microsoft-ceo-issues-ai-warning-companies-that-rent-models-risk-industry-hollowing.htm",
+      "date": "2026-06-15",
+      "summary": "Microsoft CEOのSatya Nadellaが、フロンティアモデルを借りるだけの企業はAIにより専門知識が汎用モデル側にコモディティ化され、競争優位を失うと警告するエッセイを公表。X上で48時間で2,800万閲覧を超え、AIバブル懸念と『フロンティアモデルを非フロンティア問題に使うな』というメッセージが業界で議論を呼んでいる。",
+      "category": "international"
+    },
+    {
+      "title": "Sakana AI、初の商用プロダクト「Marlin」リリース その実力は？",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
+      "date": "2026-06-15",
+      "summary": "Sakana AIが初の商用プロダクト『Sakana Marlin』を6月15日に提供開始。独自探索アルゴリズム『AB-MCTS』とOpenAI o4-mini／Gemini 2.5 Pro／DeepSeek R1-0528などのマルチLLM協調により、最大8時間自律で調査して60〜100ページのレポートとスライドを生成する『仮想CSO』型エージェント。4月から金融機関・コンサル等約300名のクローズドβを経ての正式版で、Sakana AIの本格商用化第一歩となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Sakana AI、初の商用サービスはリサーチ特化 「Deep Research」との違いは？",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/",
+      "date": "2026-06-15",
+      "summary": "Sakana AIが初商用サービスとして戦略リサーチ特化型エージェント『Sakana Marlin』をローンチした背景を、CEO・David Ha氏らへの取材を交えて解説。OpenAIの『Deep Research』とは異なり、汎用ベンチマークを追わず特定業務（経営企画・市場調査）の上流工程置換に振り切った『後発戦略』を採用。日本独自のドメイン特化アプローチとして注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "Introducing Sakana Marlin",
+      "title_ja": "Sakana AI、初の商用プロダクト『Sakana Marlin』提供開始",
+      "source": "Sakana AI",
+      "url": "https://sakana.ai/marlin-release/",
+      "date": "2026-06-15",
+      "summary": "Sakana AIが公式ブログで初の商用製品『Sakana Marlin』のローンチを発表。独自探索アルゴリズムAB-MCTSと複数LLMの動的協調を組み合わせた『仮想CSO』型ディープリサーチエージェントで、戦略立案や市場調査の上流工程を最大8時間で自律遂行できる。4月開始のクローズドβに300名超の専門職が参加した実績を公開している。",
+      "category": "company_blog"
+    },
+    {
       "title": "Trump administration reignites its feud with Anthropic over latest AI models",
       "title_ja": "NYT/Inquirer：トランプ政権、最新AIモデルめぐりAnthropicとの対立を再燃",
       "source": "The Philadelphia Inquirer (via NYT)",
@@ -126,6 +205,24 @@
       "date": "2026-06-14",
       "summary": "ITmedia NEWSが、米政権によるAnthropic Fable 5/Mythos 5外国人アクセス禁止令の背景を整理。Amazonの研究者がFable 5に特定の方法でプロンプトを与え、サイバー攻撃に転用可能な脆弱性情報を引き出すことに成功した結果、Amazon CEOアンディ・ジャシーがベセント財務長官ら高官にレポートを共有。これを受けホワイトハウスが対応協議を開始し、商務省輸出管理指令の発出に至った。Anthropic自身も『モデルの安全ガードレールを迂回する手法がある』と政府から通知されていたが、その後の対応が間に合わなかった経緯を日本語で伝えている。",
       "category": "japan"
+    },
+    {
+      "title": "LLM Judges Have Dark Current: A Psychometric Datasheet for LLM-as-a-Judge Evaluation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.15610",
+      "date": "2026-06-14",
+      "authors": "Anonymous (cs.CL)",
+      "summary": "LLM-as-a-judgeが見せる安定した選好行動の背後に潜む『暗電流』──位置バイアスや表層応答に偽装された嗜好──を心理計量的に可視化するデータシートを提案。ケーススタディとしてLlama-3.1-8Bを評価し、高い暗電流とプレゼンテーション衝突挙動を確認。LLM評価系の信頼性を担保するための実用的な診断ツールキットとして位置付ける。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Service-Induced Congestion in Memory-Constrained LLM Serving",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.15555",
+      "date": "2026-06-14",
+      "authors": "Anonymous (cs.DC/cs.LG)",
+      "summary": "LLMサービングにおけるKVキャッシュ蓄積が高並行下で内発的なメモリ逼迫を生み、エビクションと再実行の連鎖でスループットを毀損する現象を定式化。連続バッチング下の受付・メモリ成長・退避を捉える離散時間動的モデルを構築し、サービス自身が将来の輻輳を生む『サービス誘発輻輳』を理論的に説明。安定運用のための新たな受付制御ポリシーを示した。",
+      "category": "arxiv"
     },
     {
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
@@ -251,6 +348,15 @@
       "date": "2026-06-13",
       "summary": "TechCrunchが、Anthropic Fable 5/Mythos 5の全世界アクセス停止を受け、インド政府・産業界が『米国製AIへの依存リスク』を巡って国内議論を活発化させていると報道。Modi政権の閣僚やAIスタートアップ経営者からは『自国フロンティアモデルへの本格投資なしには戦略的自律性は実現できない』との声が相次ぎ、Sarvam・Krutrim・Bhashiniなど国産AIプロジェクトへの追加予算配分やソブリンGPUクラスター整備の要求が強まっている。米中AI覇権競争のなかでインドが第3極を狙う動きが鮮明化している。",
       "category": "international"
+    },
+    {
+      "title": "Who Drifted: the System or the Judge? Anytime-Valid Attribution in LLM Evaluation Pipelines",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.15474",
+      "date": "2026-06-13",
+      "authors": "Yitao Li",
+      "summary": "LLM-as-a-judge型評価パイプラインで観測されるスコアドリフトが、対象システムの劣化なのかジャッジモデル自体のサイレント更新なのかを切り分ける枠組みを提案。固定の人手アノテーション付きアンカーセット、ジャッジと人の差分に対する二次のベッティングe-プロセス、ガードウィンドウルールにより、no/system/judgeの三分類で帰属判定できる。実環境のジャッジ変更60件で誤帰属0でドリフト検知に成功した。",
+      "category": "arxiv"
     },
     {
       "title": "NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI",
@@ -1680,112 +1786,6 @@
       "date": "2026-05-29",
       "summary": "OpenAIは5月29日、Codexの「Computer Use」機能をWindowsで一般提供するとともに、ChatGPTのiOS/Androidアプリから外出先でWindows上のCodexタスクを開始・継続できる遠隔操作機能を追加したと発表した。Codexは前面で実際にマウス・キーボードを操作するため作業中はPC利用が中断されるが、画面外からモバイル経由で進捗確認やプロンプト追加が可能になる。EEA・英国・スイスでは未提供で、配信は順次拡大される。",
       "category": "international"
-    },
-    {
-      "title": "Anthropic to roll out 'Mythos-class' cyber AI broadly within weeks, including outside the US",
-      "title_ja": "Anthropic、「ミュトス級」サイバー特化AIを数週間内に一般公開 - 米国外でも提供へ",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN28D7M0Y6A520C2000000/",
-      "date": "2026-05-29",
-      "summary": "Anthropicは、サイバー攻撃能力の高さを理由に当初は非公開としていたClaude Mythosと同等性能の技術を今後数週間で一般顧客に提供すると表明した。日本など米国外でも利用可能になる見通しで、防御側にフロンティアAIの優位性を持たせる同社方針の本格的な実装フェーズに入る。OpenAIのGPT-5.5-Cyberや日本サイバーアクションプランと並び、サイバー防衛特化AIの公開競争が一気に加速する局面となる。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-      "title_ja": "Microsoft、GitHub Copilot＋Copilot Chat＋Cowork＋Autopilotを統合する「Copilotスーパーアプリ」を開発中",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/",
-      "date": "2026-05-29",
-      "summary": "Fortuneは5月29日、Microsoftが分散しているCopilotブランド群（GitHub Copilot、Copilot Chat、Copilot Cowork、新しいエージェント機能「Autopilot」）を統合する『スーパーアプリ』を開発中だと報道。新Copilot責任者Jacob Andreouが「Delivering one Copilot」を合言葉に推進し、コンシューマー版と法人M365 Copilot間のトグルも検討。今夏中の公開を目標とし、Build 2026では一部構成要素のみ言及予定で、AI体験のフラグメンテーション解消が狙い。",
-      "category": "international"
-    },
-    {
-      "title": "Copilot Health: Now in Preview for Microsoft 365 Personal/Family/Premium",
-      "title_ja": "Microsoft、消費者向け「Copilot Health」をプレビュー提供開始 ― 信頼できる医療情報源を統合",
-      "source": "Microsoft Copilot Blog",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/05/29/copilot-health-now-in-preview/",
-      "date": "2026-05-29",
-      "summary": "Microsoftは5月29日、米国の18歳以上のMicrosoft 365 Personal/Family/Premium加入者向けに「Copilot Health」のプレビュー提供を開始。信頼できる医療情報源にグラウンディングした回答や症状アシスト、医師検索などを統合した家庭向けAI健康アシスタント。生成AIによる医療領域への進出は規制配慮を要する分野で、Microsoftは情報源の透明性と免責表示を組み込みつつ、消費者向けAI市場でのCopilotブランド拡張を狙う。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Apple-Google Gemini Siri deal: $1B/year licensing for next-gen Apple Intelligence",
-      "title_ja": "Apple、Siri刷新のためGoogle Geminiを年10億ドルでライセンス ― オンデバイスとクラウドのハイブリッド戦略",
-      "source": "Business Today",
-      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/apples-next-ai-move-google-deal-nvidia-chips-and-on-device-intelligence-focus-533841-2026-05-29",
-      "date": "2026-05-29",
-      "summary": "Business Todayは5月29日、AppleがSiri刷新のためにGoogle Geminiモデルをライセンスする複数年契約（年10億ドル規模）を締結したと報道。新世代Apple Foundation ModelsはGeminiおよびGoogle Cloudをベースとし、6月のWWDC 2026でよりパーソナライズされたSiriとして披露される見通し。Apple自社モデル路線からの実質的な方針転換で、オンデバイスAI（自社チップ）とクラウドフロンティアモデル（Google）の役割分担が進む。",
-      "category": "international"
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "title_ja": "AIなしでは働けない開発者たち ― GitHub Copilotなど依存とコード品質の課題、TechCrunchが警鐘",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "date": "2026-05-29",
-      "summary": "TechCrunchは5月29日、Anthropic Claude Code・GitHub Copilot・OpenAI Codexなどが「不可欠」となる中、AIを前提にする開発者は離せなくなる一方でAI生成コードの品質には依然として懸念が残ると指摘する記事を掲載。生産性の上昇とコード品質の劣化、シニアエンジニアの育成パイプラインの空洞化リスクなどを論じ、企業の開発組織におけるAIガバナンスの再設計が急務だと結論付けた。",
-      "category": "international"
-    },
-    {
-      "title": "GENIAC-PRIZE 2026始動、懸賞金・計算リソース総額10億円のAIコンテスト—経産省・NEDOが挑む人手不足とフィジカルAI",
-      "source": "Innovatopia",
-      "url": "https://innovatopia.jp/ai/ai-news/106416/",
-      "date": "2026-05-29",
-      "summary": "経済産業省とNEDOが「GENIAC-PRIZE 2026」を発表。懸賞金最大6.3億円＋テーマ2参加者向け最大4億円相当の計算リソースを含む総額約10億円のAIコンテストで、エッセンシャルワーカー支援とフィジカルAI人材育成を二本柱に設計された。",
-      "category": "japan"
-    },
-    {
-      "title": "総額約10億円の懸賞金・計算リソースを提供するAIコンテスト「GENIAC-PRIZE 2026」が始動します",
-      "source": "経済産業省",
-      "url": "https://www.meti.go.jp/press/2026/05/20260529003/20260529003.html",
-      "date": "2026-05-29",
-      "summary": "経済産業省は2026年5月29日、NEDOと共同で「GENIAC-PRIZE 2026」を正式発表。総額約10億円の懸賞金・計算リソースを提供し、エッセンシャルワーカーを支援する基盤モデル開発などをテーマとした生成AI技術コンテストを始動する。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic raises at $965B valuation, eclipsing OpenAI as the world's most valuable private AI company",
-      "title_ja": "Anthropic、評価額9,650億ドルでOpenAIを上回り世界最高評価額の非上場AI企業に",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-      "date": "2026-05-28",
-      "summary": "Anthropicは5月28日、評価額9,650億ドルで650億ドルの資金調達ラウンドを完了。Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capitalが共同でリードした。初めてOpenAIの企業価値を上回り、世界で最も価値ある非上場AI企業となった。年率換算売上は190億ドルに到達しており、四半期黒字化も視野に入る。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic opens Milan office, accelerating European expansion amid 9x EMEA revenue surge",
-      "title_ja": "Anthropic、ミラノにオフィス開設──EMEA売上9倍急伸を背景に欧州展開を加速",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-open-milan-office-expanding-095020601.html",
-      "date": "2026-05-28",
-      "summary": "Anthropicは5月28日、イタリア・ミラノに南欧拠点を開設すると発表。ロンドン、ダブリン、チューリッヒ、パリ、ミュンヘンに次ぐ欧州6拠点目で、過去1年弱で欧州展開を一気に加速した。EMEA地域の年率売上は前年比9倍、大企業顧客数は約10倍に拡大。当面はGenerali、Unipol、Pirelli、Bending Spoons、Satispayなどのイタリア顧客向け営業・技術サポートを担う。",
-      "category": "international"
-    },
-    {
-      "title": "Asahi Kasei, Fujitsu, Yaskawa Electric consider investing in SoftBank-led domestic AI consortium",
-      "title_ja": "旭化成・富士通・安川電機、国産AI開発のソフトバンク系新会社に出資検討──製造業30社規模に拡大",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOFL279SG0X20C26A5000000/",
-      "date": "2026-05-28",
-      "summary": "ソフトバンクが設立した国産AI基盤モデル開発の新会社に対し、旭化成・富士通・安川電機の3社が新たに出資を検討していることが5月28日に明らかになった。すでにNEC、ホンダ、ソニーグループ、3メガバンク、日本製鉄、神戸製鋼所が出資しており、製造業を中心に出資企業は30社規模に拡大する見込み。1社あたり数千万円規模の出資を想定しており、日本独自の生成AI基盤構築を産業横断で支える枠組みとなる。",
-      "category": "japan"
-    },
-    {
-      "title": "Digital Agency Begins Large-scale Pilot of Government AI 'Gennai' Across All Ministries (~180,000 Users)",
-      "title_ja": "ガバメントAI「源内」、全府省庁で大規模実証を開始 約10万人がすでに利用可能、最終的に18万人へ",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/28/2000000033/",
-      "date": "2026-05-28",
-      "summary": "デジタル庁は5月28日、内製した生成AI利用環境「源内」について全府省庁の政府職員約18万人を対象とした大規模実証を開始したと発表した。すでに約10万人が利用可能で、6月以降は防衛省・文科省などにも拡大、2027年3月まで実証を行う。Claude Sonnet 4.5/4.6・Haiku 4.5・Nova Liteなどを基盤に、国会答弁検索や法令調査、神エクセル変換など約30アプリを実装しており、国産政府AIプラットフォームの本格運用フェーズに入った。",
-      "category": "japan"
-    },
-    {
-      "title": "Mizuho FG and NEC Launch Joint PoC for AI Agent Authentication Platform 'KYA' (Know Your Agent)",
-      "title_ja": "みずほFGとNEC、AIエージェント認証基盤「KYA」構築に向けた共同実証実験を開始",
-      "source": "NEC（プレスリリース）",
-      "url": "https://jpn.nec.com/press/202605/20260528_02.html",
-      "date": "2026-05-28",
-      "summary": "みずほフィナンシャルグループとNECは5月28日、AIエージェントが自律的に金融サービスを利用する「Agentic Finance」時代に備え、DID/VC技術を用いたAIエージェント認証基盤「KYA（Know Your Agent）」の共同実証実験を6月から開始すると発表した。本人確認（KYC）のAI版にあたり、AIエージェントの「認証」「同意」「委任」「監査」の4要素を金融機関が検証できるようにする。金融業界横断の共通認証基盤化と国際標準準拠も視野に入れる。",
-      "category": "japan"
     }
   ]
 }

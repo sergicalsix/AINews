@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-06-16 09:00 (JST)",
+  "lastUpdated": "2026-06-17 09:00 (JST)",
   "articles": [
+    {
+      "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
+      "title_ja": "VentureBeat：Weiboの30億パラメータ『VibeThinker-3B』がベンチマーク論争を再燃",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "date": "2026-06-17",
+      "summary": "中国Sina Weiboの研究チームがarXivに発表した30億パラメータの推論モデル『VibeThinker-3B』が、AIME 2026で94.3、LiveCodeBench v6で80.2 Pass@1を記録し、671B規模のDeepSeek V3.2に肩を並べる成績を示した。Qwen2.5-Coder-3Bをベースに、カリキュラム型SFT・多領域RL・オフライン自己蒸留を組み合わせた手法で、MITライセンスで重みも公開。一方で『ベンチマーク偏重』『実用性とのギャップ』を巡る議論も再燃している。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic asked for regulation. Washington went much further",
+      "title_ja": "CNBC：Anthropicが望んだ『AI規制』、ワシントンが想定をはるかに超える形で実現",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
+      "date": "2026-06-17",
+      "summary": "CNBCが、安全性とAI規制の必要性を訴え続けてきたAnthropicが、結果的にトランプ政権から想定外に強硬な輸出管理指令を受けた皮肉な構図を分析。同社は最近時価総額1兆ドル近くに迫る評価を得ていたが、政権が10日前に署名したAI大統領令の延長線上でFable 5/Mythos 5の停止を命じられた。Anthropicは大統領令を『重要な一歩』と称賛していただけに、規制を求めて推進してきた企業が最も厳しい措置の対象となる典型例として注目を集めている。",
+      "category": "international"
+    },
+    {
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "title_ja": "CNBC：AnthropicのAmodeiとDeepMindのHassabis、G7で『米国主導のAI連合』を提唱",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+      "date": "2026-06-17",
+      "summary": "フランスで開催中のG7サミットで、AnthropicのDario Amodei CEOとGoogle DeepMindのDemis Hassabis CEOがトランプ大統領を含む各国首脳・テック企業幹部との会合で、AIのルールと標準を米国主導で形成する国際連合の必要性を訴えた。Anthropicが直前にFable 5/Mythos 5の輸出管理問題で米政府と対立しているなかでの発言で、規制の方向性と地政学的競争を巡る業界の立ち位置に注目が集まっている。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Gemini 3 Flash: Frontier intelligence built for speed",
+      "title_ja": "Gemini 3 Flash発表：スピード重視で構築されたフロンティア知能",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "date": "2026-06-17",
+      "summary": "Google DeepMindはGemini 3ファミリーを拡張し、Pro級の推論能力とFlash級のレイテンシ・効率・コストを両立させた『Gemini 3 Flash』を公開。GPQA Diamondで90.4%、Humanity's Last Exam（ツール無し）で33.7%を達成し、より大型のフロンティアモデルに匹敵すると主張。GeminiアプリやAI Mode、Gemini API、Vertex AI、Gemini Enterpriseなどで世界展開を開始した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Top announcements of the AWS Summit in New York, 2026",
+      "title_ja": "AWS Summit ニューヨーク 2026 の主要発表まとめ",
+      "source": "AWS",
+      "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
+      "date": "2026-06-17",
+      "summary": "AWSはニューヨークサミットで多数のAI関連新機能を発表。Amazon Bedrock Managed Knowledge Baseはネイティブデータコネクタ、Smart Parsing、Agentic Retrieverを備えたエンタープライズRAGパイプラインを提供。AgentCoreにはWeb検索や運用観測機能、Amazon Nova基盤モデルのSageMaker AIによる継続事前学習・SFT・DPO・RLHF・蒸留などの本格カスタマイズ機能、QuickSight連携やS3非構造化データ統合も追加された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "「ポケカ対戦AIエージェント」開発コンテスト開始 「不完全情報ゲーム」をどう制するか",
+      "title_ja": "「ポケカ対戦AIエージェント」開発コンテスト開始 「不完全情報ゲーム」をどう制するか",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000098/",
+      "date": "2026-06-17",
+      "summary": "株式会社ポケモン、松尾研究所、HEROZの共催で、Kaggleプラットフォーム上のAIエージェント開発コンテスト『ポケモンカードゲーム AI Battle Challenge（ポケカABC）』が6月16日20時に開始した。GoogleとNVIDIAが開催に協力。相手の手札が見えない『不完全情報ゲーム』で意思決定をどう学習させるかが課題で、シミュレーション部門とストラテジー部門の2部門で競う。第一ラウンド上位8チームに賞金3万ドル、第二ラウンド優勝には5万ドルが授与される。チェスや将棋とは異なるゲームAI研究の新たな試金石となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+      "title_ja": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
+      "date": "2026-06-17",
+      "summary": "AIコードエディタのCursorは6月16日（現地）、サンフランシスコのイベント『Compile』で新たなコードホスティング・Gitホスティングサービス『Origin』を発表した。『エージェント時代のGitフォージ』を掲げ、複数AIエージェントが同時にクローン・ブランチ・コミット・レビューを行う負荷を前提に設計。API/MCP拡張、自動マージコンフリクト解決、エージェントベースのCI失敗解決が特長で、デモでは1リポジトリで毎秒22.6コミットを処理。秋に正式提供予定で、GitHubの強力な対抗馬として日本の開発者にも注目されている。同時にGraphite買収も発表された。",
+      "category": "japan"
+    },
+    {
+      "title": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
+      "title_ja": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news104.html",
+      "date": "2026-06-17",
+      "summary": "XREALは6月17日、サングラス型ディスプレイの新製品『XREAL AURA』を2026年秋に発売すると発表した。GoogleおよびQualcommとの協業で開発された光学シースルー方式のXRグラスで、Android XRとGoogleのAIアシスタント『Gemini』を統合。Snapdragon Reality Eliteを搭載し、91gの軽量フレームに70度の広視野角を実現。米国小売価格は税別1500ドル以下を予定し、日本も初回出荷対象。同日から優先出荷の特典プログラム（15,000円）と発売日出荷を保証する限定パス（45,000円）の予約受付が始まった。マルチモーダルAIを搭載した次世代スマートグラスの本命と位置付けられる。",
+      "category": "japan"
+    },
+    {
+      "title": "Notta、AIエージェント「Notta Brain」に定例タスクやSlack・LINE連携",
+      "title_ja": "Notta、AIエージェント「Notta Brain」に定例タスクやSlack・LINE連携",
+      "source": "Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2117922.html",
+      "date": "2026-06-17",
+      "summary": "AI議事録サービスのNottaは6月17日、音声ファーストAIエージェント『Notta Brain』に3つの新機能を追加したと発表した。指定時刻や頻度で自動実行する『定例タスク』、Slackから質問するとNotta内の議事録や資料を基に回答する連携、LINE Bot経由で同様の応答が得られる連携の3点。週次の会議サマリ自動配信や月次レポート生成といったユースケースが可能になり、AIエージェントが日常業務に溶け込むかたちでの自動化を狙う。Notta Brainは2026年1月に正式リリースされて以降、急速に機能拡張を進めている。",
+      "category": "japan"
+    },
+    {
+      "title": "G7エビアン・サミット閉幕、AI首脳ランチでOpenAI・Anthropic・DeepMindトップが参加 日本も枠組み議論に加わる",
+      "title_ja": "G7エビアン・サミット閉幕、AI首脳ランチでOpenAI・Anthropic・DeepMindトップが参加 日本も枠組み議論に加わる",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1337D0T10C26A6000000/",
+      "date": "2026-06-17",
+      "summary": "フランス・エビアンで6月15日から開催されていた第52回G7サミットが6月17日に閉幕した。マクロン仏大統領の招待でSam Altman氏（OpenAI）、Dario Amodei氏（Anthropic）、Demis Hassabis氏（Google DeepMind）ら10〜15人のテック幹部が初の『AIワーキングランチ』に参加し、フロンティアAIのリスク、インフラ、ソブリン化が議題となった。高市早苗首相も参加し、AIに加え量子、宇宙、半導体分野でのサプライチェーン強靭化に向けた協力強化を表明。日本のAIガバナンスや国産基盤モデル戦略に直結する重要会合となった。",
+      "category": "japan"
+    },
     {
       "title": "Microsoft makes Copilot Cowork generally available worldwide",
       "title_ja": "Microsoft、AIエージェント「Copilot Cowork」を世界展開で一般提供開始",
@@ -45,6 +135,109 @@
       "date": "2026-06-16",
       "summary": "Microsoftが公式ブログでCopilot Coworkの一般提供開始を発表。Microsoft 365内のマルチツールAIエージェントが本番運用に移行し、Copilot Credit（$0.01/credit）による従量課金とIT管理者向け統制機能を提供。発表時点ではAnthropicのOpus 4.8/Sonnet 4.6を内部モデルとして使用し、自社モデル『Cowork 1』への将来移行を予告した。",
       "category": "company_blog"
+    },
+    {
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "title_ja": "SpaceX、AIコーディングのCursorを600億ドルの株式交換で買収──歴史的IPO直後の電撃合意",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "date": "2026-06-16",
+      "summary": "SpaceXが、4月に取得していたコールオプションを行使し、AIコーディングエージェント『Cursor』を運営するAnysphereを600億ドルの全株式交換で買収すると発表。今年初めにxAIと合併済みのSpaceXは、Grokによるモデル競争に加え、急成長中のエージェント型コーディング市場でAnthropicやOpenAIに対抗する構えを示した。Cursorは年率換算売上26億ドル規模で、Q3クロージング予定。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
+      "title_ja": "OpenAI、実ユーザー会話を再生する事前安全評価『Deployment Simulation』を発表",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+      "date": "2026-06-16",
+      "summary": "OpenAIが6月16日、新候補モデルのリリース前評価手法『Deployment Simulation』に関する研究論文を公開。実ユーザーの過去会話からAI応答を取り除き、新モデルに再生成させて挙動の変化を検出する。GPT-5 Thinking〜GPT-5.4の130万件の会話で検証し、ブラウザツールを電卓代わりに使う『電卓ハッキング』など新規ミスアライメントを早期発見できたと報告。合成プロンプトでは見えない実運用リスクの可視化手段として注目される。",
+      "category": "international"
+    },
+    {
+      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+      "title_ja": "CNBC：『新たな原油』──AI計算能力を取引可能なコモディティ化する動きが本格化",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
+      "date": "2026-06-16",
+      "summary": "クラウドプロバイダーとGPUマーケットプレイスの価格を追跡するSilicon DataがCME Groupと組み、AI計算能力に連動した世界初の先物契約を立ち上げる構想を進めている。AIモデルの学習・推論コストの変動を企業がヘッジできるようにする狙いで、規制承認待ち。発表後数日でProShares・Rex SharesがレバレッジETF・インバースETFを申請しており、AIコンピュートの『金融商品化』が一気に進む可能性がある。",
+      "category": "international"
+    },
+    {
+      "title": "Robinhood's note on 10% layoffs shows blaming AI isn't cutting it",
+      "title_ja": "TechCrunch：Robinhoodの10%レイオフ通知が示す『AIのせい』言い訳の限界",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "date": "2026-06-16",
+      "summary": "RobinhoodのVlad Tenev CEOが約290名（全社の10%）の人員削減を発表したが、AIの単語を一切使わず『フロンティア技術で実行力を高める』と表現したことが注目を集めている。2026年に入ってからAIを理由にした大量解雇への世論の反発が強まり、企業はAI言及を避け始めた格好。今年は既に18万人超のテック業界レイオフが発生し、その55%がAI関連を理由として挙げていたが、その語り口が急速に陳腐化していることを示すケースとして報じられた。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's Fable fiasco leaves the door open for open-source AI, particularly cheaper models from China",
+      "title_ja": "Fortune：AnthropicのFable停止が中国製オープンソースモデルに追い風──DeepSeek・Zhipuら急上昇",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/16/us-anthropic-ban-open-source-ai-deepseek-zai/",
+      "date": "2026-06-16",
+      "summary": "Fortuneが、米政府によるAnthropic Mythos 5/Fable 5の海外提供制限が、企業のオープンソースAI採用を加速させていると報道。先週のモデル利用ランキング上位4つはDeepSeek・MiniMax・Tencent・Xiaomiといずれも中国製で占められた。Fable 5の出力100万トークンが50ドルなのに対し、DeepSeek V4 Proは3.48ドル。クローズドモデルは『いつアクセスを止められるか分からない』という新たな企業リスクとして認識され、自社インフラで動くダウンロード可能なAIへのシフトが進んでいる。",
+      "category": "international"
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "title_ja": "OpenAI公式：デプロイメントシミュレーションによるリリース前モデル挙動予測",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/deployment-simulation/",
+      "date": "2026-06-16",
+      "summary": "OpenAIは、リリース前の候補モデルに対し、過去の実ユーザー会話を再生して挙動ドリフトやミスアラインメント、報酬ハッキングを検出する新手法『Deployment Simulation』を発表。GPT-5 Thinkingから5.4までの約130万件の匿名化会話で検証し、約92%の精度で実環境での問題挙動を予測できたとし、エージェント型コーディングにおける疑似ツール呼び出しまで評価範囲を拡張する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供 まずは日本の重要インフラ向けに",
+      "title_ja": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供 まずは日本の重要インフラ向けに",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
+      "date": "2026-06-16",
+      "summary": "ソフトバンクグループ、ソフトバンク、SB OAI Japanは6月16日、OpenAIの先端AI技術を活用したサイバーセキュリティ対策ソリューション『Patching as a Service』の提供開始を発表した。GPT-5.5 Cyberとソフトバンクの運用ノウハウを組み合わせ、脆弱性診断から修復方針策定、実装提案までを一気通貫で支援する。同社が社内700システムで実証したところ約1万件の脆弱性が発見されたといい、孫正義会長は『黒船襲来以来の危機』とAIサイバー攻撃の脅威を表現。日本国内の重要インフラ企業から順次提供を開始する。",
+      "category": "japan"
+    },
+    {
+      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+      "title_ja": "Nature掲載メタ解析論文でのLLMエージェント評価ベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.17041",
+      "date": "2026-06-16",
+      "authors": "Anzhe Xie, Weihang Su, Yujia Zhou, Yiqun Liu, Qingyao Ai (Tsinghua University)",
+      "summary": "Nature系ジャーナル掲載の442本のメタ解析を専門家がキュレーションしたデータセットMetaSynを提案。各事例は研究質問、PI/ECO基準、14万件のPubMed論文からなる検索コーパス、検証済みポジティブ研究、ハードネガティブ、検索戦略・日付境界を含む。9種のRAGバリアントとプロトコル駆動型エージェントを含む12種のパイプラインを評価し、検索上限90.9%再現率に対しスクリーニング段階で52.7%しか正解文献を回収できないというボトルネックを明らかにした。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system",
+      "title_ja": "LLMによる天文データベース照会:ALeRCE Text-to-SQLシステム",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18108",
+      "date": "2026-06-16",
+      "authors": "P. A. Estevez, et al.",
+      "summary": "Zwicky Transient FacilityおよびVera C. Rubin天文台のブローカーALeRCEデータベース向けに、in-context学習ベースのText-to-SQLシステムを構築。スキーマリンキング、クエリ分類、プロンプト分解、自己訂正の4モジュールから成る段階的生成フレームワークを提案し、110件のNL/SQLペアデータセットで13種のLLMを評価。自然言語による天文データ照会を可能にし、行ID・列IDの完全一致率で性能を測定した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents",
+      "title_ja": "ProvenanceGuard: MCPベースLLMエージェントのためのソース認識型事実性検証",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18037",
+      "date": "2026-06-16",
+      "authors": "Ander Alvarez, Santhiya Rajan, Samuel Mugel, Roman Orus",
+      "summary": "Model Context Protocol(MCP)を用いるLLMエージェントが外部ツールから得た情報を回答に反映する際の事実性を保証するため、ソース認識型の検証フレームワークProvenanceGuardを提案。各主張をMCPツール呼び出しの出力に対応付け、出典に基づき事実性を検証することでハルシネーションや誤帰属を抑制する。AIエージェント、自然言語処理、マルチエージェントシステム領域にわたり、信頼性の高いツール拡張LLM運用を可能にする20頁の研究。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "title_ja": "LegalHalluLens: 信頼できる法務AIのための型付きハルシネーション監査と較正済みマルチエージェント討論",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18021",
+      "date": "2026-06-16",
+      "authors": "Lalit Yadav, Akshaj Gurugubelli",
+      "summary": "法務領域におけるLLMのハルシネーションを類型(誤判例引用、条文誤記、規範誤適用など)別に監査するLegalHalluLensを提案。較正済みマルチエージェント討論により判断の信頼性を向上させ、各エージェントの判定確率を較正することで、最終出力の信頼度を定量化する。ICML 2026のAIWILDワークショップ採択論文で、法務AIの実運用に向けた信頼性確保の枠組みを示す。",
+      "category": "arxiv"
     },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
@@ -1596,195 +1789,6 @@
       "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "date": "2026-06-01",
       "summary": "Anthropicは6月1日、米SECに新規株式公開（IPO）に向けた登録届出書（Form S-1）を機密提出したと公式に発表した。直近のSeries Gで$965B評価に達した同社は年率$47Bの売上を計上、OpenAIに先んじてAI大手として初の上場プレイヤーになる可能性が高まった。年内10月の上場を視野に、最終的に$1.75T〜$1.8T評価・最大$75B調達という史上最大規模のIPOを目指すとも報じられ、SpaceX・OpenAIと並ぶ「トリリオン級AI IPO」競争の号砲となった。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
-      "title_ja": "Anthropicが機密IPO目論見書を提出、AI業界の地殻変動を示す上場準備",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
-      "date": "2026-06-01",
-      "summary": "CNBCは6月1日、AnthropicがSECに機密S-1を提出しIPO準備を本格化させたと報道。1週間前に発表したClaude Opus 4.8の好評と、OpenAIを抜いたエンタープライズ採用シェア、$47Bの年率ARRが背景にあり、株式市場でのAI評価の試金石となる。同時にOpenAIの非機密IPO検討、SpaceXの財務情報提出も明らかになり、フロンティアAI企業3社の上場ラッシュ局面に突入した。",
-      "category": "international"
-    },
-    {
-      "title": "NVIDIA announces Isaac GR00T Reference Humanoid Robot at GTC Taipei (Computex 2026)",
-      "title_ja": "NVIDIA、Isaac GR00T 参照ヒューマノイドロボットを発表 ― Unitree H2＋Jetson Thorで研究機関向けにオープン提供",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design",
-      "date": "2026-06-01",
-      "summary": "NVIDIAはGTC Taipei（Computex 2026）で、Jetson Thor搭載・Unitree H2 Plus筐体・Sharpa五本指ハンドを組み合わせた初のオープン仕様ヒューマノイド参照設計「NVIDIA Isaac GR00T Reference Humanoid Robot」を発表した。Ai2、ETH Zurich、Stanford Robotics Center、UC San Diegoなどが導入予定で、Isaac GR00T基盤モデル群と組み合わせて研究用途で利用可能。2026年後半にUnitreeから提供開始予定で、フィジカルAI研究の標準プラットフォーム化を狙う。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Jensen Huang unveils NVIDIA RTX Spark Windows laptop chip at Computex 2026",
-      "title_ja": "NVIDIA、Windowsノート向けAI SoC「RTX Spark」を発表 ― Computex基調講演でApple/Intel/AMDに正面挑戦",
-      "source": "TechXplore",
-      "url": "https://techxplore.com/news/2026-06-nvidia-windows-laptop-chip-ai.html",
-      "date": "2026-06-01",
-      "summary": "NVIDIAのジェンスン・フアンCEOは台北Computex 2026のGTC基調講演で、Windowsノート/デスクトップ向けAI対応CPU「RTX Spark」を初公開した。Microsoftと共同でAI時代のPC像を再定義するとし、Apple、Intel、AMDの牙城に直接参入。次世代Vera Rubin（後半量産）にも触れ、データセンターから消費者AI PCまでスタックを縦に拡張する戦略を鮮明にした。台湾CPO・先端パッケージ周辺の急拡大とも連動する。",
-      "category": "international"
-    },
-    {
-      "title": "GitHub Copilot moves to usage-based billing on June 1, 2026",
-      "title_ja": "GitHub Copilot、6月1日から従量課金制（AI Credits）へ ― Pro/Pro+も自動移行、Codexと熾烈な競争",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "date": "2026-06-01",
-      "summary": "GitHubは6月1日、Copilotの全プランをトークンベースの従量課金（GitHub AI Credits）へ移行した。Copilot Pro（$10/月で同額のAI Credits）、Pro+（$39/月で同額）に加え、Business/Enterprise顧客は6〜8月に促進的な含み枠を付与。月額契約のPro/Pro+ユーザーは自動移行、年間契約はプラン満了まで現行プレミアムリクエスト方式を維持。Codexやエージェント呼び出しの増加でコスト構造を透明化する一方、利用者からは「10〜50倍に膨らむ恐れ」との反発も広がる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA ramps up production of Vera Rubin, the foundation of the next generation of AI factories",
-      "title_ja": "NVIDIA、次世代AIファクトリーの基盤「Vera Rubin」を本格量産フェーズへ",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/06/01/nvidia-ramps-production-vera-rubin-foundation-next-generation-ai-factories/",
-      "date": "2026-06-01",
-      "summary": "SiliconANGLEは6月1日、NVIDIAがGTC Taipei基調講演で、Vera Rubinプラットフォームが「史上最大級のインフラ構築」として本格量産フェーズに入ったと発表したと報道。7つの新チップで構成され、Blackwell世代比1/4のGPU数で大規模MoEモデルを学習、推論では10倍のスループットを1/10のコストで実現する。エージェンティックAI時代に対応した完全な再設計で、パートナーからの提供は2026年後半に開始予定。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
-      "title_ja": "MicrosoftとGoogle、AIコーディングモデルでAnthropicとOpenAIに参入",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
-      "date": "2026-06-01",
-      "summary": "CNBCは6月1日、Anthropicが「Claude Code」でAIコーディング分野を席巻する中、MicrosoftとGoogleが自社モデルで巻き返しを図るとレポート。Microsoftは6月2日からのBuild 2026で関連発表を控え、Googleも5月のI/Oでデベロッパ訴求を強化。生成AI市場の中核に位置する「AIコーディング」を巡る四つ巴の競争が加熱している状況を整理した。",
-      "category": "international"
-    },
-    {
-      "title": "Unified Context Evolution for LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.02304",
-      "date": "2026-06-01",
-      "summary": "LLMベースのエージェントが多段階タスクを推論と環境フィードバックを組み合わせて解くための統合フレームワーク「Unified Context Evolution」を提案した論文。経験を「メモリ」「戦略」「ワークフロー」「スキル」の4つの補完的な型に分解して進化させ、複雑な多段階インタラクティブタスクで性能向上を達成したと報告。",
-      "authors": "(arXiv 2606.02304)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Mechanistic Diagnostics of Spatial Lexical Bias in Multimodal Large Language Model Spatial Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.01914",
-      "date": "2026-06-01",
-      "summary": "マルチモーダルLLMの空間推論失敗をメカニスティック解釈可能性ツールで診断した論文。多くの失敗が視覚側ではなく言語側で発生していることを示し、空間語彙バイアスの存在を明らかにした。MLLMのVision-Language統合における根本課題に光を当てる成果。",
-      "authors": "(arXiv 2606.01914)",
-      "category": "arxiv"
-    },
-    {
-      "title": "HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.01779",
-      "date": "2026-06-01",
-      "summary": "エージェントシステムをハーネス（実行構造）とポリシー（推論挙動）のペアとして定式化し、両者を同時に進化させるメタ適応フレームワークHarnessForgeを提案。タスク分布の変化に応じてハーネスとポリシーが共進化することで、固定構造のエージェントを上回る安定的な適応性能を示した。",
-      "authors": "anonymous (arXiv preprint)",
-      "category": "arxiv"
-    },
-    {
-      "title": "MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model",
-      "title_ja": "中国MiniMax、フロンティア級コーディング・100万トークン・ネイティブマルチモーダルを兼ね備えた「MiniMax M3」を公開",
-      "source": "MiniMax",
-      "url": "https://www.minimax.io/blog/minimax-m3",
-      "date": "2026-06-01",
-      "summary": "MiniMaxは6月1日、フロンティア級のコーディング・エージェント性能、100万トークンのコンテキスト、テキスト/画像/動画ネイティブ入力を1モデルに統合したオープンウェイトモデル「MiniMax M3」を公開した。独自のMSA（MiniMax Sparse Attention）を採用し、SWE-Bench Pro 59.0%、BrowseComp 83.5でGPT-5.5やGemini 3.1 Proを上回り、Claude Opus 4.7に肉薄したと主張。学習コード・推論オペレータは10日以内にHugging FaceとGitHubで公開予定とする。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Mistral Replaces Le Chat Assistant with New Vibe AI Agent for Work and Coding",
-      "title_ja": "Mistral、Le Chatを「Vibe」へ刷新し業務・コーディング統合エージェントに",
-      "source": "WinBuzzer",
-      "url": "https://winbuzzer.com/2026/06/01/mistral-rebrands-le-chat-as-vibe-for-work-and-coding-xcxwbn/",
-      "date": "2026-06-01",
-      "summary": "Mistralは6月1日、消費者向けアシスタント「Le Chat」を業務・コーディング統合エージェント「Vibe」にリブランド。同時に旗艦モデル「Medium 3.5」（128B密／256kコンテキスト）を投入し、SWE-Bench Verified 77.6%を記録。Vibeにはクラウドで並列実行されるリモートコーディングエージェントと、複数ステップ業務を遂行する「Work mode」が搭載され、ローカルCLIからの「Teleport」によるセッション継続も可能となった。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank Group to Build 5 GW of AI Data Center Capacity in France (~€75B Investment)",
-      "title_ja": "ソフトバンクG、仏に5GW級AIデータセンター構築へ ― 最大€75B（約12兆円）投資、欧州最大級のAIインフラに",
-      "source": "SoftBank Group（プレスリリース）",
-      "url": "https://group.softbank/en/news/press/20260531_0",
-      "date": "2026-05-31",
-      "summary": "ソフトバンクグループは5月30日、仏「Choose France」サミットでフランスに最大5GWのAIデータセンター容量を整備すると発表（公式プレスリリースは5月31日付）。投資総額は最大€75B（約12兆円）規模で、第1フェーズはオー＝ド＝フランス地域のダンケルク（ロン＝プラージュ）、ボスケル、ブシャンに2031年までに3.1GWを展開。EDFが旧火力跡地を提供し、Schneider Electricと組んでダンケルク港に大規模産業クラスターを構築する。欧州AIインフラ単独投資としては過去最大級で、孫正義氏のソブリンAI戦略の中核となる。",
-      "category": "japan"
-    },
-    {
-      "title": "NVIDIA launches Alpamayo 2 Super — open 32B-parameter reasoning VLA model for robotaxis",
-      "title_ja": "NVIDIA、ロボタクシー向けに32Bパラメータの推論型VLAモデル「Alpamayo 2 Super」をオープン公開",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
-      "date": "2026-05-31",
-      "summary": "NVIDIAはGTC Taipeiで、レベル4自律走行向けの推論型VLA（Vision-Language-Action）モデル「Alpamayo 2 Super」を発表。32Bパラメータで全方位360度センサーから知覚・推論・計画・行動までを一貫実行し、譲歩・車線変更・停止などのマクロ操作を意味づけする「Meta-Actions」も搭載。併せて、閉ループ強化学習基盤「AlpaGym」と、生成型フォトリアルワールドモデル「OmniDreams」も公開し、AVスタックの自己改善ループを開放。重みはこの夏GitHub/Hugging Faceで提供開始予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.31584",
-      "date": "2026-05-31",
-      "summary": "Tsinghua大学KEGの研究グループは、長文脈推論を強化するためにサーチエージェントの軌跡とルーブリック報酬を用いる強化学習手法「LongTraceRL」を提案。重要情報を膨大な妨害情報から特定・統合する能力を高めるよう設計され、5つの長文脈ベンチマークで推論系LLMの性能を一貫して向上させたと報告。長文脈エージェントの再学習レシピとして、検索系トラジェクトリ＋ルーブリック評価の有効性を示した。",
-      "authors": "Nianyi Lin, Jiajie Zhang, Lei Hou, Juanzi Li (THU-KEG, Tsinghua)",
-      "category": "arxiv"
-    },
-    {
-      "title": "SoftBank to invest up to €75 billion to build French data centers",
-      "title_ja": "ソフトバンク、最大€75B投じ仏に5GW級AIデータセンター ― 米中欧追撃の最大級欧州AI投資",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "date": "2026-05-30",
-      "summary": "TechCrunchは5月30日、ソフトバンクグループのフランス向け€75B投資・5GWデータセンター計画を速報。仏EDFが旧石炭火力跡地を提供しSchneider Electricが冷却・電力で参画、第1段3.1GWは2031年運用開始。Macron仏大統領のChoose Franceサミットで発表され、欧州が米中に対抗するAI主権インフラ構想の柱となる。Stargate（米）・英ロンドンOpenAI拠点に続くソフトバンクのソブリンAI戦略のグローバル展開を示す。",
-      "category": "international"
-    },
-    {
-      "title": "DeepMind's AlphaProof Nexus cracks 9 open Erdős problems with Lean-verified proofs",
-      "title_ja": "DeepMindのAlphaProof Nexus、56年未解決を含むエルデシュ問題9件をLean検証付きで解決",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317447/20260530/ai-math-proof-milestone-deepmind-cracks-9-erds-problems-magnetar-confirmed.htm",
-      "date": "2026-05-30",
-      "summary": "Google DeepMindの数学AIシステム「AlphaProof Nexus」は、Paul Erdős問題集353問のうち9問（うち2問は56年間未解決）を形式的に解き、OEIS（整数列百科）の予想44件を証明したと報告。Gemini 3.1 Proが証明戦略を提案し、Lean証明アシスタントが論理ステップを検証する構成で、推論コストは1問あたり数百ドル程度。Hassabis CEOは「まだAGIではない」と慎重姿勢を示しつつ、AI数学研究がベンチマーク超えのプロ研究領域に到達したことを象徴する成果となった。",
-      "category": "international"
-    },
-    {
-      "title": "'What a joke': GitHub Copilot's new token-based billing spurs consternation among devs",
-      "title_ja": "「冗談か」GitHub Copilotの従量課金移行に開発者が猛反発 ― トークン枯渇と料金跳ね上げを懸念",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "date": "2026-05-30",
-      "summary": "TechCrunchは5月30日、GitHub Copilotの6月1日からの従量課金移行を巡って開発者コミュニティで反発が高まっていると報道。Premium Requestsという従来のクレジット枠が分かりにくく、エージェント実行やCodex呼び出しで急速に消費され、実質的な値上げと感じる声が多い。Visual Studio MagazineやGitHub Discussionsでも「得られるものは減るのに価格は同じ」「会社の負担が予測不能」との指摘が並び、AnthropicやCursor、Codexへの乗り換え議論を加速させている。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI to Provide GPT-5.5-Cyber to Japanese Financial Institutions under Japan Cyber Action Plan",
-      "title_ja": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
-      "date": "2026-05-29",
-      "summary": "OpenAIは5月29日（日本時間）、日本政府とサイバーセキュリティで協力する「日本サイバーアクションプラン」を発表し、まず三菱UFJ・三井住友・みずほの3メガバンク向けにサイバー防御特化型の最新AI「GPT-5.5-Cyber」を提供する。日本AIセーフティ・インスティテュート（AISI）との協力覚書も締結し、米英に次ぐ3カ国目となる。Anthropicの「Mythos」級モデル開放に続く動きで、官民連携によるサイバー防衛の技術標準を日米で形作る競争が本格化した。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI launches Rosalind Biodefense program with national labs and CEPI",
-      "title_ja": "OpenAI、生物防衛プログラム「Rosalind Biodefense」を開始 - 国立研究所やCEPIと提携",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/29/openai-biodefense-program",
-      "date": "2026-05-29",
-      "summary": "OpenAIが生命科学特化モデル「GPT-Rosalind」を信頼できる開発者・政府機関に提供する生物防衛プログラムを発表。Lawrence Livermore国立研究所、Johns Hopkins APL、ワクチン連合CEPIが初期パートナーとなり、疫学モデリングや早期検出、ワクチン開発などパンデミック対策での活用を支援する。フロンティアAIを防御側に優位に立たせるという同社の方針を示す重要な動きで、AIバイオセキュリティを巡る議論にも影響を与える。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI publishes 'A shared playbook for trustworthy third party evaluations'",
-      "title_ja": "OpenAI、第三者評価の信頼性を高めるための『共通プレイブック』を公開",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
-      "date": "2026-05-29",
-      "summary": "OpenAIは5月29日、外部組織がフロンティアAIモデルの能力や安全策、検証性を独立評価する際の方法論を整理した「共通プレイブック」を公開した。Frontier Governance Frameworkの公表と同日のリリースで、ハーネス選定や安全装置の影響、メモリゼーション対策など評価で見落としやすい論点を体系化し、業界横断の評価標準を狙う。サイバー・CBRN・操作・統制喪失の各リスク領域で第三者評価を運用する自社の経験も併せて開示している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ChatGPT for iOS and Android can now start and steer Codex work on Windows",
-      "title_ja": "ChatGPTのiOS/Androidアプリから、Windows上のCodexタスクを起動・遠隔操作できるように",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/",
-      "date": "2026-05-29",
-      "summary": "OpenAIは5月29日、Codexの「Computer Use」機能をWindowsで一般提供するとともに、ChatGPTのiOS/Androidアプリから外出先でWindows上のCodexタスクを開始・継続できる遠隔操作機能を追加したと発表した。Codexは前面で実際にマウス・キーボードを操作するため作業中はPC利用が中断されるが、画面外からモバイル経由で進捗確認やプロンプト追加が可能になる。EEA・英国・スイスでは未提供で、配信は順次拡大される。",
       "category": "international"
     }
   ]

@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-06-17 09:00 (JST)",
+  "lastUpdated": "2026-06-18 09:00 (JST)",
   "articles": [
+    {
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "title_ja": "Adobe、Creative Cloud全体にエージェンティックAIワークフローを統合 — 生成から制作オーケストレーションへ",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "date": "2026-06-18",
+      "summary": "Adobeは『クリエイティブエージェント』をPremiere Pro、Photoshop、Illustrator、InDesign、Frame.ioのCreative Cloud主要アプリにパブリックベータとして本日展開開始。チャットUIから単発出力する第一世代の生成AIツールとは異なり、組み込みアシスタントは複数アプリにまたがるオーケストレーションレイヤーとして動作し、個人クリエイターから企業マーケティングチームまでをターゲットにしている。",
+      "category": "international"
+    },
+    {
+      "title": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
+      "title_ja": "Thinking Machines、リアルタイム音声・映像対話の新型『インタラクションモデル』プレビューを公開",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
+      "date": "2026-06-18",
+      "summary": "Mira Murati率いるThinking Machines Labが最初のモデル『TML-Interaction-Small』を発表。MoEアーキテクチャで総2,760億パラメータ・有効120億、200msチャンクで入出力を同時処理する全二重設計を採用。ターンテイキング遅延0.40秒で、FD-bench V1.5ではGPT-Realtime-2の47.8を大きく上回る77.8を記録。今後、限定的なリサーチプレビューでフィードバックを収集する。",
+      "category": "international"
+    },
+    {
+      "title": "xAI Grok models land natively on Databricks Agent Bricks at the 2026 Data + AI Summit",
+      "title_ja": "xAI、GrokモデルをDatabricks Agent Bricksにネイティブ統合 — 2026 Data + AI Summitで発表",
+      "source": "Databricks",
+      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
+      "category": "company_blog",
+      "date": "2026-06-18",
+      "summary": "Databricksは年次イベントData + AI Summit 2026で、xAIのGrokモデルをAgent Bricksプラットフォーム上で直接利用可能にすると発表。あわせてAgent Bricksの開発者向け統合エージェント基盤としての拡張、AIガバナンス向けの新コスト制御・スマートルーティング・AI支出可視化機能、Azure Databricksの企業データ高速化・セキュリティ強化、Automatic Identity Management等の新セキュリティ・コンプライアンス機能も公開された。"
+    },
+    {
+      "title": "「AIコーディング」がたった5年で急進化したワケ NTT「tsuzumi 2」開発者が分析：Interop Tokyo 2026",
+      "title_ja": "「AIコーディング」がたった5年で急進化したワケ NTT「tsuzumi 2」開発者が分析：Interop Tokyo 2026",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
+      "date": "2026-06-18",
+      "summary": "幕張メッセで開催中のInterop Tokyo 2026に登壇したNTTの『tsuzumi 2』開発担当者が、生成AIによるコード生成・コーディング支援がわずか5年で急速に進化した要因を解説。日本語・英語両対応で軽量・省電力を重視するtsuzumi 2のアーキテクチャや、エージェント連携・ツール使用の文脈での実装上の知見を共有した。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
+      "title_ja": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+      "date": "2026-06-18",
+      "summary": "Anthropicが『Claude Design』のベータ機能を強化。Claude Codeとの双方向連携でデザインとコードを行き来でき、Canva等の外部ツールへの出力も可能になった。マーケティング素材やUIコンポーネントの試作を会話的に進められるようになり、デザイン・開発の境界を曖昧にする動きが進む。",
+      "category": "japan"
+    },
+    {
+      "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
+      "title_ja": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
+      "date": "2026-06-18",
+      "summary": "OpenAIがChatGPTに『Scheduled tasks』機能を追加。指定時刻にリマインダーや定常タスク、状況監視を自動実行させることができ、エージェント的なバックグラウンド実行をChatGPT本体で完結できるようになった。ユーザーは自然言語で繰り返しタスクを設定でき、ニュースや株価の監視といったユースケースに広がる見込み。",
+      "category": "japan"
+    },
+    {
+      "title": "「Adobe Creative Cloud」全体でAIエージェントが利用可能に Firefly AIアシスタントの機能も強化",
+      "title_ja": "「Adobe Creative Cloud」全体でAIエージェントが利用可能に Firefly AIアシスタントの機能も強化",
+      "source": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news116.html",
+      "date": "2026-06-18",
+      "summary": "AdobeがCreative Cloud全体でAIエージェントを利用可能にすると発表。Premiere Pro、Photoshop、Illustrator、InDesign、Frame.ioにエージェントが組み込まれ、Firefly AIアシスタントの機能も強化された。アプリ横断のオーケストレーションが可能になり、個人クリエイターから企業マーケティングチームまで幅広い活用が期待される。",
+      "category": "japan"
+    },
+    {
+      "title": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
+      "title_ja": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
+      "date": "2026-06-18",
+      "summary": "Anthropicの『Claude』が6月18日に一時的に応答遅延・エラーが多発し、SNS上で『動かない』『落ちた？』という声が相次いだ。同社のステータスページ上で障害が認識され、その後復旧した。エンタープライズ用途でClaudeに依存するワークフローが増えており、可用性への関心が改めて高まっている。",
+      "category": "japan"
+    },
+    {
+      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18249",
+      "date": "2026-06-18",
+      "authors": "Wujian Peng et al.",
+      "summary": "視覚理解と画像生成を1つの自己回帰枠組みで統一するため、文脈と視覚を共有する単一トークナイザを提案。理解と生成の表現を分離せずに学習することで、両タスクで競争力ある性能を達成し、ICML 2026に採択された。マルチモーダル基盤モデルにおける『理解と生成の二重統合』の方向性を後押しする研究。",
+      "category": "arxiv"
+    },
+    {
+      "title": "The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18192",
+      "date": "2026-06-18",
+      "authors": "Stanford EDGAR Dataset team",
+      "summary": "公開Webコーパスの枯渇が進む中、米SEC EDGARに登録された企業・金融開示文書をレイアウト忠実かつトークン効率的に再構成したLLM事前学習用データセットを公開。表組み・脚注・参照リンクを保持しつつ、無駄なトークン消費を抑える前処理パイプラインを示し、金融ドメイン特化LLMの再現性ある学習基盤として位置づけられる。",
+      "category": "arxiv"
+    },
     {
       "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
       "title_ja": "VentureBeat：Weiboの30億パラメータ『VibeThinker-3B』がベンチマーク論争を再燃",
@@ -90,6 +180,33 @@
       "date": "2026-06-17",
       "summary": "フランス・エビアンで6月15日から開催されていた第52回G7サミットが6月17日に閉幕した。マクロン仏大統領の招待でSam Altman氏（OpenAI）、Dario Amodei氏（Anthropic）、Demis Hassabis氏（Google DeepMind）ら10〜15人のテック幹部が初の『AIワーキングランチ』に参加し、フロンティアAIのリスク、インフラ、ソブリン化が議題となった。高市早苗首相も参加し、AIに加え量子、宇宙、半導体分野でのサプライチェーン強靭化に向けた協力強化を表明。日本のAIガバナンスや国産基盤モデル戦略に直結する重要会合となった。",
       "category": "japan"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "title_ja": "Anthropic、ソウルオフィスを開設し韓国AIエコシステムとの新たなパートナーシップを発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "date": "2026-06-17",
+      "summary": "Anthropicは東京・ベンガルールに続くアジア太平洋3拠点目としてソウル事務所を正式に開設。NAVER、Samsung SDS、LG CNS、Nexon、Hanwha Solutions、Channel Corpへの企業導入や、KAIST・高麗大・延世大・POSTECHのNational AI Research Lab所属研究者最大60名へのClaude提供、韓国科学技術情報通信部とのMoU締結も同時に発表。代表理事は元Snowflake KoreaのKiYoung Choi氏。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
+      "title_ja": "Microsoft、AIエージェント向けOSレベルサンドボックス『MXC』を発表 — OpenAIやNvidiaも初期パートナーに",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
+      "date": "2026-06-17",
+      "summary": "MicrosoftはBuild 2026で『Microsoft Execution Containers（MXC）』を公開。Windowsカーネルで強制される実行レイヤーとして、AIエージェントがアクセスできるファイル・ネットワーク・アプリをポリシー宣言型で制御する。軽量プロセス分離からマイクロVM、Linuxコンテナまでをカバーする『コンポーザブル・サンドボックス・スペクトラム』を提供。OpenAI、Nvidia、Manus、Nous Research、OpenClawがローンチパートナー。",
+      "category": "international"
+    },
+    {
+      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.16576",
+      "date": "2026-06-17",
+      "authors": "Anonymous (cs.AI, 2026)",
+      "summary": "ツール呼び出し型LLMエージェントが対話を通じて隠れた環境（オートマトン）の世界モデルをどこまで推論できるかを評価。推論モデルは非推論モデルより明確に強いが、軌跡分析からはクエリ計画・証拠統合・仮説構築の段階で系統的な失敗が残ることを明らかにし、エージェントの探索・学習能力の限界と改善余地を提示した。",
+      "category": "arxiv"
     },
     {
       "title": "Microsoft makes Copilot Cowork generally available worldwide",
@@ -1678,118 +1795,6 @@
       "date": "2026-06-02",
       "summary": "NVIDIAとMicrosoftは、エージェント時代に向けたWindows on ArmプラットフォームRTX Spark Superchipの共同開発を発表。スリムなノートや小型デスクトップ向けにArm CPU+Blackwell GPU+128GB統合メモリを統合し、ローカルで120Bパラメータ規模のLLM推論やAIエージェントの常駐実行を可能にする。",
       "category": "company_blog"
-    },
-    {
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "date": "2026-06-02",
-      "summary": "TechCrunchによると、Anthropicはサイバーセキュリティ向けの最強モデルClaude Mythosのプレビューを電力・水道・医療・通信など重要インフラ事業者150社に拡大した。初期50社は数週間で1万件以上の高深刻度ゼロデイを発見しており、近く一般顧客にもMythosクラスの公開モデルを提供する計画。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html",
-      "date": "2026-06-02",
-      "summary": "CNBCは、AnthropicがProject Glasswingの参加組織を15か国以上の150団体へ拡大したと報じた。Claude Mythos PreviewはApple, Google, Microsoft, AWSを含む先行50社で約1万件の重大脆弱性を発見しており、Anthropicは強化されたサイバー安全対策を整え次第、Mythosクラスを全顧客へ公開する方針。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
-      "date": "2026-06-02",
-      "summary": "VentureBeatは、OpenAIがCodexに役割別プラグイン、共有URLで配布可能なインタラクティブアプリを生成する「Sites」、部分編集を可能にする「Annotations」を追加したと報じた。アナリスト・マーケター・デザイナーなど非開発者をターゲットに、エンタープライズ向けに大幅拡張された。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI putting Codex inside ChatGPT, 6 new business plugins now available",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/",
-      "date": "2026-06-02",
-      "summary": "OpenAIはCodexをChatGPTアプリに統合し、Snowflake, Figma, Salesforceなど計62の業務アプリと110スキルをまとめた6つのビジネスプラグインを提供開始。Business/Enterprise向けにSites機能もプレビュー提供され、Codex利用者の約20%は非開発者になっている。",
-      "category": "international"
-    },
-    {
-      "title": "COMAP: Co-Evolving World Models and Agent Policies for LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.02372",
-      "date": "2026-06-02",
-      "summary": "言語エージェントに環境ダイナミクスを予測しアクション候補を評価させるため、テキスト世界モデルとエージェントポリシーを閉ループ相互作用で共進化させる新フレームワークCOMAPを提案。世界モデルと方策を同時に改善することで、複数の長期計画ベンチマークで既存手法を上回ったと報告。",
-      "authors": "anonymous (arXiv preprint)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Snowflake CoCo Redefines Enterprise AI Development as the Coding Agent Built for Faster, Easier, and More Powerful Innovation Anywhere",
-      "title_ja": "Snowflake、企業データ文脈を理解するコーディングエージェント「CoCo」（旧Cortex Code）を発表",
-      "source": "Snowflake",
-      "url": "https://www.snowflake.com/en/news/press-releases/snowflake-coco-redefines-enterprise-ai-development-as-the-coding-agent-built-for-faster-easier-and-more-powerful-innovation-anywhere/",
-      "date": "2026-06-02",
-      "summary": "SnowflakeはSummit 2026で、旧Cortex Codeを刷新した企業向けコーディングエージェント「Snowflake CoCo」を発表。企業データのスキーマや文脈を理解しながらワークフロー自動化・アプリ開発・AIモデルの運用化を支援する。同時にApache Kafka向け完全マネージドストリーミング「Snowflake Datastream6」も発表。Salesforce／Microsoft 365／Slack／Google WorkspaceからMCP接続で文脈を取り込むSnowflake Intelligenceや、Anthropicとの戦略提携深化も発表した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anyscale Launches on Microsoft Azure as a Native Integration for Enterprises to Build Sovereign AI",
-      "title_ja": "Anyscale、Microsoft AzureネイティブとしてRayプラットフォームを公開プレビュー提供開始",
-      "source": "Anyscale",
-      "url": "https://www.anyscale.com/press/anyscale-on-azure-cost-efficient-and-sovereign-ai-microsoft-build",
-      "date": "2026-06-02",
-      "summary": "AnyscaleはBuild 2026で、Microsoft Azure上にRay基盤のAIコンピューティングをネイティブ提供する「Anyscale on Azure」の公開プレビューを発表。Azure Kubernetes Service／ARM上に構築され、企業はマルチモーダルなデータ前処理から学習・推論までを自社テナント内で実行可能。Wayve、Xoople等が早期採用し、最大4倍の実験速度・最大90%のTCO削減を実現したという。規制データや主権AI要件をもつ顧客がターゲット。",
-      "category": "international"
-    },
-    {
-      "title": "Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.01629",
-      "date": "2026-06-02",
-      "authors": "Yifan Wang, et al.",
-      "summary": "長文生成出力に対するLLM-as-a-Judgeの安定性を体系的に評価するベンチマーク「LongJudgeBench」を提案。多様な実シナリオと複数の評価プロトコルでLLM審判モデルを比較し、現在のLLM審判は長文評価では不安定であり、シナリオ間の一貫性も欠けることを示した。長文評価における信頼性向上のための制約と改善方向を整理。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Promoting Advanced Artificial Intelligence Innovation and Security (Executive Order)",
-      "title_ja": "Trump大統領、フロンティアAIの「自主的事前提供」を柱とする大統領令に署名 ― 強制ライセンスは禁止明記",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "date": "2026-06-02",
-      "summary": "ホワイトハウスは6月2日、Trump大統領が「Promoting Advanced Artificial Intelligence Innovation and Security」大統領令に署名したと発表。連邦政府は産業界と協調するAIサイバーセキュリティ・クリアリングハウスを設立し、ソフトウェア脆弱性の特定と修復を大規模化する。対象フロンティアモデルの開発者は、リリース前に最大30日間、政府を含む信頼できるパートナーへ早期アクセスを「自主的に」提供する枠組みを構築。一方で「強制的なライセンス・事前承認・許可制」の創設は明示的に禁止し、業界の反発に配慮した形となった。",
-      "category": "international"
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "date": "2026-06-02",
-      "summary": "TechCrunchは6月2日、Trump大統領が業界の反発を受け、当初案より大幅に縮小したAI監督関連の大統領令に署名したと報道。フロンティアAIモデルの公開前に政府レビューを義務化する案は撤回され、最大30日間の事前アクセス提供は「任意」となった。サイバーセキュリティ・クリアリングハウスの設立と重要インフラ保護を主軸とし、規制強化を最小限に抑えた形で「米国のAIリーダーシップ」を堅持する方針を打ち出した。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft Build 2026: MAI-Thinking-1 Is First In-House Reasoning Model, Trained Without OpenAI Data",
-      "title_ja": "Microsoft Build 2026: MAI-Thinking-1は初の自社製推論モデル、OpenAIデータ不使用で訓練",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317631/20260602/microsoft-build-2026-mai-thinking-1-first-house-reasoning-model-trained-without-openai-data.htm",
-      "date": "2026-06-02",
-      "summary": "MicrosoftがBuild 2026で初の自社推論モデル「MAI-Thinking-1」を発表。35Bアクティブパラメータの疎MoE、256Kコンテキストで、AIME 2025で97.0%・AIME 2026で94.5%。コーディング用「MAI-Code-1-Flash」(5B)もGitHub Copilotに展開開始しSWE-Bench ProでClaude Haiku 4.5を16ポイント上回る。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft unveils MAI-Thinking-1 reasoning and MAI-Code-1 coding models",
-      "title_ja": "Microsoft、推論モデル「MAI-Thinking-1」とコーディングモデル「MAI-Code-1」を発表",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/microsoft-unveils-mai-thinking-1-reasoning-and-mai-code-1-coding-models/",
-      "date": "2026-06-02",
-      "summary": "MicrosoftがBuild 2026で初の自社推論モデルMAI-Thinking-1を含む7つの自社開発AIモデルを発表。商用ライセンスデータのみで学習し、OpenAIなど第三者モデルからの蒸留を一切使用していない点を強調。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic files to go public with confidential S-1 — racing OpenAI to AI mega-IPO",
-      "title_ja": "Anthropic、SEC機密S-1提出でIPO申請 ― $965B評価のAI最大手、OpenAIに先行して上場へ",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "date": "2026-06-01",
-      "summary": "Anthropicは6月1日、米SECに新規株式公開（IPO）に向けた登録届出書（Form S-1）を機密提出したと公式に発表した。直近のSeries Gで$965B評価に達した同社は年率$47Bの売上を計上、OpenAIに先んじてAI大手として初の上場プレイヤーになる可能性が高まった。年内10月の上場を視野に、最終的に$1.75T〜$1.8T評価・最大$75B調達という史上最大規模のIPOを目指すとも報じられ、SpaceX・OpenAIと並ぶ「トリリオン級AI IPO」競争の号砲となった。",
-      "category": "international"
     }
   ]
 }

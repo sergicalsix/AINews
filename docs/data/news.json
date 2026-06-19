@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-18 09:00 (JST)",
+  "lastUpdated": "2026-06-19 09:00 (JST)",
   "articles": [
+    {
+      "title": "South Korea and Anthropic sign MOU on AI safety and cybersecurity cooperation",
+      "title_ja": "韓国科学技術情報通信部とAnthropic、AI安全性・サイバーセキュリティ協力でMOU締結",
+      "source": "Digital Watch Observatory",
+      "url": "https://dig.watch/updates/anthropic-south-korea-ai-safety-seoul-office",
+      "date": "2026-06-19",
+      "summary": "韓国科学技術情報通信部（MSIT）はAnthropicと、AI安全性とサイバーセキュリティに関する協力を強化するMOUを締結した。韓国語コンテキストでのAIモデル安全性・誤用リスクの評価、自律エージェントへのレッドチーミング、AIによる攻撃・防御の影響分析などが含まれる。Anthropicのソウルオフィス開設に合わせ、長期的な日韓周辺のAI安全保障枠組み構築の足がかりとして位置づけられている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Opens Seoul Office Even as US Export Ban Cuts Korean Access to Its Top Models",
+      "title_ja": "Anthropic、ソウルオフィス開設 — 米輸出規制でMythos 5/Fable 5が韓国から遮断される中での発表",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/318637/20260619/anthropic-opens-its-seoul-office-even-us-export-ban-cuts-korean-access-its-top-models.htm",
+      "date": "2026-06-19",
+      "summary": "Anthropicはアジア太平洋3拠点目となるソウルオフィスを開設し、Naver、LG CNS、Samsung SDS等での導入実績を強調。米商務省が6月12日にClaude Mythos 5とClaude Fable 5の海外アクセスを禁じた輸出規制の最中での開設となり、同社マネージングディレクターは『両モデルは数日以内に復帰する』と表明。サムスン・SKハイニックスといった重要メモリサプライヤを抱える韓国市場へのコミットを示す動き。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today - June 19, 2026: 16 Biggest Stories",
+      "title_ja": "Build Fast with AI：2026年6月19日のAI最新16ニュースまとめ",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-19-2026",
+      "date": "2026-06-19",
+      "summary": "Build Fast with AIが6月19日のAI関連トップ16ストーリーをまとめて公開。Claude Fable 5輸出規制の真因とされるSKテレコム関与の報道、Anthropicのソウルオフィス開設と『数日以内のモデル復帰』表明、David Sacks氏（大統領AI評議会共同議長）が禁輸前にAnthropicに突きつけたとされる『脱獄修正かデプロイ撤回か』の最後通告、Apple WWDC 2026レビュー、Microsoft Foundry、EU AI Actの法施行カウントダウン、ペンタゴンのAI軍拡など多方面の動きを概観している。",
+      "category": "international"
+    },
+    {
+      "title": "MaiAgent positions itself as a prebuilt alternative to custom RAG and agent stacks at VivaTech 2026",
+      "title_ja": "台湾発MaiAgent、VivaTech 2026で『自社構築RAG・エージェントの代替』としてプリビルド基盤を打ち出す",
+      "source": "AI Agent Store",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "date": "2026-06-19",
+      "summary": "台湾発のMaiAgentがVivaTech 2026に合わせ、独自RAG・エージェント構築の代替となるプリビルド・エージェント基盤として自社をポジショニングする発表を行った。コスト・信頼性・運用負荷に悩む企業エージェントチームの増加を背景に、パッケージ型・セミパッケージ型のエージェント基盤がより速い価値創出パスとして広がっていることを示すケースとなっている。",
+      "category": "international"
+    },
     {
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
       "title_ja": "Adobe、Creative Cloud全体にエージェンティックAIワークフローを統合 — 生成から制作オーケストレーションへ",
@@ -90,6 +126,24 @@
       "authors": "Stanford EDGAR Dataset team",
       "summary": "公開Webコーパスの枯渇が進む中、米SEC EDGARに登録された企業・金融開示文書をレイアウト忠実かつトークン効率的に再構成したLLM事前学習用データセットを公開。表組み・脚注・参照リンクを保持しつつ、無駄なトークン消費を抑える前処理パイプラインを示し、金融ドメイン特化LLMの再現性ある学習基盤として位置づけられる。",
       "category": "arxiv"
+    },
+    {
+      "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea's AI Innovation",
+      "title_ja": "SK TelecomとNVIDIA、韓国にギガワット級『AIファクトリー』クラウドを構築",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
+      "date": "2026-06-18",
+      "summary": "NVIDIAとSK Telecomは、NVIDIA DSXプラットフォームを用いて韓国にギガワット級のAIクラウドを段階的に構築する計画を発表。2027年に最初のAIファクトリーが稼働予定で、ソブリンAI・フィジカルAI・エージェンティックAIサービスを韓国企業・産業に提供する基盤となる。SK Telecomの通信網・データセンター・エンタープライズ資産を活かし、最終的にはアジア地域へのAIインフラ展開を目指す。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
+      "title_ja": "NAVER、NVIDIAとソブリンAI基盤を拡大 — HyperCLOVA XをNemotron 3 Ultraで強化",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/naver-ai-infrastructure",
+      "date": "2026-06-18",
+      "summary": "NAVERはNVIDIA DSXプラットフォームを用い、55MWからスタートしてギガワット級へ段階拡張するソブリンAIインフラ構築を発表。Naver CloudはNVIDIAのオープンLLM『Nemotron 3 Ultra』を活用してHyperCLOVA Xを進化させ、欧州・中東を含むソブリンAI需要に応える基盤に位置づける。GAK世宗から拡張するAIファクトリー構想と、フィジカルAIプラットフォーム『Cosmos』で構築した『Seoul World Model』も併せて言及された。",
+      "category": "company_blog"
     },
     {
       "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
@@ -470,6 +524,15 @@
       "date": "2026-06-15",
       "summary": "Sakana AIが公式ブログで初の商用製品『Sakana Marlin』のローンチを発表。独自探索アルゴリズムAB-MCTSと複数LLMの動的協調を組み合わせた『仮想CSO』型ディープリサーチエージェントで、戦略立案や市場調査の上流工程を最大8時間で自律遂行できる。4月開始のクローズドβに300名超の専門職が参加した実績を公開している。",
       "category": "company_blog"
+    },
+    {
+      "title": "Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.16811",
+      "date": "2026-06-15",
+      "authors": "Anonymous et al.",
+      "summary": "最小限のラベル付きデータからLLMの推論能力をスケールさせる半教師あり学習フレームワークを提案。軽量な検証器を用いて推論検証そのものをデータ生成メカニズムに変え、ラベル枯渇下でも推論RLが学習を継続できる構造を示した。RLVRの実用化に向けたラベル効率化の方向性を示す研究で、推論モデルの低コスト・継続的改善を目指す。",
+      "category": "arxiv"
     },
     {
       "title": "Trump administration reignites its feud with Anthropic over latest AI models",
@@ -863,6 +926,15 @@
       "date": "2026-06-11",
       "authors": "Various",
       "summary": "AIエージェント評価向けの汎用的なユーザシミュレーションツールキット『VISTA』を提案。UIベース操作とAPIベース操作の双方を統合したハイブリッドユーザシミュレータを開発し、エージェントの長期対話・タスク遂行能力を再現性高く評価できるようにする。既存のシングルモード評価では捉えにくかった失敗モードを暴露できると示す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive Problem Diagnosis",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.13220",
+      "date": "2026-06-11",
+      "authors": "Anonymous et al.",
+      "summary": "曖昧な問題説明に対し、仮説生成・的を絞った追加質問・回答後の仮説確率更新を反復する『Solution Investigator Agent』を提案。証拠優先で対話的に問題診断を進める枠組みで、ユーザーの初期記述が不完全な実運用シナリオにおける堅牢な問題解決を目指す。エビデンスファースト推論をエージェントワークフローに組み込む方向性を示した研究。",
       "category": "arxiv"
     },
     {
@@ -1722,78 +1794,6 @@
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "date": "2026-06-02",
       "summary": "MicrosoftはBuild 2026で、GitHub Copilot/Visual Studio Codeに統合される推論効率重視のコーディングモデル「MAI-Code-1-Flash」を発表した。同価格帯でClaude Haiku 4.5を上回り、難問を最大60%少ないトークンで解くと主張、レイテンシ低減とコスト圧縮を実現。OpenAI/Anthropicの牙城に正面挑戦しつつ、Copilot主軸の戦略を自社モデルで強化する転換点となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs",
-      "title_ja": "Microsoft、自社AIモデルで脱OpenAI依存と開発者コスト低減を狙う",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-      "date": "2026-06-02",
-      "summary": "CNBCは6月2日、Microsoftが自社開発の推論モデル「MAI-Thinking-1」とコーディングモデル「MAI-Code-1-Flash」を発表したと報道。2026年4月にMicrosoft-OpenAI契約の制限が解除され、Microsoftが自社モデルを製品に標準搭載する権利を獲得して以降、Build 2026がその初の本格的な行使の場となった。OpenAI、Anthropic、Googleとの競合構図がさらに鮮明化し、開発者の選択肢が広がる。",
-      "category": "international"
-    },
-    {
-      "title": "Alibaba's Qwen team launches Qwen3.7-Plus with vision, deep reasoning and tool use on Bailian",
-      "title_ja": "アリババQwenチーム、視覚・深層推論・ツール呼び出し対応のQwen3.7-PlusをBailianで提供開始",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/",
-      "date": "2026-06-02",
-      "summary": "アリババのQwenチームは6月2日、画像・動画理解、深層推論、ツール呼び出し、自律反復を兼ね備えたマルチモーダルLLM「Qwen3.7-Plus」をAlibaba CloudのBailianプラットフォームで提供開始した。5月の杭州Alibaba Cloud SummitでQwen3.7世代を披露して以降、長時間タスク向けエージェント機能を強化する位置付けで、米中AI競争での中国勢の追い上げを象徴する一手となった。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Expanding Project Glasswing to 150 organizations across 15+ countries",
-      "title_ja": "Anthropic、Project Glasswingを150組織・15か国以上へ拡大",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "date": "2026-06-02",
-      "summary": "Anthropicは、Claude Mythosを用いて重要インフラのソフトウェア脆弱性を発見・修正する産業横断イニシアチブProject Glasswingを、電力・水道・医療・通信・ハードウェア分野を含む150の新規組織（15か国以上）へ拡大すると発表。初期パートナーはすでに高深刻度の脆弱性を1万件超発見している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "title_ja": "OpenAI、Codexに役割別プラグイン・Sites・Annotationsを追加し非開発者にも展開",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
-      "date": "2026-06-02",
-      "summary": "OpenAIは、CodexにSnowflake・Figma・Salesforceなど62の業務アプリと110のスキルをまとめた6つの役割別プラグイン、共有可能なインタラクティブWeb/アプリを生成する「Sites」、選択範囲だけを反復改善できる「Annotations」を追加。週500万人超が利用し、非開発者ユーザーが開発者比3倍速で増加していると公表。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Announcing Microsoft Web IQ — a grounding API for AI agents",
-      "title_ja": "Microsoft、AIエージェント向けグラウンディングAPI「Web IQ」を発表",
-      "source": "Microsoft Bing Blog",
-      "url": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ",
-      "date": "2026-06-02",
-      "summary": "Microsoft AIはBuild 2026でWeb IQを公開。エージェント時代向けに再設計されたグラウンディングAPI群で、95%のリクエストに165ms未満で応答し、従来検索APIに比べトークン消費を約60%削減する。Azure Agent Meshと連携し、リアルタイムのウェブ情報を構造化してエージェントに供給する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
-      "title_ja": "NVIDIA、フィジカルAI向けオープン基盤モデル「Cosmos 3」を公開",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-      "date": "2026-06-02",
-      "summary": "NVIDIAは、視覚推論・世界生成・行動予測を単一モデルに統合した完全オープンなオムニモデル「Cosmos 3」をComputex 2026で発表。Super（32B）とNano（8B）の2サイズを提供し、ロボティクスや自動運転向けにテキスト・画像・動画・音・行動をネイティブに扱う。20兆トークンのマルチモーダルデータで学習。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Debuts Nemotron 3 Family of Open Models",
-      "title_ja": "NVIDIA、推論・エージェント向けオープンモデル群「Nemotron 3」を発表",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
-      "date": "2026-06-02",
-      "summary": "NVIDIAはComputex 2026で、複雑な推論とエージェントワークフローを狙うオープンモデル群Nemotron 3を発表。最上位のNemotron 3 Ultraは500〜550Bパラメータ規模で、毎秒300トークン超を生成し、Artificial Analysis Intelligence Indexで米国製モデル最高となる48点を記録。コストは約30%削減した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
-      "title_ja": "NVIDIAとMicrosoft、パーソナルAI時代に向けたWindows PCを共同で再設計",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
-      "date": "2026-06-02",
-      "summary": "NVIDIAとMicrosoftは、エージェント時代に向けたWindows on ArmプラットフォームRTX Spark Superchipの共同開発を発表。スリムなノートや小型デスクトップ向けにArm CPU+Blackwell GPU+128GB統合メモリを統合し、ローカルで120Bパラメータ規模のLLM推論やAIエージェントの常駐実行を可能にする。",
       "category": "company_blog"
     }
   ]

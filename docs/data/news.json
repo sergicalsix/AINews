@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19 09:00 (JST)",
+  "lastUpdated": "2026-06-20 09:00 (JST)",
   "articles": [
     {
       "title": "South Korea and Anthropic sign MOU on AI safety and cybersecurity cooperation",
@@ -36,6 +36,51 @@
       "date": "2026-06-19",
       "summary": "台湾発のMaiAgentがVivaTech 2026に合わせ、独自RAG・エージェント構築の代替となるプリビルド・エージェント基盤として自社をポジショニングする発表を行った。コスト・信頼性・運用負荷に悩む企業エージェントチームの増加を背景に、パッケージ型・セミパッケージ型のエージェント基盤がより速い価値創出パスとして広がっていることを示すケースとなっている。",
       "category": "international"
+    },
+    {
+      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
+      "title_ja": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+      "date": "2026-06-19",
+      "summary": "OpenAIのChatGPT広告が6月19日から日本で試験開始。無料プランと低価格『Go』で表示され、AIの回答とは区別された枠で配信される。会話内容・履歴・メモリ・個人情報は広告主に共有されない仕様。電通デジタル、Hakuhodo DY ONE、サイバーエージェントの3社が国内ローンチパートナーとして広告主の活用方針策定・効果検証・配信設定を支援する。",
+      "category": "japan"
+    },
+    {
+      "title": "電博、2社そろってChatGPT広告参入 OpenAIと直接連携の国内ローンチパートナーに",
+      "title_ja": "電博、2社そろってChatGPT広告参入 OpenAIと直接連携の国内ローンチパートナーに",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news062.html",
+      "date": "2026-06-19",
+      "summary": "ITmedia NEWSは、電通デジタルとHakuhodo DY ONEがそろってOpenAI ChatGPT広告の国内ローンチパートナーとなったことを報道。サイバーエージェントも参画し、検索広告・AI領域での運用実績を基盤にした体制を構築。日本の広告主への提案・運用設計・効果検証を一貫支援する。総合代理店2社がそろってAI広告領域で直接連携した初の大型事例として注目されている。",
+      "category": "japan"
+    },
+    {
+      "title": "ChatGPT内に広告表示、日本でOpenAIが展開 電通や博報堂が仲介",
+      "title_ja": "ChatGPT内に広告表示、日本でOpenAIが展開 電通や博報堂が仲介",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC179OF0X10C26A6000000/",
+      "date": "2026-06-19",
+      "summary": "日本経済新聞は、OpenAIが日本国内でChatGPT広告の展開を開始したと報道。電通・博報堂・サイバーエージェントが仲介役を務め、ChatGPTの無料版と『Go』で広告枠が表示される。AIの回答に影響を与えない設計と、会話内容を広告主に共有しないプライバシー仕様が強調されており、生成AIの収益化モデルとして国内マーケット注目度が高い動きとなった。",
+      "category": "japan"
+    },
+    {
+      "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
+      "title_ja": "OpenAnt：コード分解・敵対的検証・動的テストによるLLM駆動脆弱性発見",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19149",
+      "date": "2026-06-19",
+      "summary": "コードを意味的に分解した上で、LLMによる候補仮説生成、敵対的検証、動的テストを統合した脆弱性発見フレームワーク『OpenAnt』を提案。エージェントの推論を実行時に反証することで、単独のLLM静的解析が見落とすバグを再現性高く発見できることを実証した。実コードベース評価で従来手法を上回る検出率を示し、エージェンティック脆弱性検出の運用品質向上に貢献する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Large Language Models Do Not Always Need Readable Language",
+      "title_ja": "LLMは常に『人間が読める言語』を必要としない — BabelTele圧縮表現で99.5%の意味保持を実証",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19857",
+      "date": "2026-06-19",
+      "summary": "インストラクションチューニング済みLLMは、必ずしも自然言語形式の入力を必要としないという仮説を検証。意味情報を圧縮した非可読テキスト形式『BabelTele』を提案し、テキスト量を元の27.9%まで圧縮しても意味忠実度99.5%を維持できることを示した。コンテキストオーバーヘッド削減と推論コスト削減への応用が期待され、トークン経済の再考を促す結果となっている。",
+      "category": "arxiv"
     },
     {
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
@@ -144,6 +189,42 @@
       "date": "2026-06-18",
       "summary": "NAVERはNVIDIA DSXプラットフォームを用い、55MWからスタートしてギガワット級へ段階拡張するソブリンAIインフラ構築を発表。Naver CloudはNVIDIAのオープンLLM『Nemotron 3 Ultra』を活用してHyperCLOVA Xを進化させ、欧州・中東を含むソブリンAI需要に応える基盤に位置づける。GAK世宗から拡張するAIファクトリー構想と、フィジカルAIプラットフォーム『Cosmos』で構築した『Seoul World Model』も併せて言及された。",
       "category": "company_blog"
+    },
+    {
+      "title": "Anthropic, Trump officials working toward deal to restore Fable 5 and Mythos 5",
+      "title_ja": "Anthropicとトランプ政権関係者、Fable 5/Mythos 5の復帰へ向け協議継続 — 共同リスクフレームワーク策定中",
+      "source": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropic-trump-officials-deal-restore-fable-5-mythos-5/",
+      "date": "2026-06-18",
+      "summary": "AnthropicとTrump政権高官が、6月12日の輸出規制で停止されたClaude Fable 5/Mythos 5の復帰に向けた協議を継続。ホワイトハウスとAnthropicはAIセキュリティ欠陥の重大度を評価し、政府がいつ介入すべきかを今後の事例にも適用できる『共同リスクフレームワーク』を起草中。アクセス復帰への明確な道筋を提示するもので、技術スタッフのワシントン入りに続く動きとなる。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing ChatGPT Health",
+      "title_ja": "OpenAI『ChatGPT Health』発表 — 健康情報統合とGPT-5.5 Instantの医療品質ガイダンス強化",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "date": "2026-06-18",
+      "summary": "OpenAIは健康情報とChatGPTの知能を安全に統合する『ChatGPT Health』を発表。同時にGPT-5.5 Instantをアップデートし、緊急ケアの認識・不確実性の取り扱い・コンテキスト収集の質を向上させ、無料ユーザーにも医療品質のガイダンスを提供開始。OpenAIによれば毎週2億3千万人以上がChatGPTに健康・ウェルネス質問を投げかけており、医療AIの主流化を後押しする動きとなる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "title_ja": "OpenAI、希少遺伝性疾患の小児18症例を新規診断 — Boston Children's/Harvardとの共同研究をNEJM AIで発表",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases/",
+      "date": "2026-06-18",
+      "summary": "Boston Children's HospitalとHarvardの研究者がOpenAIのo3 Deep Researchモデルを活用し、専門医による初期解析でも未診断のまま残されていた小児希少遺伝性疾患376症例を再評価。臨床確認を経て18件の新規診断（追加診断率4.8%）に到達した。神経発達障害、希少神経筋疾患、小児突然死、若年発症精神病など多岐にわたる疾患に診断が及び、AI支援リサーチワークフローが診断難症例の打開につながる可能性を示した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
+      "title_ja": "Beyond Entropy：トークン分布の偏差から学習するLLM推論強化フレームワーク『ICT』",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19771",
+      "date": "2026-06-18",
+      "summary": "RLVR（検証可能報酬による強化学習）におけるエントロピー崩壊と発散の二重問題に対し、トークン分布の特性に焦点を移す『Independent Combinatorial Tokens (ICT)』フレームワークを提案。Jensen-Shannon発散を用いて分岐点となる重要トークンを特定し、選択的に最適化を行うことで安定したLLM推論探索を実現。Shannon/Rényiエントロピーに基づく理論保証も提示し、推論モデルの強化学習最適化に新たな方向性を示す。",
+      "category": "arxiv"
     },
     {
       "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
@@ -260,6 +341,24 @@
       "date": "2026-06-17",
       "authors": "Anonymous (cs.AI, 2026)",
       "summary": "ツール呼び出し型LLMエージェントが対話を通じて隠れた環境（オートマトン）の世界モデルをどこまで推論できるかを評価。推論モデルは非推論モデルより明確に強いが、軌跡分析からはクエリ計画・証拠統合・仮説構築の段階で系統的な失敗が残ることを明らかにし、エージェントの探索・学習能力の限界と改善余地を提示した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Fable 5 ban: 4 open models responded before Anthropic could restore access",
+      "title_ja": "Fable 5禁輸の隙間を埋めた4つのオープンモデル — Anthropic復帰前に企業需要を奪取",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/fable-ban-open-weights/",
+      "date": "2026-06-17",
+      "summary": "The New Stackは、Anthropic Fable 5/Mythos 5の停止期間中に企業ワークロードを引き受けた4つのオープンウェイトモデル（DeepSeek派生、Qwen系、Zhipu GLM、MiniMax）の動きを分析。エンドユーザーが数日のダウンタイムも許容できない中、オープンウェイトを自社GPU上で運用する選択肢が事業継続計画として急速に格上げされたと指摘。一連の事案は『契約条項では取り戻せないリスク』として、調達担当の意思決定を変えうると論じる。",
+      "category": "international"
+    },
+    {
+      "title": "Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications",
+      "title_ja": "実世界LLMアプリのプロンプト漏えい攻撃 — 1200アプリ調査で80%以上が漏えい、APIキー露出も判明",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18673",
+      "date": "2026-06-17",
+      "summary": "浙江大学らによる大規模実証研究。6つの主要商用プラットフォーム上の1,200アプリを調査したところ、現実的な敵対的クエリ下で80%超のデプロイがシステムプロンプトを漏えいし、サードパーティAPIキー等の機微情報が露出する事例も確認された。注意機構レベルの機構的解析により、クエリ・キーアライメントの偏りとsoftmax増幅による『注意ドリフト』が漏えいの根本原因であると同定。既存防御は使い勝手を犠牲にせずに漏えいを止められない実態を示す。",
       "category": "arxiv"
     },
     {
@@ -409,6 +508,15 @@
       "authors": "Lalit Yadav, Akshaj Gurugubelli",
       "summary": "法務領域におけるLLMのハルシネーションを類型(誤判例引用、条文誤記、規範誤適用など)別に監査するLegalHalluLensを提案。較正済みマルチエージェント討論により判断の信頼性を向上させ、各エージェントの判定確率を較正することで、最終出力の信頼度を定量化する。ICML 2026のAIWILDワークショップ採択論文で、法務AIの実運用に向けた信頼性確保の枠組みを示す。",
       "category": "arxiv"
+    },
+    {
+      "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
+      "title_ja": "AnthropicのFable停止は『オープンソースAIの転換点』— 中国系オープンモデルへの追い風と契約リスクの顕在化",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+      "date": "2026-06-16",
+      "summary": "CNBCは、AnthropicがFable 5/Mythos 5を輸出規制指令で全面停止した件を『閉鎖型AIモデルに依存する企業にとっての新たなリスクの顕在化』と位置づけ。自社インフラ上でダウンロード・実行・カスタマイズできるオープンソースモデルへの勢いを加速させる契機となり、Zhipu・MiniMax等の中国系オープンソースAI関連株が急騰した。『自社サーバーに置けば政争で止められない』点が改めて評価されている。",
+      "category": "international"
     },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
@@ -1691,110 +1799,6 @@
       "authors": "et al.",
       "summary": "LLMは捏造された統計値を検出する能力を持つが、複数情報源の統合時にはその能力を発揮せず、捏造データと有効データで類似した数値推定を生成することを示す。LLMの情報源評価における認識論的盲点を明らかにした研究。",
       "category": "arxiv"
-    },
-    {
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "date": "2026-06-04",
-      "authors": "et al.",
-      "summary": "中止されたフィールド実験において、未開示のAI生成アカウントがライブ討論でユーザーと関わった事例を分析。隠密LLMエージェントが用いた説得戦術を定量化し、AIエージェントのオンライン討論における倫理的・社会的影響を考察した研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "経産省の「GENIAC」第4期に16件採択、日本の生成AI開発は現場特化へ",
-      "source": "日経クロステック",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11804/",
-      "date": "2026-06-04",
-      "summary": "経済産業省とNEDOがGENIAC第4期の採択結果を公表し、16件のプロジェクトを選定。汎用基盤モデルから現場特化型・産業データ活用型・ロボット基盤モデルへと方向性が広がり、日本の生成AI開発が応用領域に深く踏み込む転換点と位置付けられる。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic expands Project Glasswing to 150 organizations in more than 15 countries",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/06/03/anthropic-project-glasswing-expansion/",
-      "date": "2026-06-03",
-      "summary": "Help Net Securityは、AnthropicがProject Glasswingに約150組織を新規追加し、医療・エネルギー・通信・テクノロジー等のインフラ事業者を含めたと報じた。参加には所定のセキュリティ要件を満たす必要があり、同社はGlasswing向けに開発した脆弱性発見ツールを信頼できるセキュリティチームに提供する方針。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Invites 150 More Organizations Into Project Glasswing",
-      "source": "Dataconomy",
-      "url": "https://dataconomy.com/2026/06/03/claude-mythos-access-expanded-150-organizations/",
-      "date": "2026-06-03",
-      "summary": "Dataconomyは、AnthropicがClaude Mythos Previewへのアクセスを150組織に追加付与し、Project Glasswingを世界15か国以上へ拡大したと報じた。NYSE親会社Intercontinental Exchangeなどがグローバルインフラ全体にMythos Previewを展開すると同日発表した。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Today — June 3, 2026: Microsoft Build Day 2 + 15 More Stories",
-      "source": "BuildFastWithAI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-3-2026",
-      "date": "2026-06-03",
-      "summary": "Mustafa Suleymanが基調講演でMAI-Thinking-1を披露しBuild 2026 Day 2を締めくくった。Microsoftは新たに、リアルタイムなウェブ情報をエージェントに供給するWeb IQを発表。Sam AltmanがStargate Michiganの起工式に出席し、AI需要を牽引するのはコーディングモデルだと言及した。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "title_ja": "Anthropic、Claude Partner Networkに「Services Track」と「Partner Hub」を導入",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "date": "2026-06-03",
-      "summary": "Anthropicは6月3日、Claude Partner Networkに新たに「Services Track」（Select／Preferred／Global Premierの3ティア）と、進捗・要件確認用のポータル「Partner Hub」を導入した。Selectは認定者10名・本番導入2件・公開事例1件、Preferredは100名・15件・3件、Global Premierは1000名・100件超・15件超を要件とする。昇格審査は年2回（1月/7月）、初年度は10月にも追加実施。3月開始の同プログラムにはすでに4万社以上が申請し、1万人以上がClaude認定を取得した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "What we learned mapping a year's worth of AI-enabled cyber threats to MITRE ATT&CK",
-      "title_ja": "Anthropic、AI悪用のサイバー脅威1年分をMITRE ATT&CKにマッピングし公開",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "date": "2026-06-03",
-      "summary": "Anthropicは6月3日、2025年3月～2026年3月にClaude悪用を理由にBANした832アカウントをMITRE ATT&CKフレームワークで分析した報告書を公開した。Mid／High脅威アクターのAI活用率が33%→56%に1.7倍化、67.3%がマルウェア作成や攻撃準備にAIを使用。AI支援フィッシングは8.6%低下する一方、侵入後のアカウント発見は8.9%上昇し、AI利用が攻撃ライフサイクルの後半へシフトしている実態が示された。同社はATT&CK単独では自律型AI攻撃を捉え切れないと結論付けた。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft introduces Surface RTX Spark Dev Box, GitHub Copilot app, Project Solara, and new AI models at Build 2026",
-      "title_ja": "Microsoft、Build 2026でSurface RTX Spark Dev Box・GitHub Copilotアプリ・Project Solaraを発表",
-      "source": "The Tech Portal",
-      "url": "https://thetechportal.com/2026/06/03/microsoft-introduces-surface-rtx-spark-dev-box-github-copilot-app-project-solara-and-new-ai-models-at-build-2026/",
-      "date": "2026-06-03",
-      "summary": "MicrosoftはBuild 2026で、NVIDIA RTX Sparkを採用し1ペタフロップ／128GB統合メモリで120B超パラメータのモデルをローカル実行できる小型ワークステーション「Surface RTX Spark Dev Box」、ネイティブデスクトップ版「GitHub Copilotアプリ」（プレビュー）、エージェント中心の新プラットフォーム「Project Solara」、計7種の新MAIモデルを発表。GitHub Copilotアプリは複数エージェントの並列管理やPR-to-mergeのライフサイクル統合を提供する。",
-      "category": "international"
-    },
-    {
-      "title": "SpaceX targets fixed $135 IPO price for roadshow, source says",
-      "title_ja": "SpaceX、$135固定価格でIPOロードショー開始 ― $1.75T評価・$75B調達で史上最大規模に",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
-      "date": "2026-06-03",
-      "summary": "CNBCは6月3日、SpaceXが$135固定価格でIPOロードショーを開始したと報道。総額$75B調達・評価額$1.75Tを目指し、Saudi Aramcoの2019年IPO（$25.6B）の約3倍となる史上最大の新規上場を狙う。需要は早くも約$150Bに達し、配分の25–30%を個人投資家に割り当てる前例のない設計を採用。価格決定は6月11日、6月12日に取引開始予定。Charles Schwab、Fidelity、Robinhood、SoFi、Morgan Stanley E*TRADEで予約申込が可能。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "title_ja": "GPT-Rosalindの新機能を発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/",
-      "date": "2026-06-03",
-      "summary": "OpenAIが生命科学研究向けGPT-Rosalindのアップデートを発表。GPT-5.5のエージェント的コーディング/ツール使用能力に医化学・ゲノミクスなど創薬領域の専門知能を組み合わせ、GPT-5.5比31%少ないトークンで動作。世界中の対象機関にリサーチプレビュー開放、Rosalind Biodefenseイニシアチブも開始。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft unveils MAI-Thinking-1, its first flagship reasoning model at Build 2026",
-      "title_ja": "Microsoft、初の旗艦推論モデル「MAI-Thinking-1」をBuild 2026で発表",
-      "source": "Microsoft AI",
-      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-      "date": "2026-06-02",
-      "summary": "Microsoftは6月2日、サンフランシスコで開幕したBuild 2026開発者会議で、同社初の旗艦推論モデル「MAI-Thinking-1」を公開した。35Bアクティブパラメータ・256Kコンテキスト窓を備え、クリーンで商用ライセンス済みの企業データでフルスクラッチ学習。AIME 2026で94.5%、AIME 2025で97.0%を達成し、Claude Sonnet 4.6を盲検評価で上回ったとする。Microsoft Foundryで非公開プレビュー提供を開始し、OpenAI依存からの脱却を加速する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft introduces MAI-Code-1-Flash, a Copilot-native coding model at Build 2026",
-      "title_ja": "Microsoft、Copilotネイティブのコーディングモデル「MAI-Code-1-Flash」をBuild 2026で発表",
-      "source": "Microsoft AI",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "date": "2026-06-02",
-      "summary": "MicrosoftはBuild 2026で、GitHub Copilot/Visual Studio Codeに統合される推論効率重視のコーディングモデル「MAI-Code-1-Flash」を発表した。同価格帯でClaude Haiku 4.5を上回り、難問を最大60%少ないトークンで解くと主張、レイテンシ低減とコスト圧縮を実現。OpenAI/Anthropicの牙城に正面挑戦しつつ、Copilot主軸の戦略を自社モデルで強化する転換点となる。",
-      "category": "company_blog"
     }
   ]
 }

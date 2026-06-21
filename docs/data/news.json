@@ -1,6 +1,177 @@
 {
-  "lastUpdated": "2026-06-20 09:00 (JST)",
+  "lastUpdated": "2026-06-21 09:00 (JST)",
   "articles": [
+    {
+      "title": "Nobel Chemistry Laureate John Jumper Moves from Google DeepMind to Anthropic, AlphaFold Co-developer",
+      "title_ja": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
+      "date": "2026-06-21",
+      "summary": "9年近く在籍したGoogle DeepMindを離れ、Anthropicに移籍することを6月19日（米国時間）にXで発表した。Anthropicは2026年に入り科学領域へのAI応用を強化しており、CEOのダリオ・アモデイ氏はAIが生物学や創薬の進展を大幅に加速し得ると示唆している。Gemini開発をリードしたGoogleのノーム・シャジール氏のOpenAI移籍に続く、AI人材獲得競争の激化を示す動きとなる。",
+      "category": "japan"
+    },
+    {
+      "title": "Next PC Replacement Budget? Data Centers and Memory Prices Transformed by AI Demand",
+      "title_ja": "「次のPCリプレース、予算は足りるか」 データセンターもメモリ価格もAI需要で様変わり",
+      "source": "＠IT (ITmedia)",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/21/news002.html",
+      "date": "2026-06-21",
+      "summary": "AIによる半導体需要がメモリやストレージ市場に波及し、PCやサーバーの調達コスト増と納期長期化を招いている。データセンターでは高密度冷却やコンテナ化などの変化が進む一方、企業のIT予算計画にも大きな影響が出始めている。",
+      "category": "japan"
+    },
+    {
+      "title": "Qualcomm Announces Snapdragon Reality Elite/START; ONEXPLAYER 3 with Intel Arc G3 Extreme Launches on Crowdfunding",
+      "title_ja": "Qualcommが「Snapdragon Reality Elite／START」を発表／Intel Arc G3 Extreme搭載の「ONEXPLAYER 3」がクラファンに：週末の「気になるニュース」一気読み！",
+      "source": "ITmedia PC USER",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/21/news009.html",
+      "date": "2026-06-21",
+      "summary": "Qualcommが新XRプラットフォーム「Snapdragon Reality Elite」を発表。最大48 TOPSのオンデバイスAI処理性能を持ち、大規模言語モデル（LLM）や大規模ビジョンモデル（LVM）をデバイス上で直接実行できる点が大きな特長。週末注目のテックニュースを一気にまとめている。",
+      "category": "japan"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "title_ja": "トランプ政権のAnthropic取り締まり、誰が利益を得るのか",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "date": "2026-06-21",
+      "summary": "TechCrunchのEquityポッドキャストが、トランプ政権によるFable 5/Mythos 5の輸出規制発動の背景と勝者・敗者を議論。Amazon研究者の脆弱性発見を発端とした規制が、Anthropic独自に向けられた政治的「個性の衝突」によるものか、また他のAIラボがどう恩恵を受けるかを分析している。",
+      "category": "international"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "title_ja": "Siriを超えて: iOS 27でiPhoneにやってくる実用的なAI機能",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "date": "2026-06-21",
+      "summary": "iOS 27ではSiri刷新だけでなく、Apple Intelligenceによるレシート割り勘、データ漏洩後のパスワード更新、タスク自動化、アプリ横断のコンテキスト認識など実用機能が大幅強化される。SafariのAIタブ管理、Messagesの返信提案、Phoneアプリの通話中文脈取得など、日常業務に直結する機能が中心となっている。",
+      "category": "international"
+    },
+    {
+      "title": "Mass Affluent Lose Allure for Wealth Managers Navigating AI",
+      "title_ja": "AI時代の資産運用、富裕層下位の顧客は人手から見放されつつある",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
+      "date": "2026-06-21",
+      "summary": "Bloombergの分析記事によれば、AIが資産運用の「マスアフルエント層（1〜10百万ドル規模）」に対しプライベートバンキング相当のサービスを提供できるようになり、人手による対応コストの見合いが急速に低下している。資産運用業界は、人間アドバイザーが対応すべき富裕度の閾値を再定義しつつある。",
+      "category": "international"
+    },
+    {
+      "title": "NVIDIA Dominance Shaken? Google and Inference-focused Startups Challenge AI Chip Hegemony",
+      "title_ja": "NVIDIA「1強」に異変？ Google、推論特化ベンチャーが挑むAIチップ覇権戦争",
+      "source": "ITmedia ビジネスオンライン",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/20/news006.html",
+      "date": "2026-06-20",
+      "summary": "NVIDIAが学習向けAIアクセラレーターで約8割の市場シェアを握る一方、Googleは特定用途向けに最適化した独自AIチップTPUで本格参入を進めている。Googleは「オールGoogle」のエコシステムを活かし、汎用GPUよりも低消費電力かつ優れたコストパフォーマンスを実現。推論市場の競争が激化している。",
+      "category": "japan"
+    },
+    {
+      "title": "Microsoft Warns of Latest Cyber Threats: Tactics and Countermeasures",
+      "title_ja": "Microsoftが警告 「最新サイバー脅威」の手口と対応策",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/20/news013.html",
+      "date": "2026-06-20",
+      "summary": "Microsoftは「AIの不正利用」や「AIサービスの悪用」がサイバー攻撃の主流になりつつあると警告。多要素認証（MFA）を回避するためAIと自動化を組み合わせた「デバイスコードフィッシング」など、従来の手法では識別困難な新たな攻撃手口と対応策を解説している。",
+      "category": "japan"
+    },
+    {
+      "title": "Young Engineers Should Learn Linux: AI Era Redefines Engineering Fundamentals",
+      "title_ja": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
+      "source": "＠IT (ITmedia)",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html",
+      "date": "2026-06-20",
+      "summary": "最先端のAI技術が現場に投入される中、ネットワークやLinuxといった基礎知識の重要性は依然として高い。レガシーシステムのモダナイゼーションの現実的課題に直面しつつ、今後の開発・運用はAIエージェントが中心的役割を担う時代へシフトすると指摘する。",
+      "category": "japan"
+    },
+    {
+      "title": "Hitachi Stock Down 20% from High: Concerns Precede 'Social Infrastructure AI' Growth Strategy",
+      "title_ja": "日立株、最高値から2割安 「社会インフラにAI」成長策に不安先行",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB1986G0Z10C26A6000000/",
+      "date": "2026-06-20",
+      "summary": "日立製作所の株価が2月の上場来高値から約2割下落。4月末発表の2027年3月期業績見通しが市場予想を下回り、社会インフラにAIを実装する「フィジカルAI」による収益貢献期待が後退した。6月10日の投資家説明会でも市場の不安は払拭しきれていない。",
+      "category": "japan"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "title_ja": "ノーベル賞受賞者ジョン・ジャンパー氏、DeepMindを離れて競合のAnthropicへ移籍",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "date": "2026-06-20",
+      "summary": "AlphaFoldの開発で2024年ノーベル化学賞を共同受賞したジョン・ジャンパー氏が、9年近く在籍したGoogle DeepMindを離れAnthropicへ移籍することを発表した。AI業界における大物人材の流出が続く中、Anthropicにとって科学AI領域での大きな獲得となる。",
+      "category": "international"
+    },
+    {
+      "title": "'In the Weights' is your new AI-centric vanity search",
+      "title_ja": "新たなAI中心のエゴサーチサービス『In the Weights』登場",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "date": "2026-06-20",
+      "summary": "元OpenAIのThomas DimsonとJoey Flynnが、AIモデルが特定の人物をどれだけ「重み（weights）」として記憶しているかを測定するサービス『In the Weights』を公開した。Grok、Gemini、GPT、Claude、Llamaなど複数のモデルに対して、Web検索を使わずに人物を想起できるかを測定し、スコアを算出する。",
+      "category": "international"
+    },
+    {
+      "title": "How Substack Creators Are Covering This Strange Markets Era (Odd Lots: AI edition)",
+      "title_ja": "Substackクリエイターはこの奇妙な市場の時代をどう報じているか（Odd Lots: AI特集）",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
+      "date": "2026-06-20",
+      "summary": "Bloomberg Odd LotsがSubstackクリエイター3名（Citrini Research、The Tker、Jasmine Sun）と、AIがメディアと市場のあらゆる領域に浸透した「奇妙な時代」をどう報じるかを討論。AIバブル懸念、雇用喪失の見通し、AIがライターの文体を模倣する未来へのヘッジ戦略などを議論している。",
+      "category": "international"
+    },
+    {
+      "title": "SpaceX IPO Sparks Anticipation for OpenAI and Anthropic",
+      "title_ja": "SpaceXのIPO、OpenAIとAnthropicへの期待を煽る",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-20/spacex-ipo-sparks-anticipation-for-openai-and-anthropic-video",
+      "date": "2026-06-20",
+      "summary": "SpaceXのIPO好調を受け、近く公開予定のOpenAIとAnthropicへの投資家の期待が高まっていることを伝えるBloombergビデオレポート。両社のIPO評価額（OpenAI 8520億ドル、Anthropic 9650億ドル）を巡るAI企業上場ラッシュの市場テストとして注目されている。",
+      "category": "international"
+    },
+    {
+      "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
+      "title_ja": "Cisco AI、ステップ単位の失敗帰属とClaude Code連携を備えた『FAPO』プロンプト最適化システムを公開",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
+      "date": "2026-06-20",
+      "summary": "Cisco Foundation AIが、Claude Codeをオーケストレーターとして用いる完全自動プロンプト最適化システム『FAPO』をオープンソース公開した。多段LLMパイプラインを評価し、ステップ単位で失敗原因を特定したうえでプロンプト・パラメータ・チェーン構造のバリアントを提案する。18のモデル・ベンチマーク比較のうち15で従来のSOTA最適化手法GEPAを上回った。",
+      "category": "international"
+    },
+    {
+      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+      "title_ja": "Crawlee for Python: robots.txt対応・リンクグラフ・RAGチャンク出力を含むWebクロールパイプライン構築",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+      "date": "2026-06-20",
+      "summary": "MarkTechPostがCrawlee for Pythonを用いたWebクロールワークフローの実装チュートリアルを公開。静的・動的ページのクロール、構造化抽出、製品カタログ正規化、NetworkXによるGraphMLリンクグラフ生成、RAG用JSONLチャンク出力までを網羅し、AI/LLM向けデータパイプライン構築のリファレンス実装を提供する。",
+      "category": "international"
+    },
+    {
+      "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
+      "title_ja": "Nous Research、ツールセットを最小化する『Blank Slate』モードをHermes Agentに追加",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+      "date": "2026-06-20",
+      "summary": "Nous Researchがオープンソースのエージェント『Hermes Agent』にBlank Slateセットアップモードを追加した。プロバイダ・モデル・ファイル操作・ターミナル以外のツールをすべて無効化した状態で起動し、必要な機能だけをオプトインで有効化する設計で、エージェントの権限・挙動の予測可能性を高める。",
+      "category": "international"
+    },
+    {
+      "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+      "title_ja": "TimeCopilotで基盤モデルと自動異常検知を使った予測パイプラインを構築する方法",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "date": "2026-06-20",
+      "summary": "TimeCopilotを用いて統計・基盤モデル・GPUベース予測モデルを評価する時系列予測ワークフローのチュートリアル。実データ（航空旅客）と異常を注入した合成季節データで予測精度を比較し、LLMエージェントが最適モデルを選択して予測結果を自然言語化する一連の流れを実装している。",
+      "category": "international"
+    },
+    {
+      "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+      "title_ja": "Yandex、Protobuf向けゼロコピーワイヤーフォーマット『YaFF』をオープンソース公開",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "date": "2026-06-20",
+      "summary": "Yandexが、Protobufセマンティクスを保ったままゼロコピー読み出しを実現するC++シリアライゼーションライブラリ『YaFF』をApache 2.0で公開した。Flat Layoutでの読み取りは9.79ns、FlatBuffers比約3.8倍高速で、Yandexの広告レコメンドシステム本番運用で10〜20%のCPU削減を実現したと報告している。",
+      "category": "international"
+    },
     {
       "title": "South Korea and Anthropic sign MOU on AI safety and cybersecurity cooperation",
       "title_ja": "韓国科学技術情報通信部とAnthropic、AI安全性・サイバーセキュリティ協力でMOU締結",
@@ -1627,177 +1798,6 @@
       "date": "2026-06-05",
       "authors": "Agent Planning Benchmark Team",
       "summary": "LLMエージェントの計画能力を診断する22ドメイン4209件のマルチモーダルベンチマークを公開。包括的計画、フィードバック条件付き逐次計画、ノイズ条件下のロバスト性を評価する3軸構造を採用。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "title_ja": "Gemma 4 12Bを発表: 統合型エンコーダーフリーのマルチモーダルモデル",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "date": "2026-06-05",
-      "summary": "Google DeepMindがGemma 4 12Bを発表。ノートPC上での高性能なマルチモーダル推論を実現する中型モデルで、E4Bと26B MoEの中間に位置付け。同社初の中型モデルとしてネイティブ音声入力をサポート。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
-      "title_ja": "エージェントメモリ: 長期文脈ステートフルワークロードの特性とシステム実装上の含意",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.06448",
-      "date": "2026-06-05",
-      "summary": "長期インタラクション履歴に対する持続的推論が要求されるLLMエージェントについて、エージェントメモリのアクセスパターンとシステム側の負荷特性を計測。長期ホライズン運用時のキャッシュ設計やストレージ階層の最適化指針を提供する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
-      "title_ja": "カナダ・カーニー首相、国家AI戦略「AI for All」を発表",
-      "source": "Prime Minister of Canada",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/06/04/prime-minister-carney-launches-ai-all-canadas-new-national-artificial",
-      "date": "2026-06-04",
-      "summary": "カナダのマーク・カーニー首相は6月4日、国家AI戦略「AI for All」を発表した。今後5年で2000億ドル超の経済成長と25万人のAI関連雇用、2034年までにAI採用率を12%超から60%へ引き上げることを掲げる。23億ドル超の人材・採用・スタートアップ支援、無料AIリテラシー教育、2031年までの主権スーパーコンピュータ構築、プライバシー法近代化やオンライン安全法・AI生成コンテンツの透かし導入も盛り込み、対外依存からの「主権AI」志向を明確化した。",
-      "category": "international"
-    },
-    {
-      "title": "Self-Evolving Deep Research via Joint Generation and Evaluation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.04507",
-      "date": "2026-06-04",
-      "authors": "Zheng Liu, et al.",
-      "summary": "生成と評価を統合的に進めるディープリサーチ手法「Self-Evolving Deep Research」を提案。生成器が出力した結果を同一モデルが評価し、評価信号で次サイクルの生成を改善する自己進化ループを構成。研究探索系タスクで既存パイプラインを上回り、エージェント型リサーチで品質改善と人手評価コスト低減を両立できることを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05112",
-      "date": "2026-06-04",
-      "authors": "Various contributors",
-      "summary": "標準化模擬患者（SP）を用いた動的な臨床意思決定の対話評価ベンチマーク「MedSP1000」を提案。1,638件のSPケースと24,602件の軌道レベル評価ルールセットを整備し、医学的推論・問診・診断・治療提示を一貫評価。フロンティアLLMの臨床エージェント能力の限界、特に長時間対話での一貫性と安全性の課題を定量化した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "When AI builds itself",
-      "title_ja": "Anthropic、再帰的自己改善時代に備えた「フロンティアAI開発の一時停止」研究を提唱",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "date": "2026-06-04",
-      "summary": "Anthropicは6月4日、Marina FavaroとJack Clarkによる論考「When AI builds itself」を公開し、フロンティアAI開発を世界協調で減速・一時停止できる検証可能な仕組みの研究を開始すると発表した。2026年5月時点で同社コードベースにマージされたコードの80%以上をClaudeが執筆、GitHubの週間コミット数は2025年通年の約10億から2026年中盤に2.75億/週へ急増しており、再帰的自己改善の段階が現実化していると主張。実施は他フロンティア研究所が検証可能な形で同調することを条件とする。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing memory improvements in ChatGPT (Dreaming V3)",
-      "title_ja": "OpenAI、ChatGPTメモリ機能を「Dreaming V3」アーキテクチャに刷新",
-      "source": "Cryptonomist",
-      "url": "https://en.cryptonomist.ch/2026/06/05/openai-chatgpt-dreaming-v3-memory/",
-      "date": "2026-06-04",
-      "summary": "OpenAIは6月4日、ChatGPTのメモリ機能を抜本刷新する「Dreaming V3」アーキテクチャをChatGPT Plus／Pro（米国）から順次展開開始。会話の鮮度（freshness）、継続性（continuity）、関連性（relevance）の3軸で文脈を再構成し、アイドル時間に記憶を整理する「夢のような」自己更新機構を採用。同一機能を提供する計算コストを従来比約1/5に圧縮し、Free／Goティアと国際市場への展開も計画。Plus／Proはメモリ容量も増加、ユーザーは記憶の閲覧・編集・削除や一時チャットでの完全オプトアウトが可能。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "title_ja": "OpenAI、ChatGPTにプロンプトインジェクション対策の「Lockdown Mode」と高リスクラベルを導入",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
-      "date": "2026-06-04",
-      "summary": "OpenAIは6月4日、プロンプトインジェクション攻撃への追加防御策として、Webブラウジング・Deep Research・エージェントモード等のネットワーク連動機能を停止する「Lockdown Mode」と、高リスク操作を可視化する「Elevated Risk」ラベルをChatGPT全ティアで提供開始。インジェクション自体は防げないが、攻撃者がアカウントから機密データを抽出する経路を遮断する設計。無料ユーザーを含むパーソナルアカウント全員が設定の「Safety and security > Advanced security」から有効化できる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Obernolte, Trahan release discussion draft of the Great American AI Act",
-      "title_ja": "米下院、超党派の包括的AI規制「Great American AI Act」討議草案を公表（州AI法を3年間プリエンプト）",
-      "source": "U.S. House Representative Jay Obernolte",
-      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
-      "date": "2026-06-04",
-      "summary": "下院議員Jay Obernolte（R-CA）とLori Trahan（D-MA）は6月4日、269頁の超党派AI規制「Great American Artificial Intelligence Act」討議草案を公表。フロンティアAIモデルガバナンスの確立、労働市場の変化把握、サイバー耐性強化、AI研究開発促進の4本柱で構成し、年収5億ドル超の大手開発者に安全フレームワークの公表・重大インシデント報告・年2回の第三者監査を義務化。商務省のCenter for AI Standards and Innovationを法制化し2027–2029年度に年1億ドル拠出、州のAI法を3年間プリエンプトする規定を含む。",
-      "category": "international"
-    },
-    {
-      "title": "The Self-Correction Illusion: LLMs Correct Others but Not Themselves",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05976",
-      "date": "2026-06-04",
-      "authors": "Kuan-Yen Chen, Fang-Yi Su, Jung-Hsien Chiang",
-      "summary": "LLMが自身の推論軌跡では誤りを訂正しにくい一方、同一の誤主張が外部ソースとして提示されると訂正率が大幅に上昇する非対称性を、誤主張のバイト列を維持したままチャット役割ラベルのみ操作する統制実験で検証。能力差ではなく役割ラベル由来のアーティファクトに起因することを示し、LLM自己訂正研究の評価枠組み見直しを提言。",
-      "category": "arxiv"
-    },
-    {
-      "title": "ReasoningFlow: Discourse Structures for Understanding LLM Reasoning Traces",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05402",
-      "date": "2026-06-04",
-      "authors": "Jinu Lee, Shivam Agarwal, Amruta Parulekar, Siddarth Madala, Dilek Hakkani-Tur, Julia Hockenmaier",
-      "summary": "推論モデル（LRM）のバックトラックや自己訂正を含む非線形な推論軌跡を、粒度の細かい有向非巡回グラフ（DAG）として捉える談話構造化フレームワーク「ReasoningFlow」を提案。推論軌跡の評価・可視化・モニタリングを構造化された談話単位で行えるようにし、複雑推論の解釈性と監査可能性を高める。",
-      "category": "arxiv"
-    },
-    {
-      "title": "CHASE: Adversarial Red-Blue Teaming for Improving LLM Safety using Reinforcement Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05523",
-      "date": "2026-06-04",
-      "authors": "Various contributors",
-      "summary": "ブラックボックス攻撃者と安全整合された防御者を強化学習で共進化させる閉ループ赤青チーミングフレームワーク「CHASE（Co-evolutionary Hardening through Adversarial Safety-Escalation）」を提案。攻撃・防御を同時に強化することで、固定された安全データセットでのRLHFやDPOよりも堅牢な防御を獲得でき、未知の攻撃パターンに対する汎化性能が向上することを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Membrane: A Self-Evolving Contrastive Safety Memory for LLM Agent Defense",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05743",
-      "date": "2026-06-04",
-      "authors": "Various contributors",
-      "summary": "LLMエージェント向けの自己進化型ガードレール「Membrane」を提案。各有害インタラクションと対応する良性カウンターパートを攻撃戦略でインデックスした「コントラスト学習セル」に蒸留し、攻撃の進化に追従して防御を更新する対照的安全メモリを構築。閉鎖型ルールベースガードレールよりも未知攻撃への適応性が高く、エージェントの防御能力を継続的に強化できる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "title_ja": "Dreaming: より役立つChatGPTのための改良されたメモリ",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
-      "date": "2026-06-04",
-      "summary": "OpenAIがChatGPTメモリの新世代「Dreaming」を発表。バックグラウンドで会話を統合してメモリを更新し、時間経過を反映（「7月にシンガポール訪問予定」→「2026年7月にシンガポールへ行った」）。事実再現82.8%、嗜好遵守71.3%、時間正確性75.1%、計算効率5倍。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-      "title_ja": "Co-Scientist: 研究を加速するマルチエージェントAIパートナー",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-      "date": "2026-06-04",
-      "summary": "Geminiベースのマルチエージェントシステム「Co-Scientist」がNatureで論文発表。新規仮説を反復生成・討論・進化させ、肝線維症治療研究で薬剤再目的化候補を特定し、ラボ試験で線維化反応の91%を阻害することに成功。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05558",
-      "date": "2026-06-04",
-      "authors": "Jiaxin Wang, et al.",
-      "summary": "オンライン環境でのLLMエージェント評価が高コストで危険な問題に対処し、事前収集トラジェクトリのみから新規LLMエージェントポリシーの性能を推定するフレームワーク「ADWM」を提案。自己回帰型拡散世界モデルでオフポリシー評価を実現。",
-      "category": "arxiv"
-    },
-    {
-      "title": "AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05557",
-      "date": "2026-06-04",
-      "authors": "et al.",
-      "summary": "AURAは情景認識とツール使用の間に推論ステップを挿入し、暗黙的なニーズの構造化推定値「IntentFrame」とギャップスコアを生成。クエリごとの探索予算とツール選択を制御し、状況依存LLMエージェントで暗黙的ニーズを浮上させる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Predictable Scaling Laws of Optimal Hyperparameters for LLM Continued Pre-training",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05610",
-      "date": "2026-06-04",
-      "authors": "et al.",
-      "summary": "LLMの継続事前学習において、最適ハイパーパラメータが安定で予測可能なスケーリング則に従うことを実証的に発見。学習プロセス全体を通じてハイパーパラメータの最適値を予測可能にし、計算リソースを節約する手法を提示。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05403",
-      "date": "2026-06-04",
-      "authors": "et al.",
-      "summary": "LLMは捏造された統計値を検出する能力を持つが、複数情報源の統合時にはその能力を発揮せず、捏造データと有効データで類似した数値推定を生成することを示す。LLMの情報源評価における認識論的盲点を明らかにした研究。",
       "category": "arxiv"
     }
   ]

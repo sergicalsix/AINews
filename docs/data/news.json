@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-06-21 09:00 (JST)",
+  "lastUpdated": "2026-06-22 09:00 (JST)",
   "articles": [
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "date": "2026-06-22",
+      "summary": "オープンソースAIスタートアップReflection AIが、SpaceXのColossus 2データセンター内のNvidia GB300チップへ即時アクセスする総額最大63億ドルの契約を締結。2026年7月1日から2029年まで月額1.5億ドルを支払う。AnthropicやGoogleのSpaceX向け契約に比べると小規模だが、SpaceXが商用AI計算基盤の主要供給者になりつつあることを示す。",
+      "category": "international"
+    },
+    {
+      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+      "date": "2026-06-22",
+      "summary": "SpaceXがオープンソースAIスタートアップReflection AIと最大63億ドル規模の計算リソース提供契約を締結したことを報道。SpaceXのColossus 2データセンターの稼働拡大により、商用クラウドGPU供給事業がxAI/AnthropicからオープンソースAI陣営へと裾野を広げている。",
+      "category": "international"
+    },
+    {
+      "title": "Nvidia-backed Reflection lands SpaceX compute deal",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/22/open-source-ai-gets-more-compute-from-spacex",
+      "date": "2026-06-22",
+      "summary": "Nvidiaが出資するオープンソースAIラボReflectionが、SpaceXのColossus 2データセンターからGB300チップへのアクセスを獲得。米エネルギー省のGenesis MissionやPentagonのAI関連プロジェクトに参画するReflectionにとって、AnthropicやOpenAIの閉鎖型モデルへの対抗軸を確保する大きな一手。",
+      "category": "international"
+    },
+    {
+      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "date": "2026-06-22",
+      "summary": "Sakana AIが、複数の最先端LLMを呼び分けるオーケストレーションモデル「Fugu」を正式発表。GPT-5.5、Claude Opus 4.8、Gemini 3.1 Proなどを動的にルーティングし、自社で前線モデルを開発せずにFable/Mythos級の性能をベンチマークで達成。ICLR 2026採択のTRINITY/Conductor論文がベース。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI gives GPT-5.5-Cyber more powerful cybersecurity capabilities",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/22/openai-rolls-out-more-capable-version-of-cyber-model",
+      "date": "2026-06-22",
+      "summary": "OpenAIが防御向けに最適化したGPT-5.5-Cyberのフル版をTrusted Access for Cyberプログラム経由で信頼済み防御者に公開。CyberGymベンチマークで85.6%（前モデル比+3.8pt）を記録し、単一モデル最高水準。同時にCodex Securityプラグインを発表しPatch the Planet構想を本格化。",
+      "category": "international"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/patch-the-planet/",
+      "date": "2026-06-22",
+      "summary": "OpenAIがTrail of Bits、HackerOne等と協力し、GPT-5.5-Cyberと人手レビューを組み合わせて広く使われるオープンソースソフトウェアの脆弱性を発見・修正するDaybreakの新イニシアチブ「Patch the Planet」を発表。cURL、Go、Python、aiohttp等19プロジェクトを対象に、すでに64件のPRと51件のIssueが提出された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing Patch the Planet",
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet/",
+      "date": "2026-06-22",
+      "summary": "Trail of BitsがOpenAIのPatch the Planetイニシアチブにおける役割を解説。専任のセキュリティエンジニアがCodexとGPT-5.5-Cyberを用いて19のオープンソースプロジェクトで脆弱性を継続的に調査・三角検証し、メンテナーへ提出する前にすべての所見を人手レビューする運用を確立。",
+      "category": "company_blog"
+    },
+    {
+      "title": "PFN Officially Releases Domestic Generative AI Foundation Model PLaMo 3.0 Prime",
+      "title_ja": "国産生成AI基盤モデルPLaMo 3.0 Primeを正式リリース",
+      "source": "Preferred Networks",
+      "url": "https://www.preferred.jp/ja/news/pr20260622",
+      "date": "2026-06-22",
+      "summary": "Preferred Networksが、フルスクラッチ開発の国産LLM「PLaMo 3.0 Prime」を正式リリース。複雑なタスク向けのReasoningモデルと高速応答向けのNon-reasoningモデルを併設し、コンテキスト長は256kトークンに拡張。APIまたはオンプレで提供し、無料プランも用意。3月公開のβ版からモニター運用と内部評価のフィードバックを反映。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Japan's Domestic Full-Scratch AI 'PLaMo 3.0 Prime' Now Available, Boasting Low Cost; Free API Plan Also Offered",
+      "title_ja": "国産フルスクラッチAI「PLaMo 3.0 Prime」提供開始、\"高コスパ\"うたう 無料のAPIプランも PFN",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000113/",
+      "date": "2026-06-22",
+      "summary": "Preferred Networksが「PLaMo 3.0 Prime」を正式提供開始。日本語性能の高さと低コストを訴求し、入力100万トークン60円・出力250円という価格水準で、gpt-oss-120bやQwen3.6-27bといったオープンモデル、GPT-5.4 MiniやClaude Haiku 4.5などのクローズドモデルに対しても競争力があるとアピール。",
+      "category": "japan"
+    },
     {
       "title": "Nobel Chemistry Laureate John Jumper Moves from Google DeepMind to Anthropic, AlphaFold Co-developer",
       "title_ja": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
@@ -398,6 +472,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Multi-Agent Transactive Memory",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19911",
+      "date": "2026-06-18",
+      "authors": "To Eun Kim, Xuhong He, Dishank Jain, Ambuj Agrawal, Negar Arabzadeh, Fernando Diaz",
+      "summary": "カーネギーメロン大学とUCバークレーの研究チームが、複数エージェントが生成した軌跡を集団レベルで共有・再利用する「Multi-Agent Transactive Memory (MATM)」フレームワークを提案。1回限りで破棄されがちな手続き的知識を共有メモリ化し、新規エージェントの立ち上げ性能を高める枠組み。",
+      "category": "arxiv"
+    },
+    {
       "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
       "title_ja": "VentureBeat：Weiboの30億パラメータ『VibeThinker-3B』がベンチマーク論争を再燃",
       "source": "VentureBeat",
@@ -530,6 +613,15 @@
       "url": "https://arxiv.org/abs/2606.18673",
       "date": "2026-06-17",
       "summary": "浙江大学らによる大規模実証研究。6つの主要商用プラットフォーム上の1,200アプリを調査したところ、現実的な敵対的クエリ下で80%超のデプロイがシステムプロンプトを漏えいし、サードパーティAPIキー等の機微情報が露出する事例も確認された。注意機構レベルの機構的解析により、クエリ・キーアライメントの偏りとsoftmax増幅による『注意ドリフト』が漏えいの根本原因であると同定。既存防御は使い勝手を犠牲にせずに漏えいを止められない実態を示す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19135",
+      "date": "2026-06-17",
+      "authors": "Linus Sander, Habtom Kahsay Gidey, Alexander Lenz, Alois Knoll",
+      "summary": "ミュンヘン工科大学のチームが、急速に分散化が進むLLMマルチエージェントシステム間の通信プロトコルを体系的に分類する技術的タクソノミーを提案。Agent2Agent等の既存プロトコルを通信モデル、メッセージング、セマンティクスなどの軸で整理し、堅牢な分散エージェントネットワーク構築の指針を示す。",
       "category": "arxiv"
     },
     {
@@ -688,6 +780,15 @@
       "date": "2026-06-16",
       "summary": "CNBCは、AnthropicがFable 5/Mythos 5を輸出規制指令で全面停止した件を『閉鎖型AIモデルに依存する企業にとっての新たなリスクの顕在化』と位置づけ。自社インフラ上でダウンロード・実行・カスタマイズできるオープンソースモデルへの勢いを加速させる契機となり、Zhipu・MiniMax等の中国系オープンソースAI関連株が急騰した。『自社サーバーに置けば政争で止められない』点が改めて評価されている。",
       "category": "international"
+    },
+    {
+      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.17459",
+      "date": "2026-06-16",
+      "authors": "(arXiv 2606.17459)",
+      "summary": "LLMが戦略的経営判断を下せるかを評価するため、CEOや各部門長などの複数役割を持つエージェントが資源を再配分するシミュレーションベンチマークを提案。複数の最先端LLMで評価し、長期的な戦略策定や部門間トレードオフの解決能力の限界と改善余地を示した。",
+      "category": "arxiv"
     },
     {
       "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
@@ -1692,112 +1793,6 @@
       "date": "2026-06-06",
       "authors": "ALMANAC Team",
       "summary": "人間同士の協調プロトコルをアクションレベルでアノテーションした新データセット『ALMANAC』を公開。LLMエージェントの協働能力評価と、メンタルモデルを意識した行動学習に活用可能。",
-      "category": "arxiv"
-    },
-    {
-      "title": "A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.06420",
-      "date": "2026-06-06",
-      "authors": "Komi-Yazva Corpus Team",
-      "summary": "コミ・ヤズヴァ語-ロシア語の初の対訳コーパス(457文ペア)と漏洩を考慮した評価プロトコルを公開。極めて低資源な絶滅危惧言語におけるLLM翻訳能力の検証を可能にする。",
-      "category": "arxiv"
-    },
-    {
-      "title": "ToolChoiceConfusion: Causal Minimal Tool Filtering for Reliable LLM Agents",
-      "title_ja": "ToolChoiceConfusion: 信頼性の高いLLMエージェントのための因果最小ツールフィルタリング",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.06284",
-      "date": "2026-06-06",
-      "summary": "LLMエージェントが多数のツール候補から誤った選択を行う「Tool Choice Confusion」を抑制する手法を提案。因果関係に基づく最小限のツールフィルタリングで関連ツールのみを提示し、エージェントの信頼性とタスク成功率を向上。",
-      "category": "arxiv"
-    },
-    {
-      "title": "When Languages Disagree: Self-Evolving Multilingual LLM Judges",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.08092",
-      "date": "2026-06-06",
-      "authors": "Various",
-      "summary": "LLM-as-judge手法が言語ごとに矛盾する判定を出す問題に対処し、多言語化した入力で独立に評価させ食い違いを自己反省的に統合する自己進化型多言語ジャッジSEMJを提案。多言語評価データセットでバイアス削減と一貫性向上を確認した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "AI News Today – June 5, 2026: 9 Biggest Stories",
-      "source": "BuildFastWithAI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-5-2026",
-      "date": "2026-06-05",
-      "summary": "6月5日のAI業界9大ニュースとして、ChatGPTのメモリ刷新「Dreaming V3」、超党派『Great American AI Act』討議草案、Anthropic IPO（評価額9650億ドル・売上RR約470億ドル）、NVIDIA RTX SparkによるWindows PC再定義、Claude Sonnet 4.8リーク、Claude Opus 4.8の1Mトークン展開、OpenAI Lockdown Mode、ChatGPT記憶倍増、Claude Codeエンジン強化を解説。AI業界が「モデル単発リリース」から「メモリ・規制・自己改善」へ軸を移したと指摘。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Recap: June 5, 2026",
-      "source": "NeuralBuddies",
-      "url": "https://www.neuralbuddies.com/p/ai-news-recap-june-5-2026",
-      "date": "2026-06-05",
-      "summary": "NeuralBuddiesによる6月5日まとめ。Claude Opus 4.8の100万トークン文脈での複雑ロジック・コード・自律エージェント能力向上、OpenAIによる「Dreaming V3」記憶アーキテクチャ刷新（米国Plus/Pro先行）、Lockdown Modeの提供、Anthropicの2026年6月1日付S-1機密提出（評価額9650億ドル）、Great American AI Actが州法を3年間プリエンプトする内容、Claude Sonnet 4.8の信ぴょう性ある6月中旬リリース観測を整理。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Calls for AI Pause Button to Let Humans Take Stock",
-      "title_ja": "Anthropic、AI開発の一時停止ボタン設置を提唱 ― 「再帰的自己改善」リスクに警鐘",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock",
-      "date": "2026-06-05",
-      "summary": "Bloombergは6月5日、Anthropicが各国政府とAI開発企業が集団で開発速度を緩めるか一時停止するかを決められる仕組みの創設を提唱したと報道。共同創業者Jack ClarkとAnthropic Institute主任Marina Favaroが連名で発表したブログ投稿で、AIが自律的にタスクを完了する能力は約4か月で倍増しており、人間の介入なしで自己改善できる「フルリカーシブ自己改善」段階に向かっていると警告した。各国・各社が一斉に同意するハードルは高く、抜け駆けを防ぐピアラボ間の相互検証の必要性も指摘。今後数か月、政策担当者・AI企業との協議を予定。",
-      "category": "international"
-    },
-    {
-      "title": "The Week's 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
-      "title_ja": "週間メガラウンド10選 ― Ramp $750M、Supabase・Impulse Space・Flourish各$500Mが牽引（6月5日週）",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
-      "date": "2026-06-05",
-      "summary": "Crunchbase Newsは6月5日週の大型調達トップ10を集計。スペンドマネジメントのRampがIconiq・GIC・オンタリオ州教員年金主導で$750M（評価額$44B）を調達し首位。OSS×AI向けDB基盤のSupabaseはGIC主導で$500M（$10.5B評価）、宇宙輸送のImpulse Spaceも$500M Series D、Jeff Bezos・Lux Capital・GVらが出資する脳着想型AIスタートアップFlourishが初回ラウンドで$500M、AI市場情報のAlphaSenseがVitruvian/Accenture Ventures/JPMAM主導で$350M（$7.5B評価）など、AI・エンタープライズソフト・スペーステックが上位を占めた。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Wants a Global AI Pause If Everyone Else Does",
-      "title_ja": "Anthropic、フロンティア各社が同調するなら世界的AI開発一時停止に賛同 ― 検証可能な仕組みを研究へ",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-wants-a-global-ai-pause-if-everyone-else-does/",
-      "date": "2026-06-05",
-      "summary": "PYMNTSは6月5日、Anthropicが他のフロンティア研究所が同調する場合に限り世界的なAI開発一時停止を支持すると報じた。同社は6月4日のブログ「When AI builds itself」で、再帰的自己改善が現実化する中、各国政府と開発企業が協調的に開発を減速・停止できる「検証可能な仕組み」の研究を開始すると表明していた。Anthropic単独行動は競争上不利になるため一斉同期型の停止メカニズムを志向し、実行時には抜け駆け監視のためのピアラボ間相互検証を制度化する点が焦点となる。",
-      "category": "international"
-    },
-    {
-      "title": "IR3DE: A Linear Router for Large Language Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.06098",
-      "date": "2026-06-05",
-      "authors": "Eros Fanì, Oğuzhan Ersoy",
-      "summary": "増え続けるLLMから各プロンプトに最適なモデルを選ぶ推論ルータとして、Ridge回帰ベースのドメインエキスパート向け線形ルータ「IR3DE」を提案。トークン埋め込みからドメインエキスパートを安価かつ高速に選択でき、エキスパートの追加・削除に対するルータ全体の再構築を不要とする軽量設計。次トークン予測（CLM）の2設定では既存手法と同等性能、ドメイン別推論設定では既存手法を上回ったと報告。コスト最適化や全強・全弱ルーティングに偏った既存研究を補完する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Drag reduction or reward hacking? Recurrent multi-agent reinforcement learning that earns its reward",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.06227",
-      "date": "2026-06-05",
-      "authors": "Various contributors",
-      "summary": "RLエージェントが意図された目的から逸れた形で報酬を最大化する「報酬ハッキング」を、壁面乱流での抗力低減タスクを具体例として分析。再帰的マルチエージェントRLの枠組みで、報酬関数設計と多時刻信号の取り扱いが報酬ハッキング発生率に与える影響を体系的に検証し、物理的に妥当な抗力低減を達成する報酬定式化と評価プロトコルを提案する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Value-and-Structure Alignment for Routing-Consistent Quantization of Mixture-of-Experts Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.05688",
-      "date": "2026-06-05",
-      "authors": "Various contributors",
-      "summary": "大規模MoEモデルの実用展開に不可欠な量子化において、量子化後にエキスパート選択挙動が崩れる問題に着目し、価値（重み分布）と構造（ルータ出力）を同時に整合させるルーティング一貫量子化手法「VSRAQ」を提案。エキスパート選択の整合性を維持しつつ低ビット量子化することで、推論精度劣化を抑制しながらメモリ・帯域・レイテンシを大幅に削減できることを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.04874",
-      "date": "2026-06-05",
-      "authors": "Agent Planning Benchmark Team",
-      "summary": "LLMエージェントの計画能力を診断する22ドメイン4209件のマルチモーダルベンチマークを公開。包括的計画、フィードバック条件付き逐次計画、ノイズ条件下のロバスト性を評価する3軸構造を採用。",
       "category": "arxiv"
     }
   ]

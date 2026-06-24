@@ -1,6 +1,95 @@
 {
-  "lastUpdated": "2026-06-23 09:00 (JST)",
+  "lastUpdated": "2026-06-24 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "date": "2026-06-24",
+      "summary": "OpenAIとBroadcomが共同開発したLLM推論専用カスタムアクセラレータ「Jalapeño」を正式発表。設計開始から製造テープアウトまでわずか9か月で完了し、Broadcom・Celesticaを協業パートナーに据えた。エンジニアリングサンプルは既にラボでGPT-5.3-Codex-Sparkなどを目標周波数・電力で稼働しており、現行の最先端チップを上回る電力効率を示すとする。2026年末からの本格展開を皮切りに、多世代の専用計算基盤の第一歩と位置付ける。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "date": "2026-06-24",
+      "summary": "OpenAIがBroadcomと開発した初の自社推論専用チップ「Jalapeño」を6月24日に公開。同社AIモデルを活用して9か月で設計を完了したという。推論ワークロード向けに最適化され、典型的なGPUと比較して約50%のコスト削減効果が見込まれる。2026年末の初期配備を起点に、ChatGPT等のサービス基盤に組み込まれる多世代計算プラットフォームの一環。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI and Broadcom reveal Jalapeno, first AI chip in partnership",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
+      "date": "2026-06-24",
+      "summary": "OpenAIとBroadcomが2024年10月から進めてきた共同開発を結実させ、LLM推論専用カスタムチップ「Jalapeño」を発表。BroadcomのCEOホック・タン氏は通常のAI GPU比で約5割のコスト削減効果を示唆し、OpenAIのアルトマンCEOらが初期サンプルを受領した。NVIDIA依存度を下げ、自社サービス向け推論基盤を内製化する戦略の中核。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI, Broadcom Unveil Jalapeno AI Chip Promising Faster, Cheaper Model Runs",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper",
+      "date": "2026-06-24",
+      "summary": "OpenAIがBroadcomと組んで初の自社設計AIチップ「Jalapeño」を公開。GPU比で約50%の運用コスト削減を見込み、推論専用に設計。OpenAIは既にサンプル受領を完了しテスト中で、Nvidia依存からの脱却を進めるとともに、Anthropic・Google・xAIなどと並ぶ自前ハードウェア競争に本格参戦した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI and Broadcom Unveil LLM-Optimized Intelligence Processor",
+      "source": "Broadcom",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-unveil-llm-optimized-intelligence-processor",
+      "date": "2026-06-24",
+      "summary": "Broadcomが公式プレスリリースで、OpenAIと共同開発したLLM推論最適化型インテリジェンスプロセッサ「Jalapeño」を発表。OpenAIのモデルロードマップに合わせて設計され、Broadcom・Celesticaが製造を担う。同社は同チップ案件が高性能ASICとして史上最速級の9か月開発サイクルを達成したと主張、2026年末からの初期配備を予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NNSA Announces Aires Tide, a National Security Innovation Developed Using AI and Additive Manufacturing Under the Genesis Mission",
+      "source": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/nnsa/articles/nnsa-announces-aires-tide-national-security-innovation-developed-using-ai-and",
+      "date": "2026-06-24",
+      "summary": "米エネルギー省国家核安全保障局(NNSA)が、AIと積層造形(3Dプリント)で短期開発した飛行試験機「Aires Tide」を発表。NNSAのスーパーコンピューター「Venado」「El Capitan」を用いて内部構造やセンサー配置をAIが設計し、5か月で複数機を試作・飛行試験まで実施。従来比で15倍安価かつ7倍高速に開発できたとし、Genesis Missionの初の具体的成果と位置付ける。6月25日からナショナルモールで一般展示。",
+      "category": "international"
+    },
+    {
+      "title": "DOE Unveils AI-Designed Aires Tide Flight Vehicle Built Under Genesis Mission",
+      "source": "HPCwire",
+      "url": "https://www.hpcwire.com/off-the-wire/doe-unveils-ai-designed-aires-tide-flight-vehicle-built-under-genesis-mission/",
+      "date": "2026-06-24",
+      "summary": "DOE/NNSAがGenesis Missionの第1号案件として、AIで設計・3Dプリント製造された飛行試験機Aires Tideを発表。Los Alamos・Lawrence Livermore・Sandiaの3国立研究所がAIワークフローと国家HPC資源を結集し、設計から飛行試験までを5か月で実施。AIが熱・応力設計や内部レイアウトを最適化し、フューズラージは6日未満で印刷された。米国の安全保障AI応用での実証として注目される。",
+      "category": "international"
+    },
+    {
+      "title": "How AI is finding more answers about rare diseases",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/06/24/how-ai-is-finding-more-answers-about-rare-diseases/",
+      "date": "2026-06-24",
+      "summary": "Microsoftがオフィシャルブログで、希少疾患の診断・研究をAIで加速する取り組みを公開。同社のAzure AIとMAI(Microsoft AI)モデル群を活用し、医師・患者支援団体・研究者と協業して未診断症例の特定や論文横断分析を進めていると報告。Microsoft AI for Goodイニシアチブの一環として、希少疾患領域での生成AIの臨床応用事例を紹介した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "AI in Education Report 2026: Adoption surges as institutions race to support educators and students",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/06/24/ai-in-education-report-2026/",
+      "date": "2026-06-24",
+      "summary": "Microsoftが2026年版「AI in Education Report」を公開。教育機関での生成AI導入が急速に進む一方、教員研修・学習評価・公平アクセスの整備が遅れていると指摘。Copilotや教育向けAI機能の利用実態調査と、教師・学生・保護者向けの推奨ロードマップを提示し、教育分野での責任あるAI活用に向けた政策提言を行った。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic's Claude Mythos achieves 80% accuracy on AI bug-fix benchmark, prompting U.S. export curbs",
+      "title_ja": "ミュトスが正答率8割で突出、AIバグ修正試験 高性能が米禁輸引き金",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC154GI0V10C26A6000000/",
+      "date": "2026-06-24",
+      "summary": "AnthropicのフロンティアモデルClaude Mythosが、ソフトウェアバグ修正ベンチマークで正答率80%超を記録し、OpenAI・Googleの主要モデル(60%未満)を大きく引き離したと日経が報じた。突出したソフト改変能力がサイバー攻撃悪用リスクとして米商務省の輸出規制対象指定の根拠となり、Project Glasswing参加組織以外の一般提供は依然見送られている。",
+      "category": "japan"
+    },
+    {
+      "title": "VB Transform 2026 opens: enterprise AI moves from copilots to autonomous agents",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/vbtransform2026",
+      "date": "2026-06-24",
+      "summary": "VentureBeatの年次企業AIカンファレンスVB Transform 2026がサンフランシスコで開幕。エンタープライズAIの実装事例(copilotからエージェントへ)を主題に、Innovation Showcaseでは生成AI製品7社が招待制で展示。OpenAI、Microsoft、Google、Anthropic等の上級幹部や意思決定者600名超が登壇し、AIエージェント運用・統制・ROIに関する議論が行われる。",
+      "category": "international"
+    },
     {
       "title": "Why is Domestic AI 'Sakana Fugu' Priced in USD? Sakana AI Says It Will 'Take Yen-Pricing Needs Seriously'",
       "title_ja": "国産AI「Sakana Fugu」なぜドル建て？ 円建てニーズ「受け止める」とSakana AI",
@@ -1681,105 +1770,6 @@
       "url": "https://www.nbcnews.com/tech/security/fable-5-anthropic-release-public-mythos-claude-model-rcna349104",
       "date": "2026-06-09",
       "summary": "NBC NewsはAnthropicが初の公開Mythosクラスモデル Claude Fable 5 をリリースしたと報道。コーディング・科学研究・サイバーセキュリティ・自律業務でフロンティアレベルの性能を主張する一方、サイバー・生物・化学領域は強力なガードレールでブロックすると伝える。",
-      "category": "international"
-    },
-    {
-      "title": "Initial impressions of Claude Fable 5",
-      "title_ja": "Claude Fable 5 を試してみた初期印象",
-      "source": "Simon Willison's Weblog",
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
-      "date": "2026-06-09",
-      "summary": "Simon Willison氏がAnthropicの新モデル Claude Fable 5 を試した初期レビュー。コーディングタスクや長文推論での挙動、安全フォールバックの動作、Opusとの違いを実例とともに報告し、Mythosクラスの公開がもたらす実利用上のインパクトを考察。",
-      "category": "international"
-    },
-    {
-      "title": "RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference",
-      "title_ja": "RKSC：マルチステップLLM推論のための推論認識KVキャッシュ共有と確信度ベース早期終了",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.09937",
-      "date": "2026-06-09",
-      "summary": "学習不要の推論フレームワーク RKSC を提案。マルチブランチ推論パイプラインにおける構造的冗長性を排除し、KVキャッシュを推論パス間で共有しながら確信度の高い時点で早期終了することで、精度を維持しつつ推論コストを大幅に削減する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Does Reasoning Preserve Alignment? On the Trustworthiness of Large Reasoning Models",
-      "title_ja": "推論能力はアラインメントを維持するか：大規模推論モデルの信頼性評価",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.11046",
-      "date": "2026-06-09",
-      "summary": "中間推論ステップを生成するよう訓練されたLLMが、推論精度だけでなく、不許可リクエストの拒否、毒性回避、プライバシー尊重、倫理的判断を一貫して維持できるかを評価する大規模研究。推論を学習させることで安全性が劣化するケースを系統的に示し、信頼性ベンチマーク群を提供する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Flaws in the LLM Automation Narrative",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.11166",
-      "date": "2026-06-09",
-      "authors": "Various",
-      "summary": "「フロンティアLLMは人間専門家と同等の自動化能力を持つ」という業界主張をベンチマーク的に検証する論文。データ分析タスクで人間専門家とフロンティアLLMの成績を比較し、人間の方が平均的に高精度かつ分散が小さく、LLM自動化はばらつきが大きく専門家代替には程遠いと結論づける。",
-      "category": "arxiv"
-    },
-    {
-      "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp to Apple Intelligence and iOS 27",
-      "title_ja": "WWDC 2026: 期待の高まるSiri刷新、Apple Intelligence、iOS 27などの最新情報",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-      "date": "2026-06-08",
-      "summary": "AppleがWWDC 2026を開催。Google Geminiを搭載した新Siri（年間約10億ドルのライセンス契約と報道）、iOS 27、macOS 27、Apple IntelligenceのExtensions（ChatGPT・Gemini・Claudeを選択可能）が発表予定。",
-      "category": "international"
-    },
-    {
-      "title": "Apple WWDC 2026: Siri Rebuilt on Gemini, homeOS Previewed in Cook Farewell Keynote",
-      "title_ja": "Apple WWDC 2026: Geminiベースで再構築されたSiriとhomeOSをクック最後の基調講演でプレビュー",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/317985/20260608/apple-wwdc-2026-siri-rebuilt-gemini-homeos-previewed-cook-farewell-keynote.htm",
-      "date": "2026-06-08",
-      "summary": "Tim Cookの基調講演で、カスタム1.2兆パラメータのGoogle Gemini基盤による完全刷新Siri、3階層ルーティング（端末/Private Cloud Compute/Nvidia Blackwell B200搭載のGoogle Cloud）、homeOSが発表された。",
-      "category": "international"
-    },
-    {
-      "title": "Apple Calls Its New Assistant \"Siri AI\" at WWDC 2026, Gemini Partnership Now Official",
-      "title_ja": "Apple、WWDC 2026で新アシスタントを「Siri AI」と命名、Geminiとの提携が正式発表",
-      "source": "MacObserver",
-      "url": "https://www.macobserver.com/news/apple-calls-its-new-assistant-siri-ai-at-wwdc-2026-gemini-partnership-now-official/",
-      "date": "2026-06-08",
-      "summary": "Appleは新アシスタントを「Siri AI」とブランディングし、Google Geminiとの提携を公式化。スタンドアロンアプリ化、画面コンテンツ理解、アプリ横断アクション実行などの新機能が発表された。",
-      "category": "international"
-    },
-    {
-      "title": "Apple overhauling Siri with Google Gemini AI at WWDC 2026",
-      "title_ja": "AppleがWWDC 2026でGoogle GeminiベースのSiriへ全面刷新",
-      "source": "Quartz",
-      "url": "https://qz.com/apple-siri-ai-google-gemini-wwdc-2026-060826",
-      "date": "2026-06-08",
-      "summary": "15年ぶりの大規模刷新となるSiriは、Googleのカスタム版Geminiモデルを採用。複数年契約で年間約10億ドルが支払われる見込みで、iOS 27/iPadOS 27/macOS 27/watchOS 27/visionOS 27の無償アップデートで秋に提供予定。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Today - June 8, 2026: 16 Biggest Stories",
-      "title_ja": "AIニュース今日 - 2026年6月8日: 16の主要ストーリー",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
-      "date": "2026-06-08",
-      "summary": "6月8日の主要AIニュースを総括。Apple WWDCのGemini版Siri、Microsoft FoundryにOpenAI・Anthropic・Googleモデルが揃う11,000以上のカタログ、Claudeの四半期306%成長などをカバー。",
-      "category": "international"
-    },
-    {
-      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "title_ja": "Apple、次世代Apple IntelligenceとSiri AIなどを正式発表",
-      "source": "Apple Newsroom",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "date": "2026-06-08",
-      "summary": "Appleの公式ニュースルーム発表。Geminiベースの基盤モデルとオンデバイス＋Private Cloud Computeを組み合わせた新Siri AI、Liquid Glass刷新、アプリ横断アクション、プライバシー設計強化、iOS 27 ExtensionsによるサードパーティAIアシスタント選択などを公式に発表。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Apple Unveils Siri AI, Smarter Assistant With More Customizable Voices",
-      "title_ja": "Apple、よりカスタマイズ可能な音声を備えた賢いアシスタント「Siri AI」を発表",
-      "source": "Variety",
-      "url": "https://variety.com/2026/digital/news/apple-siri-ai-wwdc26-announcements-1236769265/",
-      "date": "2026-06-08",
-      "summary": "Varietyは新Siri AIがより自然な音声と速度・表現性の調整機能を備え、iPhone内の全アプリ・データにアクセスしつつ強力なプライバシー制御を実装すると報道。米国で英語から提供開始し、EU・中国は規制対応のため遅れる見込み。",
       "category": "international"
     }
   ]

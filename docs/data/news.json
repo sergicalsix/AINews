@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-24 09:00 (JST)",
+  "lastUpdated": "2026-06-25 09:00 (JST)",
   "articles": [
+    {
+      "title": "How agents are transforming work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-agents-are-transforming-work/",
+      "date": "2026-06-25",
+      "summary": "OpenAIが企業ユーザーのエージェント利用実態をまとめた最新レポートを公開。2025年11月比でリサーチ部門のエージェント利用は中央値で56倍、カスタマーサポート32倍、エンジニアリング27倍に急増したと報告。2026年5月時点で個人ユーザーの80.6%が「30分以上の人間労働」相当のCodexタスクを実行し、99パーセンタイルのパワーユーザーは1日60時間超のエージェント稼働時間を生成。ChatGPTでも非開発者ユーザーが2025年8月比137倍に増加し、エンタープライズではチャットボットからエージェントへの主役交代が進んでいると指摘。",
+      "category": "company_blog"
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "source": "OpenAI",
@@ -91,6 +99,122 @@
       "category": "international"
     },
     {
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "date": "2026-06-24",
+      "summary": "Anthropicが米上院銀行委員会宛ての書簡で、AlibabaのQwen AIラボ関係者がClaudeから2,500万件超の対話を約25,000個の偽アカウントを介して取得し、ソフトウェア工学・エージェント推論能力を「敵対的蒸留」で抜き取ったと告発。同社は「過去最大規模の蒸留攻撃」と呼び、米商務省によるFable 5・Mythos 5の輸出規制指令の正当性を裏付ける根拠としても提出した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "date": "2026-06-24",
+      "summary": "Bloombergが、AnthropicがAlibaba関連オペレーターによる大規模な不正アクセス疑惑をホワイトハウスと議会に通報したと報道。攻撃は2026年4月22日から6月5日にかけて行われ、Claudeの推論能力とエージェント挙動を盗取する敵対的蒸留手法を用いたとされる。Anthropicはこれを根拠に、トランプ政権による中国系企業へのフロンティアモデル輸出規制の維持を要請した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
+      "date": "2026-06-24",
+      "summary": "Tom's HardwareがAnthropicの告発内容を詳報。AlibabaおよびQwen関連の運用主体が2026年4〜6月にかけて25,000個の偽アカウントから2,880万件の対話をClaudeに送り、推論パターンとデータ構造の収集を試みた「過去最大の蒸留攻撃」だったとAnthropicが主張。標的は最先端のソフトウェア工学とエージェント能力で、輸出規制と内部不正検知の両面で対策を強化中と明らかにした。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's Mythos model found vulnerabilities in classified US government systems, official says",
+      "source": "Federal News Network",
+      "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/06/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+      "date": "2026-06-24",
+      "summary": "米情報当局者の証言として、AnthropicのClaude Mythosモデルが米情報機関と共同実施した内部テストで、機密扱いの政府システムから多数の脆弱性を短時間で発見したとFederal News Networkが報道。Anthropicは情報機関との連携範囲を拡大しつつ、Mythosの攻撃能力を制御するProject Glasswingの運用要件を厳格化していると説明した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's Mythos AI found flaws in classified US systems within hours, officials say",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/next/2026/06/24/anthropics-mythos-ai-found-flaws-in-classified-us-systems-within-hours-officials-say",
+      "date": "2026-06-24",
+      "summary": "EuronewsがAnthropicと米情報機関の共同セキュリティ評価結果を報道。Claude Mythosが機密政府ネットワークの脆弱性を「数時間以内」に発見したと米当局者が言及し、AnthropicとIntelligence Communityが今後さらに評価対象を拡大すると説明。Fable 5・Mythos 5の輸出規制下でも、米国内安全保障領域での利用は加速していると伝えた。",
+      "category": "international"
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "date": "2026-06-24",
+      "summary": "TechCrunchが、Gemini開発の中核を担ってきたGoogleの研究者Jonas AdlerとAlexander Pritzelの両氏がAnthropicに移籍予定と報道。前週にはNoam Shazeer氏がOpenAIへ、John Jumper氏(2024年ノーベル化学賞、AlphaFold)がAnthropicへの転籍を発表しており、Googleからの主要AI人材流出が連続している。Googleは「業界全体で人材は循環している」とコメント。",
+      "category": "international"
+    },
+    {
+      "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+      "date": "2026-06-24",
+      "summary": "BloombergがJonas AdlerとAlexander Pritzel両氏のAnthropicへの移籍を独自取材として報じた。AdlerはAIコーディング、PritzelはAI訓練プロセスの中核に関わっておりGeminiの主要貢献者と評価されていた。Anthropicがフロンティア人材確保に勢いを増す一方、Googleはトップ研究者流出が続き、AI労働市場の競争激化が改めて浮き彫りになった。",
+      "category": "international"
+    },
+    {
+      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+      "date": "2026-06-24",
+      "summary": "Alibaba CloudのQwenチームが「Qwen-AgentWorld」を発表。エージェント環境の応答を予測する「ネイティブ言語世界モデル(LWM)」として、MCP・Search・Terminal・SWE・Web・OS・Androidの7領域を単一アーキテクチャでカバー。MoE設計の35Bと397Bの2モデルを公開し、フラッグシップ397B-A17BがGPT-5.4・Claude Opus 4.8を上回るシミュレーション品質を達成。AgentWorldBenchも併せて公開し、Hugging Face/ModelScopeで利用可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI just announced its first custom chip to help ChatGPT run better",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip",
+      "date": "2026-06-24",
+      "summary": "CNN BusinessがOpenAIとBroadcomの共同開発AIチップ「Jalapeño」発表をレビュー。LLM推論専用設計で、設計開始からテープアウトまで約9か月という極めて短期で完成。GPU依存のコスト構造を見直すための内製化施策と位置付け、2026年末から運用配備が始まる予定。サム・アルトマンCEOらはChatGPT基盤の信頼性と応答速度向上に直結すると強調した。",
+      "category": "international"
+    },
+    {
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24133",
+      "date": "2026-06-24",
+      "summary": "LLM事前学習のデータ混合・スケジューリングを多目的強化学習で最適化する「Holistic Data Scheduler」を提案(KDD 2026採択)。データソース比率と学習段階に応じた重み付けをエージェントで動的に決定し、複数の下流タスク指標を同時に改善。固定スケジュールに比べてベンチマーク全体で計算効率と精度の両面で優位性を示した。",
+      "authors": "Anonymous (KDD 2026)",
+      "category": "arxiv"
+    },
+    {
+      "title": "Agentic Collaborative Cognition for Zero-Shot 3D Understanding",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24649",
+      "date": "2026-06-24",
+      "summary": "マルチモーダルLLMをベースに、複数エージェントが視点を分担し合議する「Agentic Collaborative Cognition」フレームワークを提案。ゼロショット3D理解タスクで、計画・観察・統合の役割を持つLLMエージェントが3Dシーンを協調分析し、単一モデル比で大幅な精度向上を達成。3DベンチマークでSOTAを獲得した。",
+      "authors": "Anonymous",
+      "category": "arxiv"
+    },
+    {
+      "title": "ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24605",
+      "date": "2026-06-24",
+      "summary": "10億ユーザー規模・低アクティビティ環境でも構造化推論を維持する「ScaleToT」を提案。Tree-of-Thoughts拡張により疎なユーザー行動データからも安定した推論経路を生成し、産業推薦タスクで従来手法を凌駕。スケール特性を実データで実証し、エンタープライズ規模のユーザーモデリングへLLM推論を一般化した。",
+      "authors": "Anonymous",
+      "category": "arxiv"
+    },
+    {
+      "title": "Automated Summarization of Software Documents: An LLM-based Multi-Agent Approach",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24689",
+      "date": "2026-06-24",
+      "summary": "ソフトウェアドキュメントの自動要約に向けたLLMマルチエージェント手法(ASE Journal採択)。分析・抽出・検証・統合の役割分担を持つエージェント群が要件・設計書を協調処理し、要約精度と網羅性で従来単一モデルを上回ったと報告。実プロジェクトでの評価結果も提示し、開発生産性向上に資すると結論付けた。",
+      "authors": "Duc S. H. Nguyen et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Qwen Releases AgentWorld Language World Model",
+      "source": "TMTPost",
+      "url": "https://en.tmtpost.com/news/8039234",
+      "date": "2026-06-24",
+      "summary": "AlibabaのQwenチームが「Qwen-AgentWorld」を正式リリース。エージェント環境を再現するネイティブ言語世界モデル(LWM)として、MCP・Search・Terminal・SWE・Web・OS・Androidの7環境を統合シミュレーション。MoEアーキテクチャ採用で397B総パラメータ(17Bアクティブ)と35B(3Bアクティブ)の2構成、評価ベンチマーク「AgentWorldBench」も同時公開し、Hugging Face/ModelScopeで一般公開された。",
+      "category": "company_blog"
+    },
+    {
       "title": "Why is Domestic AI 'Sakana Fugu' Priced in USD? Sakana AI Says It Will 'Take Yen-Pricing Needs Seriously'",
       "title_ja": "国産AI「Sakana Fugu」なぜドル建て？ 円建てニーズ「受け止める」とSakana AI",
       "source": "ITmedia NEWS",
@@ -122,6 +246,15 @@
       "date": "2026-06-23",
       "summary": "UT AustinのManas Mehta、Fangcong Yin、Greg Durrettが提案するRandomized YaRN。YaRNベースの位置外挿にランダム化位置エンコーディングと長さカリキュラムを組み合わせ、短文脈学習時にトークンへ広い位置範囲からサンプリングしたYaRN位置エンコーディングを割り当てることで、訓練段階から分布外位置表現に晒す。BABILongとMulti-Round Coreference Resolution (MRCR)という長文脈推論ベンチマークで評価し、短い系列で事前学習されたモデルが超長系列に苦戦する問題に対し有効な改善を示した。",
       "authors": "Manas Mehta, Fangcong Yin, Greg Durrett",
+      "category": "arxiv"
+    },
+    {
+      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24391",
+      "date": "2026-06-23",
+      "summary": "霧の戦場下でLLM 2モデルが13×7マスで対戦する戦略ベンチマーク「Age of LLM」を提案。視界制限・外交メッセージ・厳格JSONスキーマ準拠の3ストレスを課し、推論・嘘・信頼性を同時評価。15モデル54試合のスナップショットを公開し、各モデルの認知ペルソナや嘘の発生パターンを比較分析した。",
+      "authors": "Arnaud Ricci",
       "category": "arxiv"
     },
     {
@@ -1626,151 +1759,6 @@
       "date": "2026-06-10",
       "summary": "OpenAIとOracleが提携し、Oracle Cloud Infrastructure（OCI）の既存のUniversal Credits枠を使ってOpenAIの最先端モデルとCodexを購入できるようにすると発表。今後数週間で順次提供を開始し、企業は新たな調達フローを作らずに既存のクラウド契約・ガバナンス内でAI導入を進められるようになる。",
       "category": "company_blog"
-    },
-    {
-      "title": "Anthropic CEO Says Government Should Be Able to Block New Models",
-      "title_ja": "AnthropicのアモデイCEO、政府に危険なAIモデルの公開差止権限を求める",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-says-government-should-be-able-to-block-new-models",
-      "date": "2026-06-10",
-      "summary": "Anthropic CEO Dario Amodeiが政策エッセイ『Policy on the AI Exponential』を発表し、米政府に対し独立した安全性テストに失敗したフロンティアAIモデルの公開を差し止め・撤回できる法的権限を持つよう要請。10^25 FLOPs超または年間AI売上5億ドル超の企業のモデルを第三者監査の対象に置く航空（FAA）型の規制案を打ち出した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
-      "title_ja": "アモデイCEO、強力なAIモデルにFAA型規制を提唱──企業が知るべきポイント",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
-      "date": "2026-06-10",
-      "summary": "VentureBeatがAmodei CEOの『Policy on the AI Exponential』エッセイを分析。サイバー・生物兵器・自律性・自動化R&Dの4領域で第三者テストを義務化し、政府に差止権限を与える案で、25年のSB53等の透明性法を超える『拘束力ある規制』への移行を求めた点を解説。Anthropicは雇用対策に3.5億ドル（経済未来研究基金2億ドル＋フェローシップ1.5億ドル）も拠出すると発表。",
-      "category": "international"
-    },
-    {
-      "title": "Dario Amodei — Policy on the AI Exponential",
-      "title_ja": "Dario Amodei『Policy on the AI Exponential』エッセイ公開",
-      "source": "darioamodei.com",
-      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "date": "2026-06-10",
-      "summary": "Anthropic CEO Dario Amodei本人が長編エッセイを公開。AIの能力曲線が政策の追従速度を上回りつつあるとして、フロンティアモデルの第三者強制テスト、政府による公開差止権限、地政学戦略を提案。透明性中心の従来路線から、より拘束力のある安全規制への明確な方針転換を打ち出した。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing DiffusionGemma: a 26B open-weights text diffusion model",
-      "title_ja": "Google DeepMind、Apache 2.0で公開する26B拡散型テキスト生成モデル「DiffusionGemma」を発表",
-      "source": "Google Developers Blog",
-      "url": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-      "date": "2026-06-10",
-      "summary": "Googleが26BパラメータのMoEオープンウェイト拡散型テキスト生成モデルDiffusionGemmaを正式公開。256トークンを並列にデノイズしながら生成することで自己回帰モデル比4倍高速。Apache 2.0ライセンスでHugging Face、Kaggle、Vertex AI Model Gardenから利用でき、Gemma 4より品質は低いが速度優先の実験用途に位置づけられる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "DiffusionGemma",
-      "title_ja": "Simon Willison、DiffusionGemmaを解説",
-      "source": "Simon Willison's blog",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/",
-      "date": "2026-06-10",
-      "summary": "Simon WillisonがGoogle DeepMindのDiffusionGemmaを試した記録を公開。並列デノイズで256トークンずつ生成する拡散モデルは速度的に魅力的だが、MMLU等のベンチマークでは標準Gemma 4に劣ること、ローカル運用での実用性、Apache 2.0で完全オープンウェイトである点を解説する。",
-      "category": "international"
-    },
-    {
-      "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-      "title_ja": "MarkTechPost、DiffusionGemmaの技術詳細とベンチマーク結果を解説",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-      "date": "2026-06-10",
-      "summary": "MarkTechPostがDiffusionGemmaの双方向アテンションによる並列リファインメント、エキスパート混合（MoE）構成、Hugging Face/vLLM/Unsloth向け実装の即日対応について整理。OpenAI/Anthropic製モデルとの位置付け（実験的・速度特化）と品質トレードオフを詳述している。",
-      "category": "international"
-    },
-    {
-      "title": "A Controlled Study of Decoding-Time Truthfulness Methods on Instruction-Tuned LLMs",
-      "title_ja": "arXiv：指示調整LLMにおけるデコード時真実性手法の制御実験",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.12160",
-      "date": "2026-06-10",
-      "summary": "Layer-Contrast DecodingやInference-Time Intervention、学習済みlogitアダプタなど『デコード時の真実性向上手法』は、ベースLLMでTruthfulQAを10〜30ポイント改善することが知られているが、本論文は現代の指示調整LLM（既に61〜76%のスコアを獲得）でも同様に効くのかを6種のコントロール条件で厳密に検証。5モデル（1B〜70B）×3ベンチマーク×15手法を比較した結果、多くの手法が指示調整モデルではベースラインを超えず、効果が大きいと報告されていた手法でも条件によっては逆効果になり得ることを示した。ICANN 2026採択。",
-      "authors": "(著者リストは論文を参照)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-      "title_ja": "Anthropic、Google・Broadcomとの提携を拡大し次世代計算基盤を複数ギガワット規模で確保",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "date": "2026-06-09",
-      "summary": "AnthropicはGoogleおよびBroadcomと2028年までに20GW超の計算容量を可能にする「AI XPV Platform」をApollo・Blackstone主導で立ち上げたと発表。初期トランシェ350億ドルでAnthropicの1GW超の容量拡張を後押しし、新規容量は米国に展開予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Broadcom, Apollo and Blackstone establish landmark strategic platform for AI infrastructure",
-      "title_ja": "Broadcom、Apollo、BlackstoneがAIインフラ向けの戦略的プラットフォーム「AI XPV」を設立",
-      "source": "Stock Titan / Broadcom",
-      "url": "https://www.stocktitan.net/news/BX/broadcom-apollo-and-blackstone-establish-landmark-strategic-platform-upr401jc54fs.html",
-      "date": "2026-06-09",
-      "summary": "Broadcom、Apollo、Blackstoneが共同で「AI XPV Platform」を設立。AnthropicやOpenAIなどフロンティアAIラボ向けに2028年までに20GW以上の計算容量を整備する構想で、初期投資350億ドルからスタート。",
-      "category": "international"
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "title_ja": "WWDC 2026総まとめ: Siri AI、iOS 27、Apple Intelligenceなど発表内容を網羅",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "date": "2026-06-09",
-      "summary": "TechCrunchがWWDC 2026の全発表を整理。Google Geminiベースで全面刷新されたSiri AI、スタンドアロンアプリ化、自然な音声と速度・表現の調整機能、サードパーティ製AIをデフォルトアシスタントに選択できるiOS 27 Extensionsなどを総括。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI and Anthropic IPOs Will Put AI Enthusiasm to the Test",
-      "title_ja": "OpenAIとAnthropicのIPOが「AI熱狂」を試金石にかける",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/openai-and-anthropic-ipos-will-put-ai-enthusiasm-to-the-test",
-      "date": "2026-06-09",
-      "summary": "BloombergはOpenAI（評価額8520億ドル）とAnthropic（同9650億ドル）の相次ぐ秘密裡IPO申請を受け、各々が1兆ドル前後の評価で公開市場に挑む見通しを分析。SpaceXを含む大型AI関連IPOの連鎖が市場のAI熱を問う展開になると指摘。",
-      "category": "international"
-    },
-    {
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "title_ja": "Claude Fable 5 と Claude Mythos 5 を発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "date": "2026-06-09",
-      "summary": "AnthropicがOpus上位の新階層「Mythosクラス」の初公開モデル Claude Fable 5 と、限定提供版 Claude Mythos 5 を正式発表。Pro/Max/Team/Enterpriseで6/9〜6/22の無償提供、API/Bedrock経由は10/50ドル/100万トークン。サイバー・生物・化学・モデル蒸留など高リスク領域ではOpus 4.8にフォールバック。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "title_ja": "Anthropic Claude Fable 5 が AWS で提供開始、Mythosクラス機能と内蔵ガードレールが利用可能に",
-      "source": "AWS News Blog",
-      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
-      "date": "2026-06-09",
-      "summary": "AWSがAnthropicのMythosクラス新モデル Claude Fable 5 をAmazon Bedrockで即時提供開始したと発表。コーディング・知識業務・視覚タスクで最先端性能を発揮しつつ、高リスク領域ではOpus 4.8へ自動フォールバックする内蔵セーフガードを備える。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic released Claude Fable 5, its most powerful model publicly, days after warning AI is getting too dangerous",
-      "title_ja": "AnthropicがMythos版「Claude Fable 5」を公開、AIが危険になりすぎていると警告した直後の発表",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-      "date": "2026-06-09",
-      "summary": "Anthropicが「フロンティアAI開発の世界協調的な一時停止」を提唱した数日後に最も強力な公開モデル Claude Fable 5 をリリース。Mythosクラスの能力を持ちつつ、サイバー・生物分野で応答をブロックする安全策を内蔵し、より制約の少ないMythos 5は限定アクセス組織のみに提供。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic releases Mythos-like AI model to the public, Claude Fable 5",
-      "title_ja": "Anthropic、Mythos相当のAIモデル「Claude Fable 5」を一般公開",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
-      "date": "2026-06-09",
-      "summary": "CNBCはAnthropicが内部Mythosモデルと同等の能力を持つ Claude Fable 5 を一般公開したと報道。Opus 4.8の2倍の価格設定（入力10ドル/出力50ドル/100万トークン）で、Claude API・Amazon Bedrock経由で即日利用可能。安全策は会話の5%未満で起動するとAnthropicは説明。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic releases Fable 5, the first public Mythos-class model",
-      "title_ja": "Anthropic、初の公開Mythosクラスモデル「Fable 5」をリリース",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/security/fable-5-anthropic-release-public-mythos-claude-model-rcna349104",
-      "date": "2026-06-09",
-      "summary": "NBC NewsはAnthropicが初の公開Mythosクラスモデル Claude Fable 5 をリリースしたと報道。コーディング・科学研究・サイバーセキュリティ・自律業務でフロンティアレベルの性能を主張する一方、サイバー・生物・化学領域は強力なガードレールでブロックすると伝える。",
-      "category": "international"
     }
   ]
 }

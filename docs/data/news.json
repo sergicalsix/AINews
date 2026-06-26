@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-25 09:00 (JST)",
+  "lastUpdated": "2026-06-26 09:00 (JST)",
   "articles": [
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "date": "2026-06-26",
+      "summary": "OpenAIがGPT-5.6シリーズ(フラッグシップSol、汎用Terra、低コストLuna)の限定プレビューを正式発表。Solは過去最強のフロンティアモデルとし、Terminal-Bench 2.1で新SOTAを達成。新たに最大推論effortと複数サブエージェントを協調させる「ultra」モードを導入。サイバー・バイオ・コーディングのエージェント能力が大幅向上したが、米政府要請により当面はトランプ政権承認済みの約20社「trusted partners」限定で提供を開始する。Sol価格は$5/$30 (入力/出力1Mトークン)、Terra $2.5/$15、Luna $1/$6。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "date": "2026-06-26",
+      "summary": "TechCrunchが、OpenAIがGPT-5.6 Sol/Terra/Lunaの一般公開をトランプ政権の要請で見送り、当初は政府承認済みの少数顧客のみに限定すると報じた。OpenAI幹部は声明で「この種の政府承認プロセスが恒久的なデフォルトになるべきではない」と述べ、開発者・防御者・グローバルパートナーへの広範な提供を引き続き求める姿勢を強調した。同社は今後数週間で一般公開を目指すとしている。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "date": "2026-06-26",
+      "summary": "VentureBeatがGPT-5.6スイートを詳報。Solは長期エージェントタスクの50%を完遂し、コーディングで全社内モデルを超えるSOTAを達成。Terraは GPT-5.5並みの性能で価格半減、Lunaは過去最安帯。新「ultra」モードはマルチサブエージェント連携で複雑作業を加速。提供は政府承認済み約20社限定で開始し、来週以降に拡大予定。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+      "date": "2026-06-26",
+      "summary": "CNBCが、OpenAIがGPT-5.6の段階的提供に関する政府要請に応じ、トランプ政権承認済みの約20社を対象とする限定プレビューで開始したと報道。新モデルの高度なサイバー能力が国家安全保障上の懸念を招いたため、AnthropicのMythos/Fable 5輸出規制と同じ枠組みの下で運用される。OpenAIは段階的拡大を急ぎ、来週以降に対象拡張、数週間以内に一般提供を見込む。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI releases powerful new GPT-5.6 model under restrictions",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+      "date": "2026-06-26",
+      "summary": "AxiosがGPT-5.6 Sol/Terra/Lunaの公開と、トランプ政権の安全保障要請による「trusted partners」限定提供方針を報道。Solは過去最強・最も「危険度の高い」モデルでサイバー攻撃補助リスクから当面は政府クリアランス必須。OpenAIは「政府承認プロセスを恒久化すべきでない」と表明しつつ、Anthropic Mythos/Fable 5輸出規制と同方式の運用に応じた格好だ。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI agrees to stagger rollout of its most powerful model to only Trump-approved customers",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/26/what-just-happened-between-openai-sol-trump-licensing-clearance/",
+      "date": "2026-06-26",
+      "summary": "FortuneがGPT-5.6 Sol(過去最強のフロンティアモデル)を当面トランプ政権承認済み顧客にのみ提供する段階的ロールアウト合意を解説。AnthropicがMythos/Fable 5輸出規制を受けたのに続き、OpenAIも事実上のライセンス審査体制下に置かれ、米AI業界に「政府承認モデル提供」の新標準が形成されつつあると分析した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "date": "2026-06-26",
+      "summary": "CNBCが、企業ユーザーがコスト・効率重視に転換しトークン消費量の極大化(tokenmaxxing)から離脱しつつあると報道。OpenAI・Anthropic双方は近年の値下げペースが鈍化し、IPO申請を控える中で収益性確保が焦点に。Fable/MythosやGPT-5.6の輸出規制下でフロンティア提供が縮小する一方、企業は効率重視モデルの選好を強めるなど、AI市場の力学が変わりつつあると指摘した。",
+      "category": "international"
+    },
+    {
+      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
+      "source": "METR",
+      "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+      "date": "2026-06-26",
+      "summary": "AI安全評価機関METRがGPT-5.6 Solのデプロイ前評価結果を公表。OpenAIから事前提供されたモデルを用い、長期自律エージェント能力・サイバー攻撃補助・バイオ知識など複数の危険ドメインで体系的に評価。Solは前モデル比で長期タスク達成率が顕著に向上したが、依然として一部のシナリオで監督なし運用は推奨できないと総括し、緩和策と提供制限の重要性を強調した。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+      "date": "2026-06-26",
+      "summary": "MarkTechPostがGPT-5.6三層モデルとultra(マルチサブエージェント)・max reasoning effortモードを技術的に解説。SolはTerminal-Bench 2.1新SOTAなどコーディング・サイバーで顕著な改善を示し、Terraは性能・コストのバランス、Lunaは低レイテンシ向け。米政府の要請で初期は20社程度の限定プレビューで提供される。",
+      "category": "international"
+    },
     {
       "title": "How agents are transforming work",
       "source": "OpenAI",
@@ -8,6 +80,30 @@
       "date": "2026-06-25",
       "summary": "OpenAIが企業ユーザーのエージェント利用実態をまとめた最新レポートを公開。2025年11月比でリサーチ部門のエージェント利用は中央値で56倍、カスタマーサポート32倍、エンジニアリング27倍に急増したと報告。2026年5月時点で個人ユーザーの80.6%が「30分以上の人間労働」相当のCodexタスクを実行し、99パーセンタイルのパワーユーザーは1日60時間超のエージェント稼働時間を生成。ChatGPTでも非開発者ユーザーが2025年8月比137倍に増加し、エンタープライズではチャットボットからエージェントへの主役交代が進んでいると指摘。",
       "category": "company_blog"
+    },
+    {
+      "title": "White House asks OpenAI to limit its next model release",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
+      "date": "2026-06-25",
+      "summary": "CNN Businessが、ホワイトハウスがOpenAIに対し次期モデル(後にGPT-5.6と判明)の一般公開を遅らせ、政府承認済みの少数パートナーに限定するよう要請したと先行報道。Anthropic Mythos/Fable 5の輸出規制と同様、ワシントンとウォール街の懸念材料となっている高度なサイバー能力が引き金。OpenAIは「数週間以内」の一般公開を目指すとした。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAIの新型AI「GPT-5.6」、当初20社に限定提供 米政府要請で",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN262QQ0W6A620C2000000/",
+      "date": "2026-06-25",
+      "summary": "日経が、米OpenAIが発表予定の新型AIモデル「GPT-5.6」について、トランプ政権の要請で当初の提供先を約20社に限定すると25日に報道。一般提供までの間、利用には米政府の承認が必要になる。背景にはGPT-5.6の高度なサイバーセキュリティ・エージェント能力に対する安全保障懸念があり、AnthropicのMythos/Fable 5に続く事実上のライセンス制運用が連続する形となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Mistral Unveils OCR 4 for Enterprise Search, RAG and Document Processing",
+      "source": "AIwire (HPCwire)",
+      "url": "https://www.hpcwire.com/aiwire/2026/06/25/mistral-unveils-ocr-4-for-enterprise-search-rag-and-document-processing/",
+      "date": "2026-06-25",
+      "summary": "AIwire(HPCwire系列)がMistral OCR 4の登場をエンタープライズ検索とRAGパイプラインの観点で詳報。170言語サポート、ブロック分類とインライン信頼度、シングルコンテナでのオンプレ運用が特徴で、独立評価でwin rate 72%、OlmOCRBench 85.20を記録。Mistral API、Amazon SageMaker、Microsoft Foundryから即時利用可能と整理し、SOTAドキュメントAIの民主化が一段進んだと位置付けた。",
+      "category": "international"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -255,6 +351,31 @@
       "date": "2026-06-23",
       "summary": "霧の戦場下でLLM 2モデルが13×7マスで対戦する戦略ベンチマーク「Age of LLM」を提案。視界制限・外交メッセージ・厳格JSONスキーマ準拠の3ストレスを課し、推論・嘘・信頼性を同時評価。15モデル54試合のスナップショットを公開し、各モデルの認知ペルソナや嘘の発生パターンを比較分析した。",
       "authors": "Arnaud Ricci",
+      "category": "arxiv"
+    },
+    {
+      "title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "date": "2026-06-23",
+      "summary": "Mistral AIが構造認識型のドキュメントAI「OCR 4」を正式発表。170言語・10言語族をカバーし、段落ごとのバウンディングボックス、ブロック分類、信頼度スコアを抽出。OlmOCRBenchで85.20と全体トップ、独立評価者の選好でも平均勝率72%で主要OCRシステムを上回った。シングルコンテナで完全セルフホスト運用に対応し、機微データを外部クラウドに送れない規制業種を主ターゲットに据える。価格は1,000ページ$4(Batch-APIで$2)。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+      "date": "2026-06-23",
+      "summary": "VentureBeatがMistral OCR 4を「セルフホスト型エンタープライズAI」としての完成形と評価。ページ単位課金・バウンディングボックス・コンフィデンス出力に加え、Mistral API/Amazon SageMaker/Microsoft Foundryから利用可能。RAG・エージェント検索基盤の入力モジュールとして金融・医療・法務など機微データ業種への浸透を狙う。価格は$4/1,000ページ(Batch APIで半額)。",
+      "category": "international"
+    },
+    {
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.24530",
+      "date": "2026-06-23",
+      "summary": "Nature系論文90タスクから蒸留した分野横断ベンチマーク「NatureBench」を提案。コンテナ化された再現可能環境NatureGymを併用し、AIコーディングエージェントが「再現」を超えて「発見」に到達できるかを評価。フロンティアエージェント10構成を制約付きで評価した結果、g>0.1基準でSOTAを越えたのは最強モデルでも17.8%のタスクに留まり、エージェントの成功は「方法論翻訳」に依存し科学的発明に乏しいことが分かったと報告。",
+      "authors": "FrontisAI Team",
       "category": "arxiv"
     },
     {
@@ -894,6 +1015,15 @@
       "date": "2026-06-18",
       "authors": "To Eun Kim, Xuhong He, Dishank Jain, Ambuj Agrawal, Negar Arabzadeh, Fernando Diaz",
       "summary": "カーネギーメロン大学とUCバークレーの研究チームが、複数エージェントが生成した軌跡を集団レベルで共有・再利用する「Multi-Agent Transactive Memory (MATM)」フレームワークを提案。1回限りで破棄されがちな手続き的知識を共有メモリ化し、新規エージェントの立ち上げ性能を高める枠組み。",
+      "category": "arxiv"
+    },
+    {
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18394",
+      "date": "2026-06-18",
+      "summary": "推論加速の投機的デコーディングで、ヘッドベースのドラフター「JetSpec」を提案。並列ツリードラフトと因果条件付けを組み合わせ、低コストで多数の候補トークンを生成しつつパス間の依存関係を保持。GPU負荷の小〜中規模域でベースライン投機的デコーディングを一貫して上回り、現実的なサービング環境でのLLMレイテンシ削減効果を示した(vLLM統合実装も公開)。",
+      "authors": "Lanxiang Hu et al. (hao-ai-lab)",
       "category": "arxiv"
     },
     {
@@ -1615,149 +1745,6 @@
       "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "date": "2026-06-11",
       "summary": "Google DeepMindがSchmidt Sciences、Cooperative AI Foundation、英ARIA、Google.orgと共同で最大1000万ドル規模のマルチエージェントAI安全性研究助成プログラムを発表。サンドボックス・テストベッド、エージェントネットワーク科学、エージェントインフラ、監督・制御の4領域を対象に、8月8日まで世界中の研究者から応募を受け付ける。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "title_ja": "Google DeepMind、何百万ものAIエージェントが相互作用する将来に警鐘",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "date": "2026-06-11",
-      "summary": "MIT Technology Reviewが、Google DeepMindのマルチエージェント安全性公募の背景を解説。異なる組織が開発した何百万ものAIエージェントが取引・交渉・通信し合う近未来において、孤立したアライメント問題ではなく集合的ダイナミクス、創発的な誤動作、デマの伝播といったマルチエージェント特有のリスクが浮上することを警告している。",
-      "category": "international"
-    },
-    {
-      "title": "SpaceX blasts off with a record-breaking $75 billion IPO",
-      "title_ja": "SpaceX、史上最大750億ドル規模のIPOで上場",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
-      "date": "2026-06-11",
-      "summary": "SpaceXが6月11日に1株135ドルで価格決定、555,555,555株を売り出して750億ドルを調達し史上最大のIPOを記録。時価総額は約1.77兆ドルに達し、AIインフラ・衛星通信投資の競争激化を背景に、Muskが82%以上の議決権を保持したまま上場する。",
-      "category": "international"
-    },
-    {
-      "title": "Goal-Autopilot: A Verifiable Anti-Fabrication Firewall for Unattended Long-Horizon Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.11688",
-      "date": "2026-06-11",
-      "authors": "Various",
-      "summary": "長時間自律的に動くLLMエージェントが「成功した」と虚偽報告する“fabrication”問題に対処するため、各サブゴールに検証可能なポストコンディションを付与し、未検証成功をプロトコルレベルで不可能化するファイアウォール「Goal-Autopilot」を提案。シミュレーション環境でcatastrophicな虚偽報告率をほぼゼロに抑えたと報告する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI to acquire Ona",
-      "title_ja": "OpenAI、AIエージェント向けクラウド基盤Onaを買収へ",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-ona/",
-      "date": "2026-06-11",
-      "summary": "OpenAIが、AIエージェント向けの安全な永続クラウド実行環境を提供するOna（旧Gitpod）を買収すると発表。Codexが数時間〜数日に及ぶ長時間タスクを開発者のマシンを閉じても継続できるようになり、エンタープライズ向けのエージェント本番運用を強化する。Codexの週間アクティブユーザーは年初比+400%の500万人超に達したと公表した。買収はクロージング条件と規制承認次第。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI to Acquire Cloud Platform Ona to Support AI Agents",
-      "title_ja": "OpenAI、AIエージェント支援のクラウド基盤Onaを買収",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents",
-      "date": "2026-06-11",
-      "summary": "BloombergがOpenAIによるOna（旧Gitpod）買収計画を報道。Onaのサンドボックス型クラウド実行環境を活用し、Codexエージェントが長時間自律稼働する仕組みを統合する狙い。Anthropic優位とされるエンタープライズ・コーディング市場で反撃を図る一手と位置づけた。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
-      "title_ja": "OpenAI、コーディング助手CodexのためOnaを買収",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
-      "date": "2026-06-11",
-      "summary": "CNBCがOnaの技術内容を解説。事前構成済みクラウド環境とアクセス制御・監査ログを備え、米大手銀、欧州製薬、アジアの国富ファンドなど大規模顧客に導入実績がある。OpenAIはCodexの本番ワークフロー化を加速するために同社の永続実行・オーケストレーション基盤を取り込むと報じた。",
-      "category": "international"
-    },
-    {
-      "title": "Jeff Bezos' AI Startup Valued at $41 Billion in Funding Round",
-      "title_ja": "Jeff Bezos氏のAIスタートアップPrometheus、410億ドル評価で資金調達",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round",
-      "date": "2026-06-11",
-      "summary": "BloombergがJeff Bezos氏共同創業の産業AIスタートアップPrometheusが120億ドルのシリーズBを調達し評価額410億ドルに達したと報道。投資家にはJPMorgan、Goldman Sachs、BlackRock、Bezos氏本人が含まれる。設計・製造ワークフローを10倍以上に加速する「人工汎用エンジニア」の構築を目指す。",
-      "category": "international"
-    },
-    {
-      "title": "Prometheus, the industrial AI startup from Jeff Bezos, is now worth $41 billion",
-      "title_ja": "Bezos氏の産業向けAI、Prometheus評価額410億ドルに",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai",
-      "date": "2026-06-11",
-      "summary": "Axiosが、ジェット機エンジン・チップ・橋梁・医薬品分子など物理製品の試作からチューニングまでをAIで自動化する『フィジカルAI』への巨額ベットとしてPrometheusを位置づけ。元Verily共同創業者Vik Bajaj氏との共同CEO体制、約150名の従業員と累計180億ドル調達体制を解説した。",
-      "category": "international"
-    },
-    {
-      "title": "Bezos' AI startup Prometheus raises $12B at $41B valuation",
-      "title_ja": "Bezos氏のPrometheus、120億ドル調達 評価額410億ドル",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation-and-the-ceos-explain-what-theyre-doing/",
-      "date": "2026-06-11",
-      "summary": "GeekWireがBezos氏とBajaj氏の発言を引用し、『推力10%増のジェットエンジン開発に通常10年を要する複雑性』をAIで圧縮するというPrometheusの狙いを詳述。LLMの言語タスクではなく、CADや実験プロトコル・材料データを跨いだエンジニアリング最適化を志向する点が他のフロンティアAI企業との差別化要因と整理した。",
-      "category": "international"
-    },
-    {
-      "title": "イトーキ、AIエージェントとの連携でオフィス運用を最適化する「ITOKI OFFICE DEVICES」を開発",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000657.000032317.html",
-      "date": "2026-06-11",
-      "summary": "イトーキは6月11日、家具連動センサーでオフィスの実利用データを取得しAIで運用最適化するデバイス群『ITOKI OFFICE DEVICES』を発表。本社12階の会議室5室にOffice Box、ソロ席18席にOffice Sensorをプロトタイプ実装。取得データは2026年2月発表の『ITOKI OFFICE AI AGENTS』（Facility Portfolio AI / Workplace Insight AI / Space Matching AI）や会議室予約システム『Reserve Any』と連携し、空間最適化と利用利便性向上に活用する。",
-      "category": "japan"
-    },
-    {
-      "title": "Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.12854",
-      "date": "2026-06-11",
-      "authors": "Gaurav Kumar",
-      "summary": "QLoRAでMistral-7BをSciFact/HealthVerの生物医学クレーム検証データセットでファインチューニングし、わずか1,008件の学習サンプルでGPT-4o・GPT-5を最大+12 F1ポイント上回ったと報告。SciFactに含まれる構造的データセットショートカットを特定し、構造的に健全なデータで学習することでクロスドメイン転移が頑健になることを示した。コスト効率の高い小型LLM活用の有力な事例。",
-      "category": "arxiv"
-    },
-    {
-      "title": "VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.11079",
-      "date": "2026-06-11",
-      "authors": "Various",
-      "summary": "AIエージェント評価向けの汎用的なユーザシミュレーションツールキット『VISTA』を提案。UIベース操作とAPIベース操作の双方を統合したハイブリッドユーザシミュレータを開発し、エージェントの長期対話・タスク遂行能力を再現性高く評価できるようにする。既存のシングルモード評価では捉えにくかった失敗モードを暴露できると示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive Problem Diagnosis",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.13220",
-      "date": "2026-06-11",
-      "authors": "Anonymous et al.",
-      "summary": "曖昧な問題説明に対し、仮説生成・的を絞った追加質問・回答後の仮説確率更新を反復する『Solution Investigator Agent』を提案。証拠優先で対話的に問題診断を進める枠組みで、ユーザーの初期記述が不完全な実運用シナリオにおける堅牢な問題解決を目指す。エビデンスファースト推論をエージェントワークフローに組み込む方向性を示した研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "SoftBank's Attempt to Get $6 Billion OpenAI Margin Loan Stalls",
-      "title_ja": "ソフトバンクのOpenAI株担保60億ドルマージンローン交渉が停滞",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls",
-      "date": "2026-06-10",
-      "summary": "ソフトバンクGがOpenAI株を担保に少なくとも60億ドルを調達するマージンローン交渉が停滞していると報道。当初目標100億ドルから既に減額しており、AI投資を支える資金調達ルートの難航が露呈。後日再開の可能性も残るとされる。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Deep Dive, June 10: The 550B Free Model That Makes Self-Hosted AI Enterprise Real",
-      "title_ja": "AIニュース詳細解説（6月10日）: 自社運用エンタープライズAIを現実にする550Bの無償モデル",
-      "source": "Asanify",
-      "url": "https://asanify.com/blog/news/self-hosted-ai-enterprise-june-10-2026/",
-      "date": "2026-06-10",
-      "summary": "NVIDIAが商用許諾付きで公開した550Bパラメータの Nemotron 3 Ultra（MoEで実効55Bアクティブ）が、自社運用エンタープライズAIを現実にした6月10日のAI業界動向を整理。Artificial Analysis Intelligence Indexで47.7と米国製オープンウェイトモデル最高スコアを記録した点を解説。",
-      "category": "international"
-    },
-    {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "title_ja": "OpenAI、Oracleクラウド契約枠でOpenAIモデルとCodexを利用可能に",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-on-oracle-cloud/",
-      "date": "2026-06-10",
-      "summary": "OpenAIとOracleが提携し、Oracle Cloud Infrastructure（OCI）の既存のUniversal Credits枠を使ってOpenAIの最先端モデルとCodexを購入できるようにすると発表。今後数週間で順次提供を開始し、企業は新たな調達フローを作らずに既存のクラウド契約・ガバナンス内でAI導入を進められるようになる。",
       "category": "company_blog"
     }
   ]

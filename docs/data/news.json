@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-06-27 09:00 (JST)",
+  "lastUpdated": "2026-06-28 09:00 (JST)",
   "articles": [
+    {
+      "title": "Kioxia's AI Boom Creates 600 'Billion-Yen' Employees as Stock Surges",
+      "title_ja": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
+      "date": "2026-06-28",
+      "summary": "半導体大手キオクシアの株価がAI向けNANDフラッシュ需要急増で年初来高値の11万2000円に到達し、ベインキャピタル買収時に部長・課長級にも付与されたストックオプションにより約600人の社員が10億円超の資産を手にする見込みとなった。AI時代の富の新たな分配構造を象徴する事例として注目を集めている。",
+      "category": "japan"
+    },
+    {
+      "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+      "date": "2026-06-28",
+      "summary": "香港の株式調達額は2026年上半期に約440億ドルとなり、前年比29%増で5年ぶり高水準を記録。中国AIモデル企業Zhipuが上場後約2000%上昇するなど、AI投資への熱狂が市場全体を押し上げた。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Mac Price Hikes Caused by Memory Chip 'RAM-ageddon' Driven by AI Demand",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/",
+      "date": "2026-06-28",
+      "summary": "AIデータセンター需要によるメモリチップ不足「RAM-ageddon」がPC業界全体を直撃し、Appleですら値上げを回避できない事態に。MacBookやiPadは20%以上の値上げとなり、夏のPC価格高騰の構図を解説している。",
+      "category": "international"
+    },
     {
       "title": "Japan government to invest 10.5 trillion yen in Physical AI by 2040 as part of 370 trillion yen public-private strategy",
       "title_ja": "フィジカルAIに10.5兆円 戦略17分野への官民投資370兆円、40年度まで",
@@ -51,6 +76,65 @@
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "date": "2026-06-27",
       "summary": "TechCrunchが、Anthropic Mythos/Fable 5の輸出規制継続を受け、アジアのAIスタートアップが代替フロンティアモデルを相次ぎ投入していると報道。中国サイバーセキュリティ企業360のTulongfengと、東京のSakana AIのFugu(エージェント向け)が「Fable 5・Mythos Preview並み」と謳ってMythos後の空白を埋めにかかった。Sakanaは「タイミングはまったくの偶然」と説明しつつ「輸出規制リスクなしのフロンティア性能」と訴求し、規制が逆に非米国モデルへの需要を生む構図が鮮明に。",
+      "category": "international"
+    },
+    {
+      "title": "Sony Says aibo Will Continue, Next-Generation Model in Development",
+      "title_ja": "ソニー「aiboはやめません」次世代機の開発も明らかに",
+      "source": "ITmedia Mobile",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
+      "date": "2026-06-27",
+      "summary": "ソニーは6月27日のYouTube特別配信で、現行aibo（ERS-1000）の国内販売終了は事業撤退ではないと明言。次世代機の開発が既に進んでおり、ソニーグループが注力するフィジカルAI（現実世界を制御するAI）の中核と位置付ける方針を示した。",
+      "category": "japan"
+    },
+    {
+      "title": "Masayoshi Son Eyes TEPCO Investment to Bring AI Data Centers to Japan",
+      "title_ja": "孫正義氏、東電出資に意欲 「国内AIデータセンター誘致」狙うインフラ戦略",
+      "source": "ITmedia ビジネスオンライン",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+      "date": "2026-06-27",
+      "summary": "ソフトバンクグループの孫正義会長兼社長が株主総会で、東京電力HDへの出資に意欲を示した。提携が実現すれば電力供給を増やし、米中に後れを取る日本国内へのAIデータセンター誘致と国内AI開発競争力の強化を進める構想を明らかにした。",
+      "category": "japan"
+    },
+    {
+      "title": "Hakuhodo to Launch Ad Service Blocking AI Bots to Curb 14 Trillion Yen Click Fraud",
+      "title_ja": "博報堂、AIの広告クリック水増しを防ぐ新会社設立 「人へのなりすまし閲覧」を排除",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC105FR0Q6A610C2000000/",
+      "date": "2026-06-27",
+      "summary": "博報堂DYホールディングスが、人になりすましたAIによるアドフラウド対策として、生体認証済みの人間のみに広告を配信する新会社を立ち上げると報じられた。世界で年14兆円規模に達するAIボットによる広告クリック水増し被害の抑止を狙う。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic's Mythos 5 AI Model Cleared by U.S. for Wider Use",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable/",
+      "date": "2026-06-27",
+      "summary": "米商務省はAnthropicの最強サイバーセキュリティモデル「Claude Mythos 5」の輸出規制を一部解除し、政府機関を含む100以上の米国企業・組織への提供を認可した。ただし関連モデル「Fable 5」は依然として制限下にある。",
+      "category": "international"
+    },
+    {
+      "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+      "date": "2026-06-27",
+      "summary": "トランプ政権はAnthropicの主力モデル「Fable 5」の輸出規制を来週にも解除する見通しと報じられた。6月12日以降オフライン状態が続いており、再開には国防総省とNSAの最終承認が必要となる。",
+      "category": "international"
+    },
+    {
+      "title": "Apple, Microsoft Raise iPad, Xbox Prices as AI Demand Drives Costs Higher",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess",
+      "date": "2026-06-27",
+      "summary": "AIブームに伴うデータセンター向け需要急増でメモリチップが歴史的不足となり、AppleとMicrosoftが同日5時間以内にMac、iPad、Xboxの値上げを発表。MacBook Airは1099ドルから1299ドルへ、Xboxは100〜150ドル値上げされる。",
+      "category": "international"
+    },
+    {
+      "title": "Wall Street Bets Billions on Power Firms as AI Boom Drives IPO Rush",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
+      "date": "2026-06-27",
+      "summary": "AIデータセンターの電力需要急増を受け、2026年に少なくとも10社の電力インフラ・クリーンテック企業が上場し、合計116億ドル超を調達。地熱発電のFervo Energyを含むセクター過去最高となった。米国データセンター需要は2030年までに77GWに達する見通し。",
       "category": "international"
     },
     {
@@ -289,6 +373,24 @@
       "date": "2026-06-25",
       "authors": "R. Alexander Bentley, Blai Vidiella, Damian J. Ruck, Senjuti Dutta, Kai Li, Sergi Valverde",
       "summary": "2010年から2025年までのarXiv論文の抄録数百万件を複雑系科学の観点から分析し、LLMが言語生態系に与える微妙な影響を調査。2023年以降、LLM関連スタイル指数が急上昇する一方、ZipfやHeapsの法則の指数の変化は微小であることを発見。混合された人間-LLMテキストデータによる学習の影響を考察。",
+      "category": "arxiv"
+    },
+    {
+      "title": "In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.26981",
+      "date": "2026-06-25",
+      "authors": "Xiaomeng Fu, Junfan Lin, Yang Liu, Yaowei Wang, Guanbin Li, Liang Lin, Ziliang Chen",
+      "summary": "LLMをプランナーとして用いてテキスト命令を分解し、モーションシーケンスを生成する手法を提案。シミュレーションされた物理環境と入力意味の双方に適応するクローズドループ修正機構により、オープン語彙のモーション合成を実現した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27330",
+      "date": "2026-06-25",
+      "authors": "Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao",
+      "summary": "小規模オープンソースMLLMの計画能力とサイト間汎化を強化するPEEU手法を提案。自律的に環境を探索して経験を獲得し、ヒンドサイト経験を活用して高品質な学習データを合成する。ACL 2026 Mainに採択。",
       "category": "arxiv"
     },
     {
@@ -1628,113 +1730,6 @@
       "date": "2026-06-15",
       "summary": "Sakana AIが初の商用プロダクト『Sakana Marlin』を6月15日に提供開始。独自探索アルゴリズム『AB-MCTS』とOpenAI o4-mini／Gemini 2.5 Pro／DeepSeek R1-0528などのマルチLLM協調により、最大8時間自律で調査して60〜100ページのレポートとスライドを生成する『仮想CSO』型エージェント。4月から金融機関・コンサル等約300名のクローズドβを経ての正式版で、Sakana AIの本格商用化第一歩となる。",
       "category": "japan"
-    },
-    {
-      "title": "Sakana AI、初の商用サービスはリサーチ特化 「Deep Research」との違いは？",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000085/",
-      "date": "2026-06-15",
-      "summary": "Sakana AIが初商用サービスとして戦略リサーチ特化型エージェント『Sakana Marlin』をローンチした背景を、CEO・David Ha氏らへの取材を交えて解説。OpenAIの『Deep Research』とは異なり、汎用ベンチマークを追わず特定業務（経営企画・市場調査）の上流工程置換に振り切った『後発戦略』を採用。日本独自のドメイン特化アプローチとして注目される。",
-      "category": "japan"
-    },
-    {
-      "title": "Introducing Sakana Marlin",
-      "title_ja": "Sakana AI、初の商用プロダクト『Sakana Marlin』提供開始",
-      "source": "Sakana AI",
-      "url": "https://sakana.ai/marlin-release/",
-      "date": "2026-06-15",
-      "summary": "Sakana AIが公式ブログで初の商用製品『Sakana Marlin』のローンチを発表。独自探索アルゴリズムAB-MCTSと複数LLMの動的協調を組み合わせた『仮想CSO』型ディープリサーチエージェントで、戦略立案や市場調査の上流工程を最大8時間で自律遂行できる。4月開始のクローズドβに300名超の専門職が参加した実績を公開している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.16811",
-      "date": "2026-06-15",
-      "authors": "Anonymous et al.",
-      "summary": "最小限のラベル付きデータからLLMの推論能力をスケールさせる半教師あり学習フレームワークを提案。軽量な検証器を用いて推論検証そのものをデータ生成メカニズムに変え、ラベル枯渇下でも推論RLが学習を継続できる構造を示した。RLVRの実用化に向けたラベル効率化の方向性を示す研究で、推論モデルの低コスト・継続的改善を目指す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Trump administration reignites its feud with Anthropic over latest AI models",
-      "title_ja": "NYT/Inquirer：トランプ政権、最新AIモデルめぐりAnthropicとの対立を再燃",
-      "source": "The Philadelphia Inquirer (via NYT)",
-      "url": "https://www.inquirer.com/news/nation-world/anthropic-trump-administration-pentagon-fable-mythos-deny-foreign-access-amodei-lutnick-20260614.html",
-      "date": "2026-06-14",
-      "summary": "The Philadelphia Inquirer掲載のNYT記事が、トランプ政権とAnthropicの関係悪化の経緯を総括。両者は数か月間、AnthropicのAIシステムを軍事・諜報用途に使うことについて対立してきたが、Pentagon側がAnthropicを『サプライチェーンリスク』と認定するに至り対立が深刻化。Fable 5/Mythos 5の輸出管理指令はその延長線上にある政治的措置であり、土曜夜にもラトニック商務長官とAnthropic幹部の交渉が継続予定。AI企業と政府の安全保障観のずれが米国AI政策の最大の論点として浮上している。",
-      "category": "international"
-    },
-    {
-      "title": "US asks Anthropic to block global access to top AI models: Why it matters",
-      "title_ja": "Al Jazeera解説：米政府がAnthropicに最上位AIの全世界アクセス遮断要求、その意味とは",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
-      "date": "2026-06-14",
-      "summary": "Al Jazeeraが、米国によるAnthropicへの全世界アクセス遮断要請の地政学的意義を解説。半導体や暗号技術と同様にフロンティアAIモデルが『デュアルユース技術』として輸出管理体制に組み込まれ、米中AI覇権競争が新たな段階に入ったと分析。欧州・中東・アジアのAI企業や政府が米国製AIへの依存リスクを再評価する契機となり、Mistralの200億ユーロ評価額調達やUAE・サウジのソブリンAI投資加速の文脈と結び付けて報じている。",
-      "category": "international"
-    },
-    {
-      "title": "Scoop: Anthropic flies staff to D.C. to clean up White House fight",
-      "title_ja": "Axios独自：Anthropic、ホワイトハウスとの対立収束へ技術スタッフをワシントンに派遣",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
-      "date": "2026-06-14",
-      "summary": "Axiosが独自取材で、AnthropicがFable 5/Mythos 5の輸出管理指令を受け、シニア技術スタッフをワシントンD.C.に派遣しトランプ政権との直接交渉に入ったと報道。同社は12日金曜のホワイトハウスからの初動連絡以降、すでにバーチャル会合を重ねており、両者とも『早期解決を望んでいる』と関係筋。Anthropicは『モデルは安全に制御可能であり、米国の防衛セクターやインフラ事業者にとってむしろ不可欠なツールだ』と訴えているが、政府側は具体的な国家安全保障上の懸念内容を依然開示していない。",
-      "category": "international"
-    },
-    {
-      "title": "A warning from Amazon led the White House to shut down Anthropic's Mythos model",
-      "title_ja": "Fortune：Amazonからの警告がホワイトハウスをAnthropic Mythos停止に動かした",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/14/how-a-warning-from-amazon-led-the-white-house-to-shut-down-anthropics-mythos-model/",
-      "date": "2026-06-14",
-      "summary": "Fortuneが、Anthropic Fable 5/Mythos 5への輸出管理指令の発端を取材で明らかにした記事。Amazon CEOアンディ・ジャシーが木曜夜、財務長官スコット・ベセントら政権高官に対し、『Amazonの研究者がプロンプト工夫でFable 5のガードレールを部分的に突破し、サイバー攻撃に転用可能な情報を引き出した』というレポートを共有したのが直接の引き金。Amazonが政府要請でテストしていたのか、独自判断だったのかは不明。ホワイトハウスはこれを受け緊急会合を招集、商務省を通じた輸出管理発動に至った。",
-      "category": "international"
-    },
-    {
-      "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち",
-      "title_ja": "ITmedia：Amazon、Anthropic最新AIの懸念を米政権に事前報告──停止命令の引き金に",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
-      "date": "2026-06-14",
-      "summary": "ITmedia NEWSが、米政権によるAnthropic Fable 5/Mythos 5外国人アクセス禁止令の背景を整理。Amazonの研究者がFable 5に特定の方法でプロンプトを与え、サイバー攻撃に転用可能な脆弱性情報を引き出すことに成功した結果、Amazon CEOアンディ・ジャシーがベセント財務長官ら高官にレポートを共有。これを受けホワイトハウスが対応協議を開始し、商務省輸出管理指令の発出に至った。Anthropic自身も『モデルの安全ガードレールを迂回する手法がある』と政府から通知されていたが、その後の対応が間に合わなかった経緯を日本語で伝えている。",
-      "category": "japan"
-    },
-    {
-      "title": "LLM Judges Have Dark Current: A Psychometric Datasheet for LLM-as-a-Judge Evaluation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.15610",
-      "date": "2026-06-14",
-      "authors": "Anonymous (cs.CL)",
-      "summary": "LLM-as-a-judgeが見せる安定した選好行動の背後に潜む『暗電流』──位置バイアスや表層応答に偽装された嗜好──を心理計量的に可視化するデータシートを提案。ケーススタディとしてLlama-3.1-8Bを評価し、高い暗電流とプレゼンテーション衝突挙動を確認。LLM評価系の信頼性を担保するための実用的な診断ツールキットとして位置付ける。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Service-Induced Congestion in Memory-Constrained LLM Serving",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.15555",
-      "date": "2026-06-14",
-      "authors": "Anonymous (cs.DC/cs.LG)",
-      "summary": "LLMサービングにおけるKVキャッシュ蓄積が高並行下で内発的なメモリ逼迫を生み、エビクションと再実行の連鎖でスループットを毀損する現象を定式化。連続バッチング下の受付・メモリ成長・退避を捉える離散時間動的モデルを構築し、サービス自身が将来の輻輳を生む『サービス誘発輻輳』を理論的に説明。安定運用のための新たな受付制御ポリシーを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "title_ja": "Anthropic公式声明：米政府指令によりFable 5とMythos 5のアクセスを停止",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "date": "2026-06-13",
-      "summary": "Anthropicが6月12日17:21 ET（日本時間13日朝）に米商務省から国家安全保障に基づく輸出管理指令を受領し、Claude Fable 5とMythos 5へのアクセスを全ユーザー向けに即時停止したと公式発表。指令は『外国人国民への提供』を禁じる内容で、リアルタイムで利用者の国籍を判別できないため全アカウントを対象とせざるを得なかったと説明。同社は『政府は不適切な配備を差し止める権限を持つべきだが、それは法的根拠と技術的事実に基づく透明・公平なプロセスでなければならず、今回はその原則に反する』と批判し、可及的速やかな復旧を目指す姿勢を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access",
-      "title_ja": "Anthropic、米政府の外国人アクセス禁止令を受けFable・Mythosを全面停止",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
-      "date": "2026-06-13",
-      "summary": "Fortuneが、Anthropicが米商務省の輸出管理指令を受けFable 5とMythos 5を全世界で停止した件を詳報。指令は外国人ユーザーへの提供を国家安全保障上の理由で禁止する内容で、Anthropicは『米国ユーザーと外国人ユーザーをリアルタイムに区別できない』ため全顧客を対象に遮断した。両モデルは6月9日にリリースされたばかりで、商用展開からわずか3日でのシャットダウンとなる。Opus 4.8など他のClaudeモデルは引き続き利用可能。",
-      "category": "international"
     }
   ]
 }

@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-28 09:00 (JST)",
+  "lastUpdated": "2026-06-29 09:00 (JST)",
   "articles": [
+    {
+      "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
+      "title_ja": "HP、OpenAIと「Frontier」戦略的パートナーシップを開始 — 顧客体験と社内業務を全面的にAI化",
+      "source": "HP Newsroom",
+      "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/open-ai-partnership.html",
+      "date": "2026-06-29",
+      "summary": "HPはOpenAIとの戦略的パートナーシップ「Frontier」の正式開始を発表した。2026年2月から続けた評価期間を経て、HPの顧客接点・テレメトリ分析・従業員生産性・ソフトウェア開発の各領域にFrontierプラットフォームを横断導入する。先行検証では1人のエンジニアが数週間で43プロジェクト・122 PRを処理、セキュリティチームは1か月相当の脆弱性対応を1日に短縮しており、HPは初の主要グローバル企業としてFrontier採用を打ち出す。",
+      "category": "international"
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "title_ja": "OpenAI公式ブログ：HPと「Frontier」戦略提携を開始",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership/",
+      "date": "2026-06-29",
+      "summary": "OpenAIは公式ブログでHPとの「Frontier」プラットフォーム提携を発表。Frontierは2026年2月から両社が共同評価してきたエンタープライズAI基盤で、HPの顧客向け体験・テレメトリ分析・社員生産性・ソフトウェア開発の各領域に展開される。OpenAIは「FrontierでHPの仕事の仕方そのものを再設計する」とコメントし、HPをFrontierを採用する最初の大手グローバルエンタープライズの1社と位置付けた。",
+      "category": "company_blog"
+    },
+    {
+      "title": "ElevenLabs and NTT DOCOMO BUSINESS Begin Collaboration on Natural Voice AI for Contact Center Operations",
+      "title_ja": "イレブンラボとNTTドコモビジネス、自然な音声AIを用いたコンタクトセンター応対の実現に向けた協業を開始",
+      "source": "共同通信PRワイヤー",
+      "url": "https://kyodonewsprwire.jp/release/202606271620",
+      "date": "2026-06-29",
+      "summary": "イレブンラボジャパンとNTTドコモビジネスは、自然な音声AIによるコンタクトセンター応対の高品質化に向けた協業を開始した。NTTドコモ・ベンチャーズの出資・連携支援を背景に、イレブンラボの音声生成・音声理解プラットフォームとNTTドコモビジネスの「docomo business ANCAR」等のコンタクトセンター運用知見を組み合わせ、応対品質と業務効率を両立する仕組みを共同検証する。",
+      "category": "japan"
+    },
+    {
+      "title": "Suno launches 'Spark' grant program for indie artists, but contract bars criticism of Suno",
+      "title_ja": "音楽生成AI「Suno」、インディーアーティスト支援プログラム「Spark」発表 — 条件に「Sunoを批判しない」「集団訴訟参加しない」条項",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260629-suno-incubator-program-spark/",
+      "date": "2026-06-29",
+      "summary": "AI音楽生成サービスSunoが、インディーズ系の歌手・作詞家・プロデューサー向けに助成金・マーケティング支援・ソングライティングキャンプを提供する新プログラム「Spark」を発表。一方で参加契約には「Suno・関係者・製品を中傷しない（Good Vibes Only条項）」「Sunoに対する集団訴訟への参加権を放棄する」などの条項が含まれ、SZAやDoja Catら著名アーティストのAI批判が広がる中、自由な言論を犠牲にした囲い込みではないかと批判が出ている。",
+      "category": "international"
+    },
     {
       "title": "Kioxia's AI Boom Creates 600 'Billion-Yen' Employees as Stock Surges",
       "title_ja": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色",
@@ -25,6 +61,15 @@
       "date": "2026-06-28",
       "summary": "AIデータセンター需要によるメモリチップ不足「RAM-ageddon」がPC業界全体を直撃し、Appleですら値上げを回避できない事態に。MacBookやiPadは20%以上の値上げとなり、夏のPC価格高騰の構図を解説している。",
       "category": "international"
+    },
+    {
+      "title": "OpenAI Limits Next-Gen 'GPT-5.6' to Trusted Partners at US Government's Request, Calls Restrictions 'Not the Permanent Norm'",
+      "title_ja": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+      "date": "2026-06-28",
+      "summary": "OpenAIは次世代モデル「GPT-5.6」シリーズ（Sol/Terra/Luna）を米政府の要請を受けて、信頼できるパートナー組織に限定してプレビュー提供する。SolはAPIで100万トークンあたり入力$5/出力$30と最高性能を提供する一方、Terraは$2.50/$15、Lunaは$1/$6と価格帯を分け、一般提供（GA）は数週間以内を予定。OpenAIは「ライセンス制の限定提供は恒久的な標準にすべきでない」と懸念を表明し、Cerebras上でSolを毎秒750トークン提供する計画も明らかにした。",
+      "category": "japan"
     },
     {
       "title": "Japan government to invest 10.5 trillion yen in Physical AI by 2040 as part of 370 trillion yen public-private strategy",
@@ -326,6 +371,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Cainz tests generative AI image 'fitting' for in-store interior products to boost sales — accuracy and efficiency challenges remain",
+      "title_ja": "カインズが画像AIで売上UP模索、店頭でのインテリア\"試着\"をテスト 立ちはだかる「正確性と効率」の壁：AWS Summit Japan 2026",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html",
+      "date": "2026-06-26",
+      "summary": "ホームセンター大手カインズは、生成AIで部屋の写真にカーテン・ラグ・キャットタワーなどのインテリア商品を合成する店頭サイネージ「CAINZ Fitting Room」をAWS Summit Japan 2026で公開した。現在はカインズが用意したデモ部屋画像を使う段階だが、将来的に顧客自身の部屋画像での合成を目指す。生成精度・処理効率の壁を越えるべく一部店舗で実証実験を継続している。",
+      "category": "japan"
+    },
+    {
       "title": "How agents are transforming work",
       "source": "OpenAI",
       "url": "https://openai.com/index/how-agents-are-transforming-work/",
@@ -391,6 +445,23 @@
       "date": "2026-06-25",
       "authors": "Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao",
       "summary": "小規模オープンソースMLLMの計画能力とサイト間汎化を強化するPEEU手法を提案。自律的に環境を探索して経験を獲得し、ヒンドサイト経験を活用して高品質な学習データを合成する。ACL 2026 Mainに採択。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Suno Launches 'Spark,' New Incubator Program for Independent Artists",
+      "source": "Variety",
+      "url": "https://variety.com/2026/music/news/suno-spark-incubator-program-for-independent-artists-1236790684/",
+      "date": "2026-06-25",
+      "summary": "音楽生成AI Sunoが独立系アーティスト向けインキュベーター「Spark」を発表。18歳以上の自主リリース活動を行う歌手・作詞家・プロデューサーが対象で、数千〜数万ドル規模の助成、マーケティング費用、ソングライティングキャンプ招待、作品フィードバックが提供される。アーティストは作品の創作・商用権を保持し、配信先も自由に選択できる。$4億のシリーズD調達直後の発表となった。",
+      "category": "international"
+    },
+    {
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "date": "2026-06-25",
+      "authors": "Vedant Patel",
+      "summary": "長期マルチセッション会話で事実が更新される場面（住所変更・価格改定・計画変更など）でのLLMエージェントの「メモリ更新ギャップ」を定量化した論文。LongMemEvalの更新サブセットで、フロンティアモデル（gpt-5.4）でもフル文脈の92%から制限メモリ環境では77%に精度が落ち、ボトルネックはメモリ保持メカニズムにあると指摘。古い情報を罰し新情報を報酬化する強化学習環境「Supersede」をオープン公開し、Qwen2.5-3BをGRPOファインチューニングすると更新質問の精度が9.0%→16.7%へほぼ倍増することを示した。",
       "category": "arxiv"
     },
     {
@@ -1324,6 +1395,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Benchmarking Agentic Review Systems",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19749",
+      "date": "2026-06-18",
+      "authors": "Anonymous (arXiv submission)",
+      "summary": "学術論文の査読プロセスにかかる負荷を緩和するために開発が進む「Agentic Review Systems（査読エージェント）」を体系的に評価するベンチマーク。査読の網羅性・誤検出率・推論の質・専門家評価との一致度などを多軸で測定し、フロンティアLLMをコアにした査読エージェント群の現実的な強みと限界を可視化した。",
+      "category": "arxiv"
+    },
+    {
       "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
       "title_ja": "VentureBeat：Weiboの30億パラメータ『VibeThinker-3B』がベンチマーク論争を再燃",
       "source": "VentureBeat",
@@ -1465,6 +1545,15 @@
       "date": "2026-06-17",
       "authors": "Linus Sander, Habtom Kahsay Gidey, Alexander Lenz, Alois Knoll",
       "summary": "ミュンヘン工科大学のチームが、急速に分散化が進むLLMマルチエージェントシステム間の通信プロトコルを体系的に分類する技術的タクソノミーを提案。Agent2Agent等の既存プロトコルを通信モデル、メッセージング、セマンティクスなどの軸で整理し、堅牢な分散エージェントネットワーク構築の指針を示す。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Diffusion Language Models: An Experimental Analysis",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.19475",
+      "date": "2026-06-17",
+      "authors": "Thomas Bertolani, Davide Bucciarelli, Leonardo Zini, Marcella Cornia, Lorenzo Baraldi",
+      "summary": "自回帰LLMの代替として注目される拡散言語モデル（DLM）の8モデル・8ベンチマーク横断比較を行った実験的サーベイ論文。推論・コーディング・翻訳・知識・構造化問題解決の各タスクで、品質と推論コストの両軸からトレードオフを評価。評価プロトコルやハイパーパラメータの違いで先行研究の比較が困難だった状況を整理し、DLMの実用領域を明確にした。",
       "category": "arxiv"
     },
     {
@@ -1641,95 +1730,6 @@
       "date": "2026-06-15",
       "summary": "Axiosが、Anthropic幹部・トランプ政権関係者双方の証言を取材し、Fable 5/Mythos 5輸出管理に至った根本要因は『技術的な脅威』というより両者のコミュニケーション不全と人間関係の悪化だったと報道。Anthropicが直近の連邦サイバーセキュリティ大統領令への対応で『誠実さに欠ける』とみなされたこと、起用したセキュリティ専門家がトランプ陣営に『過激派民主党員』と認識される人物だったこと、その後同氏がChris Krebs元CISA長官に称賛され関係がさらに悪化したことなどが背景。今週中に商務省・CIA・ホワイトハウス科学顧問とAnthropicエンジニアの会合が予定されているが、米国限定アクセス容認や部分的制限緩和の可能性はまだ示されていない。",
       "category": "international"
-    },
-    {
-      "title": "Anthropic to meet with Trump administration over Mythos dispute",
-      "title_ja": "CNBC：AnthropicがMythos対応でトランプ政権と直接会談予定",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
-      "date": "2026-06-15",
-      "summary": "CNBCが、AnthropicがFable 5・Mythos 5輸出管理指令を受け、商務長官ハワード・ラトニック、サイバー長官ショーン・ケアンクロスらと対面会合に臨むと報道。土曜の打ち合わせには両長官が参加し、Amazon CEOアンディ・ジャシーが財務長官スコット・ベセントに警告を上げた経緯も明らかに。Anthropicは『政府は安全でないAI展開を停止する権限を持つべきだが、それは透明で技術的根拠のある法定プロセスで行うべきで、今回の措置はその原則に反する』と批判している。",
-      "category": "international"
-    },
-    {
-      "title": "Alex Stamos, cybersecurity leaders push Trump to restore Anthropic Mythos and Fable access",
-      "title_ja": "Axios：Alex Stamosらサイバーセキュリティ業界100人、Mythos/Fable停止解除を政権に要求",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin",
-      "date": "2026-06-15",
-      "summary": "Axiosが、元Facebook最高セキュリティ責任者Alex Stamos（現Corridor CPO）を筆頭に、Nvidia・Adobe・Zoom・Google・Sophos・Anaplan等の現役CISOやセキュリティ研究者ら約100名がトランプ政権宛の公開書簡に署名し、Anthropic Fable 5/Mythos 5の輸出管理解除を求めたと報道。書簡は『この措置は最高性能のモデルを防御側から奪い、市場の不確実性を生み、米国のAI主導権を実質的なリスクと釣り合わない形で危険にさらした』と非難。Stamos氏は『規制は証拠ベース・明確な定義・一貫した適用が必要だが、今回はそのいずれも満たしていない』と強調した。",
-      "category": "international"
-    },
-    {
-      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
-      "title_ja": "TechCrunch：米政府によるAnthropicモデル停止、本質はジェイルブレイクではなく政治対立",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "date": "2026-06-15",
-      "summary": "TechCrunchが、Fable 5/Mythos 5に関する輸出管理指令の真の動機を分析。表向きの理由は『Amazon研究者によるFable 5ジェイルブレイクで攻撃情報が引き出された』点だが、専門家からは『指摘された手法は誰でもGoogle検索で得られる範囲』との反論。Axios報道と合わせて、Anthropicと政権との『性格的対立』が短期間で輸出管理という極端な措置に発展した経緯を指摘。サイバーセキュリティ業界からは『防御側を弱体化させる結果になる』との抗議が広がり、AI政策の透明性欠如が新たな論点として浮上している。",
-      "category": "international"
-    },
-    {
-      "title": "Cybersecurity vets protest 'dangerous' US government ban on Anthropic's most powerful models",
-      "title_ja": "TechCrunch：サイバーセキュリティ業界の重鎮、米政府によるAnthropic停止令を『危険』と抗議",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "date": "2026-06-15",
-      "summary": "TechCrunchが、Luta SecurityのKatie Moussourisら著名セキュリティ専門家76名がAnthropic Fable 5/Mythos 5の輸出管理解除を求める公開書簡に署名したと報道。Moussouris氏はAnthropicから問題のジェイルブレイク報告のレビューを依頼されており、『この命令は完全な過剰反応』『防御側はAIに「このファイルのバグを直し、修正の意味を説明し、修正を確認するテストを書け」と頼める必要がある』と批判。書簡はNVIDIA・Adobe・Zoom・Sophosなど大手企業のセキュリティ責任者も署名し、AI業界・サイバー防衛コミュニティに広範な動揺をもたらしている。",
-      "category": "international"
-    },
-    {
-      "title": "'Fix this code.' The three little words behind the U.S. government decision that shut down Anthropic's Fable and Mythos AI models",
-      "title_ja": "Fortune：「このコードを直せ」──Anthropic Fable/Mythos停止を招いた3語の真相",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/15/fix-this-code-three-words-behind-us-government-shut-down-anthropic-fable-mythos-ai-models-katie-moussouris-open-letter/",
-      "date": "2026-06-15",
-      "summary": "Fortuneが、米政府によるAnthropic Fable 5/Mythos 5停止のトリガーとなったAmazonリサーチャーの『ジェイルブレイク』手法を詳報。脆弱性のあるコードを与えて『セキュリティ上の問題をレビューせよ』と頼むとガードレールに遮断されるが、『このコードを直せ』と頼むとパッチを生成する──というシンプルな多段プロンプトだったと指摘。Katie Moussouris氏ら76名の専門家による公開書簡を中心に、『これは脆弱性ではなく、防御側にとって必要な機能だ』との反論を整理。AI輸出管理の境界が極めて曖昧であるという根本問題が浮き彫りになっている。",
-      "category": "international"
-    },
-    {
-      "title": "Macron's G7 legacy hangs on fickle AI funding and data centers",
-      "title_ja": "Japan Times/Bloomberg：マクロン仏大統領のG7レガシー、不安定なAI投資とデータセンターが鍵に",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/15/tech/macron-g7-legacy-ai-data-centers/",
-      "date": "2026-06-15",
-      "summary": "Japan Times（Bloomberg配信）が、6月15日からエヴィアン・レ・バンで開幕する第52回G7サミットを前に、ホスト国フランスのマクロン大統領がAIとデータセンター投資を欧州の技術覇権再構築の柱に据える戦略を解説。Mistralの200億ユーロ評価額の追加調達やSoftBankからの最大750億ユーロのフランス向けAI投資コミットを背景に、マクロン陣営は本作戦を『プロジェクト・マレンゴ』（ナポレオンの勝利にちなむ）と命名。OpenAIのアルトマン、AnthropicのアモデイCEO、Google DeepMindのハサビス氏が主要AI 3社代表として初めてG7に揃って出席することが決まっており、AIガバナンスと産業誘致が議題の中心となる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Faces US Ban on Foreign Use of Advanced AI After Jailbreak Concerns",
-      "title_ja": "Bloomberg：Anthropicへの米国の外国人利用禁止令、シリコンバレーへの政策転換警告",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
-      "date": "2026-06-15",
-      "summary": "Bloombergが、Anthropic Fable 5/Mythos 5への米政府輸出管理がAI業界全体へ与える政策的インパクトを分析。これまで『イノベーション推進』を掲げてきたトランプ政権が一転、安全保障を理由にフロンティアモデルを公開後数日で停止させた事実は『シリコンバレーに対する明確な警告』であり、米AI企業の対外サービス展開戦略を根本から見直す契機になると指摘。アナリストは『他のフロンティアモデル提供者も同様の措置の対象になり得る』とし、米政府のAI規制が予測不能で恣意的に運用される懸念を表明している。",
-      "category": "international"
-    },
-    {
-      "title": "'They screwed us': Personality clashes sent Anthropic's models offline",
-      "title_ja": "Simon Willison：Axios記事『人間関係のもつれがAnthropicモデルをオフラインに』",
-      "source": "Simon Willison's Weblog",
-      "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
-      "date": "2026-06-15",
-      "summary": "Simon Willison氏が、AxiosのAnthropic-ホワイトハウス対立記事を引用しつつ、AI政策の意思決定が高度に属人化している現状を批判。『Anthropicが起用したサイバーセキュリティ専門家を政権が「過激派民主党員」と認識し、その人物がChris Krebs元CISA長官に称賛されたことが関係をさらに悪化させた』『個人的感情でフロンティアAIモデルが世界中で停止される時代になった』と指摘。技術的脆弱性の話と思われていた本件が、実は政治と人間関係の問題であったことを技術コミュニティ向けに解説している。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft CEO Issues AI Warning: Companies That Rent Models Risk Industry Hollowing",
-      "title_ja": "Microsoft CEO『モデルを借りるだけの企業は産業空洞化のリスク』と警鐘",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/318394/20260615/microsoft-ceo-issues-ai-warning-companies-that-rent-models-risk-industry-hollowing.htm",
-      "date": "2026-06-15",
-      "summary": "Microsoft CEOのSatya Nadellaが、フロンティアモデルを借りるだけの企業はAIにより専門知識が汎用モデル側にコモディティ化され、競争優位を失うと警告するエッセイを公表。X上で48時間で2,800万閲覧を超え、AIバブル懸念と『フロンティアモデルを非フロンティア問題に使うな』というメッセージが業界で議論を呼んでいる。",
-      "category": "international"
-    },
-    {
-      "title": "Sakana AI、初の商用プロダクト「Marlin」リリース その実力は？",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
-      "date": "2026-06-15",
-      "summary": "Sakana AIが初の商用プロダクト『Sakana Marlin』を6月15日に提供開始。独自探索アルゴリズム『AB-MCTS』とOpenAI o4-mini／Gemini 2.5 Pro／DeepSeek R1-0528などのマルチLLM協調により、最大8時間自律で調査して60〜100ページのレポートとスライドを生成する『仮想CSO』型エージェント。4月から金融機関・コンサル等約300名のクローズドβを経ての正式版で、Sakana AIの本格商用化第一歩となる。",
-      "category": "japan"
     }
   ]
 }

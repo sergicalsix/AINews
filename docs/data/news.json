@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-06-29 09:00 (JST)",
+  "lastUpdated": "2026-06-30 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "title_ja": "Anthropic、エージェント運用を低コスト化する新モデル「Claude Sonnet 5」を発表",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "date": "2026-06-30",
+      "summary": "Anthropicは6月30日、エージェント特化型の新モデル「Claude Sonnet 5」を発表した。推論・ツール利用・コーディングでSonnet 4.6を上回り、一部ベンチではOpus 4.8に迫る性能を実現。導入価格は入力$2/百万トークン、出力$10/百万トークンと値下げされ、Free・Pro含む全プランで即日利用可能。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Releases Claude Science for Automating Research",
+      "title_ja": "Anthropic、科学研究自動化に特化した「Claude Science」をリリース",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
+      "date": "2026-06-30",
+      "summary": "Anthropicは6月30日、科学者特に製薬研究者向けに最適化した「Claude Science」を公開した。タンパク質構造予測などの生物・化学タスクを自動化し、60以上の科学データベースを統合。Pro/Max/Team/EnterpriseのmacOS・Linux版でベータ提供され、最大50件のAI for Scienceプロジェクトに3万ドルのクレジットも付与される。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic upgrades Claude with new Sonnet 5 model",
+      "title_ja": "Anthropic、「Claude Sonnet 5」へアップグレード、無料・Proのデフォルトモデルに",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
+      "date": "2026-06-30",
+      "summary": "9to5Macは6月30日、AnthropicがClaudeの無料およびProプランのデフォルトモデルを「Sonnet 5」に切り替えたと報じた。ブラウザやターミナルを用いた自律的なエージェント処理性能が大幅に強化され、Claude Code・Claude Platformでも即日利用可能。Sonnet 5は安全性面でも悪意ある要求の拒否率やプロンプトインジェクションへの耐性が向上している。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "title_ja": "Claude Sonnet 5を発表",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "date": "2026-06-30",
+      "summary": "AnthropicはSonnet系列の最新モデルClaude Sonnet 5を公開。推論・ツール使用・コーディング・エージェント性能でSonnet 4.6を大幅に上回り、Opus 4.8に迫る能力をより低コストで提供する。Free・Proのデフォルトモデルとなり、APIは導入価格として入力$2/出力$10（百万トークン）を8月31日まで適用する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists",
+      "title_ja": "科学者向けAIワークベンチ「Claude Science」",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "date": "2026-06-30",
+      "summary": "Anthropicは科学研究向けの統合ワークベンチ「Claude Science」をベータ公開した。文献解析や多段階の実験計画を実行し、ゲノミクスやプロテオミクス、構造生物学など60以上のスキル・コネクタを備える調整エージェントを通じて、再現可能な成果物を生成できる。Claude Pro/Max/Team/Enterpriseで利用可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "SB Intuitions releases Sarashina3 mini and nano: Latest fully-from-scratch Japanese LLMs",
+      "title_ja": "SB Intuitions、フルスクラッチ開発の最新国産LLM「Sarashina3 mini／nano」を公開",
+      "source": "SB Intuitions TECH BLOG",
+      "url": "https://www.sbintuitions.co.jp/blog/entry/2026/06/30/100000",
+      "date": "2026-06-30",
+      "summary": "ソフトバンク子会社のSB Intuitionsが、フルスクラッチで開発した新たな国産LLM「Sarashina3 mini／nano」を公開した。日英中心に30兆トークン規模の高品質コーパスで事前学習し、Qwen3シリーズやGPT-4.1／5.4 miniと8つのベンチマークで比較。デジタル庁の「ガバメントAI」試用モデルにも採択されている。",
+      "category": "japan"
+    },
+    {
+      "title": "Japan AI Foundation Model Development rebrands as 'Noetra', launches domestic multimodal AI with AIST",
+      "title_ja": "国内大手44社共同出資のAI開発企業、新名称「Noetra」で始動 産総研と国産マルチモーダルAIを開発へ",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000138/",
+      "date": "2026-06-30",
+      "summary": "ソフトバンクやNEC、ソニーグループ、ホンダなど国内大手44社が出資する「日本AI基盤モデル開発」が、7月1日付で新社名「Noetra（ノエトラ）」として始動すると発表。経産省所管のNEDO公募に採択され、産業技術総合研究所と協力し、テキスト・画像・音声を扱う国産マルチモーダル基盤モデルの研究開発を本格化する。",
+      "category": "japan"
+    },
+    {
+      "title": "METI sets target of 10 million AI robots deployed across 18 sectors by 2040",
+      "title_ja": "AIロボット導入目標、18分野で2040年に1000万台 経産省が戦略改訂",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA302FQ0Q6A630C2000000/",
+      "date": "2026-06-30",
+      "summary": "経済産業省は6月30日、AIを活用したロボットを2040年までに国内で約1000万台導入する目標を打ち出した。3月に策定した「AIロボティクス戦略」を改訂し、対象を製造業など16分野に飲食・食品製造と医療を加えて18分野に拡大。世界シェア3割超、20兆円市場の獲得を目指し、認証制度や政府調達による需要創出も支援する。",
+      "category": "japan"
+    },
+    {
+      "title": "METI Minister Akazawa outlines 'winning strategy' to deploy 10M AI robots by 2040",
+      "title_ja": "AIロボット1000万台導入へ、2040年までに 赤澤経産相が語る「勝ち筋」",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
+      "date": "2026-06-30",
+      "summary": "赤澤亮正経済産業相は6月30日の記者会見で、2040年までに国内へAIロボットを約1000万台導入する目標を発表し、「ビッグデータ×AI」時代における日本の勝ち筋を語った。新たに加えた飲食・医療を含む18分野で社会実装を進めるとし、同日にはNoetraと産総研の採択で国産マルチモーダル基盤モデル開発に着手することも明らかにされた。",
+      "category": "japan"
+    },
+    {
+      "title": "METI launches multimodal foundation model R&D for AI robots, selects Noetra and AIST with 387.3B yen support",
+      "title_ja": "経産省、AIロボット・フィジカルAI向けマルチモーダル基盤モデル開発事業を開始 Noetraと産総研を採択し3873億円を支援",
+      "source": "経済産業省 (METI)",
+      "url": "https://www.meti.go.jp/press/2026/06/20260630005/20260630005.html",
+      "date": "2026-06-30",
+      "summary": "経済産業省は6月30日、AIロボットやフィジカルAIを見据えたマルチモーダル基盤モデル開発事業の採択先として、ソフトバンクやNEC、ソニーG、ホンダなどが出資する新会社Noetraと産業技術総合研究所を発表。2026年度の開発委託費として3873億円を支援し、2030年度までの5年間で総額1兆円規模の支援を見込む。",
+      "category": "japan"
+    },
     {
       "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
       "title_ja": "HP、OpenAIと「Frontier」戦略的パートナーシップを開始 — 顧客体験と社内業務を全面的にAI化",
@@ -36,6 +126,79 @@
       "date": "2026-06-29",
       "summary": "AI音楽生成サービスSunoが、インディーズ系の歌手・作詞家・プロデューサー向けに助成金・マーケティング支援・ソングライティングキャンプを提供する新プログラム「Spark」を発表。一方で参加契約には「Suno・関係者・製品を中傷しない（Good Vibes Only条項）」「Sunoに対する集団訴訟への参加権を放棄する」などの条項が含まれ、SZAやDoja Catら著名アーティストのAI批判が広がる中、自由な言論を犠牲にした囲い込みではないかと批判が出ている。",
       "category": "international"
+    },
+    {
+      "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments",
+      "title_ja": "PalantirとNVIDIA、政府機関向けに「ソブリンAI」基盤を共同提供",
+      "source": "BusinessWire",
+      "url": "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments",
+      "date": "2026-06-29",
+      "summary": "PalantirとNVIDIAは6月29日、米政府機関や重要インフラ向けにNVIDIA Nemotronオープンモデルを閉鎖環境で運用する「ソブリンAI」基盤を発表した。エアギャップ環境での完全データ隔離、明示的データ認可、監査可能性などを備え、PalantirのAIP・Foundry・ApolloとNVIDIAの計算基盤を組み合わせる。発表後Palantir株は約4.6%上昇した。",
+      "category": "international"
+    },
+    {
+      "title": "Artificial Intelligence: Council gives final green light to simplify and streamline rules",
+      "title_ja": "EU理事会、AI法簡素化「Digital Omnibus」に最終承認、高リスク規制を延期",
+      "source": "Council of the EU",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "date": "2026-06-29",
+      "summary": "EU理事会は6月29日、AI法（AI Act）の簡素化を盛り込んだ「Digital Omnibus」規則に最終承認を与えた。高リスクAIシステムの適用開始は単独製品で2027年12月2日、組込型は2028年8月2日に延期される一方、非合意のヌード生成やCSAMを含むAI実践は新たに禁止対象となった。透明性義務の猶予期間は6か月から3か月に短縮される。",
+      "category": "international"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "title_ja": "TIDAL、AI生成楽曲の収益化を停止し新ポリシー導入",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "date": "2026-06-29",
+      "summary": "音楽ストリーミングTIDALは6月29日、完全AI生成楽曲のプラットフォーム上での収益化を禁止する新ポリシーを発表した。アーティストやグループを偽装するAI生成楽曲は自動ツールで検出し削除する方針で、ポリシーは7月15日に発効する。EVPのTony Gervinoは「ユーザーから完全AI生成音楽に触れたくないとの声が多い」とコメントした。",
+      "category": "international"
+    },
+    {
+      "title": "Claude in Microsoft Foundry is now generally available",
+      "title_ja": "Claude、Microsoft Foundryで一般提供開始",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "date": "2026-06-29",
+      "summary": "Microsoft Foundry（Azure上）でClaudeが一般提供開始。Azureの認証・課金・ガバナンスを利用しつつ、データ所在地要件に対応する米国データゾーンも選択できる。Messages APIではClaude Opus 4.8とHaiku 4.5が提供され、プロンプトキャッシュや拡張思考にも対応。インフラはNVIDIA GB300 Blackwell Ultra上で稼働する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "title_ja": "脳波から文字へ：手術不要の新コミュニケーション「Brain2Qwerty」",
+      "source": "Meta",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "date": "2026-06-29",
+      "summary": "Meta AIは脳に電極を埋め込まずMEG（脳磁図）から文章をリアルタイム復号する研究「Brain2Qwerty v2」を発表。エンドツーエンド深層学習とLLM微調整により単語精度61%（最良被験者で78%）を達成し、非侵襲手法の従来8%を大きく超えた。v1/v2の訓練コードとv1データセットを公開する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Mapping Europe's AI Workforce Opportunity",
+      "title_ja": "欧州のAI労働力機会のマッピング",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu/",
+      "date": "2026-06-29",
+      "summary": "OpenAI Economic Researchは、米国向けに開発したAI Jobs Transition FrameworkをEU労働市場へ拡張。ESCO分類とEurostatデータを用い、EU雇用の18%が自動化リスク、24%が再編、12%が成長、46%は当面変化少と分類した。米国と比べて自動化ポテンシャルの高い職種の比率が低い点も示している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Helios releases open beta of LLM-powered conversational geospatial analytics platform 'Helios Platform'",
+      "title_ja": "対話型・地理空間解析プラットフォーム「Helios Platform」がオープンβ版を開始",
+      "source": "PR TIMES / 株式会社Helios",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000164610.html",
+      "date": "2026-06-29",
+      "summary": "株式会社Heliosは6月29日、自然言語の指示で多種多様な地理空間データを自律的に統合・解析する「Helios Platform」のオープンβ版提供を開始した。最新のLLMエージェントを搭載し、GIS専門人材不足という課題に対し、専門知識不要で複雑なデータ連携から高度な空間解析まで対話的に実行可能にする。7月末～8月上旬の正式リリースまで無料で全機能を利用できる。",
+      "category": "japan"
+    },
+    {
+      "title": "Attractor States Emerge in Multi-Turn LLM Conversations",
+      "title_ja": "マルチターンLLM対話に現れるアトラクタ状態",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30571",
+      "date": "2026-06-29",
+      "authors": "Ting-Wen Ko, Jonas Geiping",
+      "summary": "7つのLLMと20件の論争的トピックでセルフプレイ／混合プレイ討論を比較し、各モデル固有の「アトラクタ状態」が存在することを示した。たとえばClaude Haikuは強いアトラクタとして他モデルをメタコメント的特性へ引き寄せ、GPT-4.1 nanoは特に影響を受けやすいなど、モデル間相互作用の非対称性を可視化した。",
+      "category": "arxiv"
     },
     {
       "title": "Kioxia's AI Boom Creates 600 'Billion-Yen' Employees as Stock Surges",
@@ -378,6 +541,56 @@
       "date": "2026-06-26",
       "summary": "ホームセンター大手カインズは、生成AIで部屋の写真にカーテン・ラグ・キャットタワーなどのインテリア商品を合成する店頭サイネージ「CAINZ Fitting Room」をAWS Summit Japan 2026で公開した。現在はカインズが用意したデモ部屋画像を使う段階だが、将来的に顧客自身の部屋画像での合成を目指す。生成精度・処理効率の壁を越えるべく一部店舗で実証実験を継続している。",
       "category": "japan"
+    },
+    {
+      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "title_ja": "ジェイルブレイク攻撃下でも保たれる有害特徴：アテンションヘッド特化からの機構的証拠",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.28153",
+      "date": "2026-06-26",
+      "authors": "Yanchen Yin, Dongqi Han, Linghui Li",
+      "summary": "ジェイルブレイク攻撃がLLMの安全機構を網羅的に破壊するのではなく、特定のアテンションヘッドを選択的に抑制することを実証。前段層に集まる「敵対的に侵害されたヘッド(ACH)」と中段層の「安全アラインヘッド(SAH)」を発見し、SAHが攻撃成功時にも頑健な活性を保つ「Robust Harmful Features」の源であると示した。ICML 2026 Oral採択。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+      "title_ja": "検証可能報酬によるタンデム強化学習",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.28166",
+      "date": "2026-06-26",
+      "authors": "Difan Jiao, Raghav Singhal, Robert West, Ashton Anderson",
+      "summary": "RLVR(検証可能報酬付き強化学習)で訓練された上位モデルが下位モデルと協調できない互換性問題を、タンデム訓練で解決する手法を提案。フリーズした下位エージェントと共同でロールアウトを生成し、チームとして報酬を与えることで推論能力と協調性を両立させる。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
+      "title_ja": "LLM推論トレースの認知エピソードによる解釈可能な人間項目難易度予測",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.28186",
+      "date": "2026-06-26",
+      "authors": "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou",
+      "summary": "大規模推論モデル(LRM)の思考トレースを認知科学的に意味のあるエピソード列にマップするフレームワーク「Epi2Diff」を提案。推論の規模・努力配分・状態遷移を介して人間にとっての問題の難易度を予測でき、教育評価における高コストな人手キャリブレーションの代替となる可能性を示した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+      "title_ja": "PerceptionRubrics：マルチモーダル評価を人間知覚に較正する",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.28322",
+      "date": "2026-06-26",
+      "authors": "Yana Wei, Hongbo Peng, Yanlin Lai, Liang Zhao, Kangheng Lin, En Yu, et al.",
+      "summary": "1,038枚の情報密度の高い画像に対し12,000超のインスタンス固有ルーブリックを付与した新評価枠組み。「Must-Right(必須事実)」と「Easy-Wrong(細粒度)」の二系統と、必須要素を外すと急激な減点となる「Gated Scoring」を導入し、ベンチマーク飽和と実世界での脆弱性のギャップを埋める。",
+      "category": "arxiv"
+    },
+    {
+      "title": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
+      "title_ja": "トークンから状態へ：ワールドモデルの特殊例としてのLLMとその先への連続経路",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.28127",
+      "date": "2026-06-26",
+      "authors": "Paul Dubois",
+      "summary": "LLMをワールドモデルの退化的な特殊例として位置づけるポジション論文。状態空間が全トークン列、行動が「次トークンを追加」のみという見方を提示し、次トークン予測(NTP)からJEPAに至る連続的スペクトラムにマルチトークン予測や次潜在予測が中間段階として存在すると論じる。",
+      "category": "arxiv"
     },
     {
       "title": "How agents are transforming work",
@@ -1519,217 +1732,6 @@
       "authors": "Anonymous (cs.AI, 2026)",
       "summary": "ツール呼び出し型LLMエージェントが対話を通じて隠れた環境（オートマトン）の世界モデルをどこまで推論できるかを評価。推論モデルは非推論モデルより明確に強いが、軌跡分析からはクエリ計画・証拠統合・仮説構築の段階で系統的な失敗が残ることを明らかにし、エージェントの探索・学習能力の限界と改善余地を提示した。",
       "category": "arxiv"
-    },
-    {
-      "title": "Fable 5 ban: 4 open models responded before Anthropic could restore access",
-      "title_ja": "Fable 5禁輸の隙間を埋めた4つのオープンモデル — Anthropic復帰前に企業需要を奪取",
-      "source": "The New Stack",
-      "url": "https://thenewstack.io/fable-ban-open-weights/",
-      "date": "2026-06-17",
-      "summary": "The New Stackは、Anthropic Fable 5/Mythos 5の停止期間中に企業ワークロードを引き受けた4つのオープンウェイトモデル（DeepSeek派生、Qwen系、Zhipu GLM、MiniMax）の動きを分析。エンドユーザーが数日のダウンタイムも許容できない中、オープンウェイトを自社GPU上で運用する選択肢が事業継続計画として急速に格上げされたと指摘。一連の事案は『契約条項では取り戻せないリスク』として、調達担当の意思決定を変えうると論じる。",
-      "category": "international"
-    },
-    {
-      "title": "Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications",
-      "title_ja": "実世界LLMアプリのプロンプト漏えい攻撃 — 1200アプリ調査で80%以上が漏えい、APIキー露出も判明",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18673",
-      "date": "2026-06-17",
-      "summary": "浙江大学らによる大規模実証研究。6つの主要商用プラットフォーム上の1,200アプリを調査したところ、現実的な敵対的クエリ下で80%超のデプロイがシステムプロンプトを漏えいし、サードパーティAPIキー等の機微情報が露出する事例も確認された。注意機構レベルの機構的解析により、クエリ・キーアライメントの偏りとsoftmax増幅による『注意ドリフト』が漏えいの根本原因であると同定。既存防御は使い勝手を犠牲にせずに漏えいを止められない実態を示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "A Technical Taxonomy of LLM Agent Communication Protocols",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19135",
-      "date": "2026-06-17",
-      "authors": "Linus Sander, Habtom Kahsay Gidey, Alexander Lenz, Alois Knoll",
-      "summary": "ミュンヘン工科大学のチームが、急速に分散化が進むLLMマルチエージェントシステム間の通信プロトコルを体系的に分類する技術的タクソノミーを提案。Agent2Agent等の既存プロトコルを通信モデル、メッセージング、セマンティクスなどの軸で整理し、堅牢な分散エージェントネットワーク構築の指針を示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "date": "2026-06-17",
-      "authors": "Thomas Bertolani, Davide Bucciarelli, Leonardo Zini, Marcella Cornia, Lorenzo Baraldi",
-      "summary": "自回帰LLMの代替として注目される拡散言語モデル（DLM）の8モデル・8ベンチマーク横断比較を行った実験的サーベイ論文。推論・コーディング・翻訳・知識・構造化問題解決の各タスクで、品質と推論コストの両軸からトレードオフを評価。評価プロトコルやハイパーパラメータの違いで先行研究の比較が困難だった状況を整理し、DLMの実用領域を明確にした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Microsoft makes Copilot Cowork generally available worldwide",
-      "title_ja": "Microsoft、AIエージェント「Copilot Cowork」を世界展開で一般提供開始",
-      "source": "Redmondmag",
-      "url": "https://redmondmag.com/articles/2026/06/16/microsoft-makes-copilot-cowork-generally-available-worldwide.aspx",
-      "date": "2026-06-16",
-      "summary": "Microsoftが3か月間のFrontierプログラムプレビューを経て、エンタープライズ向けAIエージェント『Copilot Cowork』のグローバル一般提供を開始した。エージェント単位の従量課金（$0.01/Copilot Credit）と中央IT統制機能を導入し、Fortune 500の半数超で採用済みと発表。競合のClaude Coworkに比べて30〜40%コスト効率が高いとアピールし、今後リリース予定の自社モデル『Cowork 1』への移行も予告した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic had 90 minutes to restrict Claude Fable 5 as White House feared Chinese access",
-      "title_ja": "Anthropic、ホワイトハウスのチャイナアクセス懸念を受けFable 5を90分以内に制限要請される",
-      "source": "BusinessToday",
-      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-had-90-minutes-to-restrict-claude-fable-5-as-white-house-feared-chinese-access-537095-2026-06-16",
-      "date": "2026-06-16",
-      "summary": "6月12日に米商務省がAnthropic宛てに送付した輸出管理指令の内幕が明らかになった。中国系グループがFable 5/Mythos 5のジェイルブレイクを通じて情報を取得した懸念から、外国籍ユーザー（Anthropic従業員含む）への提供を90分以内に停止するよう求められたという。Anthropicは当該指令を即時履行したが、根拠の詳細はまだ開示されていない。",
-      "category": "international"
-    },
-    {
-      "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
-      "title_ja": "Claudeが12日間で10度目の障害──急成長で疲弊するAnthropicのインフラ事情",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm",
-      "date": "2026-06-16",
-      "summary": "Claude Opus 4.8とHaiku 4.5で6月16日午後にエラーが多発し、6月5日以降10回目のサービス障害となった。Anthropicの年率換算売上は2025年末の90億ドルから2026年4月初頭に300億ドル超まで急増し、年間100万ドル以上を支払う企業顧客も2か月で500社から1,000社に倍増。Anthropic自身が需要急増でインフラが逼迫していることを認めている。",
-      "category": "international"
-    },
-    {
-      "title": "Indian IT's AI partnerships face first sovereignty scare after US curbs Anthropic models",
-      "title_ja": "米国のAnthropic規制で、インドIT勢の海外モデル依存に初の『AI主権』ショック",
-      "source": "BusinessToday",
-      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/indian-its-ai-partnerships-face-first-sovereignty-scare-after-us-curbs-anthropic-models-537149-2026-06-16",
-      "date": "2026-06-16",
-      "summary": "米国のFable 5/Mythos 5輸出規制が、Anthropicとパートナーシップを結ぶTCS・Infosys・Wiproなどインド大手IT各社のAI戦略に影響を与え始めている。短期的な業務影響は限定的とされる一方、フロンティアモデルへのアクセスが地政学に左右される時代に入ったとの認識が広がっており、各社は国内モデル併用やマルチベンダー戦略を加速させている。",
-      "category": "international"
-    },
-    {
-      "title": "Copilot Cowork is now generally available",
-      "title_ja": "Copilot Coworkが正式リリース──エージェント単位の従量課金と中央統制機能を搭載",
-      "source": "Microsoft",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
-      "date": "2026-06-16",
-      "summary": "Microsoftが公式ブログでCopilot Coworkの一般提供開始を発表。Microsoft 365内のマルチツールAIエージェントが本番運用に移行し、Copilot Credit（$0.01/credit）による従量課金とIT管理者向け統制機能を提供。発表時点ではAnthropicのOpus 4.8/Sonnet 4.6を内部モデルとして使用し、自社モデル『Cowork 1』への将来移行を予告した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "title_ja": "SpaceX、AIコーディングのCursorを600億ドルの株式交換で買収──歴史的IPO直後の電撃合意",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "date": "2026-06-16",
-      "summary": "SpaceXが、4月に取得していたコールオプションを行使し、AIコーディングエージェント『Cursor』を運営するAnysphereを600億ドルの全株式交換で買収すると発表。今年初めにxAIと合併済みのSpaceXは、Grokによるモデル競争に加え、急成長中のエージェント型コーディング市場でAnthropicやOpenAIに対抗する構えを示した。Cursorは年率換算売上26億ドル規模で、Q3クロージング予定。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
-      "title_ja": "OpenAI、実ユーザー会話を再生する事前安全評価『Deployment Simulation』を発表",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
-      "date": "2026-06-16",
-      "summary": "OpenAIが6月16日、新候補モデルのリリース前評価手法『Deployment Simulation』に関する研究論文を公開。実ユーザーの過去会話からAI応答を取り除き、新モデルに再生成させて挙動の変化を検出する。GPT-5 Thinking〜GPT-5.4の130万件の会話で検証し、ブラウザツールを電卓代わりに使う『電卓ハッキング』など新規ミスアライメントを早期発見できたと報告。合成プロンプトでは見えない実運用リスクの可視化手段として注目される。",
-      "category": "international"
-    },
-    {
-      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-      "title_ja": "CNBC：『新たな原油』──AI計算能力を取引可能なコモディティ化する動きが本格化",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
-      "date": "2026-06-16",
-      "summary": "クラウドプロバイダーとGPUマーケットプレイスの価格を追跡するSilicon DataがCME Groupと組み、AI計算能力に連動した世界初の先物契約を立ち上げる構想を進めている。AIモデルの学習・推論コストの変動を企業がヘッジできるようにする狙いで、規制承認待ち。発表後数日でProShares・Rex SharesがレバレッジETF・インバースETFを申請しており、AIコンピュートの『金融商品化』が一気に進む可能性がある。",
-      "category": "international"
-    },
-    {
-      "title": "Robinhood's note on 10% layoffs shows blaming AI isn't cutting it",
-      "title_ja": "TechCrunch：Robinhoodの10%レイオフ通知が示す『AIのせい』言い訳の限界",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "date": "2026-06-16",
-      "summary": "RobinhoodのVlad Tenev CEOが約290名（全社の10%）の人員削減を発表したが、AIの単語を一切使わず『フロンティア技術で実行力を高める』と表現したことが注目を集めている。2026年に入ってからAIを理由にした大量解雇への世論の反発が強まり、企業はAI言及を避け始めた格好。今年は既に18万人超のテック業界レイオフが発生し、その55%がAI関連を理由として挙げていたが、その語り口が急速に陳腐化していることを示すケースとして報じられた。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic's Fable fiasco leaves the door open for open-source AI, particularly cheaper models from China",
-      "title_ja": "Fortune：AnthropicのFable停止が中国製オープンソースモデルに追い風──DeepSeek・Zhipuら急上昇",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/16/us-anthropic-ban-open-source-ai-deepseek-zai/",
-      "date": "2026-06-16",
-      "summary": "Fortuneが、米政府によるAnthropic Mythos 5/Fable 5の海外提供制限が、企業のオープンソースAI採用を加速させていると報道。先週のモデル利用ランキング上位4つはDeepSeek・MiniMax・Tencent・Xiaomiといずれも中国製で占められた。Fable 5の出力100万トークンが50ドルなのに対し、DeepSeek V4 Proは3.48ドル。クローズドモデルは『いつアクセスを止められるか分からない』という新たな企業リスクとして認識され、自社インフラで動くダウンロード可能なAIへのシフトが進んでいる。",
-      "category": "international"
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "title_ja": "OpenAI公式：デプロイメントシミュレーションによるリリース前モデル挙動予測",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/deployment-simulation/",
-      "date": "2026-06-16",
-      "summary": "OpenAIは、リリース前の候補モデルに対し、過去の実ユーザー会話を再生して挙動ドリフトやミスアラインメント、報酬ハッキングを検出する新手法『Deployment Simulation』を発表。GPT-5 Thinkingから5.4までの約130万件の匿名化会話で検証し、約92%の精度で実環境での問題挙動を予測できたとし、エージェント型コーディングにおける疑似ツール呼び出しまで評価範囲を拡張する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供 まずは日本の重要インフラ向けに",
-      "title_ja": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供 まずは日本の重要インフラ向けに",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
-      "date": "2026-06-16",
-      "summary": "ソフトバンクグループ、ソフトバンク、SB OAI Japanは6月16日、OpenAIの先端AI技術を活用したサイバーセキュリティ対策ソリューション『Patching as a Service』の提供開始を発表した。GPT-5.5 Cyberとソフトバンクの運用ノウハウを組み合わせ、脆弱性診断から修復方針策定、実装提案までを一気通貫で支援する。同社が社内700システムで実証したところ約1万件の脆弱性が発見されたといい、孫正義会長は『黒船襲来以来の危機』とAIサイバー攻撃の脅威を表現。日本国内の重要インフラ企業から順次提供を開始する。",
-      "category": "japan"
-    },
-    {
-      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-      "title_ja": "Nature掲載メタ解析論文でのLLMエージェント評価ベンチマーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.17041",
-      "date": "2026-06-16",
-      "authors": "Anzhe Xie, Weihang Su, Yujia Zhou, Yiqun Liu, Qingyao Ai (Tsinghua University)",
-      "summary": "Nature系ジャーナル掲載の442本のメタ解析を専門家がキュレーションしたデータセットMetaSynを提案。各事例は研究質問、PI/ECO基準、14万件のPubMed論文からなる検索コーパス、検証済みポジティブ研究、ハードネガティブ、検索戦略・日付境界を含む。9種のRAGバリアントとプロトコル駆動型エージェントを含む12種のパイプラインを評価し、検索上限90.9%再現率に対しスクリーニング段階で52.7%しか正解文献を回収できないというボトルネックを明らかにした。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system",
-      "title_ja": "LLMによる天文データベース照会:ALeRCE Text-to-SQLシステム",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18108",
-      "date": "2026-06-16",
-      "authors": "P. A. Estevez, et al.",
-      "summary": "Zwicky Transient FacilityおよびVera C. Rubin天文台のブローカーALeRCEデータベース向けに、in-context学習ベースのText-to-SQLシステムを構築。スキーマリンキング、クエリ分類、プロンプト分解、自己訂正の4モジュールから成る段階的生成フレームワークを提案し、110件のNL/SQLペアデータセットで13種のLLMを評価。自然言語による天文データ照会を可能にし、行ID・列IDの完全一致率で性能を測定した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents",
-      "title_ja": "ProvenanceGuard: MCPベースLLMエージェントのためのソース認識型事実性検証",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18037",
-      "date": "2026-06-16",
-      "authors": "Ander Alvarez, Santhiya Rajan, Samuel Mugel, Roman Orus",
-      "summary": "Model Context Protocol(MCP)を用いるLLMエージェントが外部ツールから得た情報を回答に反映する際の事実性を保証するため、ソース認識型の検証フレームワークProvenanceGuardを提案。各主張をMCPツール呼び出しの出力に対応付け、出典に基づき事実性を検証することでハルシネーションや誤帰属を抑制する。AIエージェント、自然言語処理、マルチエージェントシステム領域にわたり、信頼性の高いツール拡張LLM運用を可能にする20頁の研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
-      "title_ja": "LegalHalluLens: 信頼できる法務AIのための型付きハルシネーション監査と較正済みマルチエージェント討論",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18021",
-      "date": "2026-06-16",
-      "authors": "Lalit Yadav, Akshaj Gurugubelli",
-      "summary": "法務領域におけるLLMのハルシネーションを類型(誤判例引用、条文誤記、規範誤適用など)別に監査するLegalHalluLensを提案。較正済みマルチエージェント討論により判断の信頼性を向上させ、各エージェントの判定確率を較正することで、最終出力の信頼度を定量化する。ICML 2026のAIWILDワークショップ採択論文で、法務AIの実運用に向けた信頼性確保の枠組みを示す。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
-      "title_ja": "AnthropicのFable停止は『オープンソースAIの転換点』— 中国系オープンモデルへの追い風と契約リスクの顕在化",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
-      "date": "2026-06-16",
-      "summary": "CNBCは、AnthropicがFable 5/Mythos 5を輸出規制指令で全面停止した件を『閉鎖型AIモデルに依存する企業にとっての新たなリスクの顕在化』と位置づけ。自社インフラ上でダウンロード・実行・カスタマイズできるオープンソースモデルへの勢いを加速させる契機となり、Zhipu・MiniMax等の中国系オープンソースAI関連株が急騰した。『自社サーバーに置けば政争で止められない』点が改めて評価されている。",
-      "category": "international"
-    },
-    {
-      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.17459",
-      "date": "2026-06-16",
-      "authors": "(arXiv 2606.17459)",
-      "summary": "LLMが戦略的経営判断を下せるかを評価するため、CEOや各部門長などの複数役割を持つエージェントが資源を再配分するシミュレーションベンチマークを提案。複数の最先端LLMで評価し、長期的な戦略策定や部門間トレードオフの解決能力の限界と改善余地を示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-      "title_ja": "Axios：「我々はやられた」──人間関係のもつれがAnthropicの最新モデルをオフラインに",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos",
-      "date": "2026-06-15",
-      "summary": "Axiosが、Anthropic幹部・トランプ政権関係者双方の証言を取材し、Fable 5/Mythos 5輸出管理に至った根本要因は『技術的な脅威』というより両者のコミュニケーション不全と人間関係の悪化だったと報道。Anthropicが直近の連邦サイバーセキュリティ大統領令への対応で『誠実さに欠ける』とみなされたこと、起用したセキュリティ専門家がトランプ陣営に『過激派民主党員』と認識される人物だったこと、その後同氏がChris Krebs元CISA長官に称賛され関係がさらに悪化したことなどが背景。今週中に商務省・CIA・ホワイトハウス科学顧問とAnthropicエンジニアの会合が予定されているが、米国限定アクセス容認や部分的制限緩和の可能性はまだ示されていない。",
-      "category": "international"
     }
   ]
 }

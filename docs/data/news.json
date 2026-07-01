@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-30 09:00 (JST)",
+  "lastUpdated": "2026-07-01 09:00 (JST)",
   "articles": [
+    {
+      "title": "Redeploying Claude Fable 5",
+      "title_ja": "Claude Fable 5の提供を再開",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "date": "2026-07-01",
+      "summary": "Anthropicは7月1日、米商務省による輸出規制解除を受けてClaude Fable 5の全世界提供を再開した。約2週間前に発生したAmazon Web Services研究者報告のジェイルブレイク脆弱性に対し新たなサイバーセキュリティ分類器を導入し、99%以上のケースで問題プロンプトを遮断する。ブロックされたリクエストは自動的にClaude Opus 4.8にフォールバックされ、Claude.ai・Claude Platform・Claude Code・Claude Coworkで即日利用可能。Pro/Max/Team向けには7月7日まで通常の週次利用上限の50%相当が付与される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
+      "title_ja": "Anthropic、7月1日にClaude Fable 5を再展開 米輸出規制解除で新サイバーセキュリティ分類器を追加",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+      "date": "2026-07-01",
+      "summary": "MarkTechPostは7月1日、AnthropicがClaude Fable 5を全世界で再展開したことを詳報した。米商務省の輸出規制解除を受け、Amazon研究者報告のジェイルブレイク手法を99%以上遮断する新分類器を実装。ブロック検知時はClaude Opus 4.8へ自動フォールバックし、AWS・Google Cloud・Microsoft Foundryでの復旧も順次進行中。ただし新分類器は保守的で通常のコーディング要求で偽陽性が増える可能性がある。",
+      "category": "international"
+    },
+    {
+      "title": "Japan plans sovereign AI model and 10 million AI robots by 2040",
+      "title_ja": "日本、2040年までに国産AIモデルとAIロボット1000万台の展開を計画",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+      "date": "2026-07-01",
+      "summary": "The Japan Timesは7月1日、日本政府が国産マルチモーダル基盤モデルの開発とAI搭載ロボット1000万台の展開計画を発表したと報じた。SoftBankやNEC、Sony Group、Hondaが出資する新会社Noetraと産総研（AIST）が主導し、政府は5年間で最大1兆円（約61億ドル）の支援を予定。米中技術覇権への依存低減、労働力不足対応、フィジカルAI領域の主権確立を目的とする。",
+      "category": "japan"
+    },
+    {
+      "title": "'Claude Fable 5' is back: export controls including Mythos 5 to be lifted, Anthropic announces",
+      "title_ja": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
+      "date": "2026-07-01",
+      "summary": "ITmedia NEWSは7月1日、AnthropicがClaude Fable 5の全世界提供再開を発表したと報じた。6月12日から続いていた米政府の輸出規制が同月30日付で解除され、7月1日以降Claude.ai・Platform・Code・Coworkで利用可能に。合意条件として、脆弱性の自主検出と対応、悪意ある活動の政府へのリアルタイム通報、次世代モデルの政府事前協議が義務化される。",
+      "category": "japan"
+    },
+    {
+      "title": "US Government lifts export controls on 'Fable 5/Mythos 5' - Anthropic to restore access from tomorrow",
+      "title_ja": "米政府「Fable 5／Mythos 5」の輸出規制解除 Anthropic「明日からアクセス回復」",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000146/",
+      "date": "2026-07-01",
+      "summary": "ITmedia AI+は7月1日、米商務省がAnthropicの高性能AIモデル「Fable 5」と「Mythos 5」への輸出規制を解除したと報じた。Fable 5は7月2日から全世界のClaude.ai・Claude Platform・Claude Code・Claude Coworkで利用可能となるが、7月7日までは通常の週次利用制限の50%に制限される。Mythos 5は引き続き米国内の特定組織向けの限定提供が継続される。",
+      "category": "japan"
+    },
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
       "title_ja": "Anthropic、エージェント運用を低コスト化する新モデル「Claude Sonnet 5」を発表",
@@ -90,6 +135,33 @@
       "date": "2026-06-30",
       "summary": "経済産業省は6月30日、AIロボットやフィジカルAIを見据えたマルチモーダル基盤モデル開発事業の採択先として、ソフトバンクやNEC、ソニーG、ホンダなどが出資する新会社Noetraと産業技術総合研究所を発表。2026年度の開発委託費として3873億円を支援し、2030年度までの5年間で総額1兆円規模の支援を見込む。",
       "category": "japan"
+    },
+    {
+      "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
+      "title_ja": "Anthropic、トランプ政権がClaude Fable 5とMythos 5の輸出規制を解除したと発表",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "date": "2026-06-30",
+      "summary": "CNBCは6月30日、Anthropicが米商務省による「Claude Fable 5」と「Claude Mythos 5」への輸出規制解除を発表したと報じた。約18日間続いた米政府とAI企業の対立の終結を象徴する動きで、Anthropicは安全性強化とModel Cardの継続的なアップデート、悪意ある活動の政府への即時報告など、政府との協力を強化することを約束した。Fable 5は7月1日から全世界で利用可能となる。",
+      "category": "international"
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
+      "title_ja": "トランプ政権、AnthropicのMythos・Fableモデルへの規制を解除",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "date": "2026-06-30",
+      "summary": "TechCrunchは6月30日、トランプ政権がAnthropicの最上位AIモデル「Mythos 5」および「Fable 5」への輸出規制指令を撤回したと報じた。両モデルは6月12日以降、国家安全保障を理由に全世界の外国人ユーザーからアクセス禁止となっていた。Anthropicは新たな安全分類器の実装と当局への継続報告を条件に合意し、7月1日からグローバル提供を段階的に再開する。",
+      "category": "international"
+    },
+    {
+      "title": "White House drops export controls on Anthropic's Mythos and Fable AI models",
+      "title_ja": "ホワイトハウス、AnthropicのMythos・Fable AIモデルの輸出規制を解除",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/06/30/white-house-drops-export-controls-anthropics-mythos-fable-ai-models/",
+      "date": "2026-06-30",
+      "summary": "Washington Postは6月30日、ホワイトハウスがAnthropicの主力AI「Mythos 5」および「Fable 5」に課していた輸出管理指令を撤回したと報じた。両モデルはジェイルブレイク脆弱性を理由に6月12日から利用停止されていたが、AnthropicはCommerce Departmentのセキュリティ評価と協議を経て復活を実現。Anthropicは今後の高性能モデルリリースを政府と事前調整することを約束した。",
+      "category": "international"
     },
     {
       "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
@@ -1660,78 +1732,6 @@
       "date": "2026-06-17",
       "summary": "AWSはニューヨークサミットで多数のAI関連新機能を発表。Amazon Bedrock Managed Knowledge Baseはネイティブデータコネクタ、Smart Parsing、Agentic Retrieverを備えたエンタープライズRAGパイプラインを提供。AgentCoreにはWeb検索や運用観測機能、Amazon Nova基盤モデルのSageMaker AIによる継続事前学習・SFT・DPO・RLHF・蒸留などの本格カスタマイズ機能、QuickSight連携やS3非構造化データ統合も追加された。",
       "category": "company_blog"
-    },
-    {
-      "title": "「ポケカ対戦AIエージェント」開発コンテスト開始 「不完全情報ゲーム」をどう制するか",
-      "title_ja": "「ポケカ対戦AIエージェント」開発コンテスト開始 「不完全情報ゲーム」をどう制するか",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000098/",
-      "date": "2026-06-17",
-      "summary": "株式会社ポケモン、松尾研究所、HEROZの共催で、Kaggleプラットフォーム上のAIエージェント開発コンテスト『ポケモンカードゲーム AI Battle Challenge（ポケカABC）』が6月16日20時に開始した。GoogleとNVIDIAが開催に協力。相手の手札が見えない『不完全情報ゲーム』で意思決定をどう学習させるかが課題で、シミュレーション部門とストラテジー部門の2部門で競う。第一ラウンド上位8チームに賞金3万ドル、第二ラウンド優勝には5万ドルが授与される。チェスや将棋とは異なるゲームAI研究の新たな試金石となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
-      "title_ja": "Cursor、Gitホスティング「Origin」発表 SpaceXによる買収発表直後に",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
-      "date": "2026-06-17",
-      "summary": "AIコードエディタのCursorは6月16日（現地）、サンフランシスコのイベント『Compile』で新たなコードホスティング・Gitホスティングサービス『Origin』を発表した。『エージェント時代のGitフォージ』を掲げ、複数AIエージェントが同時にクローン・ブランチ・コミット・レビューを行う負荷を前提に設計。API/MCP拡張、自動マージコンフリクト解決、エージェントベースのCI失敗解決が特長で、デモでは1リポジトリで毎秒22.6コミットを処理。秋に正式提供予定で、GitHubの強力な対抗馬として日本の開発者にも注目されている。同時にGraphite買収も発表された。",
-      "category": "japan"
-    },
-    {
-      "title": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
-      "title_ja": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news104.html",
-      "date": "2026-06-17",
-      "summary": "XREALは6月17日、サングラス型ディスプレイの新製品『XREAL AURA』を2026年秋に発売すると発表した。GoogleおよびQualcommとの協業で開発された光学シースルー方式のXRグラスで、Android XRとGoogleのAIアシスタント『Gemini』を統合。Snapdragon Reality Eliteを搭載し、91gの軽量フレームに70度の広視野角を実現。米国小売価格は税別1500ドル以下を予定し、日本も初回出荷対象。同日から優先出荷の特典プログラム（15,000円）と発売日出荷を保証する限定パス（45,000円）の予約受付が始まった。マルチモーダルAIを搭載した次世代スマートグラスの本命と位置付けられる。",
-      "category": "japan"
-    },
-    {
-      "title": "Notta、AIエージェント「Notta Brain」に定例タスクやSlack・LINE連携",
-      "title_ja": "Notta、AIエージェント「Notta Brain」に定例タスクやSlack・LINE連携",
-      "source": "Impress Watch",
-      "url": "https://www.watch.impress.co.jp/docs/news/2117922.html",
-      "date": "2026-06-17",
-      "summary": "AI議事録サービスのNottaは6月17日、音声ファーストAIエージェント『Notta Brain』に3つの新機能を追加したと発表した。指定時刻や頻度で自動実行する『定例タスク』、Slackから質問するとNotta内の議事録や資料を基に回答する連携、LINE Bot経由で同様の応答が得られる連携の3点。週次の会議サマリ自動配信や月次レポート生成といったユースケースが可能になり、AIエージェントが日常業務に溶け込むかたちでの自動化を狙う。Notta Brainは2026年1月に正式リリースされて以降、急速に機能拡張を進めている。",
-      "category": "japan"
-    },
-    {
-      "title": "G7エビアン・サミット閉幕、AI首脳ランチでOpenAI・Anthropic・DeepMindトップが参加 日本も枠組み議論に加わる",
-      "title_ja": "G7エビアン・サミット閉幕、AI首脳ランチでOpenAI・Anthropic・DeepMindトップが参加 日本も枠組み議論に加わる",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA1337D0T10C26A6000000/",
-      "date": "2026-06-17",
-      "summary": "フランス・エビアンで6月15日から開催されていた第52回G7サミットが6月17日に閉幕した。マクロン仏大統領の招待でSam Altman氏（OpenAI）、Dario Amodei氏（Anthropic）、Demis Hassabis氏（Google DeepMind）ら10〜15人のテック幹部が初の『AIワーキングランチ』に参加し、フロンティアAIのリスク、インフラ、ソブリン化が議題となった。高市早苗首相も参加し、AIに加え量子、宇宙、半導体分野でのサプライチェーン強靭化に向けた協力強化を表明。日本のAIガバナンスや国産基盤モデル戦略に直結する重要会合となった。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "title_ja": "Anthropic、ソウルオフィスを開設し韓国AIエコシステムとの新たなパートナーシップを発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "date": "2026-06-17",
-      "summary": "Anthropicは東京・ベンガルールに続くアジア太平洋3拠点目としてソウル事務所を正式に開設。NAVER、Samsung SDS、LG CNS、Nexon、Hanwha Solutions、Channel Corpへの企業導入や、KAIST・高麗大・延世大・POSTECHのNational AI Research Lab所属研究者最大60名へのClaude提供、韓国科学技術情報通信部とのMoU締結も同時に発表。代表理事は元Snowflake KoreaのKiYoung Choi氏。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
-      "title_ja": "Microsoft、AIエージェント向けOSレベルサンドボックス『MXC』を発表 — OpenAIやNvidiaも初期パートナーに",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
-      "date": "2026-06-17",
-      "summary": "MicrosoftはBuild 2026で『Microsoft Execution Containers（MXC）』を公開。Windowsカーネルで強制される実行レイヤーとして、AIエージェントがアクセスできるファイル・ネットワーク・アプリをポリシー宣言型で制御する。軽量プロセス分離からマイクロVM、Linuxコンテナまでをカバーする『コンポーザブル・サンドボックス・スペクトラム』を提供。OpenAI、Nvidia、Manus、Nous Research、OpenClawがローンチパートナー。",
-      "category": "international"
-    },
-    {
-      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.16576",
-      "date": "2026-06-17",
-      "authors": "Anonymous (cs.AI, 2026)",
-      "summary": "ツール呼び出し型LLMエージェントが対話を通じて隠れた環境（オートマトン）の世界モデルをどこまで推論できるかを評価。推論モデルは非推論モデルより明確に強いが、軌跡分析からはクエリ計画・証拠統合・仮説構築の段階で系統的な失敗が残ることを明らかにし、エージェントの探索・学習能力の限界と改善余地を提示した。",
-      "category": "arxiv"
     }
   ]
 }

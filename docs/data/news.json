@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-01 09:00 (JST)",
+  "lastUpdated": "2026-07-02 09:00 (JST)",
   "articles": [
+    {
+      "title": "Everything That Happened in AI Today Thursday, July 2, 2026",
+      "title_ja": "2026年7月2日のAI業界動向まとめ Fable 5復活・xAI音声エージェント一般化・NVIDIAフィジカルAI",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+      "date": "2026-07-02",
+      "summary": "The Neuronは7月2日、この日の主要AIニュースを一括レポート。AnthropicがFable 5を停止から復旧させCAISが実業務ベンチマークで首位に、Metaが余剰AIコンピュートの外部販売を開始、xAIがGrok音声エージェントを一般公開、NVIDIAが高速モデルとフィジカルAIを推進。加えてHugging Face×Cerebras×NVIDIA Parakeet×Gemma 4 31B×Qwen3TTSのオープン音声-音声スタック、UBTECH UWORLD U1、Product Hunt首位のエージェントキーボード「Acti」、Fish Audio無料TTS、fal TRELLIS.2 LoRAトレーナー、Mistral OCR 4など資金調達とエージェント基盤の発表を網羅。",
+      "category": "international"
+    },
     {
       "title": "Redeploying Claude Fable 5",
       "title_ja": "Claude Fable 5の提供を再開",
@@ -44,6 +53,60 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000146/",
       "date": "2026-07-01",
       "summary": "ITmedia AI+は7月1日、米商務省がAnthropicの高性能AIモデル「Fable 5」と「Mythos 5」への輸出規制を解除したと報じた。Fable 5は7月2日から全世界のClaude.ai・Claude Platform・Claude Code・Claude Coworkで利用可能となるが、7月7日までは通常の週次利用制限の50%に制限される。Mythos 5は引き続き米国内の特定組織向けの限定提供が継続される。",
+      "category": "japan"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "title_ja": "Google、生成AI「Nano Banana 2 Lite」と動画生成AI「Gemini Omni Flash」の提供を開始",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "date": "2026-07-01",
+      "summary": "Googleは7月1日、Gemini画像生成ファミリー最速・最安の「Nano Banana 2 Lite」（画像1枚あたり約4秒、1,000枚$34）と、動画生成・編集向け「Gemini Omni Flash」（1秒あたり$0.10、最大10秒）を発表した。Google AI Studio・Gemini API・Gemini Enterprise Agent Platformに加え、AI Mode in Search、Gemini app、NotebookLM、Google Photos、Google Adsへ順次展開。Nano Banana 2 Liteで生成した画像を参照入力にOmni Flashへ渡し、そのまま高品質な動画へアニメーションさせる複合ワークフローも可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing the Voice Agent Builder",
+      "title_ja": "xAI、ノーコード音声エージェント作成基盤「Grok Voice Agent Builder」を一般提供",
+      "source": "xAI",
+      "url": "https://x.ai/news/grok-voice-agent-builder",
+      "date": "2026-07-01",
+      "summary": "xAIは7月1日、Grokの音声エージェントを自然言語の説明から約2分で構築できるノーコード基盤「Voice Agent Builder」の一般提供を開始した。単一のspeech-to-speechモデル上で電話回線・RAG・ガードレール・通話ログレビューを統合し、25以上の言語切替、80以上の音声、2分の音声から音声クローン作成に対応。価格は音声$0.05/分、専用電話番号使用時は追加$0.01/分で、アカウント毎に無料番号1本と外部電話なしでのブラウザテストが可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "UBTech Launches UWORLD U1 'Ultra-Bionic Humanoid Robot' Line",
+      "title_ja": "UBTech、大量生産型フルサイズ人型ロボ「UWORLD U1」シリーズを発表 全世界受注1万3000台超に",
+      "source": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/07/01/ubtech-launches-uworld-u1-ultra-bionic-humanoid-robot-line/",
+      "date": "2026-07-01",
+      "summary": "深センで6月30日開催の2026 Global Launch Eventで、UBTechが世界初のフルサイズ量産型ウルトラバイオニック・ヒューマノイド「UWORLD U1」シリーズを正式発表した。半身版U1 Lite、フルボディU1 Pro、高機動U1 Ultraの3モデル構成で価格は11万9800人民元から。88自由度と独自の二軸バイオミメティック頸椎、感情駆動LLM、生体皮膚、専用OSまでを内製したエンドツーエンド設計で、発表当日で累計1万3361台を受注。",
+      "category": "international"
+    },
+    {
+      "title": "Google Launches Fast and Low-Cost Image Generation AI 'Nano Banana 2 Lite' and Video Generation Model 'Gemini Omni Flash'",
+      "title_ja": "Google、高速で低価格な画像生成AI「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」公開",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
+      "date": "2026-07-01",
+      "summary": "ITmedia NEWSは7月1日、Googleが「Nano Banana 2 Lite」と「Gemini Omni Flash」を発表したと報じた。前者はNano Banana系で最速最安の画像モデル（1枚約4秒、1000枚$34）、後者は音声指示による動画生成・編集を可能にする最新Gemini動画モデル（1秒$0.10）で、いずれもGoogle AI Studio・Gemini APIから利用可能。AI Mode検索やGeminiアプリ、NotebookLM、Google Photos、Google広告への段階的統合も進む。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic Releases 'Claude Sonnet 5' - Opus-Class Performance at Lower Price, Separate from Suspended Mythos",
+      "title_ja": "Anthropic、「Claude Sonnet 5」公開──停止中のミュトスとは別にOpus級の性能を低価格で",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
+      "date": "2026-07-01",
+      "summary": "ITmedia NEWSは7月1日、AnthropicがClaude Sonnet 5を発表したと報じた。ツール利用、コーディング、知的作業でSonnet 4.6を上回り、Effort設定を上げるとエージェント系タスクの一部でOpus 4.8に匹敵。API価格は入力$3/百万トークン、出力$15/百万トークン（8月31日まで割引で$2/$10）で、Free/Proの既定モデルにも設定。Artificial Analysisはタスクあたり出力トークン増でSonnet 4.6の約2倍コストになる可能性も指摘。",
+      "category": "japan"
+    },
+    {
+      "title": "Why Sakana AI Chose Google Cloud as the Foundation for 'Fugu' - Beyond Just Ex-DeepMind Ties",
+      "title_ja": "Sakana AIはなぜ「Fugu」の基盤にGoogle Cloudを選んだのか 「元DeepMindだから」だけじゃない",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000149/",
+      "date": "2026-07-01",
+      "summary": "ITmedia AI+は7月1日、Sakana AIがFugu系モデル群のインフラにGoogle Cloudを採用した背景を解説。TPU v7の大規模アクセスと日本語データ主権対応、共同マーケティング権を確保しやすい戦略パートナー枠、自律モデル・オーケストレーションで前提となる異種アクセラレータ抽象化の容易さが鍵。旧DeepMind出身メンバーが多い技術的親和性以外に、Fugu Ultra等の学習・サービング効率を左右する要素として選定されたと分析している。",
       "category": "japan"
     },
     {
@@ -270,6 +333,16 @@
       "date": "2026-06-29",
       "authors": "Ting-Wen Ko, Jonas Geiping",
       "summary": "7つのLLMと20件の論争的トピックでセルフプレイ／混合プレイ討論を比較し、各モデル固有の「アトラクタ状態」が存在することを示した。たとえばClaude Haikuは強いアトラクタとして他モデルをメタコメント的特性へ引き寄せ、GPT-4.1 nanoは特に影響を受けやすいなど、モデル間相互作用の非対称性を可視化した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents",
+      "title_ja": "常時稼働エージェント：LLMエージェントの永続メモリ・状態・ガバナンスに関するサーベイ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30306",
+      "date": "2026-06-29",
+      "authors": "Tianyu Ding, Aditya Nannapaneni, Bingfan Liu, Ling Zhang",
+      "summary": "arXiv 2606.30306は、常時稼働型LLMエージェントを「相互作用を跨いで永続する状態」に依存するシステムとして再定義し、435件の論文を体系整理した最新サーベイ。取得可能メモリ、タスク台帳、権限、認証情報、コミットメント、来歴・監査記録、共有状態、トリガー条件などをauthority/scope/mutability/provenance/recoverability/actionabilityの6軸で評価し、書き込み→検証→整理→検索→行動→更新→忘却→監査→ロールバックのライフサイクル観点で議論。既存研究は蓄積と検索に集中し、ガバナンス・回復・放棄の設計が手薄と結論付けている。",
       "category": "arxiv"
     },
     {
@@ -1660,78 +1733,6 @@
       "date": "2026-06-18",
       "summary": "RLVR（検証可能報酬による強化学習）におけるエントロピー崩壊と発散の二重問題に対し、トークン分布の特性に焦点を移す『Independent Combinatorial Tokens (ICT)』フレームワークを提案。Jensen-Shannon発散を用いて分岐点となる重要トークンを特定し、選択的に最適化を行うことで安定したLLM推論探索を実現。Shannon/Rényiエントロピーに基づく理論保証も提示し、推論モデルの強化学習最適化に新たな方向性を示す。",
       "category": "arxiv"
-    },
-    {
-      "title": "Multi-Agent Transactive Memory",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19911",
-      "date": "2026-06-18",
-      "authors": "To Eun Kim, Xuhong He, Dishank Jain, Ambuj Agrawal, Negar Arabzadeh, Fernando Diaz",
-      "summary": "カーネギーメロン大学とUCバークレーの研究チームが、複数エージェントが生成した軌跡を集団レベルで共有・再利用する「Multi-Agent Transactive Memory (MATM)」フレームワークを提案。1回限りで破棄されがちな手続き的知識を共有メモリ化し、新規エージェントの立ち上げ性能を高める枠組み。",
-      "category": "arxiv"
-    },
-    {
-      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18394",
-      "date": "2026-06-18",
-      "summary": "推論加速の投機的デコーディングで、ヘッドベースのドラフター「JetSpec」を提案。並列ツリードラフトと因果条件付けを組み合わせ、低コストで多数の候補トークンを生成しつつパス間の依存関係を保持。GPU負荷の小〜中規模域でベースライン投機的デコーディングを一貫して上回り、現実的なサービング環境でのLLMレイテンシ削減効果を示した(vLLM統合実装も公開)。",
-      "authors": "Lanxiang Hu et al. (hao-ai-lab)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Benchmarking Agentic Review Systems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19749",
-      "date": "2026-06-18",
-      "authors": "Anonymous (arXiv submission)",
-      "summary": "学術論文の査読プロセスにかかる負荷を緩和するために開発が進む「Agentic Review Systems（査読エージェント）」を体系的に評価するベンチマーク。査読の網羅性・誤検出率・推論の質・専門家評価との一致度などを多軸で測定し、フロンティアLLMをコアにした査読エージェント群の現実的な強みと限界を可視化した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Why Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-      "title_ja": "VentureBeat：Weiboの30億パラメータ『VibeThinker-3B』がベンチマーク論争を再燃",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-      "date": "2026-06-17",
-      "summary": "中国Sina Weiboの研究チームがarXivに発表した30億パラメータの推論モデル『VibeThinker-3B』が、AIME 2026で94.3、LiveCodeBench v6で80.2 Pass@1を記録し、671B規模のDeepSeek V3.2に肩を並べる成績を示した。Qwen2.5-Coder-3Bをベースに、カリキュラム型SFT・多領域RL・オフライン自己蒸留を組み合わせた手法で、MITライセンスで重みも公開。一方で『ベンチマーク偏重』『実用性とのギャップ』を巡る議論も再燃している。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic asked for regulation. Washington went much further",
-      "title_ja": "CNBC：Anthropicが望んだ『AI規制』、ワシントンが想定をはるかに超える形で実現",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
-      "date": "2026-06-17",
-      "summary": "CNBCが、安全性とAI規制の必要性を訴え続けてきたAnthropicが、結果的にトランプ政権から想定外に強硬な輸出管理指令を受けた皮肉な構図を分析。同社は最近時価総額1兆ドル近くに迫る評価を得ていたが、政権が10日前に署名したAI大統領令の延長線上でFable 5/Mythos 5の停止を命じられた。Anthropicは大統領令を『重要な一歩』と称賛していただけに、規制を求めて推進してきた企業が最も厳しい措置の対象となる典型例として注目を集めている。",
-      "category": "international"
-    },
-    {
-      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
-      "title_ja": "CNBC：AnthropicのAmodeiとDeepMindのHassabis、G7で『米国主導のAI連合』を提唱",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
-      "date": "2026-06-17",
-      "summary": "フランスで開催中のG7サミットで、AnthropicのDario Amodei CEOとGoogle DeepMindのDemis Hassabis CEOがトランプ大統領を含む各国首脳・テック企業幹部との会合で、AIのルールと標準を米国主導で形成する国際連合の必要性を訴えた。Anthropicが直前にFable 5/Mythos 5の輸出管理問題で米政府と対立しているなかでの発言で、規制の方向性と地政学的競争を巡る業界の立ち位置に注目が集まっている。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Gemini 3 Flash: Frontier intelligence built for speed",
-      "title_ja": "Gemini 3 Flash発表：スピード重視で構築されたフロンティア知能",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-      "date": "2026-06-17",
-      "summary": "Google DeepMindはGemini 3ファミリーを拡張し、Pro級の推論能力とFlash級のレイテンシ・効率・コストを両立させた『Gemini 3 Flash』を公開。GPQA Diamondで90.4%、Humanity's Last Exam（ツール無し）で33.7%を達成し、より大型のフロンティアモデルに匹敵すると主張。GeminiアプリやAI Mode、Gemini API、Vertex AI、Gemini Enterpriseなどで世界展開を開始した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Top announcements of the AWS Summit in New York, 2026",
-      "title_ja": "AWS Summit ニューヨーク 2026 の主要発表まとめ",
-      "source": "AWS",
-      "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
-      "date": "2026-06-17",
-      "summary": "AWSはニューヨークサミットで多数のAI関連新機能を発表。Amazon Bedrock Managed Knowledge Baseはネイティブデータコネクタ、Smart Parsing、Agentic Retrieverを備えたエンタープライズRAGパイプラインを提供。AgentCoreにはWeb検索や運用観測機能、Amazon Nova基盤モデルのSageMaker AIによる継続事前学習・SFT・DPO・RLHF・蒸留などの本格カスタマイズ機能、QuickSight連携やS3非構造化データ統合も追加された。",
-      "category": "company_blog"
     }
   ]
 }

@@ -1,6 +1,52 @@
 {
-  "lastUpdated": "2026-07-02 09:00 (JST)",
+  "lastUpdated": "2026-07-03 09:00 (JST)",
   "articles": [
+    {
+      "title": "Everything That Happened in AI Today: Friday, July 3, 2026",
+      "title_ja": "2026年7月3日のAI業界動向まとめ AI由来脆弱性が急増・Cloudflareが新AI制御・Metaの再編後退",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
+      "date": "2026-07-03",
+      "summary": "The Neuronは7月3日、この日の主要AIニュースを一括レポート。AI支援の脆弱性発見が急増し、6月には21組織が高深刻度・重大度CVE約1500件を公表。Cloudflareはサイトオーナー向けにAI trafficをSearch/Agent/Trainingの3カテゴリで区分する新機能を全プランに提供し、広告収益化ページを保護。Meta CEOザッカーバーグは社内タウンホールで「再編は結実していない」と発言（CNBC/Reuters報道）。Redditでは「Claude Code 10年以上経験」を求めるYahooの求人票がAIツール要件のカーゴカルト化を象徴するとして拡散。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today July 3 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月3日のAIニュース トップ15 Fable 5世界復帰・Claude Science助成金・BLS雇用統計ショック",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
+      "date": "2026-07-03",
+      "summary": "Build Fast with AIは7月3日、この日の重要AI 15ストーリーをまとめた。Claude Fable 5が7月1日に米商務省の輸出規制解除を受け全世界復帰。AnthropicはClaude Scienceを通じ最大50件のAI for Scienceプロジェクトに1件$3万のAPIクレジットを提供（応募締切7月15日）。米労働統計局の6月雇用統計は+5.7万人と市場予想18.5万人を大幅に下回り、AIによる雇用置き換えが政策議論の中心に。Menlo Venturesは50年史上最大の$30億ファンドをAnthropic投資益で組成し、フロンティアAIモデルの自主基準は8月1日期限に近づく。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic engineer: Making Claude Fable 5 a standard subscription feature after July 8",
+      "title_ja": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
+      "date": "2026-07-03",
+      "summary": "ITmedia AI+は7月3日、Anthropicのエンジニアが7月7日で終了する「Fable 5」の週次上限50%開放（Pro/Max/Team向け無償試用）を、7月8日以降はサブスクリプションプランの標準機能として組み込む方針をXで示したと報じた。現在は輸出規制解除直後の一時措置として提供されているが、Anthropicは需要と安全分類器の実運用データを踏まえて通常のプラン内での恒常提供に切り替える意向。従量課金への完全移行を懸念していたユーザーへの応答となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Has Claude Fable 5's performance declined? Two US AI firms compare before and after suspension",
+      "title_ja": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
+      "date": "2026-07-03",
+      "summary": "ITmedia AI+は7月3日、Fable 5復活後の性能を停止前と比較した米AI企業2社（Center for AI Safety/Scale AI Labs、Cursor）の検証結果を報じた。Remote Labor Indexでは公開モデル中トップの16.1%（240件の実務プロジェクト）を維持、CursorBenchでも全モデル首位を維持しており、Anthropicが導入した新サイバーセキュリティ分類器による偽陽性の影響は限定的だと結論。ただし通常のコーディング要求で分類器が保守的に働く場面が一部確認され、Anthropicは継続的にファインチューニングを進める方針。",
+      "category": "japan"
+    },
+    {
+      "title": "Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks",
+      "title_ja": "オープンソース・マルチエージェントフレームワークの採用とエコシステム健全性 縦断的分析",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02453",
+      "date": "2026-07-03",
+      "summary": "arXiv 2607.02453はオープンソースLLMマルチエージェントフレームワーク（LangGraph、AutoGen、CrewAI、Agno、OpenAI Swarm等）の長期追跡データを解析し、採用曲線・コミッタ多様性・依存グラフ・イシュー解決速度・APIブレーク頻度からエコシステム健全性を定量化。フレームワーク間で採用と保守活動が乖離するケース（採用ハイプ後に離脱率上昇）を検出し、コアメンテナ集中度と長期健全性の間に明確な負の相関を確認。エンタープライズがフレームワーク選定時に評価すべき指標のフレームワークを提案する。",
+      "authors": "Xi Zhang, Papi Menon, Vivian Chu, Koray Cosguner",
+      "category": "arxiv"
+    },
     {
       "title": "Everything That Happened in AI Today Thursday, July 2, 2026",
       "title_ja": "2026年7月2日のAI業界動向まとめ Fable 5復活・xAI音声エージェント一般化・NVIDIAフィジカルAI",
@@ -8,6 +54,69 @@
       "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
       "date": "2026-07-02",
       "summary": "The Neuronは7月2日、この日の主要AIニュースを一括レポート。AnthropicがFable 5を停止から復旧させCAISが実業務ベンチマークで首位に、Metaが余剰AIコンピュートの外部販売を開始、xAIがGrok音声エージェントを一般公開、NVIDIAが高速モデルとフィジカルAIを推進。加えてHugging Face×Cerebras×NVIDIA Parakeet×Gemma 4 31B×Qwen3TTSのオープン音声-音声スタック、UBTECH UWORLD U1、Product Hunt首位のエージェントキーボード「Acti」、Fish Audio無料TTS、fal TRELLIS.2 LoRAトレーナー、Mistral OCR 4など資金調達とエージェント基盤の発表を網羅。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI proposes US government own 5% stake to address political blowback",
+      "title_ja": "OpenAI、米政府に5%出資を提案 政治的圧力への対応策としてFT報道",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "date": "2026-07-02",
+      "summary": "CNBCは7月2日、OpenAIが米国政府（トランプ政権）に対し同社株式の5%（直近の$8520億評価で約$426億相当）を譲渡する提案を行ったとFTの報道を引用して報じた。Sam Altman CEOはAIの果実を国民と共有する最善策と主張し、Anthropic・Google・MetaなどのAI各社にもソブリンウェルスファンド経由で同様の出資構造を求める青写真。2025年初頭以来1年以上続く政府出資交渉の一環で、トランプ大統領はAI企業への国家持分を「美しい」と評価してきた。",
+      "category": "international"
+    },
+    {
+      "title": "Sam Altman seeks new world order for AI as OpenAI slowly loses ground to Google and Anthropic",
+      "title_ja": "OpenAIがGoogle・Anthropicに押される中、Sam Altmanが「AIの新世界秩序」を模索",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
+      "date": "2026-07-02",
+      "summary": "Fortuneは7月2日、Sam AltmanがOpenAIの相対的な後退を背景にAI業界の「新世界秩序」を模索していると論じた。AnthropicはClaude Sonnet 5/Fable 5復活・企業向け好調な収益で自己申告売上でOpenAIを上回り、5月時点で2029年黒字化・年間収益$470億到達を予告。GoogleはGemini 3ファミリーを価格スケール戦略で展開しシェアを拡大。政府出資・自主基準・IPO準備が絡み合い、Altmanは規制と資本両面での再編を模索している。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "title_ja": "Anthropic、Amazon BedrockとGoogle Cloud向け「Claude apps gateway」を発表",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "date": "2026-07-02",
+      "summary": "Anthropicは、Claude CodeをAmazon Bedrock/Google Cloud/Claude API/Microsoft Foundry上で企業SSO・中央ポリシー・ロールベースアクセス・ユーザー毎コスト計上を統合運用できるセルフホスト型コントロールプレーン「Claude apps gateway」を発表した。単一ステートレスコンテナ+PostgreSQLで動作し、Google Workspace/Entra ID/Okta等OIDCプロバイダとのOIDC RPとして機能。組織・グループ・ユーザー単位で日次/週次/月次のスペンドキャップを設定でき、Claude APIを選ばない限り推論データはAnthropicに送信されない。プロトコルも公開され他ゲートウェイ実装が可能。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Claude support for Apple's Foundation Models framework",
+      "title_ja": "AnthropicがApple Foundation Modelsフレームワーク対応、SwiftUIから直接Claudeを呼び出し可能に",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "date": "2026-07-02",
+      "summary": "AnthropicはApple Foundation Modelsフレームワークに対応するSwiftパッケージ「ClaudeForFoundationModels」をベータ公開した。iOS 27・iPadOS 27・macOS 27・visionOS 27・watchOS 27で、Appleオンデバイスモデルと同じLanguageModelSession API（respond(to:)/ストリーミング/ガイド生成/ツール呼び出し）でサーバーサイドClaudeを利用可能。ウェブ検索・ウェブフェッチ・コード実行などのサーバーサイドツールも1往復で実行できる。リクエストはアプリから直接Claude APIへ送られAppleは経由せず、課金は標準API料金でAnthropicアカウントに請求される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "New analytics and cost controls are available for Claude Enterprise",
+      "title_ja": "AnthropicがClaude Enterpriseに管理者向け詳細アナリティクスとスペンドアラートを追加",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+      "date": "2026-07-02",
+      "summary": "AnthropicはClaude Enterpriseに、グループ/ユーザー別のコスト・利用状況（作成アーティファクト・編集ファイル・使用スキル/コネクタ）を可視化するアナリティクスダッシュボード、チャット/Cowork/Claude Code横断でモデル既定と権限を制御するモデルエンタイトルメント、組織スペンド上限の75%/90%で管理者に通知するアラート、Admin APIによるスクリプト運用を追加。ユーザーは75%/95%閾値で通知され、離脱せずに上限引き上げをリクエスト可能。エージェント化で通常チャットとは異なる利用/コストパターンとなる状況に対応する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Restored 'Fable 5': How Anthropic responded to the US Government's directive",
+      "title_ja": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "date": "2026-07-02",
+      "summary": "ITmedia NEWSは7月2日、Anthropicが米商務省の輸出規制解除を受けてClaude Fable 5を再展開するに至った経緯を解説した。Fable 5は6月10日リリース、3日後にAmazon研究者が発見した脆弱性発見手法を受けて商務省が輸出規制を発令。AnthropicはOpus 4.8・GPT-5.5・Kimi K2.7でも同じ手法が有効で「Mythos級固有の問題ではない」と検証し、報告されたバイパス手法を99%以上遮断する改良版セーフティ分類器を実装。有償プラン（Pro/Max/Team/一部Enterprise）で7月7日まで週次上限50%で先行開放、以降は従量課金となる。",
+      "category": "japan"
+    },
+    {
+      "title": "Cloudflare changes AI crawler access rules",
+      "title_ja": "Cloudflare、AIクローラのアクセスルールを変更 用途別ブロック・監視を全顧客に開放",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/07/02/cloudflare-ai-crawler-controls/",
+      "date": "2026-07-02",
+      "summary": "Help Net Securityは7月2日、CloudflareがAIクローラを「Search/Agent/Training」の3カテゴリに分類して制御する新オプションを発表したと報じた。無料プラン含む全顧客が対象で、多目的クローラは複数ポリシー横断で評価される。9月15日以降、新規ドメインでは広告収益化ページでTrainingとAgentが既定でブロックされ、収益依存のパブリッシャーがAI経由の無償スクレイピングを制御しやすくなる。BotBase（Enterprise Bot Management向けの既知ボット検索カタログ）も同時公開され、検出ID・分類・トラフィック追跡を統合的に扱える。",
       "category": "international"
     },
     {
@@ -108,6 +217,25 @@
       "date": "2026-07-01",
       "summary": "ITmedia AI+は7月1日、Sakana AIがFugu系モデル群のインフラにGoogle Cloudを採用した背景を解説。TPU v7の大規模アクセスと日本語データ主権対応、共同マーケティング権を確保しやすい戦略パートナー枠、自律モデル・オーケストレーションで前提となる異種アクセラレータ抽象化の容易さが鍵。旧DeepMind出身メンバーが多い技術的親和性以外に、Fugu Ultra等の学習・サービング効率を左右する要素として選定されたと分析している。",
       "category": "japan"
+    },
+    {
+      "title": "Your site, your rules: new AI traffic options for all customers",
+      "title_ja": "Cloudflare、AIクローラを「Search/Agent/Training」の3区分で制御する新機能を全プランに提供",
+      "source": "Cloudflare",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "date": "2026-07-01",
+      "summary": "Cloudflareは7月1日、AIクローラを用途別に「Search（コンテンツ収集・索引化）」「Agent（人の代理で即時実行）」「Training（モデル学習・微調整用データ収集）」の3カテゴリで管理する機能を無料プラン含む全顧客に提供開始した。9月15日からは新規ドメインに対し広告表示ページでTrainingとAgentを既定でブロックし、Searchは既定で許可。TrainingをブロックするとGooglebot/Applebot/BingBot等の多目的クローラも遮断される。Enterprise Bot Management向けにはBotBase（既知ボットの検索可能カタログ）も導入。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
+      "title_ja": "エージェントはオープンワールドで汎化できるか？ツール使用における静的学習の脆弱性",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.01084v1",
+      "date": "2026-07-01",
+      "summary": "arXiv 2607.01084はLLMエージェントが静的な学習環境で獲得したツール使用能力がユーザークエリ・ツールセット・対話動態の動的変化に脆弱であることを示し、「Tool-Use Agent in Open-World（OpenAgent）」という新たな問題設定を導入。オープンワールド設定でエージェントの一般化性能を評価するベンチマークを構築し、既存のツール学習手法・SFT・DPO・GRPOに大幅な劣化があることを実験的に確認。ツール仕様変更・新規ドメイン適応時の失敗パターンを分類し、動的環境向けの学習戦略を提案する。",
+      "authors": "arXiv preprint",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -1607,132 +1735,6 @@
       "date": "2026-06-18",
       "summary": "Mira Murati率いるThinking Machines Labが最初のモデル『TML-Interaction-Small』を発表。MoEアーキテクチャで総2,760億パラメータ・有効120億、200msチャンクで入出力を同時処理する全二重設計を採用。ターンテイキング遅延0.40秒で、FD-bench V1.5ではGPT-Realtime-2の47.8を大きく上回る77.8を記録。今後、限定的なリサーチプレビューでフィードバックを収集する。",
       "category": "international"
-    },
-    {
-      "title": "xAI Grok models land natively on Databricks Agent Bricks at the 2026 Data + AI Summit",
-      "title_ja": "xAI、GrokモデルをDatabricks Agent Bricksにネイティブ統合 — 2026 Data + AI Summitで発表",
-      "source": "Databricks",
-      "url": "https://www.databricks.com/blog/agent-bricks-dais-2026",
-      "category": "company_blog",
-      "date": "2026-06-18",
-      "summary": "Databricksは年次イベントData + AI Summit 2026で、xAIのGrokモデルをAgent Bricksプラットフォーム上で直接利用可能にすると発表。あわせてAgent Bricksの開発者向け統合エージェント基盤としての拡張、AIガバナンス向けの新コスト制御・スマートルーティング・AI支出可視化機能、Azure Databricksの企業データ高速化・セキュリティ強化、Automatic Identity Management等の新セキュリティ・コンプライアンス機能も公開された。"
-    },
-    {
-      "title": "「AIコーディング」がたった5年で急進化したワケ NTT「tsuzumi 2」開発者が分析：Interop Tokyo 2026",
-      "title_ja": "「AIコーディング」がたった5年で急進化したワケ NTT「tsuzumi 2」開発者が分析：Interop Tokyo 2026",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
-      "date": "2026-06-18",
-      "summary": "幕張メッセで開催中のInterop Tokyo 2026に登壇したNTTの『tsuzumi 2』開発担当者が、生成AIによるコード生成・コーディング支援がわずか5年で急速に進化した要因を解説。日本語・英語両対応で軽量・省電力を重視するtsuzumi 2のアーキテクチャや、エージェント連携・ツール使用の文脈での実装上の知見を共有した。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
-      "title_ja": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
-      "date": "2026-06-18",
-      "summary": "Anthropicが『Claude Design』のベータ機能を強化。Claude Codeとの双方向連携でデザインとコードを行き来でき、Canva等の外部ツールへの出力も可能になった。マーケティング素材やUIコンポーネントの試作を会話的に進められるようになり、デザイン・開発の境界を曖昧にする動きが進む。",
-      "category": "japan"
-    },
-    {
-      "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
-      "title_ja": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
-      "date": "2026-06-18",
-      "summary": "OpenAIがChatGPTに『Scheduled tasks』機能を追加。指定時刻にリマインダーや定常タスク、状況監視を自動実行させることができ、エージェント的なバックグラウンド実行をChatGPT本体で完結できるようになった。ユーザーは自然言語で繰り返しタスクを設定でき、ニュースや株価の監視といったユースケースに広がる見込み。",
-      "category": "japan"
-    },
-    {
-      "title": "「Adobe Creative Cloud」全体でAIエージェントが利用可能に Firefly AIアシスタントの機能も強化",
-      "title_ja": "「Adobe Creative Cloud」全体でAIエージェントが利用可能に Firefly AIアシスタントの機能も強化",
-      "source": "ITmedia PC USER",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news116.html",
-      "date": "2026-06-18",
-      "summary": "AdobeがCreative Cloud全体でAIエージェントを利用可能にすると発表。Premiere Pro、Photoshop、Illustrator、InDesign、Frame.ioにエージェントが組み込まれ、Firefly AIアシスタントの機能も強化された。アプリ横断のオーケストレーションが可能になり、個人クリエイターから企業マーケティングチームまで幅広い活用が期待される。",
-      "category": "japan"
-    },
-    {
-      "title": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
-      "title_ja": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-      "date": "2026-06-18",
-      "summary": "Anthropicの『Claude』が6月18日に一時的に応答遅延・エラーが多発し、SNS上で『動かない』『落ちた？』という声が相次いだ。同社のステータスページ上で障害が認識され、その後復旧した。エンタープライズ用途でClaudeに依存するワークフローが増えており、可用性への関心が改めて高まっている。",
-      "category": "japan"
-    },
-    {
-      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18249",
-      "date": "2026-06-18",
-      "authors": "Wujian Peng et al.",
-      "summary": "視覚理解と画像生成を1つの自己回帰枠組みで統一するため、文脈と視覚を共有する単一トークナイザを提案。理解と生成の表現を分離せずに学習することで、両タスクで競争力ある性能を達成し、ICML 2026に採択された。マルチモーダル基盤モデルにおける『理解と生成の二重統合』の方向性を後押しする研究。",
-      "category": "arxiv"
-    },
-    {
-      "title": "The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.18192",
-      "date": "2026-06-18",
-      "authors": "Stanford EDGAR Dataset team",
-      "summary": "公開Webコーパスの枯渇が進む中、米SEC EDGARに登録された企業・金融開示文書をレイアウト忠実かつトークン効率的に再構成したLLM事前学習用データセットを公開。表組み・脚注・参照リンクを保持しつつ、無駄なトークン消費を抑える前処理パイプラインを示し、金融ドメイン特化LLMの再現性ある学習基盤として位置づけられる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea's AI Innovation",
-      "title_ja": "SK TelecomとNVIDIA、韓国にギガワット級『AIファクトリー』クラウドを構築",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
-      "date": "2026-06-18",
-      "summary": "NVIDIAとSK Telecomは、NVIDIA DSXプラットフォームを用いて韓国にギガワット級のAIクラウドを段階的に構築する計画を発表。2027年に最初のAIファクトリーが稼働予定で、ソブリンAI・フィジカルAI・エージェンティックAIサービスを韓国企業・産業に提供する基盤となる。SK Telecomの通信網・データセンター・エンタープライズ資産を活かし、最終的にはアジア地域へのAIインフラ展開を目指す。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
-      "title_ja": "NAVER、NVIDIAとソブリンAI基盤を拡大 — HyperCLOVA XをNemotron 3 Ultraで強化",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/naver-ai-infrastructure",
-      "date": "2026-06-18",
-      "summary": "NAVERはNVIDIA DSXプラットフォームを用い、55MWからスタートしてギガワット級へ段階拡張するソブリンAIインフラ構築を発表。Naver CloudはNVIDIAのオープンLLM『Nemotron 3 Ultra』を活用してHyperCLOVA Xを進化させ、欧州・中東を含むソブリンAI需要に応える基盤に位置づける。GAK世宗から拡張するAIファクトリー構想と、フィジカルAIプラットフォーム『Cosmos』で構築した『Seoul World Model』も併せて言及された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic, Trump officials working toward deal to restore Fable 5 and Mythos 5",
-      "title_ja": "Anthropicとトランプ政権関係者、Fable 5/Mythos 5の復帰へ向け協議継続 — 共同リスクフレームワーク策定中",
-      "source": "The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropic-trump-officials-deal-restore-fable-5-mythos-5/",
-      "date": "2026-06-18",
-      "summary": "AnthropicとTrump政権高官が、6月12日の輸出規制で停止されたClaude Fable 5/Mythos 5の復帰に向けた協議を継続。ホワイトハウスとAnthropicはAIセキュリティ欠陥の重大度を評価し、政府がいつ介入すべきかを今後の事例にも適用できる『共同リスクフレームワーク』を起草中。アクセス復帰への明確な道筋を提示するもので、技術スタッフのワシントン入りに続く動きとなる。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing ChatGPT Health",
-      "title_ja": "OpenAI『ChatGPT Health』発表 — 健康情報統合とGPT-5.5 Instantの医療品質ガイダンス強化",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-health/",
-      "date": "2026-06-18",
-      "summary": "OpenAIは健康情報とChatGPTの知能を安全に統合する『ChatGPT Health』を発表。同時にGPT-5.5 Instantをアップデートし、緊急ケアの認識・不確実性の取り扱い・コンテキスト収集の質を向上させ、無料ユーザーにも医療品質のガイダンスを提供開始。OpenAIによれば毎週2億3千万人以上がChatGPTに健康・ウェルネス質問を投げかけており、医療AIの主流化を後押しする動きとなる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "title_ja": "OpenAI、希少遺伝性疾患の小児18症例を新規診断 — Boston Children's/Harvardとの共同研究をNEJM AIで発表",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases/",
-      "date": "2026-06-18",
-      "summary": "Boston Children's HospitalとHarvardの研究者がOpenAIのo3 Deep Researchモデルを活用し、専門医による初期解析でも未診断のまま残されていた小児希少遺伝性疾患376症例を再評価。臨床確認を経て18件の新規診断（追加診断率4.8%）に到達した。神経発達障害、希少神経筋疾患、小児突然死、若年発症精神病など多岐にわたる疾患に診断が及び、AI支援リサーチワークフローが診断難症例の打開につながる可能性を示した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
-      "title_ja": "Beyond Entropy：トークン分布の偏差から学習するLLM推論強化フレームワーク『ICT』",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19771",
-      "date": "2026-06-18",
-      "summary": "RLVR（検証可能報酬による強化学習）におけるエントロピー崩壊と発散の二重問題に対し、トークン分布の特性に焦点を移す『Independent Combinatorial Tokens (ICT)』フレームワークを提案。Jensen-Shannon発散を用いて分岐点となる重要トークンを特定し、選択的に最適化を行うことで安定したLLM推論探索を実現。Shannon/Rényiエントロピーに基づく理論保証も提示し、推論モデルの強化学習最適化に新たな方向性を示す。",
-      "category": "arxiv"
     }
   ]
 }

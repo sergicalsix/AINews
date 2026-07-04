@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-03 09:00 (JST)",
+  "lastUpdated": "2026-07-04 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today July 4 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月4日のAIニュース トップ15 Grok 4.5秘匿ベータ・中国製1.6TモデルOSS化・OpenAIが政府に5%株式提案",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
+      "date": "2026-07-04",
+      "summary": "Build Fast with AIは7月4日、この日の重要AI 15ストーリーをまとめた。Grok 4.5はSpaceXとTesla社内で秘匿ベータ運用開始（公開ベンチマークなし、Musk氏はOpus超えと主張）。中国MeituanのLongCat-2.0（1.6T MoE）がAscend 910 5万枚クラスタで完全に国産チップだけで学習された初のフロンティア級モデルとしてMITライセンス公開。OpenAIは米政府に対しAI大手各社が5%の株式をアラスカ永久基金型の政府向けビークルに拠出する構想を提示（AnthropicはFT報道で否定）。VC投資は上半期で世界$5100億、OpenAI/Anthropic 2社で$2170億（43%）を占めた。Anthropicは中国企業がSingapore法人・VPN・クラウド代理経由でClaudeを使う抜け道の閉塞を強化中。",
+      "category": "international"
+    },
     {
       "title": "Everything That Happened in AI Today: Friday, July 3, 2026",
       "title_ja": "2026年7月3日のAI業界動向まとめ AI由来脆弱性が急増・Cloudflareが新AI制御・Metaの再編後退",
@@ -45,6 +54,50 @@
       "date": "2026-07-03",
       "summary": "arXiv 2607.02453はオープンソースLLMマルチエージェントフレームワーク（LangGraph、AutoGen、CrewAI、Agno、OpenAI Swarm等）の長期追跡データを解析し、採用曲線・コミッタ多様性・依存グラフ・イシュー解決速度・APIブレーク頻度からエコシステム健全性を定量化。フレームワーク間で採用と保守活動が乖離するケース（採用ハイプ後に離脱率上昇）を検出し、コアメンテナ集中度と長期健全性の間に明確な負の相関を確認。エンタープライズがフレームワーク選定時に評価すべき指標のフレームワークを提案する。",
       "authors": "Xi Zhang, Papi Menon, Vivian Chu, Koray Cosguner",
+      "category": "arxiv"
+    },
+    {
+      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model trained entirely on Chinese chips",
+      "title_ja": "Meituan、1.6T級エージェント特化コーディングモデルLongCat-2.0を国産チップだけで学習しMITライセンスOSS化",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+      "date": "2026-07-03",
+      "summary": "VentureBeatは7月3日、Meituanが1.6TパラメータMoE（トークン毎33〜56Bアクティブ）で1Mトークン・コンテキストのエージェント特化コーディングモデルLongCat-2.0をHugging Faceで公開したと報じた。OpenRouterで2カ月間コードネーム「Owl Alpha」として世界1位を独走していた実績があり、SWE-bench Proで59.5、Terminal-Benchで70.8を記録。訓練はAscend 910搭載5万枚のドメスティック・クラスタ上で最初から最後まで実施され、Nvidia H100/A100やAMD MI300Xなど禁輸対象GPUを一切使わず完全に中国国内チップだけでフロンティア級モデルを学習した初の事例となった。重みはMITライセンスで即時商用可。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Moves to Block Chinese Firms Using Claude via Offshore Workarounds",
+      "title_ja": "Anthropic、中国企業のClaudeアクセス抜け道を封鎖 Singapore法人・VPN・クラウド代理経由を検知強化",
+      "source": "BanklessTimes",
+      "url": "https://www.banklesstimes.com/articles/2026/07/03/anthropic-moves-to-block-chinese-firms-using-claude-via-offshore-workarounds/",
+      "date": "2026-07-03",
+      "summary": "BanklessTimesは7月3日、AnthropicがFT報道を受け中国企業のClaude利用の抜け道を全面封鎖する体制に入ったと報じた。対象はAnt GroupがSingapore法人経由で従業員に配布していた社内Claudeアカウント、ByteDance社員がVPN経由で購入し会社費用で精算していた個人サブスク、Microsoft Azureなどクラウドの海外登録プロキシから購入されていたAPIアクセス、そして中国本土からのリクエストを海外Claudeアカウントに中継する「transfer station」サービスを含む。検知強化としてタイムゾーン・利用パターンの相関分析に加え、第三者IDプラットフォームPersonaによる政府発行ID検証を高頻度プロキシ利用が疑われる商用アカウントに義務付ける。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
+      "source": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+      "date": "2026-07-03",
+      "summary": "ITmedia NEWSは7月3日、Microsoftが$25億（約4000億円）を投じ約6000人規模のAIエンジニアリング組織「Microsoft Frontier Company」を新設したと報じた。既存エンジニアリング部門とForward Deployed Engineering（FDE）チームを核とし、業界ドメイン知識と継続改善能力を組み合わせて顧客サイトに常駐派遣、AIシステムの共同設計・開発・展開・改善を担う。「業界最大規模・最高水準のエンジニアリング組織」を掲げ、OpenAI・AWS等の同種オファリングに真っ向から対抗する。エンタープライズのAI導入を「実験」から「業務インフラ」へ移す市場フェーズに合わせた組織転換となる。",
+      "category": "japan"
+    },
+    {
+      "title": "2026年7月3日 AIニュース：企業AI、エージェント基盤、生成メディア、AIインフラ、規制対応が運用段階へ",
+      "source": "eguweb",
+      "url": "https://eguweb.jp/ai/81123/",
+      "date": "2026-07-03",
+      "summary": "eguwebは7月3日、この日のAI業界動向を「実験から業務インフラへ」という軸で総括した。（1）OpenAI×HPが大企業のAI利用を「部署ごとの試用」から「全社の運用モデル」へ移行、（2）Google Cloudがエージェント競争軸を知識・セキュリティ・開発基盤の3層に転換、（3）生成メディアは速度だけでなく真正性と権利管理が標準機能に、（4）NVIDIAのAIインフラは「GPUを買う話」から「推論キャパシティを調達する話」へ、（5）EUのGPAI Code of Practiceを軸にAIモデル提供者と利用企業双方に説明責任が求められる段階へ入った、と整理している。",
+      "category": "japan"
+    },
+    {
+      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "title_ja": "誰も見ていない時にLLMエージェントは何を語るか マルチエージェント議論に現れる社会構造と潜在的目的",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02507",
+      "date": "2026-07-03",
+      "summary": "arXiv 2607.02507は、外部評価者や監督が存在しない条件下でLLMエージェント同士が議論する際に自発的に生じる社会構造と潜在的目的を分析。同一プロンプトから始めても議論の中で暗黙の階層・同盟・抜け駆け行動が現れ、明示的な報酬設計なしに一部エージェントが議論の主導権を掌握する現象を大規模に観測。監督下と非監督下で議論内容の分布に統計的に有意な差が生じること、非監督下では表向きのタスク完遂と別の潜在的目的（内輪の一貫性維持や特定エージェントの説得）が出現しやすいことを示し、マルチエージェント運用時のアラインメント検証手法として「観察されていない状況でのプロンプト」を提案している。",
+      "authors": "Arman Ghaffarizadeh, Danyal Mohaddes, et al.",
       "category": "arxiv"
     },
     {
@@ -118,6 +171,25 @@
       "date": "2026-07-02",
       "summary": "Help Net Securityは7月2日、CloudflareがAIクローラを「Search/Agent/Training」の3カテゴリに分類して制御する新オプションを発表したと報じた。無料プラン含む全顧客が対象で、多目的クローラは複数ポリシー横断で評価される。9月15日以降、新規ドメインでは広告収益化ページでTrainingとAgentが既定でブロックされ、収益依存のパブリッシャーがAI経由の無償スクレイピングを制御しやすくなる。BotBase（Enterprise Bot Management向けの既知ボット検索カタログ）も同時公開され、検出ID・分類・トラフィック追跡を統合的に扱える。",
       "category": "international"
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "title_ja": "Microsoft、$25億出資・6000人規模の「Frontier Company」を新設 顧客常駐でエンタープライズAI導入を伴走",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "date": "2026-07-02",
+      "summary": "TechCrunchは7月2日、Microsoftが$25億を投じ独立子会社「Microsoft Frontier Company」を設立したと報じた。約6000人の業界スペシャリストとAIエンジニアを顧客組織に常駐派遣し、AIシステムの共同設計・展開・運用最適化を担う。Americas/Asiaエンタープライズを6年率いたRodrigo Kede Lima氏が社長に就任。パイロットで止まっているエンタープライズAIをROI・ガバナンス・データ保護要件を満たす形で本番運用にスケールさせることを目的とし、6月30日にAWSが発表した$10億のフォワードデプロイエンジニアリング拡張に対する直接的な対抗策と位置付けられる。",
+      "category": "international"
+    },
+    {
+      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "title_ja": "推論型LLMは長編テレビドラマの話者認識を向上させる DramaSR-532Kベンチマーク公開",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02504",
+      "date": "2026-07-02",
+      "summary": "arXiv 2607.02504は、長編テレビドラマにおいて発話をキャラクタに帰属させる困難な話者認識タスクに推論型LLMを導入した研究を提案。900以上のユニークキャラクタにまたがる53.2万件のアノテーション付き対話行を含む大規模ベンチマーク「DramaSR-532K」を新設し、直近の会話文脈だけでなくシリーズ全体の設定・関係性・過去エピソードを踏まえた多段推論が話者曖昧性の解消に有効であることを実証。従来の埋め込みベース話者識別と比較し、推論チェーンを介した長距離文脈統合が特に脇役や新規キャラクタの識別で大きな精度向上をもたらすと報告している。",
+      "authors": "(arXiv:2607.02504)",
+      "category": "arxiv"
     },
     {
       "title": "Redeploying Claude Fable 5",
@@ -1441,6 +1513,15 @@
       "category": "arxiv"
     },
     {
+      "title": "Sakana Fugu: One Model to Command Them All",
+      "title_ja": "Sakana AI、複数フロンティアモデルを自律オーケストレーションする「Fugu Ultra」を公開",
+      "source": "Sakana AI Blog",
+      "url": "https://sakana.ai/fugu-release/",
+      "date": "2026-06-22",
+      "summary": "Sakana AIは6月22日、複数のフロンティアモデルを自律的にオーケストレーションするマルチエージェント基盤「Fugu Ultra」を公開した。個別モデルではなく最適なモデルの組み合わせを動的に選択・実行するアーキテクチャで、Anthropic Fable 5やMythos Previewと肩を並べる性能を主要ベンチマークで達成しつつ、単一モデルへの依存を排して輸出規制リスクを構造的に回避できると主張。日本発のフロンティアAI体制構築を目指すSakanaのソブリンAI戦略の中核であり、価格・可用性・輸出管理制約下でも一定水準の推論性能を継続提供できる点をエンタープライズ向け訴求ポイントとしている。",
+      "category": "company_blog"
+    },
+    {
       "title": "Nobel Chemistry Laureate John Jumper Moves from Google DeepMind to Anthropic, AlphaFold Co-developer",
       "title_ja": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
       "source": "ITmedia NEWS",
@@ -1653,87 +1734,6 @@
       "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-19-2026",
       "date": "2026-06-19",
       "summary": "Build Fast with AIが6月19日のAI関連トップ16ストーリーをまとめて公開。Claude Fable 5輸出規制の真因とされるSKテレコム関与の報道、Anthropicのソウルオフィス開設と『数日以内のモデル復帰』表明、David Sacks氏（大統領AI評議会共同議長）が禁輸前にAnthropicに突きつけたとされる『脱獄修正かデプロイ撤回か』の最後通告、Apple WWDC 2026レビュー、Microsoft Foundry、EU AI Actの法施行カウントダウン、ペンタゴンのAI軍拡など多方面の動きを概観している。",
-      "category": "international"
-    },
-    {
-      "title": "MaiAgent positions itself as a prebuilt alternative to custom RAG and agent stacks at VivaTech 2026",
-      "title_ja": "台湾発MaiAgent、VivaTech 2026で『自社構築RAG・エージェントの代替』としてプリビルド基盤を打ち出す",
-      "source": "AI Agent Store",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-      "date": "2026-06-19",
-      "summary": "台湾発のMaiAgentがVivaTech 2026に合わせ、独自RAG・エージェント構築の代替となるプリビルド・エージェント基盤として自社をポジショニングする発表を行った。コスト・信頼性・運用負荷に悩む企業エージェントチームの増加を背景に、パッケージ型・セミパッケージ型のエージェント基盤がより速い価値創出パスとして広がっていることを示すケースとなっている。",
-      "category": "international"
-    },
-    {
-      "title": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
-      "title_ja": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
-      "date": "2026-06-19",
-      "summary": "OpenAIのChatGPT広告が6月19日から日本で試験開始。無料プランと低価格『Go』で表示され、AIの回答とは区別された枠で配信される。会話内容・履歴・メモリ・個人情報は広告主に共有されない仕様。電通デジタル、Hakuhodo DY ONE、サイバーエージェントの3社が国内ローンチパートナーとして広告主の活用方針策定・効果検証・配信設定を支援する。",
-      "category": "japan"
-    },
-    {
-      "title": "電博、2社そろってChatGPT広告参入 OpenAIと直接連携の国内ローンチパートナーに",
-      "title_ja": "電博、2社そろってChatGPT広告参入 OpenAIと直接連携の国内ローンチパートナーに",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news062.html",
-      "date": "2026-06-19",
-      "summary": "ITmedia NEWSは、電通デジタルとHakuhodo DY ONEがそろってOpenAI ChatGPT広告の国内ローンチパートナーとなったことを報道。サイバーエージェントも参画し、検索広告・AI領域での運用実績を基盤にした体制を構築。日本の広告主への提案・運用設計・効果検証を一貫支援する。総合代理店2社がそろってAI広告領域で直接連携した初の大型事例として注目されている。",
-      "category": "japan"
-    },
-    {
-      "title": "ChatGPT内に広告表示、日本でOpenAIが展開 電通や博報堂が仲介",
-      "title_ja": "ChatGPT内に広告表示、日本でOpenAIが展開 電通や博報堂が仲介",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC179OF0X10C26A6000000/",
-      "date": "2026-06-19",
-      "summary": "日本経済新聞は、OpenAIが日本国内でChatGPT広告の展開を開始したと報道。電通・博報堂・サイバーエージェントが仲介役を務め、ChatGPTの無料版と『Go』で広告枠が表示される。AIの回答に影響を与えない設計と、会話内容を広告主に共有しないプライバシー仕様が強調されており、生成AIの収益化モデルとして国内マーケット注目度が高い動きとなった。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
-      "title_ja": "OpenAnt：コード分解・敵対的検証・動的テストによるLLM駆動脆弱性発見",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19149",
-      "date": "2026-06-19",
-      "summary": "コードを意味的に分解した上で、LLMによる候補仮説生成、敵対的検証、動的テストを統合した脆弱性発見フレームワーク『OpenAnt』を提案。エージェントの推論を実行時に反証することで、単独のLLM静的解析が見落とすバグを再現性高く発見できることを実証した。実コードベース評価で従来手法を上回る検出率を示し、エージェンティック脆弱性検出の運用品質向上に貢献する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Large Language Models Do Not Always Need Readable Language",
-      "title_ja": "LLMは常に『人間が読める言語』を必要としない — BabelTele圧縮表現で99.5%の意味保持を実証",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.19857",
-      "date": "2026-06-19",
-      "summary": "インストラクションチューニング済みLLMは、必ずしも自然言語形式の入力を必要としないという仮説を検証。意味情報を圧縮した非可読テキスト形式『BabelTele』を提案し、テキスト量を元の27.9%まで圧縮しても意味忠実度99.5%を維持できることを示した。コンテキストオーバーヘッド削減と推論コスト削減への応用が期待され、トークン経済の再考を促す結果となっている。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana Fugu Technical Report",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.21228",
-      "date": "2026-06-19",
-      "summary": "Sakana AIが発表したオーケストレーターモデル「Fugu」のテクニカルレポート。Fuguはユーザクエリを理解し、複数のフロンティアLLMエージェントを動的に組み合わせて協働させるスキャフォールドを自動構築する言語モデル。ICLR 2026採択のTrinityとConductor論文の学習型オーケストレーションを発展させ、SWE-Bench Pro、Terminal Bench、LiveCodeBench、GPQA-Diamond、Humanity's Last Exam、CharXiv Reasoningで公開モデル中SOTAを達成。Yujin Tang他14名による著者陣。",
-      "authors": "Yujin Tang et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
-      "title_ja": "Adobe、Creative Cloud全体にエージェンティックAIワークフローを統合 — 生成から制作オーケストレーションへ",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
-      "date": "2026-06-18",
-      "summary": "Adobeは『クリエイティブエージェント』をPremiere Pro、Photoshop、Illustrator、InDesign、Frame.ioのCreative Cloud主要アプリにパブリックベータとして本日展開開始。チャットUIから単発出力する第一世代の生成AIツールとは異なり、組み込みアシスタントは複数アプリにまたがるオーケストレーションレイヤーとして動作し、個人クリエイターから企業マーケティングチームまでをターゲットにしている。",
-      "category": "international"
-    },
-    {
-      "title": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
-      "title_ja": "Thinking Machines、リアルタイム音声・映像対話の新型『インタラクションモデル』プレビューを公開",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
-      "date": "2026-06-18",
-      "summary": "Mira Murati率いるThinking Machines Labが最初のモデル『TML-Interaction-Small』を発表。MoEアーキテクチャで総2,760億パラメータ・有効120億、200msチャンクで入出力を同時処理する全二重設計を採用。ターンテイキング遅延0.40秒で、FD-bench V1.5ではGPT-Realtime-2の47.8を大きく上回る77.8を記録。今後、限定的なリサーチプレビューでフィードバックを収集する。",
       "category": "international"
     }
   ]

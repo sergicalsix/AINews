@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-04 09:00 (JST)",
+  "lastUpdated": "2026-07-05 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
+      "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
+      "source": "AIToolsRecap",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-5-2026",
+      "date": "2026-07-05",
+      "summary": "AIToolsRecapは7月5日、この日のAI業界動向を3本の主軸で整理した。Anthropicはβ公開したClaude Scienceに加え、社内で放置疾患（neglected disease）向け創薬プログラムを立ち上げてOpenAI・Googleに続くAI for Science3陣営の一角となった。OpenAIのGPT-5.6 Sol/Terra/Lunaはプレビュー詳細が確定し、SolはTerminal-Bench 2.1で新SOTA、TerraはGPT-5.5相当性能を半額で提供、Lunaは最速・最安のポジション。xAIのGrok 5はColossus 2（1.5GW）で学習継続中で、Polymarketは6月30日締切分でQ3内リリース確率を3%まで下げた。",
+      "category": "international"
+    },
     {
       "title": "AI News Today July 4 2026: 15 Biggest Stories",
       "title_ja": "2026年7月4日のAIニュース トップ15 Grok 4.5秘匿ベータ・中国製1.6TモデルOSS化・OpenAIが政府に5%株式提案",
@@ -9,6 +18,42 @@
       "date": "2026-07-04",
       "summary": "Build Fast with AIは7月4日、この日の重要AI 15ストーリーをまとめた。Grok 4.5はSpaceXとTesla社内で秘匿ベータ運用開始（公開ベンチマークなし、Musk氏はOpus超えと主張）。中国MeituanのLongCat-2.0（1.6T MoE）がAscend 910 5万枚クラスタで完全に国産チップだけで学習された初のフロンティア級モデルとしてMITライセンス公開。OpenAIは米政府に対しAI大手各社が5%の株式をアラスカ永久基金型の政府向けビークルに拠出する構想を提示（AnthropicはFT報道で否定）。VC投資は上半期で世界$5100億、OpenAI/Anthropic 2社で$2170億（43%）を占めた。Anthropicは中国企業がSingapore法人・VPN・クラウド代理経由でClaudeを使う抜け道の閉塞を強化中。",
       "category": "international"
+    },
+    {
+      "title": "Pentagon Blacklisted Anthropic Over Autonomous Weapons Limits: Emails Reveal 'Very Close' Talks",
+      "title_ja": "国防総省がAnthropicをブラックリスト化 自律兵器制限が原因 「合意寸前」までの交渉経過をメールが暴露",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/319713/20260704/pentagon-blacklisted-anthropic-over-autonomous-weapons-limits-emails-reveal-very-close-talks.htm",
+      "date": "2026-07-04",
+      "summary": "Tech Timesは7月4日、国防総省とAnthropicの間で2025年後半から続いた自律兵器および国内監視利用禁止をめぐる交渉の詳細を公開メールから報じた。DoDはClaudeを「lawful useなら何にでも」使えるよう2つの制限撤廃を要求、Anthropicはこれを拒否。1月にDoD側Michaelから届いた最終メールにも姿勢は変わらず、2月27日にTrump大統領が全連邦政府にAnthropic技術の即時利用停止を指示、Hegseth国防長官がAnthropicをサプライチェーン安全保障リスクに指定した。7月4日時点で北カリフォルニア地裁の予備差止命令によりサプライチェーン指定の執行は停止されている。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
+      "title_ja": "Anthropic、Claude Science β版を提供開始 ゲノミクス・プロテオミクス・ケモインフォマティクスを再現可能に統合するマルチエージェント研究環境",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+      "date": "2026-07-04",
+      "summary": "MarkTechPostは7月4日、Anthropicが公開したClaude Science βの技術詳細を解説。汎用コーディネート・エージェントが自然言語のリクエストをサブタスクに分解し、ゲノミクス、single-cell RNA-seq、プロテオミクス、構造生物学、ケモインフォマティクスなど各領域に事前構成されたサブエージェントに委譲するマルチエージェント構成を採用。60超の学術データベースと解析ツールを統合し、再現可能な監査対象アーティファクトを生成する。Pro/Max/Team/Enterprise向けβで即利用可能、大学院生・ポスドク向けに最大$3万のコンピュートグラント（7月15日締切）も提供される。",
+      "category": "international"
+    },
+    {
+      "title": "Sakana AI's 'Fugu' as US-model alternative: developer speaks",
+      "title_ja": "サカナAIの「フグ」、米モデル代替になり得るか 開発者が語る",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/",
+      "date": "2026-07-04",
+      "summary": "日経は7月4日、Sakana AIが6月に一般提供を開始した「Sakana Fugu」がAnthropic Mythos 5の輸出規制を機に日本発の米国モデル代替として注目されている点を、チーフサイエンティストらの発言とともに報じた。Fuguは複数モデルを協調させる集合知プラットフォームで、プログラミング分野でAnthropic Fable 5を上回るとされる性能を出す一方、単一の巨大モデルに依存しないアーキテクチャが特定国・特定企業からの技術供給停止リスクを分散する効果を持つ。日本発AIの実用フェーズ移行を象徴する事例として位置づけている。",
+      "category": "japan"
+    },
+    {
+      "title": "AI News Report (July 3-4, 2026): Inside Fable 5's Comeback, Jailbreak Severity Scores, UN AI for Good Committee, US June Payrolls +57k, exaBase AI adopts Claude",
+      "title_ja": "AIニュース速報（2026年7月3〜4日）：Fable 5復活の内幕とジェイルブレイク重大度スコア、国連AI for Good委員会発足、米6月雇用+5.7万人、exaBase AIがClaude採用",
+      "source": "note.com (t-kawa@AI毎日投稿)",
+      "url": "https://note.com/t_kawa_awak/n/n8166ea727d8c",
+      "date": "2026-07-04",
+      "summary": "note.comのt-kawa氏は7月4日、7月3〜4日のAI業界動向を「AIをどう作るかから、AIを国家がどう統治し社会に組み込むかへ」と総括。（1）Axiosが独占公開したFable 5復活の政府交渉内幕（Amazon Jassy CEOから米財務長官・商務長官・国家サイバー局までの意思決定経路と新しいジェイルブレイク重大度スコア）、（2）国連が初のAI企業CEOを含む「AI for Good グローバル委員会」を発足しジュネーブに169カ国・1.1万人超が集結、（3）米労働統計局の6月雇用統計が+5.7万人と2024年以来の低水準で予測18.5万人を大幅に下回りAI雇用破壊議論を最高潮に、の3本を柱に整理した。",
+      "category": "japan"
     },
     {
       "title": "Everything That Happened in AI Today: Friday, July 3, 2026",
@@ -192,6 +237,16 @@
       "category": "arxiv"
     },
     {
+      "title": "Online Safety Monitoring for LLMs",
+      "title_ja": "LLMのオンライン安全性モニタリング 外部検証器と閾値校正でリアルタイム不安全応答を検出",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02510",
+      "date": "2026-07-02",
+      "summary": "arXiv 2607.02510は、アライメント訓練後もLLMが運用段階で不安全出力を生成し続ける問題に対し、リアルタイムでこれを検出するオンラインモニタを提案。外部検証モデルからの信号を用い、リスク制御に基づく閾値校正を通じて警報判定を行う。事前配布ラベル不要で運用可能なほか、既存の内的アラインメントと直交する層として重ねられ、閉じたリスク保証を提供する点を実験的に示している。",
+      "authors": "Peizhi Niu, Melih Kandemir, Chandramauli Chakraborty, et al.",
+      "category": "arxiv"
+    },
+    {
       "title": "Redeploying Claude Fable 5",
       "title_ja": "Claude Fable 5の提供を再開",
       "source": "Anthropic",
@@ -310,6 +365,26 @@
       "category": "arxiv"
     },
     {
+      "title": "Measuring the Gap Between Human and LLM Research Ideas",
+      "title_ja": "人間の研究アイデアとLLM生成アイデアのギャップを測る 大規模評価フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.01233",
+      "date": "2026-07-01",
+      "summary": "arXiv 2607.01233は、現在のLLMが生成する研究アイデアが人間の研究者のそれとどの程度の距離にあるかを大規模に評価するフレームワークを提案。高質な人間の研究論文を基盤にアイデアを抽出・匿名化し、複数分野で有識者評価と自動評価を同時に走らせて新規性、独自性、実現可能性、影響力の4軸で比較。フロンティアLLMが人間の中央値を上回る領域と大きく劣る領域を分解し、AI駆動研究支援ツール設計の指針を与える。",
+      "authors": "Junjie Wang, Yizhi Song, Yifan Zhang, et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Message Passing Enables Efficient Reasoning",
+      "title_ja": "メッセージパッシングで効率的な推論を実現 LLMスレッド間の軽量プリミティブによる並列推論",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.01077",
+      "date": "2026-07-01",
+      "summary": "arXiv 2607.01077は、複数のLLM推論スレッドが軽量なsend/receiveプリミティブを介して直接通信するMessage Passing Language Models (MPLM) を提案。単一の長文思考連鎖ではなく、必要に応じて動的に分岐・合流するスレッド群としてタスクを解くことで、コンテキスト膨張とトークン当たり計算コストを抑えつつ、複雑なマルチステップ推論・ツール利用・並列探索を効率化。Chain-of-Thoughtやtree-of-thoughtsとの比較で同精度でも大幅な計算削減を実現する。",
+      "authors": "Sameera Horawalavithana, et al.",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
       "title_ja": "Anthropic、エージェント運用を低コスト化する新モデル「Claude Sonnet 5」を発表",
       "source": "TechCrunch",
@@ -425,6 +500,15 @@
       "date": "2026-06-30",
       "summary": "Washington Postは6月30日、ホワイトハウスがAnthropicの主力AI「Mythos 5」および「Fable 5」に課していた輸出管理指令を撤回したと報じた。両モデルはジェイルブレイク脆弱性を理由に6月12日から利用停止されていたが、AnthropicはCommerce Departmentのセキュリティ評価と協議を経て復活を実現。Anthropicは今後の高性能モデルリリースを政府と事前調整することを約束した。",
       "category": "international"
+    },
+    {
+      "title": "Claude for Life Sciences",
+      "title_ja": "Claude for Life Sciences ライフサイエンス向けエンドツーエンド研究環境",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-life-sciences",
+      "date": "2026-06-30",
+      "summary": "Anthropicは6月30日、Claude for Life Sciencesを発表。Claude Scienceとセットで提供され、Novo Nordisk（Ozempic製造元）やAllen Instituteをアーリーカスタマーとして、Claude Codeがソフトウェア開発を支援するのと同じ形で科学研究を支援することを目指す。ライフサイエンス領域向けに専門コネクタ（配列・化合物・実験データ）、監査可能なアーティファクト生成、コンピュートリソースへのフレキシブルなアクセスを一体化。ドキュメント生成（NovoScribe）などのユースケースで10週間の作業を10分に短縮した実績も紹介された。",
+      "category": "company_blog"
     },
     {
       "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
@@ -1653,87 +1737,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
       "date": "2026-06-20",
       "summary": "Bloomberg Odd LotsがSubstackクリエイター3名（Citrini Research、The Tker、Jasmine Sun）と、AIがメディアと市場のあらゆる領域に浸透した「奇妙な時代」をどう報じるかを討論。AIバブル懸念、雇用喪失の見通し、AIがライターの文体を模倣する未来へのヘッジ戦略などを議論している。",
-      "category": "international"
-    },
-    {
-      "title": "SpaceX IPO Sparks Anticipation for OpenAI and Anthropic",
-      "title_ja": "SpaceXのIPO、OpenAIとAnthropicへの期待を煽る",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/spacex-ipo-sparks-anticipation-for-openai-and-anthropic-video",
-      "date": "2026-06-20",
-      "summary": "SpaceXのIPO好調を受け、近く公開予定のOpenAIとAnthropicへの投資家の期待が高まっていることを伝えるBloombergビデオレポート。両社のIPO評価額（OpenAI 8520億ドル、Anthropic 9650億ドル）を巡るAI企業上場ラッシュの市場テストとして注目されている。",
-      "category": "international"
-    },
-    {
-      "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
-      "title_ja": "Cisco AI、ステップ単位の失敗帰属とClaude Code連携を備えた『FAPO』プロンプト最適化システムを公開",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
-      "date": "2026-06-20",
-      "summary": "Cisco Foundation AIが、Claude Codeをオーケストレーターとして用いる完全自動プロンプト最適化システム『FAPO』をオープンソース公開した。多段LLMパイプラインを評価し、ステップ単位で失敗原因を特定したうえでプロンプト・パラメータ・チェーン構造のバリアントを提案する。18のモデル・ベンチマーク比較のうち15で従来のSOTA最適化手法GEPAを上回った。",
-      "category": "international"
-    },
-    {
-      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
-      "title_ja": "Crawlee for Python: robots.txt対応・リンクグラフ・RAGチャンク出力を含むWebクロールパイプライン構築",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-      "date": "2026-06-20",
-      "summary": "MarkTechPostがCrawlee for Pythonを用いたWebクロールワークフローの実装チュートリアルを公開。静的・動的ページのクロール、構造化抽出、製品カタログ正規化、NetworkXによるGraphMLリンクグラフ生成、RAG用JSONLチャンク出力までを網羅し、AI/LLM向けデータパイプライン構築のリファレンス実装を提供する。",
-      "category": "international"
-    },
-    {
-      "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
-      "title_ja": "Nous Research、ツールセットを最小化する『Blank Slate』モードをHermes Agentに追加",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
-      "date": "2026-06-20",
-      "summary": "Nous Researchがオープンソースのエージェント『Hermes Agent』にBlank Slateセットアップモードを追加した。プロバイダ・モデル・ファイル操作・ターミナル以外のツールをすべて無効化した状態で起動し、必要な機能だけをオプトインで有効化する設計で、エージェントの権限・挙動の予測可能性を高める。",
-      "category": "international"
-    },
-    {
-      "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-      "title_ja": "TimeCopilotで基盤モデルと自動異常検知を使った予測パイプラインを構築する方法",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-      "date": "2026-06-20",
-      "summary": "TimeCopilotを用いて統計・基盤モデル・GPUベース予測モデルを評価する時系列予測ワークフローのチュートリアル。実データ（航空旅客）と異常を注入した合成季節データで予測精度を比較し、LLMエージェントが最適モデルを選択して予測結果を自然言語化する一連の流れを実装している。",
-      "category": "international"
-    },
-    {
-      "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
-      "title_ja": "Yandex、Protobuf向けゼロコピーワイヤーフォーマット『YaFF』をオープンソース公開",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-      "date": "2026-06-20",
-      "summary": "Yandexが、Protobufセマンティクスを保ったままゼロコピー読み出しを実現するC++シリアライゼーションライブラリ『YaFF』をApache 2.0で公開した。Flat Layoutでの読み取りは9.79ns、FlatBuffers比約3.8倍高速で、Yandexの広告レコメンドシステム本番運用で10〜20%のCPU削減を実現したと報告している。",
-      "category": "international"
-    },
-    {
-      "title": "South Korea and Anthropic sign MOU on AI safety and cybersecurity cooperation",
-      "title_ja": "韓国科学技術情報通信部とAnthropic、AI安全性・サイバーセキュリティ協力でMOU締結",
-      "source": "Digital Watch Observatory",
-      "url": "https://dig.watch/updates/anthropic-south-korea-ai-safety-seoul-office",
-      "date": "2026-06-19",
-      "summary": "韓国科学技術情報通信部（MSIT）はAnthropicと、AI安全性とサイバーセキュリティに関する協力を強化するMOUを締結した。韓国語コンテキストでのAIモデル安全性・誤用リスクの評価、自律エージェントへのレッドチーミング、AIによる攻撃・防御の影響分析などが含まれる。Anthropicのソウルオフィス開設に合わせ、長期的な日韓周辺のAI安全保障枠組み構築の足がかりとして位置づけられている。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Opens Seoul Office Even as US Export Ban Cuts Korean Access to Its Top Models",
-      "title_ja": "Anthropic、ソウルオフィス開設 — 米輸出規制でMythos 5/Fable 5が韓国から遮断される中での発表",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/318637/20260619/anthropic-opens-its-seoul-office-even-us-export-ban-cuts-korean-access-its-top-models.htm",
-      "date": "2026-06-19",
-      "summary": "Anthropicはアジア太平洋3拠点目となるソウルオフィスを開設し、Naver、LG CNS、Samsung SDS等での導入実績を強調。米商務省が6月12日にClaude Mythos 5とClaude Fable 5の海外アクセスを禁じた輸出規制の最中での開設となり、同社マネージングディレクターは『両モデルは数日以内に復帰する』と表明。サムスン・SKハイニックスといった重要メモリサプライヤを抱える韓国市場へのコミットを示す動き。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Today - June 19, 2026: 16 Biggest Stories",
-      "title_ja": "Build Fast with AI：2026年6月19日のAI最新16ニュースまとめ",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-19-2026",
-      "date": "2026-06-19",
-      "summary": "Build Fast with AIが6月19日のAI関連トップ16ストーリーをまとめて公開。Claude Fable 5輸出規制の真因とされるSKテレコム関与の報道、Anthropicのソウルオフィス開設と『数日以内のモデル復帰』表明、David Sacks氏（大統領AI評議会共同議長）が禁輸前にAnthropicに突きつけたとされる『脱獄修正かデプロイ撤回か』の最後通告、Apple WWDC 2026レビュー、Microsoft Foundry、EU AI Actの法施行カウントダウン、ペンタゴンのAI軍拡など多方面の動きを概観している。",
       "category": "international"
     }
   ]

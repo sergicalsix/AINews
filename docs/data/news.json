@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-07-05 09:00 (JST)",
+  "lastUpdated": "2026-07-06 09:00 (JST)",
   "articles": [
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "title_ja": "マイクロソフト、Xboxと法人営業部門で約4,800人を追加解雇",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "date": "2026-07-06",
+      "summary": "マイクロソフトは7月6日、全世界で約4,800人（従業員の2.1%）の追加解雇を発表した。Xbox部門で最も大きい1,600人が対象で、営業・コンサルティング部門にも及ぶ。2026年上半期だけでテック業界では約15万4千人が解雇されており、AIインフラへの巨額投資と業績プレッシャーが背景にある。同社は先週、AI導入支援に25億ドルと6,000人を投じるMicrosoft Frontier Companyを立ち上げたばかりで、AI駆動のリソース再配分が加速している。",
+      "category": "international"
+    },
+    {
+      "title": "World must not let AI 'vibe-code' humanity's future, says UN chief",
+      "title_ja": "国連事務総長「AIに人類の未来を『バイブコーディング』させてはならない」ジュネーブでAIガバナンス国際対話が開幕",
+      "source": "UN News / Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/06/world/world-must-not-let-ai-vibe-code-humanitys-future-un-chief/2378857",
+      "date": "2026-07-06",
+      "summary": "ジュネーブで7月6日、初のUN AIガバナンス国際対話が開幕し、193加盟国の代表が集まった。グテーレス事務総長は、AIが「制御不能な速度」で発展し、コード生成や意思決定を人間の監視なしに行っていると警鐘を鳴らした。同氏は各国に対しAIの安全性・軍事利用（自律型致死兵器）・児童保護の枠組みで合意するよう促し、能力構築と計算資源の民主化のため「AI世界基金」の設立を提案。「真実も人類の未来もバイブコーディングはできない」と強調した。",
+      "category": "international"
+    },
+    {
+      "title": "Tesla rolls out robotaxi service in Miami without safety monitor",
+      "title_ja": "テスラ、マイアミでロボタクシー運行開始 安全監視員なしの本格展開",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4611532-tesla-rolls-out-robotaxi-service-in-miami",
+      "date": "2026-07-06",
+      "summary": "テスラは7月6日、フロリダ州マイアミでロボタクシーサービスを開始した。テキサス以外の州へ拡大するのはこれが初めてで、車両はModel Yを使用し、Full Self-Driving技術で運行する。AI担当副社長Ashok Elluswamy氏によると、車内に安全監視員は同乗させないという同社にとって初の運用形態となり、自動運転技術への自信を示す一手。マイアミ市西部・中央部の限定エリアで運行し、Waymoが先行する同市でシェア獲得を狙う。株価は取引開始直後に約1.5%上昇した。",
+      "category": "international"
+    },
+    {
+      "title": "AI Promises to Transform Robotics, Just Not Yet",
+      "title_ja": "AIは産業ロボットを変革すると約束するが、まだ実現していない",
+      "source": "Bloomberg Opinion",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-07-06/ai-promises-to-transform-robotics-just-not-yet",
+      "date": "2026-07-06",
+      "summary": "Bloomberg Opinionのコラムニスト、Thomas Blackは7月6日、AIが産業ロボット業界にもたらす変化を分析した。シカゴのAutomate Showでは、日本の大手ロボットメーカー幹部がAIによる「爆発的成長」の到来を語り、NvidiaやGoogleのIntrinsicなどAI企業と提携するロボットメーカーは自動化の将来に一段と楽観的だ。人と安全に協働できる汎用ロボットへの期待は高まる一方で、現場での本格導入には依然として時間を要すると同氏は指摘している。",
+      "category": "international"
+    },
+    {
+      "title": "ByteDance and Alibaba pull AI companion features as China tightens rules",
+      "title_ja": "字節跳動とアリババ、AI伴侶機能を提供停止 中国の新規制施行を前に",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/bytedance-alibaba-pull-ai-companion-features-as-china-tightens-rules-126070600221_1.html",
+      "date": "2026-07-06",
+      "summary": "7月15日に施行される中国の「AI擬人化相互作用サービス暫定管理弁法」を前に、字節跳動のDoubaoとアリババのQwenがパーソナライズドAIエージェント機能を提供停止する。新規則は依存症対策、通知の義務化、即時終了機能、不健全な依存の実時間検知を要求。Doubaoは10月15日まで一時的な閲覧アクセスを維持し、既存エージェントは新アプリ『猫箱（Maoxiang）』へ誘導する一方、Qwenは移行猶予なくエージェント設定と対話履歴を完全削除する方針を示した。",
+      "category": "international"
+    },
     {
       "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
       "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
@@ -8,6 +53,42 @@
       "url": "https://aitoolsrecap.com/Blog/ai-news-july-5-2026",
       "date": "2026-07-05",
       "summary": "AIToolsRecapは7月5日、この日のAI業界動向を3本の主軸で整理した。Anthropicはβ公開したClaude Scienceに加え、社内で放置疾患（neglected disease）向け創薬プログラムを立ち上げてOpenAI・Googleに続くAI for Science3陣営の一角となった。OpenAIのGPT-5.6 Sol/Terra/Lunaはプレビュー詳細が確定し、SolはTerminal-Bench 2.1で新SOTA、TerraはGPT-5.5相当性能を半額で提供、Lunaは最速・最安のポジション。xAIのGrok 5はColossus 2（1.5GW）で学習継続中で、Polymarketは6月30日締切分でQ3内リリース確率を3%まで下げた。",
+      "category": "international"
+    },
+    {
+      "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+      "title_ja": "美団、1.6兆パラメータのオープンMoEモデル「LongCat-2.0」公開 100万トークン対応・国産チップだけで訓練",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+      "date": "2026-07-05",
+      "summary": "中国の美団（Meituan）は7月5日、総パラメータ1.6兆・トークンごとに約480億をアクティブ化する大規模MoEモデル「LongCat-2.0」をオープンリリースした。ネイティブ100万トークンのコンテキストと独自のLongCat Sparse Attentionを備え、コーディング特化のエージェント用途に最適化されている。訓練・推論はNVIDIAを使わず、5万枚規模の中国製AI ASICクラスタで完結。ベンダー計測でSWE-bench Proは59.5点でGPT-5.5を上回り、過去2か月間はOpenRouterで「Owl Alpha」の匿名で首位を独走していた。",
+      "category": "international"
+    },
+    {
+      "title": "LlamaIndex 'legal-kb': Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+      "title_ja": "LlamaIndex、Index v2上のエージェント検索リファレンスアプリ『legal-kb』公開",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+      "date": "2026-07-05",
+      "summary": "LlamaIndexは7月5日、法律文書向けナレッジベースの参照実装『legal-kb』をGitHubで公開した。LlamaCloud Index v2を土台に、エージェントに「retrieve（意味検索）」「find（ファイル検索）」「read（読取）」「grep（正規表現検索）」というエンジニアが慣れ親しんだファイルシステム型ツールを提供し、単発ベクトル検索と異なり長期的にナレッジを走査させる『Retrieval Harness』パターンを実現。TanStack Startで構築されたWebアプリで、プロジェクト作成・ファイルアップロード・エージェントとのチャットを一貫して体験できる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "title_ja": "AOLとVimeoを傘下に持つイタリア『Bending Spoons』とは？——ナスダック上場で時価総額256億ドル",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "date": "2026-07-05",
+      "summary": "ミラノ拠点の13年目のテック複合企業Bending Spoonsは、Nasdaq上場初日で40%高、時価総額約257億ドルに達した。Meetup、Eventbrite、Vimeo、WeTransferなどの往年のインターネットブランドを次々買収し、AI活用による生産性向上でARPU（従業員1人あたり収益）を2023年の112万ドルから2025年に257万ドルに引き上げた。IPOで16.8億ドルを調達し、さらなるソフトウェア企業買収に充てる方針。2026年1Qは6.01億ドルの売上・2,740万ドルの純利益と黒字転換した。",
+      "category": "international"
+    },
+    {
+      "title": "China's AI companion rules force Doubao, Qwen shutdowns",
+      "title_ja": "中国のAI伴侶規制、DoubaoとQwenのカスタムエージェントを閉鎖に追い込む",
+      "source": "ChinaTechNews",
+      "url": "https://www.chinatechnews.com/2026/07/05/124959-chinas-ai-companion-rules-force-doubao-qwen-shutdowns",
+      "date": "2026-07-05",
+      "summary": "中国サイバー空間管理局らが4月に発表したAI擬人化サービス暫定弁法が7月15日から施行されるのを受け、ByteDanceのDoubaoとAlibabaのQwenが個人向けカスタムAIエージェント機能を停止する。新規則はアンチアディクション、使用時間通知、即時終了機能、依存の実時間検知を要求しており、記憶を保持する伴侶型エージェントには特に厳しい。Qwenは即時の完全削除、Doubaoは10月15日までの読み取り専用アクセスと後継アプリ『猫箱』への誘導という異なる対応を選んだ。",
       "category": "international"
     },
     {
@@ -1657,86 +1738,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
       "date": "2026-06-21",
       "summary": "Bloombergの分析記事によれば、AIが資産運用の「マスアフルエント層（1〜10百万ドル規模）」に対しプライベートバンキング相当のサービスを提供できるようになり、人手による対応コストの見合いが急速に低下している。資産運用業界は、人間アドバイザーが対応すべき富裕度の閾値を再定義しつつある。",
-      "category": "international"
-    },
-    {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
-      "date": "2026-06-21",
-      "summary": "Samsung Electronicsが韓国国内の全従業員と、世界中のDevice eXperience（DX）部門の全従業員にChatGPT EnterpriseとCodexを展開することを発表。韓国だけで約125,000人が対象となり、OpenAI史上最大級のエンタープライズ導入事例となる。2023年に社内情報の流出リスクから生成AIツールを全面禁止した方針からの大きな転換で、技術職・非技術職問わず、ソフトウェア開発、業務自動化、文書ドラフト等に活用される。Codexの週次アクティブユーザーは現在500万人超に達し、韓国国内では2026年2月以降、約800%の急成長を示しているという。今回の発表はOpenAIによるアジア太平洋地域でのエンタープライズ攻勢を象徴する大型ディールとなる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.22388",
-      "date": "2026-06-21",
-      "summary": "UIUCのJiayu Liuらが、1,665ツールにまたがる327の小売タスクからなる長期計画ベンチマークPlanBench-XLを提案。エージェントが反復的にツールを検索・呼び出して中間証拠を発見できるかを評価し、欠損・失敗・撹乱ツールを模擬するブロッキング機構も搭載。10モデル評価でGPT-5.4はブロックなしで51.90%だが、最も厳しい条件下では11.36%まで崩壊し、現状の長期ツール利用計画能力の脆弱さを示した。",
-      "authors": "Jiayu Liu et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "NVIDIA Dominance Shaken? Google and Inference-focused Startups Challenge AI Chip Hegemony",
-      "title_ja": "NVIDIA「1強」に異変？ Google、推論特化ベンチャーが挑むAIチップ覇権戦争",
-      "source": "ITmedia ビジネスオンライン",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/20/news006.html",
-      "date": "2026-06-20",
-      "summary": "NVIDIAが学習向けAIアクセラレーターで約8割の市場シェアを握る一方、Googleは特定用途向けに最適化した独自AIチップTPUで本格参入を進めている。Googleは「オールGoogle」のエコシステムを活かし、汎用GPUよりも低消費電力かつ優れたコストパフォーマンスを実現。推論市場の競争が激化している。",
-      "category": "japan"
-    },
-    {
-      "title": "Microsoft Warns of Latest Cyber Threats: Tactics and Countermeasures",
-      "title_ja": "Microsoftが警告 「最新サイバー脅威」の手口と対応策",
-      "source": "ITmedia エンタープライズ",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2606/20/news013.html",
-      "date": "2026-06-20",
-      "summary": "Microsoftは「AIの不正利用」や「AIサービスの悪用」がサイバー攻撃の主流になりつつあると警告。多要素認証（MFA）を回避するためAIと自動化を組み合わせた「デバイスコードフィッシング」など、従来の手法では識別困難な新たな攻撃手口と対応策を解説している。",
-      "category": "japan"
-    },
-    {
-      "title": "Young Engineers Should Learn Linux: AI Era Redefines Engineering Fundamentals",
-      "title_ja": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
-      "source": "＠IT (ITmedia)",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html",
-      "date": "2026-06-20",
-      "summary": "最先端のAI技術が現場に投入される中、ネットワークやLinuxといった基礎知識の重要性は依然として高い。レガシーシステムのモダナイゼーションの現実的課題に直面しつつ、今後の開発・運用はAIエージェントが中心的役割を担う時代へシフトすると指摘する。",
-      "category": "japan"
-    },
-    {
-      "title": "Hitachi Stock Down 20% from High: Concerns Precede 'Social Infrastructure AI' Growth Strategy",
-      "title_ja": "日立株、最高値から2割安 「社会インフラにAI」成長策に不安先行",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB1986G0Z10C26A6000000/",
-      "date": "2026-06-20",
-      "summary": "日立製作所の株価が2月の上場来高値から約2割下落。4月末発表の2027年3月期業績見通しが市場予想を下回り、社会インフラにAIを実装する「フィジカルAI」による収益貢献期待が後退した。6月10日の投資家説明会でも市場の不安は払拭しきれていない。",
-      "category": "japan"
-    },
-    {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "title_ja": "ノーベル賞受賞者ジョン・ジャンパー氏、DeepMindを離れて競合のAnthropicへ移籍",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "date": "2026-06-20",
-      "summary": "AlphaFoldの開発で2024年ノーベル化学賞を共同受賞したジョン・ジャンパー氏が、9年近く在籍したGoogle DeepMindを離れAnthropicへ移籍することを発表した。AI業界における大物人材の流出が続く中、Anthropicにとって科学AI領域での大きな獲得となる。",
-      "category": "international"
-    },
-    {
-      "title": "'In the Weights' is your new AI-centric vanity search",
-      "title_ja": "新たなAI中心のエゴサーチサービス『In the Weights』登場",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "date": "2026-06-20",
-      "summary": "元OpenAIのThomas DimsonとJoey Flynnが、AIモデルが特定の人物をどれだけ「重み（weights）」として記憶しているかを測定するサービス『In the Weights』を公開した。Grok、Gemini、GPT、Claude、Llamaなど複数のモデルに対して、Web検索を使わずに人物を想起できるかを測定し、スコアを算出する。",
-      "category": "international"
-    },
-    {
-      "title": "How Substack Creators Are Covering This Strange Markets Era (Odd Lots: AI edition)",
-      "title_ja": "Substackクリエイターはこの奇妙な市場の時代をどう報じているか（Odd Lots: AI特集）",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
-      "date": "2026-06-20",
-      "summary": "Bloomberg Odd LotsがSubstackクリエイター3名（Citrini Research、The Tker、Jasmine Sun）と、AIがメディアと市場のあらゆる領域に浸透した「奇妙な時代」をどう報じるかを討論。AIバブル懸念、雇用喪失の見通し、AIがライターの文体を模倣する未来へのヘッジ戦略などを議論している。",
       "category": "international"
     }
   ]

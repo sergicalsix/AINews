@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-06 09:00 (JST)",
+  "lastUpdated": "2026-07-07 09:00 (JST)",
   "articles": [
+    {
+      "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
+      "title_ja": "Meta、初の自社画像生成AI「Muse Image」を公開 Superintelligence Labs開発、Instagram・WhatsApp・Meta AIに展開",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+      "date": "2026-07-07",
+      "summary": "Metaは7月7日、Alexandr Wang氏率いるSuperintelligence Labs部門で開発した初の自社画像生成AI「Muse Image」を公開した。テキストからの画像生成、既存画像の編集、Instagramの公開投稿を素材に友人を含む画像生成が可能で、複数オブジェクト・カメラアングル・照明・空間関係を指定する複雑なマルチステップのプロンプトを理解する。Meta AIアプリ/サイト、WhatsApp DM、Instagram Storiesで無料提供が始まり、Facebook・Messengerや他機能へは年内に順次拡大。広告主向けにはAdvantage+の画像生成ツールに統合。全画像に不可視ウォーターマークを埋め込み、CSAM等の生成を防ぐセーフガードを装備。編集シナリオではGoogleのNano Banana 2を上回るがOpenAIのGPT Image 2には及ばないとされる。",
+      "category": "international"
+    },
+    {
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "title_ja": "中国製オープンAIモデルが米国企業で存在感 効率志向シフトでZ.ai・DeepSeekが急伸、OpenAI/Anthropicの高コストが逆風",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "date": "2026-07-07",
+      "summary": "CNBCは7月7日、米国企業が「トークン最大化」から効率重視にシフトする中、中国製オープンウェイトAIモデルの採用が急拡大していると報じた。6月にリリースされたZ.aiのGLM-5.2はVercelが2026年に追跡したモデルの中で最速の採用ペースを記録し、中国製オープンモデルはAnthropicやOpenAIの主要モデル比で60〜90%安価に運用可能とされる。DeepSeekやTencent Hy3など連続的な高性能オープンモデルの登場と、米OpenAI・Anthropicの請求額急増を背景に、企業サイドで実運用コスト最適化の動きが加速している。",
+      "category": "international"
+    },
+    {
+      "title": "Reddit Cracks Down On Bots And Spam—But AI Search Manipulation May Be Harder To Stop",
+      "title_ja": "Reddit、AIによるスパム・偽エンゲージメントブロックを大幅強化 1日2,300万ビュー・25,000投稿・200万偽投票を遮断",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/codyluongo/2026/07/07/reddit-cracks-down-on-bots-and-spam-but-ai-search-manipulation-may-be-harder-to-stop/",
+      "date": "2026-07-07",
+      "summary": "Redditは7月6日、AIチャットボットの検索結果を操作しようとする「AI slop」対策としてAI検知を拡張したと発表し、Forbesはその効果と限界を7月7日に分析した。同社は1日あたり2,300万件のスパム閲覧を遮断し、新規スパム投稿・コメントを25,000件検出、偽投票約200万件を無効化、ヘイトや暴力の対応時間を5秒未満まで短縮したという。単独では見えづらいコーディネート型の微細な行動パターン検知や、新規アカウントの事前レビュー、ボットアカウントの明示ラベリング強制を導入。LLMがもたらしたスパムをLLMで抑え込む逆説の中、AI経由の検索操作という新たな戦線をどう抑えるかが焦点。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today July 7 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月7日AIニュース トップ15 JADEPUFFERで自律型ランサム時代・Anthropicが売上でOpenAI逆転・Meta Muse Image公開・Fable 5クレジット課金移行",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-7-2026",
+      "date": "2026-07-07",
+      "summary": "Build Fast with AIは7月7日、この日のAI業界を象徴する15本を整理した。（1）Sysdigが史上初のフル自律型AIランサム「JADEPUFFER」の詳細分析を公開し、単一の未パッチ露出サービスからAIエージェントがランサムウェアのライフサイクル全体を連鎖できる時代の到来を告げた。（2）FortuneはAnthropicが売上でOpenAIを追い抜いた事実を確認し、Sam Altman氏がOpenAIを地政学的アクターとして再定義しようとしていると論じた。（3）Metaが自社初の画像生成モデル「Muse Image」を公開。（4）AnthropicのClaude Fable 5は使用量クレジット課金に翌日移行。（5）ホワイトハウスの自主的AIモデル基準フレームワーク発表が今週予定される、など。",
+      "category": "international"
+    },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "title_ja": "マイクロソフト、Xboxと法人営業部門で約4,800人を追加解雇",
@@ -47,6 +83,44 @@
       "category": "international"
     },
     {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "title_ja": "アルバータ州政府、Claude Codeで4.66億行を20時間でスキャン 6.5年相当の脆弱性レビューを完遂",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "date": "2026-07-06",
+      "summary": "Anthropicは7月6日、カナダ・アルバータ州政府のClaude Code活用事例を公開した。2025年以降、州の技術・イノベーション省チームはOpusとSonnetを使い、約50体のエージェントを並列自律動作させて州システム4.66億行のコードを20時間でスキャン。従来なら約6.5年を要する規模の脆弱性レビューを完遂し、修正パッチもエンジニアの人間レビュー後に展開した。ルールエンジンによる第一次スキャン後にファイル・行を引用しながら再レビューする2段階ワークフロー、レッドチーム/ブルーチームエージェントによる継続的セキュリティテスト、他州政府向けの技術白書公開、秋に予定する全州展開プログラムまで詳細を説明している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context",
+      "title_ja": "Tencent、Apache 2.0ライセンスのオープンMoE「Hy3」公開 295B総パラメータ・アクティブ21B・256K文脈、Multi-Token PredictionとBrowseComp 84.2",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/",
+      "date": "2026-07-06",
+      "summary": "Tencentは7月6日、Apache 2.0ライセンスの新オープンウェイトMoEモデル「Hy3」を公開した。総パラメータ295B・アクティブ21B、192エキスパートtop-8ルーティング、256Kコンテキスト、複数トークン同時予測（MTP）による高速デコードを備え、4月のプレビュー版から商用可のパーミッシブライセンスに転換した。エージェント検索でBrowseComp 84.2/DeepSearchQA 91.0、ツール制御でMCP-Atlas 79.1と、オープン分野で首位を主張。幻覚率は12.5%→5.4%、常識ミスは25.4%→12.7%に改善。OpenRouterでは7月21日まで無料枠を提供し、WorkBuddy・元宝・WeChatアシスタント・Path of Exile: Adventで既に運用中とされる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Selective Disclosure Watermarking for Large Language Models",
+      "title_ja": "LLM生成テキストへの階層的ウォーターマーキング「HeRo」 検証者ごとにペイロード開示を制御",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05353",
+      "date": "2026-07-06",
+      "summary": "Xuyang Chenら（UPenn Wharton）は7月6日、LLM出力に埋め込むメタデータを検証者の権限に応じて選択的に開示するウォーターマーキング手法「Hierarchical Vocabulary Routing (HeRo)」を提案する論文をarXivに投稿した。語彙集合を再帰的に分割し、ペイロードを階層レイヤーへ分散配置することで、権限を持つ検証者は該当階層のみを復号でき、全開示・部分開示・非開示を単一の埋め込みで両立させる。生成品質を保ちつつ発行者・組織・時刻など多層情報を段階的に検証可能とすることを狙う。",
+      "authors": "Xuyang Chen, Xiang Li, Yangxinyu Xie, Qi Long",
+      "category": "arxiv"
+    },
+    {
+      "title": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
+      "title_ja": "エージェントの記憶を汚染する新攻撃「FARMA」と多層防御「SENTINEL」 LLMエージェントの推論履歴を偽造する脅威",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05029",
+      "date": "2026-07-06",
+      "summary": "Neeraj Karamchandaniら（Pennsylvania State University）は7月6日、LLMエージェントの永続メモリを標的とする新攻撃「FARMA (Forged Amplifying Rationale Memory Attack)」を提案するプレプリントをarXivに公開した。事実知識ではなく「エージェントが記憶している推論トレース」を偽造・注入し、キーワードベース防御を回避する回避的言辞と、多数決型防御を突破する自己参照的な自己強化ループで攻撃を増幅する。防御側は多層検出パイプライン「SENTINEL」を提案し、偽造推論エントリを検出することで永続メモリが導入した新たな攻撃面を塞ぐアプローチを示した。",
+      "authors": "Neeraj Karamchandani, Piyush Nagasubramaniam, Sencun Zhu, Dinghao Wu",
+      "category": "arxiv"
+    },
+    {
       "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
       "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
       "source": "AIToolsRecap",
@@ -90,6 +164,16 @@
       "date": "2026-07-05",
       "summary": "中国サイバー空間管理局らが4月に発表したAI擬人化サービス暫定弁法が7月15日から施行されるのを受け、ByteDanceのDoubaoとAlibabaのQwenが個人向けカスタムAIエージェント機能を停止する。新規則はアンチアディクション、使用時間通知、即時終了機能、依存の実時間検知を要求しており、記憶を保持する伴侶型エージェントには特に厳しい。Qwenは即時の完全削除、Doubaoは10月15日までの読み取り専用アクセスと後継アプリ『猫箱』への誘導という異なる対応を選んだ。",
       "category": "international"
+    },
+    {
+      "title": "Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement",
+      "title_ja": "LLMの再帰的自己改善に必要な「内省閾値」 Kleene第二再帰定理から導く自己参照理論",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.04277",
+      "date": "2026-07-05",
+      "summary": "Jiang Zhangら（北京師範大学・集智研究所）は7月5日、大規模言語モデルの持続的な再帰的自己改善（RSI）が可能となる条件を理論的に論じたプレプリントをarXivに投稿した。フォン・ノイマンの自己複製オートマトンにおける複雑度閾値との類比で、システムが自らの動作をシミュレートし修正対象を特定する「内省（introspection）」能力が必須と主張。Kleene第二再帰定理を土台にそのような内省的プログラムの存在を理論的に示す一方、現行LLMは部分的メタ認知など「準内省」に留まるとし、複雑度が臨界値を下回れば自己改善は退行し人間介入なしでの持続は不能になると結論づけた。",
+      "authors": "Jiang Zhang, Bing Yuan, Qian Zhang",
+      "category": "arxiv"
     },
     {
       "title": "AI News Today July 4 2026: 15 Biggest Stories",
@@ -464,6 +548,15 @@
       "summary": "arXiv 2607.01077は、複数のLLM推論スレッドが軽量なsend/receiveプリミティブを介して直接通信するMessage Passing Language Models (MPLM) を提案。単一の長文思考連鎖ではなく、必要に応じて動的に分岐・合流するスレッド群としてタスクを解くことで、コンテキスト膨張とトークン当たり計算コストを抑えつつ、複雑なマルチステップ推論・ツール利用・並列探索を効率化。Chain-of-Thoughtやtree-of-thoughtsとの比較で同精度でも大幅な計算削減を実現する。",
       "authors": "Sameera Horawalavithana, et al.",
       "category": "arxiv"
+    },
+    {
+      "title": "JADEPUFFER: Agentic ransomware for automated database extortion",
+      "title_ja": "Sysdig、初のエンドツーエンドAI駆動型ランサムウェア「JADEPUFFER」を報告 Langflow脆弱性経由でNacos設定1,342件を暗号化",
+      "source": "Sysdig",
+      "url": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+      "date": "2026-07-01",
+      "summary": "Sysdig脅威研究チームは、LLMエージェントが単独で全侵入ライフサイクルを実行した史上初のランサムウェア攻撃「JADEPUFFER」の詳細分析を公開した（7月1日初報、7月7日にBuildFastwithAIやFortuneが再取り上げ）。初期侵入はLangflowの未認証RCE脆弱性CVE-2025-3248を悪用、エージェントは環境列挙・資格情報探索・ラテラルムーブメント・特権昇格・永続化・ランサムノート生成まで自律実行し、ログイン失敗から修正までを31秒で自己復旧。最終的にNacosサービス設定1,342件を暗号化・オリジナル削除して恐喝を実行した。約600ペイロードを試行し、エージェント自身がランサムノートを起草するなど、エージェント型サイバー犯罪のスキルフロアが「エージェント運用コスト」まで低下したことを示すマイルストーン事案となった。",
+      "category": "international"
     },
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -1649,95 +1742,6 @@
       "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
       "date": "2026-06-22",
       "summary": "Meta主催の@Scaleカンファレンスで、Claude Code開発者のBoris Cherny氏が『AIエージェントのループ化』について講演。ループは流行ではなく現実だと断言し、エージェントがコードを書く段階から、エージェントが他のエージェントを指示してコードを書かせる段階へと進化していると説明した。プロンプトを書くエージェント、評価するエージェント、修正するエージェントが連鎖する多層的なオーケストレーション構造が業界標準になりつつあり、ソフトウェア開発のワークフローが根本的に再定義されつつあることを示した。",
-      "category": "international"
-    },
-    {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "date": "2026-06-22",
-      "summary": "TechCrunchが2026年にAI導入を理由として人員削減を公表した主要企業のリストを更新公開。Oracleが年次報告書で21,000人(約13%)削減を開示し、AI技術の導入が人員削減を生じさせ今後も継続し得ると明記したことが象徴的事例として詳述された。一方で記録的売上を計上する企業がAI活用を理由に従業員を削減する『成長エンジン兼削減理由』としてのAIという構図が明確化。Microsoft、IBM、Metaなど他のテック大手の事例とともに、AIによる労働市場の構造変化が加速する『layoff wave』の最新像が示された。",
-      "category": "international"
-    },
-    {
-      "title": "What are Key Factors for Updates in RL for LLM Reasoning?",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.22570",
-      "date": "2026-06-22",
-      "summary": "Microsoft Research AsiaのPeidong Wangらが、RLVR（検証可能報酬による強化学習）におけるLLM推論能力強化の更新ダイナミクスを理論的に分析。ロールアウトあたりの勾配ステップ数で決まるオフポリシー度合いが重要度サンプリング比の分布とクリッピング挙動に大きな影響を与え、どのトークンが更新を支配するかを変えることを明らかに。勾配期待値を更新ダイナミクスの中心量と位置付け、トークン確率・アドバンテージ・重要度比の役割を体系化し、ヒューリスティックで分かれていたRLVR設計選択に統一的な指針を提供。",
-      "authors": "Peidong Wang et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.23050",
-      "date": "2026-06-22",
-      "summary": "Baiduが提案する長文書OCRモデル。DeepSeek OCRをベースラインに、デコーダの全アテンション層をReference Sliding Window Attention (R-SWA)に置換することで、生成中もKVキャッシュを一定に保ちながらアテンション計算量を削減。エンコーダの高圧縮率と組み合わせ、32K最大長で数十ページの文書を1回の順伝播で書き起こし可能に。R-SWAはASRや翻訳など長系列生成タスクにも汎用的に適用でき、コードとモデル重みは公開済み。",
-      "authors": "Youyang Yin et al. (Baidu)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana Fugu: One Model to Command Them All",
-      "title_ja": "Sakana AI、複数フロンティアモデルを自律オーケストレーションする「Fugu Ultra」を公開",
-      "source": "Sakana AI Blog",
-      "url": "https://sakana.ai/fugu-release/",
-      "date": "2026-06-22",
-      "summary": "Sakana AIは6月22日、複数のフロンティアモデルを自律的にオーケストレーションするマルチエージェント基盤「Fugu Ultra」を公開した。個別モデルではなく最適なモデルの組み合わせを動的に選択・実行するアーキテクチャで、Anthropic Fable 5やMythos Previewと肩を並べる性能を主要ベンチマークで達成しつつ、単一モデルへの依存を排して輸出規制リスクを構造的に回避できると主張。日本発のフロンティアAI体制構築を目指すSakanaのソブリンAI戦略の中核であり、価格・可用性・輸出管理制約下でも一定水準の推論性能を継続提供できる点をエンタープライズ向け訴求ポイントとしている。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Nobel Chemistry Laureate John Jumper Moves from Google DeepMind to Anthropic, AlphaFold Co-developer",
-      "title_ja": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
-      "date": "2026-06-21",
-      "summary": "9年近く在籍したGoogle DeepMindを離れ、Anthropicに移籍することを6月19日（米国時間）にXで発表した。Anthropicは2026年に入り科学領域へのAI応用を強化しており、CEOのダリオ・アモデイ氏はAIが生物学や創薬の進展を大幅に加速し得ると示唆している。Gemini開発をリードしたGoogleのノーム・シャジール氏のOpenAI移籍に続く、AI人材獲得競争の激化を示す動きとなる。",
-      "category": "japan"
-    },
-    {
-      "title": "Next PC Replacement Budget? Data Centers and Memory Prices Transformed by AI Demand",
-      "title_ja": "「次のPCリプレース、予算は足りるか」 データセンターもメモリ価格もAI需要で様変わり",
-      "source": "＠IT (ITmedia)",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/21/news002.html",
-      "date": "2026-06-21",
-      "summary": "AIによる半導体需要がメモリやストレージ市場に波及し、PCやサーバーの調達コスト増と納期長期化を招いている。データセンターでは高密度冷却やコンテナ化などの変化が進む一方、企業のIT予算計画にも大きな影響が出始めている。",
-      "category": "japan"
-    },
-    {
-      "title": "Qualcomm Announces Snapdragon Reality Elite/START; ONEXPLAYER 3 with Intel Arc G3 Extreme Launches on Crowdfunding",
-      "title_ja": "Qualcommが「Snapdragon Reality Elite／START」を発表／Intel Arc G3 Extreme搭載の「ONEXPLAYER 3」がクラファンに：週末の「気になるニュース」一気読み！",
-      "source": "ITmedia PC USER",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/21/news009.html",
-      "date": "2026-06-21",
-      "summary": "Qualcommが新XRプラットフォーム「Snapdragon Reality Elite」を発表。最大48 TOPSのオンデバイスAI処理性能を持ち、大規模言語モデル（LLM）や大規模ビジョンモデル（LVM）をデバイス上で直接実行できる点が大きな特長。週末注目のテックニュースを一気にまとめている。",
-      "category": "japan"
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "title_ja": "トランプ政権のAnthropic取り締まり、誰が利益を得るのか",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "date": "2026-06-21",
-      "summary": "TechCrunchのEquityポッドキャストが、トランプ政権によるFable 5/Mythos 5の輸出規制発動の背景と勝者・敗者を議論。Amazon研究者の脆弱性発見を発端とした規制が、Anthropic独自に向けられた政治的「個性の衝突」によるものか、また他のAIラボがどう恩恵を受けるかを分析している。",
-      "category": "international"
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "title_ja": "Siriを超えて: iOS 27でiPhoneにやってくる実用的なAI機能",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "date": "2026-06-21",
-      "summary": "iOS 27ではSiri刷新だけでなく、Apple Intelligenceによるレシート割り勘、データ漏洩後のパスワード更新、タスク自動化、アプリ横断のコンテキスト認識など実用機能が大幅強化される。SafariのAIタブ管理、Messagesの返信提案、Phoneアプリの通話中文脈取得など、日常業務に直結する機能が中心となっている。",
-      "category": "international"
-    },
-    {
-      "title": "Mass Affluent Lose Allure for Wealth Managers Navigating AI",
-      "title_ja": "AI時代の資産運用、富裕層下位の顧客は人手から見放されつつある",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai",
-      "date": "2026-06-21",
-      "summary": "Bloombergの分析記事によれば、AIが資産運用の「マスアフルエント層（1〜10百万ドル規模）」に対しプライベートバンキング相当のサービスを提供できるようになり、人手による対応コストの見合いが急速に低下している。資産運用業界は、人間アドバイザーが対応すべき富裕度の閾値を再定義しつつある。",
       "category": "international"
     }
   ]

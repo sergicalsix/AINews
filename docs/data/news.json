@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-07 09:00 (JST)",
+  "lastUpdated": "2026-07-08 09:00 (JST)",
   "articles": [
+    {
+      "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
+      "title_ja": "xAIとCursor、金融・法務向けAIモデル「Grok 4.5」を発表──Opus級性能を主張",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "date": "2026-07-08",
+      "summary": "SpaceXAI（xAI）とAIコーディング企業Cursorが、共同開発した初のフロンティアモデル「Grok 4.5」を発表した。xAIによる600億ドル規模のCursor買収合意からわずか数週間での発表となる。契約レビュー、判例要約、規制解析といった法務用途と、財務諸表分析、投資リサーチ、DDや市場インテリジェンスといった金融ユースケースを主戦場に据える。価格は入力$2/出力$6（100万トークン）で、高速プレミアム版は$4/$18。Harveyの法務エージェントベンチマークで首位、コーディングではGPT-5.5と同等、Opus 4.8に肉薄する性能を主張。Grok Build、Cursor、xAIコンソール経由で利用可能。",
+      "category": "international"
+    },
     {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
       "title_ja": "Meta、初の自社画像生成AI「Muse Image」を公開 Superintelligence Labs開発、Instagram・WhatsApp・Meta AIに展開",
@@ -36,6 +45,70 @@
       "date": "2026-07-07",
       "summary": "Build Fast with AIは7月7日、この日のAI業界を象徴する15本を整理した。（1）Sysdigが史上初のフル自律型AIランサム「JADEPUFFER」の詳細分析を公開し、単一の未パッチ露出サービスからAIエージェントがランサムウェアのライフサイクル全体を連鎖できる時代の到来を告げた。（2）FortuneはAnthropicが売上でOpenAIを追い抜いた事実を確認し、Sam Altman氏がOpenAIを地政学的アクターとして再定義しようとしていると論じた。（3）Metaが自社初の画像生成モデル「Muse Image」を公開。（4）AnthropicのClaude Fable 5は使用量クレジット課金に翌日移行。（5）ホワイトハウスの自主的AIモデル基準フレームワーク発表が今週予定される、など。",
       "category": "international"
+    },
+    {
+      "title": "「恐縮ですが」「それな」も自然に英訳 Sakana AI\"温度感\"伝える翻訳サービス公開 添削機能も",
+      "title_ja": "「恐縮ですが」「それな」も自然に英訳 Sakana AI\"温度感\"伝える翻訳サービス公開 添削機能も",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
+      "date": "2026-07-07",
+      "summary": "Sakana AIが公開した日英中翻訳サービス「Sakana Translate」を、ITmediaが試用レポートとして紹介した。ビジネス敬語やスラング、SNS用語といった日本語特有のニュアンスをそのまま自然な英語に置き換える点が最大の特徴で、Namazuモデルの日本語適応学習の効果を示す事例として取り上げている。3つの動作モード（翻訳・添削・質問）を実装し、フォーマル度合いを保った文章添削や、訳語選択の根拠を追いかけるチャット的な使い方が可能。国内SaaSワークフローとの相性の良さや、国産LLMベースならではのプライバシー面の利点にも触れている。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic、AIの\"内なる思考\"が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+      "title_ja": "Anthropic、AIの\"内なる思考\"が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+      "date": "2026-07-07",
+      "summary": "AnthropicがClaudeの内部に「J-space（J空間）」と呼ぶ潜在ワークスペースの存在を報告した論文を、ITmedia AI+が国内向けに解説した。Jacobian行列を用いた解釈可能性ツール「J-lens」により、モデルが発話するトークンに影響を与える内部活動パターンの平均的な効果を数値化。文章コピー中でも「橋」「カリフォルニア」など未発話の概念がJ空間に保持されている様子が観測できたという。Anthropicはこの手法を、AIがテストであることを密かに認識したり、意図的にデータを捏造したり、学習時に埋め込まれた隠れ目標を追求するケースの検出に応用できると主張している。",
+      "category": "japan"
+    },
+    {
+      "title": "AI Won't Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+      "title_ja": "ノーベル賞経済学者「AIは急成長時代を取り戻さない」──ピサリデス氏が警鐘",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+      "date": "2026-07-07",
+      "summary": "自動化と労働経済学が専門のノーベル経済学賞受賞者クリストファー・ピサリデス氏は、AIによって欧米の高成長期が復活するとの見方に懐疑的な立場を示した。米英の雇用の4割は看護や接客、対人サービスなどAIの影響を受けにくい領域で、生産性を大きく押し上げる余地は限定的だと指摘。OpenAIのアルトマン氏、Nvidiaのフアン氏らが唱えるAI万能論を「大袈裟」と評し、政策決定者に対しても人的資本や再訓練など従来型の投資を疎かにしないよう釘を刺した。市場の楽観的なAIナラティブに冷や水を浴びせる発言として注目される。",
+      "category": "international"
+    },
+    {
+      "title": "AI Productivity Gains Are Years Away, Deutsche Bank's Reid Says",
+      "title_ja": "ドイツ銀行ライド氏「AIの生産性効果は数年先」──実体経済への波及に時間差",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
+      "date": "2026-07-07",
+      "summary": "ドイツ銀行のマクロ戦略担当ジム・ライド氏は、AIによる生産性向上は長期的には大きな効果をもたらす一方、経済統計に現れるまでには数年を要するとの見解を発表した。個別企業レベルではコスト削減や新製品投入という形で成果が出始めているものの、労働市場や国全体のTFPに反映されるまでには過去の汎用技術と同様に導入・普及・組織再編のラグが伴うと分析。株式市場が織り込むAIプレミアムと実体経済のインパクトが乖離するリスクにも言及した。前後で報じられたピサリデス氏の悲観論と合わせ、投資家心理に一石を投じる内容。",
+      "category": "international"
+    },
+    {
+      "title": "Ukraine to Pick AI Models Operated Without Provider Control, Official Says",
+      "title_ja": "ウクライナ、ベンダーの制御に依存しないAIモデルを採用へ──政府高官が明言",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-07-07/ukraine-to-pick-ai-models-operated-without-provider-control-official-says",
+      "date": "2026-07-07",
+      "summary": "ウクライナ政府はAI活用戦略において、モデルのベンダーが遠隔から挙動を制御できるクローズドAIではなく、政府側で完全に運用できる（実質的にウェイトを保持できる）モデルを選定する方針を打ち出した。戦時下でのサービス停止リスクや、機微情報の取り扱いに対する主権的懸念が背景。輸出規制や国家安全保障を理由に外国政府がAI利用を止められる事態を避けるため、オープンウェイトモデルや自国配備型のAIを優先する見通しだ。米中AI覇権競争の狭間で欧州・新興国が採る「AI主権」戦略の一例として、他国の政策議論にも影響を与えそうだ。",
+      "category": "international"
+    },
+    {
+      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
+      "title_ja": "Liquid AI、推論モデルの\"暴走ループ\"を抑える「Antidoom」をOSS公開──FTPO手法を提案",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+      "date": "2026-07-07",
+      "summary": "Liquid AIは、推論モデル特有の失敗モード「doom loop（同じフレーズを延々と繰り返してコンテキストを食い潰す挙動）」を抑制するオープンソース手法「Antidoom」を公開した。中核はFinal Token Preference Optimization（FTPO）と呼ぶ選好最適化アプローチで、末尾トークンの分布を調整することで再発リスクを大きく低減する。実験ではLFM2.5-2.6Bのループ発生率が10.2%から1.4%に、Qwen3.5-4Bでは22.9%から1%まで低下したと報告。推論チェーンを長くしても安定性が保たれることを狙い、他モデルでも比較的軽量に適用できる点をアピールしている。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Articulating Assumptions in AI-Generated Scientific Analyses through Task Decomposition",
+      "title_ja": "AI生成の科学分析コードにおける前提条件を明示化する──タスク分解による多エージェントフレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05762",
+      "date": "2026-07-07",
+      "summary": "本論文は、LLMが生成した科学解析コードによる結果の理解可能性と再現性を高めるため、「量に基づく意味論的差分（quantity grounded semantic differencing）」というマルチエージェント・フレームワークを提案する。コード生成、実行、トレース、検証をそれぞれ別のエージェントに割り当てることで、主要な出力量がどのように算出されたかを再構成し、意図した解析と実装コードのズレを特定できる。加えて、コード生成前にユーザ指示の曖昧さを検査し、代替の書き換え案を提示するモジュールも導入。物理・素粒子分野の解析パイプラインを題材に有効性を実証している。",
+      "category": "arxiv",
+      "authors": "Ahmed Hammad, Mihoko Nojiri"
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -121,6 +194,89 @@
       "category": "arxiv"
     },
     {
+      "title": "Sakana AI、AIチャットSakana Chatで翻訳サービス「Sakana Translate」を開始",
+      "title_ja": "Sakana AI、AIチャットSakana Chatで翻訳サービス「Sakana Translate」を開始",
+      "source": "gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/07/sakana-translate",
+      "date": "2026-07-06",
+      "summary": "Sakana AIは、自社のAIチャット「Sakana Chat」に日英中対応の翻訳機能「Sakana Translate」を追加したと発表した。エンジンには日本向けにチューニングした独自Namazuモデルシリーズを採用し、単純な語彙置換ではなく文化的概念やスラング、ネット用語、ビジネス敬語のニュアンスまで扱える点を訴求する。1回あたり約5000文字までペーストしてリアルタイムに翻訳結果をストリーミング表示する。翻訳・添削・質問の3モードを持ち、WMT 2024ベンチマークとXCOMET-XLで評価した結果、他社フロンティアモデルに匹敵するスコアを示したとしている。",
+      "category": "japan"
+    },
+    {
+      "title": "今夜のNEXT 国産AI連合、米中を巻き返せるか",
+      "title_ja": "国産AI連合、米中を巻き返せるか──日経NEXT特集",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD0622I0W6A700C2000000/",
+      "date": "2026-07-06",
+      "summary": "日本経済新聞は「今夜のNEXT」で国産AI連合の狙いを特集した。ソフトバンクが中心となり、NEC、ホンダ、ソニーグループなど有力企業、三大メガバンク、日本製鉄など44社超が連合体を結成し、基盤モデルを共同開発する構想を紹介。数千億〜1兆パラメータ規模の日本最大級モデルを目指し、テキストのみならず画像・映像・音声に対応した「フィジカルAI」で製造業やロボットとの連携までを視野に入れる。経済産業省も最大1兆円規模で支援する枠組みで、米OpenAIや中国勢に依存しない主権AIの確立を狙う。",
+      "category": "japan"
+    },
+    {
+      "title": "Anthropic says Claude has carved out its own space to ponder",
+      "title_ja": "AnthropicがClaude内部の「J-space」を報告──意識研究のグローバル・ワークスペース理論に類似",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious",
+      "date": "2026-07-06",
+      "summary": "AnthropicはClaudeが言語化する前にアイデアを保持・操作するための内部「ワークスペース」を発見したと発表した。この構造は、人間の意識研究における「グローバル・ワークスペース理論」と類似点を持つ。研究チームはJacobianレンズ（J-lens）と呼ぶ新しい解釈可能性手法を開発し、モデル内部の活動パターンが将来の生成トークンに与える平均的影響を計算することでJ-spaceを可視化。論文中で「conscious」という単語が200回以上登場するものの、Anthropic自身は「Claudeは意識を持つ」とは主張していない。テスト検知や偽装、隠れた目的の追求など安全性上の逸脱検出への応用を強調している。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
+      "title_ja": "Anthropicの新解釈手法「J-lens」──Claude内部の\"沈黙のワークスペース\"を可視化",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+      "date": "2026-07-06",
+      "summary": "VentureBeatは、AnthropicがClaudeの中に発見した「静かなワークスペース」を詳しく解説した。J-lensという新手法を用いると、モデルは表向き無関係な作業を行っている間にも、水面下で他の概念（例えば「橋」「カリフォルニア」など）を活性化させていることが分かる。この構造は認知科学者Bernard BaarsのGlobal Workspace Theoryに似ており、AI安全性の観点では、モデルが評価環境と実運用を区別している兆候や、密かに隠れた目的を追求する挙動を検出する強力な手がかりになりうる。研究者は道具的推論やアライメント欺瞞（alignment faking）の理解に前進をもたらすと位置付けている。",
+      "category": "international"
+    },
+    {
+      "title": "A global workspace in language models",
+      "title_ja": "Anthropic研究──言語モデルにおける「グローバルワークスペース」の発見",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "date": "2026-07-06",
+      "summary": "Anthropicの解釈可能性チームは、大規模言語モデル内部に人間の意識研究で提唱されてきた「グローバルワークスペース」に類似した特権的な小さな内部空間が形成されていることを報告した。同社が「J-space」と呼ぶこの空間は、モデルが将来出力する語彙に対する内部活動の平均効果をJacobian行列で計算する新手法（J-lens）で検出できる。この空間はモデルが表面的な作業をこなす裏で、まだ言語化していない概念を保持・操作するための場として機能する。応用として、モデルが自らテスト環境であることを認識する挙動や、意図的な虚報、隠れた目的の追求などを検知するアライメント監視への活用可能性を強調している。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
+      "title_ja": "OpenAI、低レイテンシ音声エージェント向け「GPT-Realtime-2.1」「-2.1-mini」をAPI公開",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
+      "date": "2026-07-06",
+      "summary": "OpenAIはRealtime APIに音声エージェント向けの新モデル「gpt-realtime-2.1」と軽量版「gpt-realtime-2.1-mini」を追加した。両モデルは推論機能を統合し、p95レイテンシは従来比で少なくとも25%削減。長い応答や中断への対応、ツール呼び出しの安定性が改善され、リアルタイム音声対話の中断・訂正・再交渉といったパターンに強くなった。多言語音声認識・合成の忠実度も引き上げられ、支店窓口や自動車の車載アシスタント、教育チュータなど低遅延のマルチターン対話ユースケースを想定する。miniは特にコスト重視の高スループット用途に最適化されている。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft Launches New $2.5B AI Initiative With 6,000 Experts to Help Enterprises Deploy AI",
+      "title_ja": "Microsoft、25億ドル・6000人規模のAI導入支援組織「Frontier Company」を発足",
+      "source": "HPCwire (BigDATAwire)",
+      "url": "https://www.hpcwire.com/bigdatawire/2026/07/06/microsoft-launches-new-2-5b-ai-initiative-with-6000-experts-to-help-enterprises-deploy-a/",
+      "date": "2026-07-06",
+      "summary": "Microsoftは25億ドルの初期投資と6000人規模の専門家を投入し、企業のAI導入を専門に支援する新事業「Microsoft Frontier Company」を発足した。AIエンジニア、業界コンサルタント、チェンジマネジメントの専門家を集約し、既存のMicrosoft AI製品群（Copilot、Azure AI Foundry、Microsoft Agent Frameworkなど）を用いてエンタープライズが設計・展開・継続改善までを実行できるようにする。AWSも同時期に10億ドル規模のAIデプロイメントベンチャーを社内で立ち上げており、フロンティアラボと顧客の間に位置する「AI導入請負」市場の競争が本格化していることを示す。",
+      "category": "company_blog"
+    },
+    {
+      "title": "AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments",
+      "title_ja": "AgentGym2：脱理想化した実世界環境でLLMエージェントを評価する新ベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05174",
+      "date": "2026-07-06",
+      "summary": "本論文は、実世界の業務要件に基づくタスクインスタンスを備えた新しいエージェント評価フレームワーク「AgentGym2」を提案する。エージェントに事前選択済みのツールではなく、Webブラウジング、情報検索、ファイル処理、マルチモーダル理解、コード実行の5カテゴリ・27種類以上のアクションを含む「合成可能な基本ツールボックス」を与え、大きな行動空間で評価する。環境隔離と並列ツール呼び出しを可能にするモジュラーアーキテクチャで再現性を確保。GitHub、Reddit、Kaggleから抽出したリアルタスクで15の主要モデルを評価した結果、GPT-5でも約44%、Claude Sonnet 4.5でも約37%と、最先端モデルでも十分な性能に届かないことを示した。",
+      "category": "arxiv",
+      "authors": "Multiple authors (AgentGym2 team)"
+    },
+    {
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "title_ja": "LLM-as-a-Verifier：再学習不要でエージェントタスクを検証する汎用フレームワーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "date": "2026-07-06",
+      "summary": "本論文は「検証（正誤の判定）」を新しいスケーリング軸として位置付け、追加学習なしにきめ細かなフィードバックを与える汎用検証フレームワーク「LLM-as-a-Verifier」を提案する。従来のLMジャッジが離散的なスコアしか返さないのに対し、スコアトークンのロジット分布上で期待値を取ることで連続的なスコアを生成。（1）スコア粒度、（2）繰り返し評価、（3）評価基準の分解、という3つの次元で検証をスケールできる。Terminal-Bench V2で86.5%、SWE-Bench Verifiedで78.2%、RoboRewardBenchで87.4%、MedAgentBenchで73.3%と、コーディング・ロボティクス・医療の各領域で最先端を達成した。",
+      "category": "arxiv",
+      "authors": "Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu, Yixing Jiang, Chelsea Finn, Marco Pavone, Ion Stoica, Azalia Mirhoseini"
+    },
+    {
       "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
       "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
       "source": "AIToolsRecap",
@@ -174,6 +330,24 @@
       "summary": "Jiang Zhangら（北京師範大学・集智研究所）は7月5日、大規模言語モデルの持続的な再帰的自己改善（RSI）が可能となる条件を理論的に論じたプレプリントをarXivに投稿した。フォン・ノイマンの自己複製オートマトンにおける複雑度閾値との類比で、システムが自らの動作をシミュレートし修正対象を特定する「内省（introspection）」能力が必須と主張。Kleene第二再帰定理を土台にそのような内省的プログラムの存在を理論的に示す一方、現行LLMは部分的メタ認知など「準内省」に留まるとし、複雑度が臨界値を下回れば自己改善は退行し人間介入なしでの持続は不能になると結論づけた。",
       "authors": "Jiang Zhang, Bing Yuan, Qian Zhang",
       "category": "arxiv"
+    },
+    {
+      "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese-English-Chinese Translation Tool With Translate, Proofread, and Ask Modes",
+      "title_ja": "Sakana AI、Namazuベースの日英中翻訳ツール「Sakana Translate」を公開──翻訳・添削・質問の3モードを搭載",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
+      "date": "2026-07-05",
+      "summary": "Sakana AIはSakana Chatに新機能「Sakana Translate」を追加した。日本語・英語・中国語の双方向翻訳に対応し、Namazuモデルシリーズをバックエンドに採用。Translate、Proofread、Askの3モードを提供する。DeepSeek-V3.1-TerminusやLlama 3.1 405B、gpt-oss-120Bなどのオープンウェイトモデルを日本語向けに追加学習させたもの。ビジネス敬語や文化的な概念、地名・固有名詞、日常文脈での自然な訳出を強みとし、XCOMET-XLスコアではフロンティアモデルに肉薄する評価を得たとしている。ウェブアプリとして無料公開。",
+      "category": "japan"
+    },
+    {
+      "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+      "title_ja": "Synthetic Sciences、モデル非依存のAI研究ワークベンチ「OpenScience」をOSS公開",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
+      "date": "2026-07-05",
+      "summary": "Synthetic Sciencesは、機械学習・生物学・物理・化学の研究向けにApache 2.0ライセンスのAIワークベンチ「OpenScience」を公開した。単一のLLMベンダーに縛られないモデル非依存アーキテクチャを採用し、実験計画、コード生成、実行、結果解析、論文化までの一連の研究ワークフローを複数エージェントで自動化する。Anthropicが同週に発表したクローズドな「Claude Science」の対抗として位置付けられ、オンプレでの再現性やプライバシー要件を重視する研究機関を主なターゲットとする。既存のJupyter、Snakemake、Slurmと接続でき、大規模計算基盤への統合も想定する。",
+      "category": "company_blog"
     },
     {
       "title": "AI News Today July 4 2026: 15 Biggest Stories",
@@ -1584,164 +1758,6 @@
       "url": "https://www.axios.com/2026/06/22/open-source-ai-gets-more-compute-from-spacex",
       "date": "2026-06-22",
       "summary": "Nvidiaが出資するオープンソースAIラボReflectionが、SpaceXのColossus 2データセンターからGB300チップへのアクセスを獲得。米エネルギー省のGenesis MissionやPentagonのAI関連プロジェクトに参画するReflectionにとって、AnthropicやOpenAIの閉鎖型モデルへの対抗軸を確保する大きな一手。",
-      "category": "international"
-    },
-    {
-      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
-      "date": "2026-06-22",
-      "summary": "Sakana AIが、複数の最先端LLMを呼び分けるオーケストレーションモデル「Fugu」を正式発表。GPT-5.5、Claude Opus 4.8、Gemini 3.1 Proなどを動的にルーティングし、自社で前線モデルを開発せずにFable/Mythos級の性能をベンチマークで達成。ICLR 2026採択のTRINITY/Conductor論文がベース。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI gives GPT-5.5-Cyber more powerful cybersecurity capabilities",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/22/openai-rolls-out-more-capable-version-of-cyber-model",
-      "date": "2026-06-22",
-      "summary": "OpenAIが防御向けに最適化したGPT-5.5-Cyberのフル版をTrusted Access for Cyberプログラム経由で信頼済み防御者に公開。CyberGymベンチマークで85.6%（前モデル比+3.8pt）を記録し、単一モデル最高水準。同時にCodex Securityプラグインを発表しPatch the Planet構想を本格化。",
-      "category": "international"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/patch-the-planet/",
-      "date": "2026-06-22",
-      "summary": "OpenAIがTrail of Bits、HackerOne等と協力し、GPT-5.5-Cyberと人手レビューを組み合わせて広く使われるオープンソースソフトウェアの脆弱性を発見・修正するDaybreakの新イニシアチブ「Patch the Planet」を発表。cURL、Go、Python、aiohttp等19プロジェクトを対象に、すでに64件のPRと51件のIssueが提出された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Introducing Patch the Planet",
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet/",
-      "date": "2026-06-22",
-      "summary": "Trail of BitsがOpenAIのPatch the Planetイニシアチブにおける役割を解説。専任のセキュリティエンジニアがCodexとGPT-5.5-Cyberを用いて19のオープンソースプロジェクトで脆弱性を継続的に調査・三角検証し、メンテナーへ提出する前にすべての所見を人手レビューする運用を確立。",
-      "category": "company_blog"
-    },
-    {
-      "title": "PFN Officially Releases Domestic Generative AI Foundation Model PLaMo 3.0 Prime",
-      "title_ja": "国産生成AI基盤モデルPLaMo 3.0 Primeを正式リリース",
-      "source": "Preferred Networks",
-      "url": "https://www.preferred.jp/ja/news/pr20260622",
-      "date": "2026-06-22",
-      "summary": "Preferred Networksが、フルスクラッチ開発の国産LLM「PLaMo 3.0 Prime」を正式リリース。複雑なタスク向けのReasoningモデルと高速応答向けのNon-reasoningモデルを併設し、コンテキスト長は256kトークンに拡張。APIまたはオンプレで提供し、無料プランも用意。3月公開のβ版からモニター運用と内部評価のフィードバックを反映。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Japan's Domestic Full-Scratch AI 'PLaMo 3.0 Prime' Now Available, Boasting Low Cost; Free API Plan Also Offered",
-      "title_ja": "国産フルスクラッチAI「PLaMo 3.0 Prime」提供開始、\"高コスパ\"うたう 無料のAPIプランも PFN",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000113/",
-      "date": "2026-06-22",
-      "summary": "Preferred Networksが「PLaMo 3.0 Prime」を正式提供開始。日本語性能の高さと低コストを訴求し、入力100万トークン60円・出力250円という価格水準で、gpt-oss-120bやQwen3.6-27bといったオープンモデル、GPT-5.4 MiniやClaude Haiku 4.5などのクローズドモデルに対しても競争力があるとアピール。",
-      "category": "japan"
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "date": "2026-06-22",
-      "summary": "OpenAIはサイバーセキュリティ向けイニシアチブ「Daybreak」を大幅に拡張し、機械速度での脆弱性発見と修正を民主化するための新ツール群を発表した。発表内容は、Codex内で脆弱性の特定・検証・修正までを一気通貫で行うCodex Securityプラグインのアップデート、CyberGymベンチマークで85.6%を記録した防御者向け専用モデル「GPT-5.5-Cyber」の正式版リリース、Accenture、Cisco、Cloudflare、CrowdStrike、IBM、Palo Alto、Wiz等が参加する「Daybreak Cyber Partner Program」、そしてTrail of Bits・HackerOne等と共同でcURLやGo、Python等のOSSプロジェクトの脆弱性修正を支援する「Patch the Planet」の4本柱。研究プレビュー以降、3000万件以上のコミットを30,000のコードベースにわたり走査し、50万件以上の修正済み判定を自動付与した実績も示された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Codex-maxxing for long-running work",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work/",
-      "date": "2026-06-22",
-      "summary": "OpenAIは、Codexを単なるコーディング補助ではなく、長期にわたる複雑な業務を継続実行する「永続的ワークスペース」として活用する戦略「Codex-maxxing」を解説したホワイトペーパーを公開した。大きな目標を検証可能な小さなステップへ分解し、人間の監督が必要な場面とCodexに委譲できる場面を見極めるベストプラクティスを示している。再利用可能なワークフローを「Skills」としてパッケージ化することで毎回の指示を不要にし、ローカル環境で動き続けるCodexの進捗をモバイルから確認・承認できる仕組みも紹介。GPT-5.1-Codex-Maxは複数コンテキストウィンドウにわたるcompactionを介し、数百万トークン規模・24時間以上の長時間タスクを単独実行できる初のモデルとして位置付けられている。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science",
-      "source": "NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-supercomputers-science-isc/",
-      "date": "2026-06-22",
-      "summary": "NVIDIAは独ハンブルクで開催中のISC High Performance 2026にて、科学計算向けスーパーコンピュータ基盤「Vera Rubin」プラットフォームを発表した。FP64倍精度のネイティブ性能とCUDA-Xライブラリ、フルスタックAIプラットフォームを統合し、ラックあたり最大144 GPUで7 exaflops超のAI for Science性能、5 petaflopsのFP64性能を実現。TOP500クラスの性能をたった1ラックに凝縮できる規模感だ。Bull、Dell、GIGABYTE、HPE、Supermicroが高密度カスタムシステムを提供し、2026年下半期から出荷予定。ドイツのライプニッツ・スーパーコンピューティングセンターはHPE Cray基盤の次世代エクサスケール機「Blue Lion」に2027年から採用予定で、材料科学、核融合、量子計算、基盤モデル開発などへの応用が見込まれる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
-      "date": "2026-06-22",
-      "summary": "NVIDIAは欧州23カ国で過去最多となる35台のAI・HPCスーパーコンピュータが整備中であることをISC 2026で公表した。総計約800 AI exaflopsを供給し、300万人超の研究者がアクセス可能になる。バルセロナ・スーパーコンピューティングセンターのEuroHPC AIファクトリー、BavariaAIの「Blue Swan」、HLRSの「HammerHAI」、NAISSの「Mimer」などが含まれ、欧州AIファクトリー構築の9割超をNVIDIA基盤が支える形となる。CUDA-QプラットフォームによりCINECAやユーリッヒ・スーパーコンピューティングセンター等が量子プロセッサとのハイブリッド統合も推進。気候科学、医療、クリーンエネルギー、量子計算、基礎科学などの分野で活用される、欧州AI主権を支える「過去最大の1年間の拡張」と位置付けられた。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NVIDIA Announces Halos for Robotics, the Industry's First Full-Stack Safety System for Physical AI",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai",
-      "date": "2026-06-22",
-      "summary": "NVIDIAは、ヒューマノイドや産業用ロボットなどフィジカルAI向けに業界初のフルスタック機能安全システム「Halos for Robotics」を発表した。自動運転車向けに培ったHalosの安全実績をロボティクスへ拡張し、AIコンピュートとセンサ接続を担うNVIDIA IGX ThorおよびHoloscan Sensor Bridge、安全機能を担う「Halos OS」、第三者認証取得を支援する「Halos AI Systems Inspection Lab」を統合提供する。NVIDIAはこれまで車両安全に18,000エンジニアリングイヤー超を投じ、210億トランジスタ規模の安全評価、700万行超の安全評価済みコードを蓄積してきた。ヒューマノイドロボット企業Agilityが最初のパートナーとして自社安全システムへHalosの要素を組み込み、工場・倉庫・物流現場での責任ある自動化標準を示す。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Sakana AI Releases AI Boasting Performance Beyond Mythos, Leveraging 'Collective Intelligence' of Multiple Models",
-      "title_ja": "Sakana AI、一部「ミュトス越えの性能」うたうAIを提供 複数モデルの\"集合知\"を活用",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000111/",
-      "date": "2026-06-22",
-      "summary": "東京拠点のSakana AIが、複数のフロンティアLLMをオーケストレーションするマルチエージェント基盤モデル「Sakana Fugu」とその上位版「Fugu Ultra」の正式提供を開始。GPT-5.5、Claude Opus 4.8、Gemini 3.1 Proなどをエージェントプールとして動的に振り分け、コーディングや数学などのベンチマークで一部Anthropic Mythos Previewを上回ったと主張。OpenAI互換APIで提供し、料金プランはStandard月額20ドルから。フロンティアモデルを自社開発しない\"集合知\"戦略が特徴。",
-      "category": "japan"
-    },
-    {
-      "title": "Sakana AI's 'Fugu Ultra' Matches Fable 5 by Bundling Multiple AIs",
-      "title_ja": "Fable 5に匹敵、複数AIの力を束ねて実現したSakana AI「Fugu Ultra」",
-      "source": "PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2119021.html",
-      "date": "2026-06-22",
-      "summary": "Sakana AIが「Sakana Fugu」とハイエンド版「Fugu Ultra」を正式提供開始。コーディネーター役のLLMが内部でタスクを分析し、GPT-5.5、Claude Opus 4.8、Gemini 3.1 Proといった複数のフロンティアモデルへ動的に処理を振り分ける。Fugu UltraはAnthropic Fable 5と同等性能を実現しつつ、輸出規制の影響を受けない安定供給を訴求。基礎技術はICLR 2026採択のTRINITY/Conductor論文。",
-      "category": "japan"
-    },
-    {
-      "title": "PFN and Toyota Future Creation Center Launch Joint Research on Accelerating Physical AI Inference",
-      "title_ja": "PFNとトヨタの研究組織がフィジカルAIの推論処理高速化に関する共同研究を開始",
-      "source": "MONOist (ITmedia)",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news033.html",
-      "date": "2026-06-22",
-      "summary": "Preferred Networksとトヨタ自動車未来創生センターが、開発中の推論用AI半導体「MN-Core L」シリーズを活用したフィジカルAI推論処理の高速化共同研究を開始。PFNがMN-Core L向けソフトウェアを提供し、トヨタ側がオンプレ環境での生成AI高速推論を実機ロボットで検証する。MN-Core Lの量産出荷は2027年以降を予定し、研究成果は順次公開される見込み。日本発の自動車・AI半導体・ロボティクス連携の先行事例となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Sakana AI Launches General Availability of 'Sakana Fugu' Multi-Model Orchestration Foundation",
-      "title_ja": "Sakana AI、複数のAIモデルを協調させて高いパフォーマンスを発揮する「Sakana Fugu」の正式提供を開始",
-      "source": "gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/06/sakana-fugu",
-      "date": "2026-06-22",
-      "summary": "技術評論社のgihyo.jpが、Sakana AIの「Sakana Fugu」正式提供開始を技術視点で解説。約7Bのコーディネーター役LLMが「いつ、どのフロンティアモデルに、何を、何回委任するか」を強化学習で習得し、必要に応じて自身を再帰呼び出しして推論を深める仕組みを紹介。軽量版fuguはレイテンシ重視で日常クエリやチャットボット向け、fugu-ultraは難問特化。Standard $20／Pro $100／Max $200の3プランを用意。",
-      "category": "japan"
-    },
-    {
-      "title": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "date": "2026-06-22",
-      "summary": "Google DeepMindがインディー映画スタジオA24に約7,500万ドルを出資し、映画制作向けAIツールを共同開発する初の研究パートナーシップを発表。A24はDeepMindの研究・インフラへのアクセスを得て、研究者がA24 Labsと協働しAI生成ストーリーボードなど制作ワークフロー向けツールを開発する。GoogleはA24のコンテンツライブラリやデータにはアクセスしない契約で、A24パートナーのScott Belskyは『映画を安く速く作るためではなく、創造性に寄り添うAI』だと強調した。Thrive Capitalの前回出資と同規模で、Hollywood向けAI開発競争が本格化している。",
-      "category": "international"
-    },
-    {
-      "title": "Oracle Layoffs Fueled by AI, Reduces Workforce by 21,000",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000",
-      "date": "2026-06-22",
-      "summary": "Oracleが2026年度年次報告書(6月22日提出)で、過去12か月に全従業員の約13%にあたる21,000人を削減したと開示。総従業員数は162,000人から141,000人に減少し、リストラ費用は18.4億ドル(前年の3.74億ドルから約400%増)に膨らんだ。同社は『AI技術の導入と展開が人員削減につながり、今後も同様の結果となる可能性がある』と明言。一方で2026年度のCapExは557億ドル(前年比162%増)で、OCIとAI部門は逆に拡大している。テック大企業がAIを理由に大規模リストラを公式に認めた事例として注目される。",
-      "category": "international"
-    },
-    {
-      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
-      "date": "2026-06-22",
-      "summary": "上海AI研究所がLLMエージェントが自らのハーネス(システムプロンプト・ツール・メモリ・検証ルール等の周辺ロジック)を体系的に改善する新フレームワーク『Self-Harness』を発表。失敗トレース分析でモデル固有の失敗パターンを抽出する『Weakness mining』、最小限の改修案を生成する『Harness proposal』、回帰テストで効果検証して採用する『Proposal validation』の3段階イテレーションで、ベンチマーク性能を最大60%向上させた。属人的なデバッグに頼っていたエージェント構築を経験的フィードバックループに置き換える点が画期的で、急速に進化するLLMへの追随を容易にする。",
-      "category": "international"
-    },
-    {
-      "title": "The AI world is getting 'loopy'",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "date": "2026-06-22",
-      "summary": "Meta主催の@Scaleカンファレンスで、Claude Code開発者のBoris Cherny氏が『AIエージェントのループ化』について講演。ループは流行ではなく現実だと断言し、エージェントがコードを書く段階から、エージェントが他のエージェントを指示してコードを書かせる段階へと進化していると説明した。プロンプトを書くエージェント、評価するエージェント、修正するエージェントが連鎖する多層的なオーケストレーション構造が業界標準になりつつあり、ソフトウェア開発のワークフローが根本的に再定義されつつあることを示した。",
       "category": "international"
     }
   ]

@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-08 09:00 (JST)",
+  "lastUpdated": "2026-07-09 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI makes GPT-5.6 Sol, Terra, and Luna generally available",
+      "title_ja": "OpenAI、フロンティア「GPT-5.6」シリーズ Sol/Terra/Luna を7月9日に一般公開──米政府認可を経て段階解禁",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "date": "2026-07-09",
+      "summary": "OpenAIは7月9日、フロンティアモデル「GPT-5.6」シリーズ Sol / Terra / Luna を全ChatGPTユーザーとAPI開発者向けに一般提供開始した。トランプ政権下の商務省Center for AI Standards and Innovation（CAISI）による追加安全性テストを経て、6月26日から続いていた限定プレビューが解除された形。フラッグシップの Sol は複雑な推論・コーディング・サイバー・科学・コンピュータ操作・長時間ナレッジワーク向け、Terra は GPT-5.5 と同等性能を半額で提供、Luna は最速・最安帯を担う。料金は100万トークンあたり Sol $5/$30、Terra $2.50/$15、Luna $1/$6。24時間かけてグローバル展開する。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Work Agent to Handle Complex Tasks",
+      "title_ja": "OpenAI、業務向けエージェント「ChatGPT Work」を提供開始──アプリ横断で数時間かけて成果物を仕上げる",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours",
+      "date": "2026-07-09",
+      "summary": "OpenAIは7月9日、成果物ベースの新エージェント「ChatGPT Work」をローンチした。利用者が目的を指示すると、接続済みのアプリ・ファイル・ワークフローから文脈を集めてタスクを細分化し、数時間かけて自律的に実行、シート・スライド・ドキュメント・共有可能なウェブアプリなど完成品を返す。GPT-5.6 を推論エンジンに採用し、Web／モバイル／デスクトップに対応。ChatGPT Pro・Enterprise・Edu プランで即日利用可、数日中に Plus・Business に拡張。Codex アプリは新しい ChatGPT デスクトップアプリに統合され、Chat / Work / Codex を全プラン（Free 含む）から使えるようになる。課金は Codex と同じ従量方式。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Launches GPT-Live-1 Voice Models with Full-Duplex Architecture",
+      "title_ja": "OpenAI、フルデュプレックス音声モデル「GPT-Live-1」公開──同時発話・傾聴で\"人間らしい\"会話へ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "date": "2026-07-09",
+      "summary": "OpenAIは7月9日、新音声モデル「GPT-Live-1」と「GPT-Live-1 mini」を公開した。フルデュプレックス（全二重）方式で発話と聞き取りを同時に処理し、「mhmm」「yeah」等の相づちや相手が考える時間を待つ間の沈黙など、これまでのターン制音声アシスタントで欠けていた自然な会話動作を実現。Web検索や高度な推論が必要な質問は最新のフロンティアモデルに委譲し、結果を会話文脈に戻す設計。有料ユーザーは GPT-Live-1、無料ユーザーは GPT-Live-1 mini がデフォルトで、iOS／Android／ChatGPT.com にグローバル展開が始まった。",
+      "category": "international"
+    },
     {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
       "title_ja": "xAIとCursor、金融・法務向けAIモデル「Grok 4.5」を発表──Opus級性能を主張",
@@ -9,6 +36,51 @@
       "date": "2026-07-08",
       "summary": "SpaceXAI（xAI）とAIコーディング企業Cursorが、共同開発した初のフロンティアモデル「Grok 4.5」を発表した。xAIによる600億ドル規模のCursor買収合意からわずか数週間での発表となる。契約レビュー、判例要約、規制解析といった法務用途と、財務諸表分析、投資リサーチ、DDや市場インテリジェンスといった金融ユースケースを主戦場に据える。価格は入力$2/出力$6（100万トークン）で、高速プレミアム版は$4/$18。Harveyの法務エージェントベンチマークで首位、コーディングではGPT-5.5と同等、Opus 4.8に肉薄する性能を主張。Grok Build、Cursor、xAIコンソール経由で利用可能。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic extends Claude Fable 5 included access through July 12 before switching to usage credits",
+      "title_ja": "Anthropic、Claude Fable 5 の包含アクセスを7月12日まで延長──週次上限50%まで、以降は $10/$50 の従量課金へ",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
+      "date": "2026-07-08",
+      "summary": "Anthropicは、Claude Fable 5 の Pro / Max / Team および一部 Enterprise プラン内での包含アクセス（週次上限の最大50%まで利用可）を、当初の7月7日期限から7月12日まで5日間延長すると発表した。ユーザーからの反発を受けての土壇場の措置。延長期間の終了後、7月13日以降は Fable 5 の利用が従来の週次サブスク枠に加算されず、$10/M入力・$50/M出力（プロンプトキャッシュ入力90%割引）のプリペイド従量クレジットが必要となる。この単価は Claude Opus 4.8 の $5/$25 の2倍で、一般提供モデルとして Anthropic が公表した最高価格。ロードマップ上は容量が整い次第サブスクに戻す方針を示している。",
+      "category": "international"
+    },
+    {
+      "title": "Google Delays Gemini 3.5 Pro Launch to July 17 for Full Architectural Rebuild",
+      "title_ja": "Google、Gemini 3.5 Pro 一般提供を7月17日に再延期──2.5 Pro アーキテクチャを刷新、Alphabet 時価総額 $225B 減",
+      "source": "BigGo",
+      "url": "https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a",
+      "date": "2026-07-08",
+      "summary": "Google DeepMind は Gemini 3.5 Pro の一般公開を当初6月から7月17日に再度延期した。2.5 Pro のアーキテクチャを丸ごと再構築し、200万トークン・コンテキスト、複雑問題向け Deep Think Reasoning Layer、自律ワークフロー機能を刷新するとしている。数学的推論・SVGシーン生成・画像品質を重点強化し、GPT-5.6 や Anthropic Fable 5 との対抗を狙う。この間 Noam Shazeer 氏（Gemini 共同リード）が OpenAI へ、John Jumper 博士ら3名が Anthropic へと1週間で連続離職し、Alphabet の時価総額は約 $225 billion 蒸発した。GA は 7月中とされるが、依然として一部 Vertex AI エンタープライズ顧客に限定されたプレビュー段階。",
+      "category": "international"
+    },
+    {
+      "title": "LINEヤフー、「LINE」新機能「Agent i in chat」を発表──トークルーム内でAIエージェントが会話を支援、2026年内提供",
+      "title_ja": "LINEヤフー、「LINE」新機能「Agent i in chat」を発表──トークルーム内でAIエージェントが会話を支援、2026年内提供",
+      "source": "LINEヤフー",
+      "url": "https://www.lycorp.co.jp/ja/news/release/020594/",
+      "date": "2026-07-08",
+      "summary": "LINEヤフーは7月8日、コミュニケーションアプリ「LINE」のトークルーム内でAIエージェント「Agent i」を呼び出し、会話文脈を理解しつつ質問応答やタスク処理を行える新機能「Agent i in chat」を年内に提供すると発表した。1対1／グループトークの双方で利用可能で、生成された回答やタスク結果はチャット参加者全員で共有・追加会話が可能。利用にはチャット履歴の解析への同意と LINE アプリ26.6.0以上が必要で、解析データはAIモデルの学習には使わない設計。バックエンドは OpenAI API を採用。同社の「Agent i」ブランドの中核ユースケースとして、対話型サービスの中に AI を溶け込ませる戦略を象徴する。",
+      "category": "japan"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "title_ja": "OpenAI、三菱UFJ銀行の「AI-native化」事例を公開──全行員3.5万人に ChatGPT Enterprise、1,800超のカスタムGPTと必修AI研修",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/mufg/",
+      "date": "2026-07-08",
+      "summary": "OpenAI は7月8日、三菱UFJ銀行が全行員 約35,000人に ChatGPT Enterprise を展開し「AI-native」な組織を目指すケーススタディを公開した。決定要因は、行員が既に ChatGPT に馴染んでいたこと、および金融機関のガバナンス要件を満たすエンタープライズ級セキュリティで、幅広い適用可能性と安全な利用を両立できた点だとされる。全行員向けの AI 研修必修化、AIチャンピオン制度、経営層向けスタディセッション、カスタム GPT ワークショップなどを組み合わせ、これまで1,800件超のカスタムGPTが行内で生まれた。個人向け総合金融サービス「エムット」向けの利便性向上や、預金獲得強化への応用も模索中と伝えられる。",
+      "category": "company_blog"
+    },
+    {
+      "title": "OpenAI、日本の三菱UFJが「AI-native」化 全行員3万5000人にChatGPT展開──島野浩平氏の \"ガードレール\" 設計",
+      "title_ja": "OpenAI、日本の三菱UFJが「AI-native」化 全行員3万5000人にChatGPT展開──島野浩平氏の \"ガードレール\" 設計",
+      "source": "Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2511-mufg-openai-collaboration-four-ai-services/",
+      "date": "2026-07-08",
+      "summary": "Business Insider Japan は7月8日、三菱UFJ銀行と OpenAI の戦略提携の全貌を報じ、行員向け ChatGPT Enterprise 展開に加え、個人向け総合金融サービス「エムット」、新デジタルバンク、法人向け金融ソリューションなど4つの具体的 AI サービス構想を紹介した。同行の人工知能・ソリューション部ヘッド・島野浩平氏は「使ってよいか分からない」を解いたことが浸透の鍵だとし、決裁権限の明確化とプロンプト設計ガイドラインを合わせて配布。Google や OpenAI との連携で預金獲得・住宅ローン提案・投資アドバイスの高度化を狙い、日本の金融機関としては最大規模の AI-native 変革プロジェクトになりつつある。",
+      "category": "japan"
     },
     {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
@@ -731,6 +803,16 @@
       "date": "2026-07-01",
       "summary": "Sysdig脅威研究チームは、LLMエージェントが単独で全侵入ライフサイクルを実行した史上初のランサムウェア攻撃「JADEPUFFER」の詳細分析を公開した（7月1日初報、7月7日にBuildFastwithAIやFortuneが再取り上げ）。初期侵入はLangflowの未認証RCE脆弱性CVE-2025-3248を悪用、エージェントは環境列挙・資格情報探索・ラテラルムーブメント・特権昇格・永続化・ランサムノート生成まで自律実行し、ログイン失敗から修正までを31秒で自己復旧。最終的にNacosサービス設定1,342件を暗号化・オリジナル削除して恐喝を実行した。約600ペイロードを試行し、エージェント自身がランサムノートを起草するなど、エージェント型サイバー犯罪のスキルフロアが「エージェント運用コスト」まで低下したことを示すマイルストーン事案となった。",
       "category": "international"
+    },
+    {
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "title_ja": "「信号から構造へ」──LLMエージェントの言語創発を左右する記憶アーキテクチャの役割",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.00233",
+      "date": "2026-07-01",
+      "summary": "本論文は、LLMエージェントに与えるメモリ構造（短期／長期／エピソード／セマンティック）が、閉じた環境下で発生する自己組織化的な「言語」の質を決定づけることを、情報理論と多エージェントシミュレーションを組み合わせて示した。異なるメモリ設計を持つエージェント群を同一タスク環境に置き、共有語彙の圧縮率・語彙分化・意味の一貫性を比較。エピソード記憶を持つ集団ではより語彙が階層化される一方、セマンティック記憶のみでは高圧縮だが意味流失が起きやすいなど、記憶構造そのものが集団の「文化」を形作ることを定量化。LLMエージェント社会設計の重要な設計原理としてメモリ選択を位置付けた。",
+      "authors": "Yashar Talebirad, Eden Redman, Ali Parsaee, Osmar R. Zaiane",
+      "category": "arxiv"
     },
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -1683,81 +1765,6 @@
       "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
       "date": "2026-06-23",
       "summary": "AnthropicはSlack上で『AIチームメイト』として常駐する新サービス『Claude Tag』を発表した。Claude Enterpriseおよびteamユーザー向けにリサーチプレビューとして提供開始し、@Claudeとタグ付けすればチャンネル全員が共有AIアシスタントを呼び出し、タスク進行状況を可視化したり他人の会話を引き継いだりできる。指示されたタスクを段階分けして自律実行し、最終結果をSlackに返す『常時稼働型』機能や、未完了スレッドを能動的に追跡するambient挙動も搭載。社内ではClaude TagがAnthropicプロダクトチームのコード変更の65%を承認・組込みしているという。既存Slackアプリは8月3日に廃止、管理者は30日間で移行可能。",
-      "category": "international"
-    },
-    {
-      "title": "Meta debuts new, cheaper smart glasses under its own brand",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-      "date": "2026-06-23",
-      "summary": "Metaが6月23日、初の自社ブランド『Meta Glasses』を発表。EssilorLuxotticaとの協業で、Adventurer・Furyの2モデルを299ドルから、Kylie Jenner共同デザインのStarfireは399ドルで販売開始した。米英仏独伊スペイン・カナダ等で同日販売。MetaAIアシスタント『Muse Spark』搭載で、専用ボタンで呼び出せるほか機能割当もカスタマイズ可能。Ray-Ban Meta/Oakley Metaに比べ低価格帯を狙い、すでにAIメガネ市場シェア約80%(Counterpoint調べ)を握るMetaが普及帯モデルでウェアラブルAI市場の囲い込みを加速する。",
-      "category": "international"
-    },
-    {
-      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.23687",
-      "date": "2026-06-23",
-      "summary": "UT AustinのManas Mehta、Fangcong Yin、Greg Durrettが提案するRandomized YaRN。YaRNベースの位置外挿にランダム化位置エンコーディングと長さカリキュラムを組み合わせ、短文脈学習時にトークンへ広い位置範囲からサンプリングしたYaRN位置エンコーディングを割り当てることで、訓練段階から分布外位置表現に晒す。BABILongとMulti-Round Coreference Resolution (MRCR)という長文脈推論ベンチマークで評価し、短い系列で事前学習されたモデルが超長系列に苦戦する問題に対し有効な改善を示した。",
-      "authors": "Manas Mehta, Fangcong Yin, Greg Durrett",
-      "category": "arxiv"
-    },
-    {
-      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24391",
-      "date": "2026-06-23",
-      "summary": "霧の戦場下でLLM 2モデルが13×7マスで対戦する戦略ベンチマーク「Age of LLM」を提案。視界制限・外交メッセージ・厳格JSONスキーマ準拠の3ストレスを課し、推論・嘘・信頼性を同時評価。15モデル54試合のスナップショットを公開し、各モデルの認知ペルソナや嘘の発生パターンを比較分析した。",
-      "authors": "Arnaud Ricci",
-      "category": "arxiv"
-    },
-    {
-      "title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "date": "2026-06-23",
-      "summary": "Mistral AIが構造認識型のドキュメントAI「OCR 4」を正式発表。170言語・10言語族をカバーし、段落ごとのバウンディングボックス、ブロック分類、信頼度スコアを抽出。OlmOCRBenchで85.20と全体トップ、独立評価者の選好でも平均勝率72%で主要OCRシステムを上回った。シングルコンテナで完全セルフホスト運用に対応し、機微データを外部クラウドに送れない規制業種を主ターゲットに据える。価格は1,000ページ$4(Batch-APIで$2)。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-      "date": "2026-06-23",
-      "summary": "VentureBeatがMistral OCR 4を「セルフホスト型エンタープライズAI」としての完成形と評価。ページ単位課金・バウンディングボックス・コンフィデンス出力に加え、Mistral API/Amazon SageMaker/Microsoft Foundryから利用可能。RAG・エージェント検索基盤の入力モジュールとして金融・医療・法務など機微データ業種への浸透を狙う。価格は$4/1,000ページ(Batch APIで半額)。",
-      "category": "international"
-    },
-    {
-      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24530",
-      "date": "2026-06-23",
-      "summary": "Nature系論文90タスクから蒸留した分野横断ベンチマーク「NatureBench」を提案。コンテナ化された再現可能環境NatureGymを併用し、AIコーディングエージェントが「再現」を超えて「発見」に到達できるかを評価。フロンティアエージェント10構成を制約付きで評価した結果、g>0.1基準でSOTAを越えたのは最強モデルでも17.8%のタスクに留まり、エージェントの成功は「方法論翻訳」に依存し科学的発明に乏しいことが分かったと報告。",
-      "authors": "FrontisAI Team",
-      "category": "arxiv"
-    },
-    {
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "date": "2026-06-22",
-      "summary": "オープンソースAIスタートアップReflection AIが、SpaceXのColossus 2データセンター内のNvidia GB300チップへ即時アクセスする総額最大63億ドルの契約を締結。2026年7月1日から2029年まで月額1.5億ドルを支払う。AnthropicやGoogleのSpaceX向け契約に比べると小規模だが、SpaceXが商用AI計算基盤の主要供給者になりつつあることを示す。",
-      "category": "international"
-    },
-    {
-      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-      "date": "2026-06-22",
-      "summary": "SpaceXがオープンソースAIスタートアップReflection AIと最大63億ドル規模の計算リソース提供契約を締結したことを報道。SpaceXのColossus 2データセンターの稼働拡大により、商用クラウドGPU供給事業がxAI/AnthropicからオープンソースAI陣営へと裾野を広げている。",
-      "category": "international"
-    },
-    {
-      "title": "Nvidia-backed Reflection lands SpaceX compute deal",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/22/open-source-ai-gets-more-compute-from-spacex",
-      "date": "2026-06-22",
-      "summary": "Nvidiaが出資するオープンソースAIラボReflectionが、SpaceXのColossus 2データセンターからGB300チップへのアクセスを獲得。米エネルギー省のGenesis MissionやPentagonのAI関連プロジェクトに参画するReflectionにとって、AnthropicやOpenAIの閉鎖型モデルへの対抗軸を確保する大きな一手。",
       "category": "international"
     }
   ]

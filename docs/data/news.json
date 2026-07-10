@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-07-09 09:00 (JST)",
+  "lastUpdated": "2026-07-10 09:00 (JST)",
   "articles": [
+    {
+      "title": "OpenAI Unveils Long-Awaited 'Super App' as Rivalry with Anthropic Intensifies",
+      "title_ja": "OpenAI、待望の「スーパーアプリ」を発表 Anthropicとの競争激化",
+      "source": "The Business Standard",
+      "url": "https://www.tbsnews.net/tech/openai-unveils-long-awaited-super-app-rivalry-anthropic-intensifies-1484806",
+      "date": "2026-07-10",
+      "summary": "OpenAIは7月10日、GPT-5.6を搭載したChatGPT Workを発表。チャットボットとCodexを統合し、資料やプレゼン、ウェブサイトを自律生成する「スーパーアプリ」として位置付け、Anthropic Claude Cowork への直接的対抗と報じられた。Pro/Enterprise/Edu向けから展開開始。",
+      "category": "international"
+    },
+    {
+      "title": "The Download: Anthropic's Hidden Claude Space and OpenAI's 'Super App'",
+      "title_ja": "MITテクノロジーレビュー：Claudeの内部空間解読とOpenAIスーパーアプリを解説",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "date": "2026-07-10",
+      "summary": "MIT Technology Reviewの7月10日号は、AnthropicがJ-Lens技術でClaude内部の思考空間を可視化した論文と、OpenAIがGPT-5.6を搭載したChatGPT Work「スーパーアプリ」を発表した2大トピックを取り上げた。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Pushes Deeper into AI Agents as Cursor Joins Intensifying Enterprise Race",
+      "title_ja": "OpenAI、AIエージェント領域を深耕 CursorがEnterprise競争に本格参入",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260710VL204/openai-chatgpt-launch-anthropic-market.html",
+      "date": "2026-07-10",
+      "summary": "DigiTimesは7月10日、ChatGPT Work発表を受けOpenAIが自律型AIエージェント領域でAnthropicとの差別化を狙う一方、SpaceXAIのGrok 4.5とCursorも法務・金融領域向けエンタープライズ市場に本格参入し、業界の垂直エージェント競争が一気に激化していると分析した。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic Highlights Claude Code's In-App Browser on the Desktop",
+      "title_ja": "Anthropic、Claude Codeデスクトップ版に「アプリ内ブラウザ」搭載を強調",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "date": "2026-07-10",
+      "summary": "Anthropicは7月10日、Claude Codeデスクトップ版にアプリ内ブラウザを新搭載したことを強調。Claudeがドキュメント、デザイン、任意サイトを開き、ローカル開発サーバーと同様にクリック・操作できるようになり、ソフト開発ワークフローの完結性が高まった。",
+      "category": "international"
+    },
+    {
+      "title": "UST Partners with Anthropic to Bring Claude to Engineering and Enterprise Operations",
+      "title_ja": "UST、Anthropicと戦略提携 Claudeをエンジニアリング・エンタープライズ業務に導入",
+      "source": "AIwire",
+      "url": "https://www.hpcwire.com/aiwire/2026/07/10/ust-partners-with-anthropic-to-bring-claude-to-engineering-and-enterprise-operations/",
+      "date": "2026-07-10",
+      "summary": "AI・テクノロジー変革支援企業USTは7月10日、Anthropicとの戦略的提携を発表。Global 1000企業のAIネイティブ化を目指し、Claudeをエンジニアリング環境と業務ワークフローに埋め込み、顧客のソフトウェア設計・運用・意思決定を自動化する。",
+      "category": "international"
+    },
+    {
+      "title": "NEC Targets 10 Billion Yen in 3 Years with First Anthropic Solution",
+      "title_ja": "NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略を立案",
+      "source": "MONOist",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "date": "2026-07-10",
+      "summary": "MONOistは7月10日、NECのAnthropic協業第1弾ソリューションを詳報。飲料・加工食品・日用品分野の顧客と9月まで検証し、業界別にレポートフォーマットを最適化。10月から本格展開する。Snowflakeとの3社連携によるプロンプトチェーン設計が特徴。",
+      "category": "japan"
+    },
     {
       "title": "OpenAI makes GPT-5.6 Sol, Terra, and Luna generally available",
       "title_ja": "OpenAI、フロンティア「GPT-5.6」シリーズ Sol/Terra/Luna を7月9日に一般公開──米政府認可を経て段階解禁",
@@ -27,6 +81,33 @@
       "date": "2026-07-09",
       "summary": "OpenAIは7月9日、新音声モデル「GPT-Live-1」と「GPT-Live-1 mini」を公開した。フルデュプレックス（全二重）方式で発話と聞き取りを同時に処理し、「mhmm」「yeah」等の相づちや相手が考える時間を待つ間の沈黙など、これまでのターン制音声アシスタントで欠けていた自然な会話動作を実現。Web検索や高度な推論が必要な質問は最新のフロンティアモデルに委譲し、結果を会話文脈に戻す設計。有料ユーザーは GPT-Live-1、無料ユーザーは GPT-Live-1 mini がデフォルトで、iOS／Android／ChatGPT.com にグローバル展開が始まった。",
       "category": "international"
+    },
+    {
+      "title": "AI News Today July 9 2026: 15 Biggest Stories",
+      "title_ja": "AIニュースまとめ 2026年7月9日：主要15トピック",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-9-2026",
+      "date": "2026-07-09",
+      "summary": "Build Fast with AIの7月9日デイリーダイジェスト。OpenAIのGPT-5.6 Sol/Terra/Luna一般提供、ChatGPT Workエージェント、GPT-Live-1音声モデル、SpaceXAI Grok 4.5、Anthropic Fable 5延長、Google Gemini 3.5 Pro 7月17日再スケジュールなど、この日の主要15記事を要約。",
+      "category": "international"
+    },
+    {
+      "title": "NEC Launches Fully-Automated Marketing Service with Anthropic Claude",
+      "title_ja": "NEC、Anthropic Claude活用の「全自動」マーケティングサービス開始 3年で100億円目指す",
+      "source": "ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
+      "date": "2026-07-09",
+      "summary": "NECは7月8日、Anthropicとの戦略協業に基づく初のサービス「NEC AI Insight Reporting Service」を提供開始。ClaudeとSnowflake Cortexで消費者購買データを分析し、商品企画・販促プラン作成を完全自動化。月額100万円から、3年で累計100億円の売上を目指す。",
+      "category": "japan"
+    },
+    {
+      "title": "LDP Proposes Boosting Cabinet AI Office to 80+ Staff, Hiring 20 Private Sector Experts",
+      "title_ja": "「政府AI部局30→80人」自民党が緊急提言、民間人材20人を高額報酬で登用へ",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA082U60Y6A700C2000000/",
+      "date": "2026-07-09",
+      "summary": "自民党デジタル社会推進本部は7月9日、AI政策推進の抜本強化に向けた緊急提言をまとめた。内閣府AI政策推進室を現行30人弱から80人以上へ拡充、民間AI人材20人を国家公務員より高額な報酬体系で速やかに登用、デジタル庁との機能統合も検討する内容。",
+      "category": "japan"
     },
     {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
@@ -81,6 +162,24 @@
       "date": "2026-07-08",
       "summary": "Business Insider Japan は7月8日、三菱UFJ銀行と OpenAI の戦略提携の全貌を報じ、行員向け ChatGPT Enterprise 展開に加え、個人向け総合金融サービス「エムット」、新デジタルバンク、法人向け金融ソリューションなど4つの具体的 AI サービス構想を紹介した。同行の人工知能・ソリューション部ヘッド・島野浩平氏は「使ってよいか分からない」を解いたことが浸透の鍵だとし、決裁権限の明確化とプロンプト設計ガイドラインを合わせて配布。Google や OpenAI との連携で預金獲得・住宅ローン提案・投資アドバイスの高度化を狙い、日本の金融機関としては最大規模の AI-native 変革プロジェクトになりつつある。",
       "category": "japan"
+    },
+    {
+      "title": "China to Let AI Firms Buy Nvidia H200 Chips, The Information Says",
+      "title_ja": "中国、AI大手にNvidia H200チップ購入を限定的に許可へ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
+      "date": "2026-07-08",
+      "summary": "The Informationの報道によると、中国政府はAlibaba、ByteDance、DeepSeekなど主要AI企業に限りNvidia H200チップの購入を許可する方針を伝達した。米中AI冷戦下でも中国の学習・推論インフラ確保を狙う動きで、Nvidiaへの需要とサプライチェーンにも影響する。",
+      "category": "international"
+    },
+    {
+      "title": "PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.06008",
+      "date": "2026-07-08",
+      "authors": "Hongliang Li, Yijin Liu, Zhiwei Zhang, Zihe Liu, Xinyue Lou, Jinan Xu, Fandong Meng, Kaiyu Huang",
+      "summary": "多言語×長期タスク環境でのLLMエージェント評価ベンチマーク「PolyWorkBench」を提案。cs.AI/cs.CLの15ページ論文で、複雑な多段階タスクを多言語設定で解く能力を体系評価し、既存の英語主体ベンチマークが見逃していた多言語推論の失敗モードを可視化。",
+      "category": "arxiv"
     },
     {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
@@ -347,6 +446,15 @@
       "summary": "本論文は「検証（正誤の判定）」を新しいスケーリング軸として位置付け、追加学習なしにきめ細かなフィードバックを与える汎用検証フレームワーク「LLM-as-a-Verifier」を提案する。従来のLMジャッジが離散的なスコアしか返さないのに対し、スコアトークンのロジット分布上で期待値を取ることで連続的なスコアを生成。（1）スコア粒度、（2）繰り返し評価、（3）評価基準の分解、という3つの次元で検証をスケールできる。Terminal-Bench V2で86.5%、SWE-Bench Verifiedで78.2%、RoboRewardBenchで87.4%、MedAgentBenchで73.3%と、コーディング・ロボティクス・医療の各領域で最先端を達成した。",
       "category": "arxiv",
       "authors": "Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu, Yixing Jiang, Chelsea Finn, Marco Pavone, Ion Stoica, Azalia Mirhoseini"
+    },
+    {
+      "title": "Toward Trustworthy Large Language Model Agents in Healthcare",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05055",
+      "date": "2026-07-06",
+      "authors": "Hadi Hasan, Safaa Salman, Adam Tai Abou Dargham, Ammar Mohanna, Ali Chehab",
+      "summary": "医療現場向けLLMエージェント「CareConnect」を提案。決定論的な意図フィルタリング、スコープ制御プロンプト、状態付きツール検証を組み合わせ、緊急・診断・医療助言リクエストをLLM呼び出し前に横取り。医療ロジスティクス自動化における安全性優先のRAG＋関数呼び出しアーキテクチャを提示。",
+      "category": "arxiv"
     },
     {
       "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
@@ -813,6 +921,15 @@
       "summary": "本論文は、LLMエージェントに与えるメモリ構造（短期／長期／エピソード／セマンティック）が、閉じた環境下で発生する自己組織化的な「言語」の質を決定づけることを、情報理論と多エージェントシミュレーションを組み合わせて示した。異なるメモリ設計を持つエージェント群を同一タスク環境に置き、共有語彙の圧縮率・語彙分化・意味の一貫性を比較。エピソード記憶を持つ集団ではより語彙が階層化される一方、セマンティック記憶のみでは高圧縮だが意味流失が起きやすいなど、記憶構造そのものが集団の「文化」を形作ることを定量化。LLMエージェント社会設計の重要な設計原理としてメモリ選択を位置付けた。",
       "authors": "Yashar Talebirad, Eden Redman, Ali Parsaee, Osmar R. Zaiane",
       "category": "arxiv"
+    },
+    {
+      "title": "SoftBank Group Completes Second Tranche of $10B OpenAI Investment",
+      "title_ja": "ソフトバンクG、OpenAIへ100億ドル追加出資（第2弾）実行 累計10兆円規模へ",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC017JJ0R00C26A7000000/",
+      "date": "2026-07-01",
+      "summary": "ソフトバンクグループは7月1日、OpenAIへの追加出資第2弾となる100億ドル（約1兆6273億円）の払込完了を発表。総額300億ドル契約の2/3が実行されたことになり、10月の第3弾払込後には累計出資が646億ドル（約10兆円）に達し、SBGのOpenAI持分比率は約13％となる見通し。",
+      "category": "japan"
     },
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -1655,116 +1772,6 @@
       "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/06/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
       "date": "2026-06-24",
       "summary": "米情報当局者の証言として、AnthropicのClaude Mythosモデルが米情報機関と共同実施した内部テストで、機密扱いの政府システムから多数の脆弱性を短時間で発見したとFederal News Networkが報道。Anthropicは情報機関との連携範囲を拡大しつつ、Mythosの攻撃能力を制御するProject Glasswingの運用要件を厳格化していると説明した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic's Mythos AI found flaws in classified US systems within hours, officials say",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/next/2026/06/24/anthropics-mythos-ai-found-flaws-in-classified-us-systems-within-hours-officials-say",
-      "date": "2026-06-24",
-      "summary": "EuronewsがAnthropicと米情報機関の共同セキュリティ評価結果を報道。Claude Mythosが機密政府ネットワークの脆弱性を「数時間以内」に発見したと米当局者が言及し、AnthropicとIntelligence Communityが今後さらに評価対象を拡大すると説明。Fable 5・Mythos 5の輸出規制下でも、米国内安全保障領域での利用は加速していると伝えた。",
-      "category": "international"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "date": "2026-06-24",
-      "summary": "TechCrunchが、Gemini開発の中核を担ってきたGoogleの研究者Jonas AdlerとAlexander Pritzelの両氏がAnthropicに移籍予定と報道。前週にはNoam Shazeer氏がOpenAIへ、John Jumper氏(2024年ノーベル化学賞、AlphaFold)がAnthropicへの転籍を発表しており、Googleからの主要AI人材流出が連続している。Googleは「業界全体で人材は循環している」とコメント。",
-      "category": "international"
-    },
-    {
-      "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
-      "date": "2026-06-24",
-      "summary": "BloombergがJonas AdlerとAlexander Pritzel両氏のAnthropicへの移籍を独自取材として報じた。AdlerはAIコーディング、PritzelはAI訓練プロセスの中核に関わっておりGeminiの主要貢献者と評価されていた。Anthropicがフロンティア人材確保に勢いを増す一方、Googleはトップ研究者流出が続き、AI労働市場の競争激化が改めて浮き彫りになった。",
-      "category": "international"
-    },
-    {
-      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
-      "date": "2026-06-24",
-      "summary": "Alibaba CloudのQwenチームが「Qwen-AgentWorld」を発表。エージェント環境の応答を予測する「ネイティブ言語世界モデル(LWM)」として、MCP・Search・Terminal・SWE・Web・OS・Androidの7領域を単一アーキテクチャでカバー。MoE設計の35Bと397Bの2モデルを公開し、フラッグシップ397B-A17BがGPT-5.4・Claude Opus 4.8を上回るシミュレーション品質を達成。AgentWorldBenchも併せて公開し、Hugging Face/ModelScopeで利用可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI just announced its first custom chip to help ChatGPT run better",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip",
-      "date": "2026-06-24",
-      "summary": "CNN BusinessがOpenAIとBroadcomの共同開発AIチップ「Jalapeño」発表をレビュー。LLM推論専用設計で、設計開始からテープアウトまで約9か月という極めて短期で完成。GPU依存のコスト構造を見直すための内製化施策と位置付け、2026年末から運用配備が始まる予定。サム・アルトマンCEOらはChatGPT基盤の信頼性と応答速度向上に直結すると強調した。",
-      "category": "international"
-    },
-    {
-      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24133",
-      "date": "2026-06-24",
-      "summary": "LLM事前学習のデータ混合・スケジューリングを多目的強化学習で最適化する「Holistic Data Scheduler」を提案(KDD 2026採択)。データソース比率と学習段階に応じた重み付けをエージェントで動的に決定し、複数の下流タスク指標を同時に改善。固定スケジュールに比べてベンチマーク全体で計算効率と精度の両面で優位性を示した。",
-      "authors": "Anonymous (KDD 2026)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Agentic Collaborative Cognition for Zero-Shot 3D Understanding",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24649",
-      "date": "2026-06-24",
-      "summary": "マルチモーダルLLMをベースに、複数エージェントが視点を分担し合議する「Agentic Collaborative Cognition」フレームワークを提案。ゼロショット3D理解タスクで、計画・観察・統合の役割を持つLLMエージェントが3Dシーンを協調分析し、単一モデル比で大幅な精度向上を達成。3DベンチマークでSOTAを獲得した。",
-      "authors": "Anonymous",
-      "category": "arxiv"
-    },
-    {
-      "title": "ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24605",
-      "date": "2026-06-24",
-      "summary": "10億ユーザー規模・低アクティビティ環境でも構造化推論を維持する「ScaleToT」を提案。Tree-of-Thoughts拡張により疎なユーザー行動データからも安定した推論経路を生成し、産業推薦タスクで従来手法を凌駕。スケール特性を実データで実証し、エンタープライズ規模のユーザーモデリングへLLM推論を一般化した。",
-      "authors": "Anonymous",
-      "category": "arxiv"
-    },
-    {
-      "title": "Automated Summarization of Software Documents: An LLM-based Multi-Agent Approach",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.24689",
-      "date": "2026-06-24",
-      "summary": "ソフトウェアドキュメントの自動要約に向けたLLMマルチエージェント手法(ASE Journal採択)。分析・抽出・検証・統合の役割分担を持つエージェント群が要件・設計書を協調処理し、要約精度と網羅性で従来単一モデルを上回ったと報告。実プロジェクトでの評価結果も提示し、開発生産性向上に資すると結論付けた。",
-      "authors": "Duc S. H. Nguyen et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Qwen Releases AgentWorld Language World Model",
-      "source": "TMTPost",
-      "url": "https://en.tmtpost.com/news/8039234",
-      "date": "2026-06-24",
-      "summary": "AlibabaのQwenチームが「Qwen-AgentWorld」を正式リリース。エージェント環境を再現するネイティブ言語世界モデル(LWM)として、MCP・Search・Terminal・SWE・Web・OS・Androidの7環境を統合シミュレーション。MoEアーキテクチャ採用で397B総パラメータ(17Bアクティブ)と35B(3Bアクティブ)の2構成、評価ベンチマーク「AgentWorldBench」も同時公開し、Hugging Face/ModelScopeで一般公開された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Improved Large Language Diffusion Models",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.25331",
-      "date": "2026-06-24",
-      "authors": "Shen Nie, Qiyang Min, Shaoxuan Xu, Zihao Huang, Yuxuan Song, Yong Shan, Yankai Lin, Wayne Xin Zhao, Chongxuan Li, Ji-Rong Wen",
-      "summary": "完全双方向アテンションを持つ8Bマスク拡散言語モデル「iLLaDA」をスクラッチから学習。事前学習12Tトークン、25Bトークンの指示チューニング(12エポック)を実施し、可変長生成と信頼度ベースのスコアリングを導入。LLaDAと比較してBBHで21.6ポイント、ARC-Challengeで14.9ポイント、MATHで14.5ポイント、HumanEvalで16.5ポイント改善。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Why is Domestic AI 'Sakana Fugu' Priced in USD? Sakana AI Says It Will 'Take Yen-Pricing Needs Seriously'",
-      "title_ja": "国産AI「Sakana Fugu」なぜドル建て？ 円建てニーズ「受け止める」とSakana AI",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/23/news117.html",
-      "date": "2026-06-23",
-      "summary": "Sakana AIが6月22日に発表したマルチエージェント基盤「Sakana Fugu」の料金がドル建て（Standard月額20ドル、Pro 100ドル、Max 200ドル）であることに対し、日本ユーザーから「国産AIなのに円安下でドル建ては厳しい」との声。同社は「グローバル市場前提のサービス展開」と説明する一方、円建てプラン提供のニーズを「真摯に受け止める」とコメント。具体的な実装時期は示されず、国産AIの料金体系をめぐる議論が続く。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic's Claude Tag is learning your company, one Slack message at a time",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "date": "2026-06-23",
-      "summary": "AnthropicはSlack上で『AIチームメイト』として常駐する新サービス『Claude Tag』を発表した。Claude Enterpriseおよびteamユーザー向けにリサーチプレビューとして提供開始し、@Claudeとタグ付けすればチャンネル全員が共有AIアシスタントを呼び出し、タスク進行状況を可視化したり他人の会話を引き継いだりできる。指示されたタスクを段階分けして自律実行し、最終結果をSlackに返す『常時稼働型』機能や、未完了スレッドを能動的に追跡するambient挙動も搭載。社内ではClaude TagがAnthropicプロダクトチームのコード変更の65%を承認・組込みしているという。既存Slackアプリは8月3日に廃止、管理者は30日間で移行可能。",
       "category": "international"
     }
   ]

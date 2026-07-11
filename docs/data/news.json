@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-10 09:00 (JST)",
+  "lastUpdated": "2026-07-11 09:00 (JST)",
   "articles": [
+    {
+      "title": "Hotto Link's Nonagon Capital Launches Nonagon Link Beta for Enterprise Data-to-AI-Agent Distribution",
+      "title_ja": "ホットリンク傘下Nonagon Capital、企業データをAIエージェントへ有償流通する「Nonagon Link」ベータ版を国内公開",
+      "source": "note - Yasuhito Morimoto（国内AIエージェント動向）",
+      "url": "https://note.com/yasuhitoo/n/nba437f259b74",
+      "date": "2026-07-11",
+      "summary": "ホットリンクグループのNonagon Capitalが7月10日、企業が保有する有料データやコンテンツをAIエージェントに対しAPI経由で有償提供するデータ流通基盤「Nonagon Link」のベータ版を国内限定で公開した。PoCから本番運用への移行、業務データのセキュアなAI連携という国内AIエージェント市場のトレンドを象徴する動きとされる。",
+      "category": "japan"
+    },
     {
       "title": "OpenAI Unveils Long-Awaited 'Super App' as Rivalry with Anthropic Intensifies",
       "title_ja": "OpenAI、待望の「スーパーアプリ」を発表 Anthropicとの競争激化",
@@ -56,6 +65,24 @@
       "category": "japan"
     },
     {
+      "title": "STATION Ai Holds AI Boost Program Demo Day with SoftBank and NVIDIA Support",
+      "title_ja": "STATION Ai、ソフトバンク・NVIDIA支援の「AI Boost Program Demo Day」を7月10日に開催",
+      "source": "STATION Ai株式会社（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000120.000095825.html",
+      "date": "2026-07-10",
+      "summary": "STATION Aiが、ソフトバンク・NVIDIAの支援で実施したAIスタートアップ加速プログラム「AI Boost Program」のクロージングイベント「Demo Day」を7月10日に開催した。カラクリ（国産LLM研究）、Final Aim（生成AIのIPリスク最小化）、Olloなど採択5社が成果を発表し、事業提携や実証実験に向けたビジネスマッチングを図った。",
+      "category": "japan"
+    },
+    {
+      "title": "Tencent in talks to become AI startup Manus' largest shareholder, FT reports",
+      "title_ja": "Tencent、AIエージェント新興Manusの筆頭株主化で交渉中とFT報道",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
+      "date": "2026-07-10",
+      "summary": "Tencentは中国AIエージェント新興企業Manusの筆頭株主になるべく交渉中と報じられた。北京当局がMetaによる20億ドルのManus買収の巻き戻しを命じたことを受け、TencentがZhenFundやHSGとともに20億ドル以上でMetaから買い戻す計画。Manusは自律的にタスクを実行する汎用AIエージェントで、「次のDeepSeek」と目された中国AI有力企業のひとつ。",
+      "category": "international"
+    },
+    {
       "title": "OpenAI makes GPT-5.6 Sol, Terra, and Luna generally available",
       "title_ja": "OpenAI、フロンティア「GPT-5.6」シリーズ Sol/Terra/Luna を7月9日に一般公開──米政府認可を経て段階解禁",
       "source": "Engadget",
@@ -108,6 +135,71 @@
       "date": "2026-07-09",
       "summary": "自民党デジタル社会推進本部は7月9日、AI政策推進の抜本強化に向けた緊急提言をまとめた。内閣府AI政策推進室を現行30人弱から80人以上へ拡充、民間AI人材20人を国家公務員より高額な報酬体系で速やかに登用、デジタル庁との機能統合も検討する内容。",
       "category": "japan"
+    },
+    {
+      "title": "Mitsubishi Motors and University of Tokyo Startup Highlanders Sign MOU for Humanoid Robot Mass Production",
+      "title_ja": "三菱自動車と東大発Highlanders、ヒト型ロボット量産で基本合意 京都工場で27年から",
+      "source": "三菱自動車工業（ニュースリリース）",
+      "url": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260709_1.html",
+      "date": "2026-07-09",
+      "summary": "三菱自動車工業と東京大学発スタートアップの株式会社Highlandersが7月9日、人とロボットが共に働く産業基盤の実現に向けた基本合意書を締結した。三菱自の京都製作所京都工場でHighlandersのヒューマノイドロボット「N」を量産化する計画で、2027年に生産を開始し年間1000台体制を目指す。",
+      "category": "japan"
+    },
+    {
+      "title": "Rokid Launches Smart AI Glasses in Japan Nationwide on July 10",
+      "title_ja": "「Rokid スマートAIグラス」10日から一般販売、全国5都市で体験ポップアップ",
+      "source": "AV Watch (Impress)",
+      "url": "https://av.watch.impress.co.jp/docs/news/2123886.html",
+      "date": "2026-07-09",
+      "summary": "中国発のスマートグラス首位メーカーRokidが日本市場での本格展開を発表し、7月10日から全国75店舗と主要ECサイトで「Rokid スマートAIグラス」の一般販売を開始する。89言語のリアルタイム翻訳、撮影、検索、ナビ機能などを備え、価格は税込109,990円で、AIグラス基盤OS「YodaOS」やAgent Storeによるプラットフォーム化も打ち出した。",
+      "category": "japan"
+    },
+    {
+      "title": "Meta's new AI chips will begin production in September",
+      "title_ja": "Metaの自社製AIチップ「Iris」、9月に量産開始へ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "date": "2026-07-09",
+      "summary": "Reutersが入手した社内メモによれば、Metaは自社設計のAIチップ「Iris」を2026年9月に量産開始する。MTIA（Meta Training and Inference Accelerator）計画の一環で、Broadcomが設計パートナー、TSMCが製造を担当。バグテストは約6週間で問題なく完了。Metaはコンピューティング能力を2026年の7GWから2027年に14GWへ倍増する計画で、設備投資は最大1,450億ドルに達する見込み。",
+      "category": "international"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "title_ja": "ChatGPTがあなたの最も野心的な仕事のパートナーに",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "date": "2026-07-09",
+      "summary": "OpenAIがGPT-5.6を搭載した「ChatGPT Work」を発表。デスクトップアプリを中心に、目標を渡すだけでスプレッドシート、スライド、ドキュメント、Webサイトなどの最終成果物までエージェントが仕上げる。Codexも統合され、1,400以上のプラグインとスケジュールタスクで複数時間規模のワークフローを自動化する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "A new way to reflect on how you use Claude",
+      "title_ja": "Claudeの使い方を振り返る新しい方法",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "date": "2026-07-09",
+      "summary": "Anthropicがベータ機能「Reflect」を公開。Claudeの利用パターン、主要トピック、ピーク時間、タスク種別を可視化するダッシュボードで、静粛時間の設定や休憩リマインダーも可能。Free/Pro/Maxプランのメモリ有効ユーザーに提供され、Cowork向けの振り返りも近日追加予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "title_ja": "UniClawBench:実世界タスクにおける能動エージェントの汎用ベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08768",
+      "date": "2026-07-09",
+      "summary": "香港大学MMLabとMeituanの共同研究による、動的な実世界環境における能動エージェント評価のための初の能力ドリブンベンチマーク。従来のサンドボックス・シングルターン評価の限界を超え、スキル使用、探索、長文脈推論、マルチモーダル理解、クロスプラットフォーム連携の5つの基礎能力を体系的に評価する。",
+      "authors": "Zhekai Chen et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Two Axes of LLM Abstention: Answer Correctness and Question Answerability",
+      "title_ja": "LLM回答保留の2軸:回答の正しさと質問の応答可能性",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08456",
+      "date": "2026-07-09",
+      "summary": "LLMが回答を控えるべき対象には「間違う可能性のある回答」と「そもそも答えるべきでない質問(不能質問や誤前提質問)」の2種類があり、これらは独立した軸であることを示した論文。2Bから14Bの5つの指示調整モデルで検証し、通常の回答信頼度は正解性を追跡できるが応答可能性にはほぼ無反応であり、隠れ状態の線形プローブは逆の傾向を示すことを明らかにした。",
+      "authors": "Benedikt J. Wagner",
+      "category": "arxiv"
     },
     {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
@@ -179,6 +271,99 @@
       "date": "2026-07-08",
       "authors": "Hongliang Li, Yijin Liu, Zhiwei Zhang, Zihe Liu, Xinyue Lou, Jinan Xu, Fandong Meng, Kaiyu Huang",
       "summary": "多言語×長期タスク環境でのLLMエージェント評価ベンチマーク「PolyWorkBench」を提案。cs.AI/cs.CLの15ページ論文で、複雑な多段階タスクを多言語設定で解く能力を体系評価し、既存の英語主体ベンチマークが見逃していた多言語推論の失敗モードを可視化。",
+      "category": "arxiv"
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
+      "title_ja": "SpaceXAI、Grok 4.5をリリース、マスクは「Opus級モデル」と表現",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "date": "2026-07-08",
+      "summary": "SpaceXAI（旧xAI）は最新モデルGrok 4.5をリリース。イーロン・マスクはAnthropicのOpus級モデルと比較し、より高速かつトークン効率が高く低コストと主張。入力$2/百万トークン、出力$6/百万トークンでOpus 4.7を大幅に下回る価格設定。まずGrok Build、Cursor、SpaceXAIコンソール向けに公開され、翌9日にはgrok.comとXアプリで一般公開された。",
+      "category": "international"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "title_ja": "AIチップメーカーSambaNova、110億ドル評価額で10億ドル調達",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "date": "2026-07-08",
+      "summary": "AIチップスタートアップのSambaNovaが、General Atlanticが主導するシリーズFラウンドの初回クロージングで10億ドルを調達、ポストマネー評価額110億ドルに到達。BlackRock、Intel Capital、Qatar Investment Authority等も参加。トリリオンパラメータモデルを扱う新SN50チップの開発とデプロイ拡大に充てる。JPMorganChaseが推論インフラのパートナーに採用したことも明らかに。",
+      "category": "international"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "title_ja": "Prime Intellect、企業向けAIエージェント基盤で1.3億ドル調達",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "date": "2026-07-08",
+      "summary": "AIエージェント構築プラットフォームを提供するPrime Intellectが、Radical Ventures主導のシリーズAで1.3億ドルを調達、評価額は10億ドルに到達。NVIDIA Ventures、Intel Capital、Dell Technologies Capitalなども参加。フロンティアAI研究所に依存せず自社エージェントシステムをトレーニングできるツールを提供し、年間換算売上高は既に1億ドル規模に達している。",
+      "category": "international"
+    },
+    {
+      "title": "China plans to let top AI firms buy limited amount of Nvidia H200 chips, The Information reports",
+      "title_ja": "中国、Alibaba・ByteDance・DeepSeekにNVIDIA H200購入を限定容認へ",
+      "source": "Reuters / Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-plans-to-let-top-ai-firms-buy-limited-amount-of-nvidia-h200-chips-the-information-reports-4782000",
+      "date": "2026-07-08",
+      "summary": "The Informationの報道によれば、中国政府はAlibaba、ByteDance、DeepSeekなど国内AI大手に対しNVIDIA H200 GPUの限定的な購入を認める方針を検討中。合計20万個未満とされ、主にAIトレーニング用途に限定され、推論ワークロードは国内チップの優先利用が求められる見込み。長らく続いた米中AIハードウェア規制の緩和として市場は好感し、NVIDIA株は1%上昇した。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "title_ja": "GPT-Liveの発表",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "date": "2026-07-08",
+      "summary": "OpenAIが全二重（フルデュプレックス）音声モデル「GPT-Live-1」と「GPT-Live-1 mini」を発表。同時に聞きながら話せるアーキテクチャによりChatGPT Voiceが自然な会話に近づく。無料・有料ユーザー向けにグローバル展開が開始された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Introducing Grok 4.5",
+      "title_ja": "Grok 4.5の発表",
+      "source": "SpaceXAI News",
+      "url": "https://x.ai/news/grok-4-5",
+      "date": "2026-07-08",
+      "summary": "SpaceXAI（旧xAI）が最新モデル「Grok 4.5」をリリース。買収したCursorと共同トレーニングされたコーディング・エージェント業務向けの「Opus級」モデルで、入力$2/出力$6/百万トークンという低価格と80TPSの高速推論を実現。Grok Build、Cursor、SpaceXAIコンソール経由で提供開始。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Robostral Navigate: single-camera AI navigation",
+      "title_ja": "Robostral Navigate：単一カメラのAIナビゲーション",
+      "source": "Mistral AI News",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "date": "2026-07-08",
+      "summary": "Mistral AIが初の身体化ナビゲーション向けモデル「Robostral Navigate」を公開。8Bパラメータで、単一RGBカメラと自然言語指示のみでロボットを未知の環境で誘導し、R2R-CEベンチマークで76.6%の成功率を達成、深度・複数カメラを使う既存手法を4.5ポイント上回る。ハードウェア非依存でシミュレーション主体で学習された。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+      "title_ja": "エージェント強化学習のためのシングルロールアウト非同期最適化",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.07508",
+      "date": "2026-07-08",
+      "summary": "清華大学とZ.AIの研究チームが、長期的なエージェントタスク向けRLポストトレーニングの安定性とオフポリシー問題に取り組んだ論文。グループサンプリングを1プロンプト1ロールアウトに置き換え、厳密な両側トークンレベルクリッピングを導入することで、SWE-Bench Verified、BeyondAIME、IMOAnswerBench等のベンチマークでGRPOおよびその派生手法を安定的に上回る性能を実現した。",
+      "authors": "Zhenyu Hou et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+      "title_ja": "科学的機械学習における物理検証済みエージェント探索",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.07379",
+      "date": "2026-07-08",
+      "summary": "LLMエージェントによる科学的機械学習の代理モデル探索において、低い誤差指標が必ずしも境界条件・重ね合わせ・因果性等の物理法則を満たすとは限らない問題に対処。PA-SciMLフレームワークは、機械検証可能な物理要件を導出し、候補モデルごとの物理エビデンスをモデル選択に組み込む検証ファーストのアプローチを提案する。",
+      "authors": "Diab W. Abueidda et al.",
+      "category": "arxiv"
+    },
+    {
+      "title": "Human and LLM Collaboration for Accelerated Materials Synthesis and Discovery",
+      "title_ja": "人間とLLMの協働による材料合成・発見の加速",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.07604",
+      "date": "2026-07-08",
+      "summary": "ジョンズ・ホプキンス大学の研究チームが、既知および新規材料の合成レシピを人間とLLMが生成し、実験室での実証結果を閉ループでフィードバックする手法を報告。既知材料では人間83%対LLM75%、未知材料では人間17%対LLM22%の成功率を示し、この協働により1次元Rock-Salt Perovskite系列の欠損メンバーであるBa3PtO5という新構造プロトタイプの発見に至った。",
+      "authors": "Gregory Bassen et al.",
       "category": "arxiv"
     },
     {
@@ -280,6 +465,42 @@
       "summary": "本論文は、LLMが生成した科学解析コードによる結果の理解可能性と再現性を高めるため、「量に基づく意味論的差分（quantity grounded semantic differencing）」というマルチエージェント・フレームワークを提案する。コード生成、実行、トレース、検証をそれぞれ別のエージェントに割り当てることで、主要な出力量がどのように算出されたかを再構成し、意図した解析と実装コードのズレを特定できる。加えて、コード生成前にユーザ指示の曖昧さを検査し、代替の書き換え案を提示するモジュールも導入。物理・素粒子分野の解析パイプラインを題材に有効性を実証している。",
       "category": "arxiv",
       "authors": "Ahmed Hammad, Mihoko Nojiri"
+    },
+    {
+      "title": "NVIDIA touts Vera CPU as 'max single-threaded CPU at scale' for agentic AI",
+      "title_ja": "NVIDIA、Vera CPUをエージェンティックAI向け「大規模シングルスレッド最強CPU」として発表",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
+      "date": "2026-07-07",
+      "summary": "NVIDIAは新型データセンターCPU「Vera」を、エージェンティックAI時代向けの新カテゴリ「Max Single-Threaded CPU at Scale」として位置付けを発表。88コアのモノリシック設計により、コア数よりコア当たり性能を優先。既に量産段階に入り、OpenAI、xAI、Oracle、Anthropic等での採用が始まっている。次世代Rosa CPUに搭載されるRigel Arm v9.2コアも予告された。",
+      "category": "international"
+    },
+    {
+      "title": "EU Commission presents Action Plan on Cybersecurity and Artificial Intelligence",
+      "title_ja": "欧州委員会、AIとサイバーセキュリティに関する行動計画を発表",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "date": "2026-07-07",
+      "summary": "欧州委員会は、先進AIモデルがもたらすサイバーセキュリティ上のリスクと機会に構造的に対応する行動計画を発表。EU市場投入前のAIモデル評価能力の強化、ENISAとJRCによる安全なテストプラットフォームの構築、「EUグランドチャレンジ」の立ち上げなどが柱。米国製フロンティアモデルへの依存を認識しつつ、欧州のAI能力を主権的に拡大する狙いがある。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Muse Image and Muse Video",
+      "title_ja": "Muse ImageとMuse Videoの発表",
+      "source": "AI at Meta Blog",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "date": "2026-07-07",
+      "summary": "MetaがSuperintelligence Labs初の画像生成モデル「Muse Image」を発表。複雑なプロンプトを高度な推論で理解し、検索・コード実行ツールを呼び出しながら自己修正するエージェント的な生成が特徴。Meta AIアプリ、Instagram Stories、WhatsAppで即日展開開始で、Muse Videoも開発中。",
+      "category": "company_blog"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "title_ja": "LeRobot v0.6.0：想像し、評価し、改善する",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "2026-07-07",
+      "summary": "Hugging Faceがオープンソースロボット学習ライブラリLeRobotのv0.6.0をリリース。行動前に未来を想像するポリシー、成功可否を判定する報酬モデル、失敗を訓練データに変換するデプロイCLI、6つの新シミュレーションベンチマークを追加し、ロボット学習のクローズドループを実現する。",
+      "category": "company_blog"
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -1575,204 +1796,6 @@
       "date": "2026-06-25",
       "summary": "OpenAIが企業ユーザーのエージェント利用実態をまとめた最新レポートを公開。2025年11月比でリサーチ部門のエージェント利用は中央値で56倍、カスタマーサポート32倍、エンジニアリング27倍に急増したと報告。2026年5月時点で個人ユーザーの80.6%が「30分以上の人間労働」相当のCodexタスクを実行し、99パーセンタイルのパワーユーザーは1日60時間超のエージェント稼働時間を生成。ChatGPTでも非開発者ユーザーが2025年8月比137倍に増加し、エンタープライズではチャットボットからエージェントへの主役交代が進んでいると指摘。",
       "category": "company_blog"
-    },
-    {
-      "title": "White House asks OpenAI to limit its next model release",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house",
-      "date": "2026-06-25",
-      "summary": "CNN Businessが、ホワイトハウスがOpenAIに対し次期モデル(後にGPT-5.6と判明)の一般公開を遅らせ、政府承認済みの少数パートナーに限定するよう要請したと先行報道。Anthropic Mythos/Fable 5の輸出規制と同様、ワシントンとウォール街の懸念材料となっている高度なサイバー能力が引き金。OpenAIは「数週間以内」の一般公開を目指すとした。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAIの新型AI「GPT-5.6」、当初20社に限定提供 米政府要請で",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN262QQ0W6A620C2000000/",
-      "date": "2026-06-25",
-      "summary": "日経が、米OpenAIが発表予定の新型AIモデル「GPT-5.6」について、トランプ政権の要請で当初の提供先を約20社に限定すると25日に報道。一般提供までの間、利用には米政府の承認が必要になる。背景にはGPT-5.6の高度なサイバーセキュリティ・エージェント能力に対する安全保障懸念があり、AnthropicのMythos/Fable 5に続く事実上のライセンス制運用が連続する形となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Mistral Unveils OCR 4 for Enterprise Search, RAG and Document Processing",
-      "source": "AIwire (HPCwire)",
-      "url": "https://www.hpcwire.com/aiwire/2026/06/25/mistral-unveils-ocr-4-for-enterprise-search-rag-and-document-processing/",
-      "date": "2026-06-25",
-      "summary": "AIwire(HPCwire系列)がMistral OCR 4の登場をエンタープライズ検索とRAGパイプラインの観点で詳報。170言語サポート、ブロック分類とインライン信頼度、シングルコンテナでのオンプレ運用が特徴で、独立評価でwin rate 72%、OlmOCRBench 85.20を記録。Mistral API、Amazon SageMaker、Microsoft Foundryから即時利用可能と整理し、SOTAドキュメントAIの民主化が一段進んだと位置付けた。",
-      "category": "international"
-    },
-    {
-      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27359",
-      "date": "2026-06-25",
-      "authors": "Johannes Zenn, Jonas Geiping",
-      "summary": "LLMの復号化手法はトークンレベルまたはシーケンスレベルでより尤度の高い出力に確率を集中させるが、シーケンス確率と正答性がいつ一致するかを4つのレベルで定量化。データセット内のプロンプト・回答ペアでは高い確率が正答性を予測するが、ハイパーパラメータや手法を変えて確率を上げても精度向上には繋がらないと報告。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Human-LLM Collaboration Is Transforming Complexity Metrics in Scientific Texts",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27052",
-      "date": "2026-06-25",
-      "authors": "R. Alexander Bentley, Blai Vidiella, Damian J. Ruck, Senjuti Dutta, Kai Li, Sergi Valverde",
-      "summary": "2010年から2025年までのarXiv論文の抄録数百万件を複雑系科学の観点から分析し、LLMが言語生態系に与える微妙な影響を調査。2023年以降、LLM関連スタイル指数が急上昇する一方、ZipfやHeapsの法則の指数の変化は微小であることを発見。混合された人間-LLMテキストデータによる学習の影響を考察。",
-      "category": "arxiv"
-    },
-    {
-      "title": "In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.26981",
-      "date": "2026-06-25",
-      "authors": "Xiaomeng Fu, Junfan Lin, Yang Liu, Yaowei Wang, Guanbin Li, Liang Lin, Ziliang Chen",
-      "summary": "LLMをプランナーとして用いてテキスト命令を分解し、モーションシーケンスを生成する手法を提案。シミュレーションされた物理環境と入力意味の双方に適応するクローズドループ修正機構により、オープン語彙のモーション合成を実現した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27330",
-      "date": "2026-06-25",
-      "authors": "Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao",
-      "summary": "小規模オープンソースMLLMの計画能力とサイト間汎化を強化するPEEU手法を提案。自律的に環境を探索して経験を獲得し、ヒンドサイト経験を活用して高品質な学習データを合成する。ACL 2026 Mainに採択。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Suno Launches 'Spark,' New Incubator Program for Independent Artists",
-      "source": "Variety",
-      "url": "https://variety.com/2026/music/news/suno-spark-incubator-program-for-independent-artists-1236790684/",
-      "date": "2026-06-25",
-      "summary": "音楽生成AI Sunoが独立系アーティスト向けインキュベーター「Spark」を発表。18歳以上の自主リリース活動を行う歌手・作詞家・プロデューサーが対象で、数千〜数万ドル規模の助成、マーケティング費用、ソングライティングキャンプ招待、作品フィードバックが提供される。アーティストは作品の創作・商用権を保持し、配信先も自由に選択できる。$4億のシリーズD調達直後の発表となった。",
-      "category": "international"
-    },
-    {
-      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27472",
-      "date": "2026-06-25",
-      "authors": "Vedant Patel",
-      "summary": "長期マルチセッション会話で事実が更新される場面（住所変更・価格改定・計画変更など）でのLLMエージェントの「メモリ更新ギャップ」を定量化した論文。LongMemEvalの更新サブセットで、フロンティアモデル（gpt-5.4）でもフル文脈の92%から制限メモリ環境では77%に精度が落ち、ボトルネックはメモリ保持メカニズムにあると指摘。古い情報を罰し新情報を報酬化する強化学習環境「Supersede」をオープン公開し、Qwen2.5-3BをGRPOファインチューニングすると更新質問の精度が9.0%→16.7%へほぼ倍増することを示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-      "date": "2026-06-24",
-      "summary": "OpenAIとBroadcomが共同開発したLLM推論専用カスタムアクセラレータ「Jalapeño」を正式発表。設計開始から製造テープアウトまでわずか9か月で完了し、Broadcom・Celesticaを協業パートナーに据えた。エンジニアリングサンプルは既にラボでGPT-5.3-Codex-Sparkなどを目標周波数・電力で稼働しており、現行の最先端チップを上回る電力効率を示すとする。2026年末からの本格展開を皮切りに、多世代の専用計算基盤の第一歩と位置付ける。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "date": "2026-06-24",
-      "summary": "OpenAIがBroadcomと開発した初の自社推論専用チップ「Jalapeño」を6月24日に公開。同社AIモデルを活用して9か月で設計を完了したという。推論ワークロード向けに最適化され、典型的なGPUと比較して約50%のコスト削減効果が見込まれる。2026年末の初期配備を起点に、ChatGPT等のサービス基盤に組み込まれる多世代計算プラットフォームの一環。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI and Broadcom reveal Jalapeno, first AI chip in partnership",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-      "date": "2026-06-24",
-      "summary": "OpenAIとBroadcomが2024年10月から進めてきた共同開発を結実させ、LLM推論専用カスタムチップ「Jalapeño」を発表。BroadcomのCEOホック・タン氏は通常のAI GPU比で約5割のコスト削減効果を示唆し、OpenAIのアルトマンCEOらが初期サンプルを受領した。NVIDIA依存度を下げ、自社サービス向け推論基盤を内製化する戦略の中核。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI, Broadcom Unveil Jalapeno AI Chip Promising Faster, Cheaper Model Runs",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper",
-      "date": "2026-06-24",
-      "summary": "OpenAIがBroadcomと組んで初の自社設計AIチップ「Jalapeño」を公開。GPU比で約50%の運用コスト削減を見込み、推論専用に設計。OpenAIは既にサンプル受領を完了しテスト中で、Nvidia依存からの脱却を進めるとともに、Anthropic・Google・xAIなどと並ぶ自前ハードウェア競争に本格参戦した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI and Broadcom Unveil LLM-Optimized Intelligence Processor",
-      "source": "Broadcom",
-      "url": "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-unveil-llm-optimized-intelligence-processor",
-      "date": "2026-06-24",
-      "summary": "Broadcomが公式プレスリリースで、OpenAIと共同開発したLLM推論最適化型インテリジェンスプロセッサ「Jalapeño」を発表。OpenAIのモデルロードマップに合わせて設計され、Broadcom・Celesticaが製造を担う。同社は同チップ案件が高性能ASICとして史上最速級の9か月開発サイクルを達成したと主張、2026年末からの初期配備を予定。",
-      "category": "company_blog"
-    },
-    {
-      "title": "NNSA Announces Aires Tide, a National Security Innovation Developed Using AI and Additive Manufacturing Under the Genesis Mission",
-      "source": "U.S. Department of Energy",
-      "url": "https://www.energy.gov/nnsa/articles/nnsa-announces-aires-tide-national-security-innovation-developed-using-ai-and",
-      "date": "2026-06-24",
-      "summary": "米エネルギー省国家核安全保障局(NNSA)が、AIと積層造形(3Dプリント)で短期開発した飛行試験機「Aires Tide」を発表。NNSAのスーパーコンピューター「Venado」「El Capitan」を用いて内部構造やセンサー配置をAIが設計し、5か月で複数機を試作・飛行試験まで実施。従来比で15倍安価かつ7倍高速に開発できたとし、Genesis Missionの初の具体的成果と位置付ける。6月25日からナショナルモールで一般展示。",
-      "category": "international"
-    },
-    {
-      "title": "DOE Unveils AI-Designed Aires Tide Flight Vehicle Built Under Genesis Mission",
-      "source": "HPCwire",
-      "url": "https://www.hpcwire.com/off-the-wire/doe-unveils-ai-designed-aires-tide-flight-vehicle-built-under-genesis-mission/",
-      "date": "2026-06-24",
-      "summary": "DOE/NNSAがGenesis Missionの第1号案件として、AIで設計・3Dプリント製造された飛行試験機Aires Tideを発表。Los Alamos・Lawrence Livermore・Sandiaの3国立研究所がAIワークフローと国家HPC資源を結集し、設計から飛行試験までを5か月で実施。AIが熱・応力設計や内部レイアウトを最適化し、フューズラージは6日未満で印刷された。米国の安全保障AI応用での実証として注目される。",
-      "category": "international"
-    },
-    {
-      "title": "How AI is finding more answers about rare diseases",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/how-ai-is-finding-more-answers-about-rare-diseases/",
-      "date": "2026-06-24",
-      "summary": "Microsoftがオフィシャルブログで、希少疾患の診断・研究をAIで加速する取り組みを公開。同社のAzure AIとMAI(Microsoft AI)モデル群を活用し、医師・患者支援団体・研究者と協業して未診断症例の特定や論文横断分析を進めていると報告。Microsoft AI for Goodイニシアチブの一環として、希少疾患領域での生成AIの臨床応用事例を紹介した。",
-      "category": "company_blog"
-    },
-    {
-      "title": "AI in Education Report 2026: Adoption surges as institutions race to support educators and students",
-      "source": "Microsoft",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/ai-in-education-report-2026/",
-      "date": "2026-06-24",
-      "summary": "Microsoftが2026年版「AI in Education Report」を公開。教育機関での生成AI導入が急速に進む一方、教員研修・学習評価・公平アクセスの整備が遅れていると指摘。Copilotや教育向けAI機能の利用実態調査と、教師・学生・保護者向けの推奨ロードマップを提示し、教育分野での責任あるAI活用に向けた政策提言を行った。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic's Claude Mythos achieves 80% accuracy on AI bug-fix benchmark, prompting U.S. export curbs",
-      "title_ja": "ミュトスが正答率8割で突出、AIバグ修正試験 高性能が米禁輸引き金",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC154GI0V10C26A6000000/",
-      "date": "2026-06-24",
-      "summary": "AnthropicのフロンティアモデルClaude Mythosが、ソフトウェアバグ修正ベンチマークで正答率80%超を記録し、OpenAI・Googleの主要モデル(60%未満)を大きく引き離したと日経が報じた。突出したソフト改変能力がサイバー攻撃悪用リスクとして米商務省の輸出規制対象指定の根拠となり、Project Glasswing参加組織以外の一般提供は依然見送られている。",
-      "category": "japan"
-    },
-    {
-      "title": "VB Transform 2026 opens: enterprise AI moves from copilots to autonomous agents",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/vbtransform2026",
-      "date": "2026-06-24",
-      "summary": "VentureBeatの年次企業AIカンファレンスVB Transform 2026がサンフランシスコで開幕。エンタープライズAIの実装事例(copilotからエージェントへ)を主題に、Innovation Showcaseでは生成AI製品7社が招待制で展示。OpenAI、Microsoft、Google、Anthropic等の上級幹部や意思決定者600名超が登壇し、AIエージェント運用・統制・ROIに関する議論が行われる。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
-      "date": "2026-06-24",
-      "summary": "Anthropicが米上院銀行委員会宛ての書簡で、AlibabaのQwen AIラボ関係者がClaudeから2,500万件超の対話を約25,000個の偽アカウントを介して取得し、ソフトウェア工学・エージェント推論能力を「敵対的蒸留」で抜き取ったと告発。同社は「過去最大規模の蒸留攻撃」と呼び、米商務省によるFable 5・Mythos 5の輸出規制指令の正当性を裏付ける根拠としても提出した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-      "date": "2026-06-24",
-      "summary": "Bloombergが、AnthropicがAlibaba関連オペレーターによる大規模な不正アクセス疑惑をホワイトハウスと議会に通報したと報道。攻撃は2026年4月22日から6月5日にかけて行われ、Claudeの推論能力とエージェント挙動を盗取する敵対的蒸留手法を用いたとされる。Anthropicはこれを根拠に、トランプ政権による中国系企業へのフロンティアモデル輸出規制の維持を要請した。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic claims that China's Alibaba used 25,000 fake accounts and 28.8 million exchanges to illicitly 'distill' its Claude model",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude",
-      "date": "2026-06-24",
-      "summary": "Tom's HardwareがAnthropicの告発内容を詳報。AlibabaおよびQwen関連の運用主体が2026年4〜6月にかけて25,000個の偽アカウントから2,880万件の対話をClaudeに送り、推論パターンとデータ構造の収集を試みた「過去最大の蒸留攻撃」だったとAnthropicが主張。標的は最先端のソフトウェア工学とエージェント能力で、輸出規制と内部不正検知の両面で対策を強化中と明らかにした。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic's Mythos model found vulnerabilities in classified US government systems, official says",
-      "source": "Federal News Network",
-      "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/06/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
-      "date": "2026-06-24",
-      "summary": "米情報当局者の証言として、AnthropicのClaude Mythosモデルが米情報機関と共同実施した内部テストで、機密扱いの政府システムから多数の脆弱性を短時間で発見したとFederal News Networkが報道。Anthropicは情報機関との連携範囲を拡大しつつ、Mythosの攻撃能力を制御するProject Glasswingの運用要件を厳格化していると説明した。",
-      "category": "international"
     }
   ]
 }

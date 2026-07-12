@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-11 09:00 (JST)",
+  "lastUpdated": "2026-07-12 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today July 12 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月12日 本日のAIニュース：注目15選",
+      "source": "Build Fast With AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026",
+      "date": "2026-07-12",
+      "summary": "7月12日時点の主要AIニュース15本を集約。OpenAIのIPO準備、AnthropicがOpenAIの売上高を上回った件、Anthropic Claude Corpsフェローシップ、Google Africa Applied AI Lab、Gemini 3.5 Proの遅延と競合状況などを扱う。",
+      "category": "international"
+    },
+    {
+      "title": "Top 10 AI News July 12 2026: Apple vs OpenAI and More",
+      "title_ja": "2026年7月12日AIニューストップ10：Apple対OpenAIほか",
+      "source": "Unrot",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-july-12-2026",
+      "date": "2026-07-12",
+      "summary": "7月12日のAI業界主要トピック10選。Apple対OpenAIの営業秘密訴訟、Meta Irisチップ量産計画、SK Hynix上場、Gemini 3.5 Proの遅延、Anthropic Claude ReflectダッシュボードなどをまとめてカバーするダイジェストAIレビュー。",
+      "category": "international"
+    },
     {
       "title": "Hotto Link's Nonagon Capital Launches Nonagon Link Beta for Enterprise Data-to-AI-Agent Distribution",
       "title_ja": "ホットリンク傘下Nonagon Capital、企業データをAIエージェントへ有償流通する「Nonagon Link」ベータ版を国内公開",
@@ -9,6 +27,69 @@
       "date": "2026-07-11",
       "summary": "ホットリンクグループのNonagon Capitalが7月10日、企業が保有する有料データやコンテンツをAIエージェントに対しAPI経由で有償提供するデータ流通基盤「Nonagon Link」のベータ版を国内限定で公開した。PoCから本番運用への移行、業務データのセキュアなAI連携という国内AIエージェント市場のトレンドを象徴する動きとされる。",
       "category": "japan"
+    },
+    {
+      "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+      "title_ja": "Apple、営業秘密窃取でOpenAIを提訴",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/07/11/tech/apple-sues-openai-secret-theft/",
+      "date": "2026-07-11",
+      "summary": "Appleが北カリフォルニア連邦地裁でOpenAIを提訴した。ChatGPTのメーカーがハードウェア事業展開のためにAppleのチップ設計・オンデバイスAI担当者ら400人以上を引き抜き、営業秘密を盗み出したと主張。ハードウェア担当のTang Tan氏はAppleの旧部品を面接に持参させるよう指示していたとされる。",
+      "category": "international"
+    },
+    {
+      "title": "Apple Sues OpenAI Alleging Trade Secret Theft, Says Scheme Was 'At Every Level'",
+      "title_ja": "AppleがOpenAIを提訴、営業秘密窃取は「全レベルで発生」と主張",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "date": "2026-07-11",
+      "summary": "AppleはOpenAIが技術スタッフからチーフハードウェア責任者に至るまで組織的にAppleの機密情報を窃取したと主張し、損害賠償と差止命令を求めている。2024年のChatGPT/iOS統合パートナーシップからJony Ive氏のIO Products買収を経てのライバル化という劇的な関係悪化を示す事案。",
+      "category": "international"
+    },
+    {
+      "title": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+      "title_ja": "SK Hynix上場、AIが半導体の好不況サイクルを打破するかを問う",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/07/11/tech/sk-hynix-debut-ai-boom/",
+      "date": "2026-07-11",
+      "summary": "高帯域幅メモリ（HBM）世界最大手のSK HynixがNasdaq上場を果たし、上場初日終値は公開価格149ドルから約13％上昇の168ドル。総調達額265億ドルは外国企業による米国IPO史上最大規模で、AIメモリチップ市場の56.4%を占める同社の勢いを示した。",
+      "category": "international"
+    },
+    {
+      "title": "How SK Hynix Just Pulled Off the Second-Largest U.S. Share Sale by Quietly Powering the AI Boom",
+      "title_ja": "SK Hynix、AIブームを静かに支えて米国株式市場史上2位の資金調達を達成",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/",
+      "date": "2026-07-11",
+      "summary": "SK HynixのNasdaq上場はSpaceX IPOに次ぐ米国史上2位の株式売出しとなった。調達資金は韓国での新工場、パッケージング施設、次世代チップ製造用EUV露光装置へ投入される予定で、AIメモリ需要の拡大を背景に投資家の熱狂を呼んだ。",
+      "category": "international"
+    },
+    {
+      "title": "Meta Stock Rises After Announcement of In-House AI Chip Production",
+      "title_ja": "Meta、自社製AIチップの量産発表で株価6%急伸",
+      "source": "GuruFocus",
+      "url": "https://www.gurufocus.com/news/8954665/meta-meta-stock-rises-after-announcement-of-inhouse-ai-chip-production",
+      "date": "2026-07-11",
+      "summary": "Meta Platformsは9月から自社設計AIチップ「Iris」の量産を開始すると報じられ、株価は約6%上昇。BroadcomとTSMCの協業で製造される同ASICは推薦ランキング/フィード用に最適化され、2027年までにデータセンター容量14GWへの倍増計画の中核をなす。",
+      "category": "international"
+    },
+    {
+      "title": "AI News July 11 2026: SK Hynix +13% on Debut, ChatGPT Work Launches, Apple Sues OpenAI, Siri Switches to Gemini",
+      "title_ja": "2026年7月11日AIニュース：SK Hynix上場13%高、ChatGPT Work公開、Apple対OpenAI訴訟、SiriがGeminiへ",
+      "source": "AIToolsRecap",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-11-2026",
+      "date": "2026-07-11",
+      "summary": "7月11日のAI業界最新まとめ。SK HynixのNasdaqデビュー、OpenAI GPT-5.6搭載のChatGPT Work公開、Apple対OpenAI訴訟提起、Apple SiriのGemini採用、Meta Iris AIチップ量産計画など、業界のパワーバランスを揺るがす主要ニュースを網羅。",
+      "category": "international"
+    },
+    {
+      "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08282",
+      "date": "2026-07-11",
+      "authors": "N/A",
+      "summary": "LLMとの対話における機微データ漏洩を防ぐマルチエージェント型ファイアウォール・アーキテクチャを提案。複数エージェントによる検査層でユーザー入力・モデル応答を段階的にサニタイズし、プライバシー保護と応答品質を両立する設計を評価する。",
+      "category": "arxiv"
     },
     {
       "title": "OpenAI Unveils Long-Awaited 'Super App' as Rivalry with Anthropic Intensifies",
@@ -80,6 +161,15 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
       "date": "2026-07-10",
       "summary": "Tencentは中国AIエージェント新興企業Manusの筆頭株主になるべく交渉中と報じられた。北京当局がMetaによる20億ドルのManus買収の巻き戻しを命じたことを受け、TencentがZhenFundやHSGとともに20億ドル以上でMetaから買い戻す計画。Manusは自律的にタスクを実行する汎用AIエージェントで、「次のDeepSeek」と目された中国AI有力企業のひとつ。",
+      "category": "international"
+    },
+    {
+      "title": "Meta to Start Production of Iris AI Chip in September 2026",
+      "title_ja": "Meta、独自AIチップ「Iris」を2026年9月に量産開始",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html",
+      "date": "2026-07-10",
+      "summary": "Metaの独自AIチップ「Iris」は6週間のテストを経て9月量産入り。データセンター容量を2026年の7GWから2027年に14GWへ倍増する計画の一環で、外部GPU依存の低減と巨大なAIインフラ需要への対応を目指す。2027年まで6ヶ月ごとに新型AIプロセッサを投入する予定。",
       "category": "international"
     },
     {
@@ -200,6 +290,24 @@
       "summary": "LLMが回答を控えるべき対象には「間違う可能性のある回答」と「そもそも答えるべきでない質問(不能質問や誤前提質問)」の2種類があり、これらは独立した軸であることを示した論文。2Bから14Bの5つの指示調整モデルで検証し、通常の回答信頼度は正解性を追跡できるが応答可能性にはほぼ無反応であり、隠れ状態の線形プローブは逆の傾向を示すことを明らかにした。",
       "authors": "Benedikt J. Wagner",
       "category": "arxiv"
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "title_ja": "Muse Spark 1.1を発表",
+      "source": "Meta AI",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "date": "2026-07-09",
+      "summary": "Meta Superintelligence Labsが最新のマルチモーダル推論モデル「Muse Spark 1.1」を発表。100万トークンのコンテキストを動的に管理し、ツール使用・コーディング・マルチモーダル理解に大幅な性能向上をもたらす。並行サブエージェントへの委任を含む主エージェント/副エージェント両方のロールを担う。API価格は入力$1.25/出力$4.25（100万トークンあたり）。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Meta Enters the Crowded AI Coding Battle with Muse Spark 1.1",
+      "title_ja": "Meta、Muse Spark 1.1でAIコーディング競争に本格参入",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "date": "2026-07-09",
+      "summary": "MetaがMuse Spark 1.1をリリースし、Anthropic/OpenAIが独占するAIコーディング領域に参入。API価格は競合の約4分の1に設定され、Alexandr Wang氏率いるSuperintelligence Labs体制の下でエージェント型AIコーディングの民主化を推進する。",
+      "category": "international"
     },
     {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
@@ -1153,6 +1261,15 @@
       "category": "japan"
     },
     {
+      "title": "Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.01047",
+      "date": "2026-07-01",
+      "authors": "N/A",
+      "summary": "静的な単一LLMでは現れない創発的性質が、LLM集団の相互作用によって生じることを論証。エージェント型LLM集団を「解釈可能な基質」として扱う枠組みを提示し、集団ダイナミクスの可解性・観測可能性を高める手法を検討する。",
+      "category": "arxiv"
+    },
+    {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
       "title_ja": "Anthropic、エージェント運用を低コスト化する新モデル「Claude Sonnet 5」を発表",
       "source": "TechCrunch",
@@ -1679,123 +1796,6 @@
       "date": "2026-06-26",
       "summary": "Bloombergが、OpenAIのIPO延期報道を受けSoftBank Group株が一時13%下落し、2024年8月以来最大の下げ幅となったと報道。SoftBankのOpenAI出資額は10月時点で約650億ドルに達する見通しで、IPOの大型キャピタルゲイン期待が時価総額をトヨタ超えまで押し上げていただけに反動が大きい。アルトマンCEOは1兆ドル未満の評価では上場しない方針を示しており、2027年への延期で日本側出資者へのリターン回収も先送りとなる。",
       "category": "international"
-    },
-    {
-      "title": "Silicon Valley Money Drives AI's Growing Role in 2026 US Elections",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections",
-      "date": "2026-06-26",
-      "summary": "Bloombergが、2026年米中間選挙にAI政策を巡るシリコンバレーマネーが過去最大級で流入していると分析記事を掲載。Marc Andreessen・Greg Brockmanらが主導する規制緩和派スーパーPAC「Leading the Future」が1.25億ドル超を投じ、対するAnthropic出資の「Public First Action」が2,000万ドルで規制強化派を支援。ニューヨーク連邦下院予備選では両陣営合わせて2,000万ドル超が投じられ、データセンター反発と雇用不安を背景にAI規制が選挙の中心争点に浮上した。",
-      "category": "international"
-    },
-    {
-      "title": "AI Rout Exposes Wall Street's $270 Billion Speculation Machine",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/ai-rout-exposes-wall-street-s-270-billion-speculation-machine",
-      "date": "2026-06-26",
-      "summary": "BloombergがAIチップ株を中心とした今週の急落が、レバレッジETFを核とする2,700億ドル規模の投機マシン構造を露呈させたと報道。リテール主導のAIチップ株巻き戻しはアジア・米半導体株、レバレッジETF、上場直後のSpaceXファンドにも波及。米国のレバレッジETF残高は2,000億ドル超、アジアでも450億ドル超に膨張し、Barclaysの試算では米ETFの再調整売買が長期平均の数倍に達する局面が常態化。AIラリーの強制買い・売りが市場のボラティリティを増幅させる構図が鮮明になった。",
-      "category": "international"
-    },
-    {
-      "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
-      "source": "Google Research",
-      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-      "date": "2026-06-26",
-      "summary": "Google Researchが、本番運用中の凍結済みGemini Nano v3モデルにMulti-Token Prediction(MTP)を後付けする新手法を発表。EAGLEやCALMの系譜を継ぎつつ、別個のドラフタモデルを学習させる非効率を避け、モバイル環境向けに最適化したアーキテクチャ部品を導入することで、ベースモデルの品質・安全性を損なわずに自回帰生成のボトルネックを解消する。Pixel 9/10シリーズで既にロールアウト済みで、AI通知サマリやProofread機能のテキスト生成が大幅に高速化し、消費電力も削減されたとしている。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs",
-      "source": "Qualcomm",
-      "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-",
-      "date": "2026-06-26",
-      "summary": "QualcommとMetaが、Metaの次世代サーバーフリート向けデータセンターCPUの複数世代供給に関する戦略提携を発表。新ブランド「Qualcomm Dragonfly C1000」(Oryonアーキテクチャ、250+コア、5GHz超、PCIe Gen 7、CXL対応)を投入し、エージェント型AIのオーケストレーションなどシーケンシャル推論やコンテキスト切替が重いワークロードでGPUを補完する。生産は2028年下半期開始予定で、QualcommにとってMetaは初の大型データセンター顧客となる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27210",
-      "date": "2026-06-26",
-      "authors": "Jeremias Ferrao, Niclas Müller-Hof, Iustin Sîrbu, Traian Rebedea, Yftah Ziser",
-      "summary": "LLMの安全性分類において、ユーザーの意図情報を学習に取り入れる「Intent-Aware Training」を提案。様々な学習レジームにわたって安全性分類性能が一貫して向上することを示し、有害なリクエストの判別性能を改善する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Hallucination in World Models is Predictable and Preventable",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.27326",
-      "date": "2026-06-26",
-      "authors": "Nicklas Hansen, Xiaolong Wang",
-      "summary": "Dreamer 4アーキテクチャをベースに、大規模マルチタスク連続制御向けの世界モデルを構築。世界モデルにおけるハルシネーションは予測可能かつ防止可能であると主張し、224×224 RGB観測のマスク自己符号化による因果的ビデオトークナイザを採用。コード・データセット・モデルを公開。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Cainz tests generative AI image 'fitting' for in-store interior products to boost sales — accuracy and efficiency challenges remain",
-      "title_ja": "カインズが画像AIで売上UP模索、店頭でのインテリア\"試着\"をテスト 立ちはだかる「正確性と効率」の壁：AWS Summit Japan 2026",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html",
-      "date": "2026-06-26",
-      "summary": "ホームセンター大手カインズは、生成AIで部屋の写真にカーテン・ラグ・キャットタワーなどのインテリア商品を合成する店頭サイネージ「CAINZ Fitting Room」をAWS Summit Japan 2026で公開した。現在はカインズが用意したデモ部屋画像を使う段階だが、将来的に顧客自身の部屋画像での合成を目指す。生成精度・処理効率の壁を越えるべく一部店舗で実証実験を継続している。",
-      "category": "japan"
-    },
-    {
-      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
-      "title_ja": "ジェイルブレイク攻撃下でも保たれる有害特徴：アテンションヘッド特化からの機構的証拠",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.28153",
-      "date": "2026-06-26",
-      "authors": "Yanchen Yin, Dongqi Han, Linghui Li",
-      "summary": "ジェイルブレイク攻撃がLLMの安全機構を網羅的に破壊するのではなく、特定のアテンションヘッドを選択的に抑制することを実証。前段層に集まる「敵対的に侵害されたヘッド(ACH)」と中段層の「安全アラインヘッド(SAH)」を発見し、SAHが攻撃成功時にも頑健な活性を保つ「Robust Harmful Features」の源であると示した。ICML 2026 Oral採択。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Tandem Reinforcement Learning with Verifiable Rewards",
-      "title_ja": "検証可能報酬によるタンデム強化学習",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.28166",
-      "date": "2026-06-26",
-      "authors": "Difan Jiao, Raghav Singhal, Robert West, Ashton Anderson",
-      "summary": "RLVR(検証可能報酬付き強化学習)で訓練された上位モデルが下位モデルと協調できない互換性問題を、タンデム訓練で解決する手法を提案。フリーズした下位エージェントと共同でロールアウトを生成し、チームとして報酬を与えることで推論能力と協調性を両立させる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
-      "title_ja": "LLM推論トレースの認知エピソードによる解釈可能な人間項目難易度予測",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.28186",
-      "date": "2026-06-26",
-      "authors": "Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou",
-      "summary": "大規模推論モデル(LRM)の思考トレースを認知科学的に意味のあるエピソード列にマップするフレームワーク「Epi2Diff」を提案。推論の規模・努力配分・状態遷移を介して人間にとっての問題の難易度を予測でき、教育評価における高コストな人手キャリブレーションの代替となる可能性を示した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-      "title_ja": "PerceptionRubrics：マルチモーダル評価を人間知覚に較正する",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.28322",
-      "date": "2026-06-26",
-      "authors": "Yana Wei, Hongbo Peng, Yanlin Lai, Liang Zhao, Kangheng Lin, En Yu, et al.",
-      "summary": "1,038枚の情報密度の高い画像に対し12,000超のインスタンス固有ルーブリックを付与した新評価枠組み。「Must-Right(必須事実)」と「Easy-Wrong(細粒度)」の二系統と、必須要素を外すと急激な減点となる「Gated Scoring」を導入し、ベンチマーク飽和と実世界での脆弱性のギャップを埋める。",
-      "category": "arxiv"
-    },
-    {
-      "title": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
-      "title_ja": "トークンから状態へ：ワールドモデルの特殊例としてのLLMとその先への連続経路",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.28127",
-      "date": "2026-06-26",
-      "authors": "Paul Dubois",
-      "summary": "LLMをワールドモデルの退化的な特殊例として位置づけるポジション論文。状態空間が全トークン列、行動が「次トークンを追加」のみという見方を提示し、次トークン予測(NTP)からJEPAに至る連続的スペクトラムにマルチトークン予測や次潜在予測が中間段階として存在すると論じる。",
-      "category": "arxiv"
-    },
-    {
-      "title": "How agents are transforming work",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/how-agents-are-transforming-work/",
-      "date": "2026-06-25",
-      "summary": "OpenAIが企業ユーザーのエージェント利用実態をまとめた最新レポートを公開。2025年11月比でリサーチ部門のエージェント利用は中央値で56倍、カスタマーサポート32倍、エンジニアリング27倍に急増したと報告。2026年5月時点で個人ユーザーの80.6%が「30分以上の人間労働」相当のCodexタスクを実行し、99パーセンタイルのパワーユーザーは1日60時間超のエージェント稼働時間を生成。ChatGPTでも非開発者ユーザーが2025年8月比137倍に増加し、エンタープライズではチャットボットからエージェントへの主役交代が進んでいると指摘。",
-      "category": "company_blog"
     }
   ]
 }

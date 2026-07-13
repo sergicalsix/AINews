@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-12 09:00 (JST)",
+  "lastUpdated": "2026-07-13 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today July 13 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月13日 本日のAIニュース：注目15選",
+      "source": "Build Fast With AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-13-2026",
+      "date": "2026-07-13",
+      "summary": "7月13日時点の主要AIニュース15本を集約。AnthropicがOpenAIの売上高を上回った件、OpenAIのIPO準備、Gemini 3.5 Proの7月17日ローンチ計画、Apple対OpenAI訴訟の余波、Musk/Altmanの舌戦、中国モデルの米国API占有率30〜46％急拡大などを扱う。",
+      "category": "international"
+    },
+    {
+      "title": "AI News July 13 2026: Gemini 3.5 Pro Targets Thursday, China Considers Overseas AI Restrictions, DeepSeek API Deadline",
+      "title_ja": "2026年7月13日AIニュース：Gemini 3.5 Pro木曜投入予定、中国が海外AI規制検討、DeepSeek API旧版停止期限",
+      "source": "AIToolsRecap",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-13-2026",
+      "date": "2026-07-13",
+      "summary": "Google DeepMind Gemini 3.5 Proが7月17日ローンチ予定と報じられ、200万トークンのコンテキストと$1.25/M入力トークンの低価格でGPT-5.6 Solに対抗。中国が海外向けAI輸出規制を検討中、DeepSeek旧APIの停止期限が迫るなど、業界の力学再編を映すニュースを網羅。",
+      "category": "international"
+    },
+    {
+      "title": "Top 10 AI News July 13 2026: Musk vs Altman and More",
+      "title_ja": "2026年7月13日AIニューストップ10：マスク対アルトマン、他",
+      "source": "Unrot",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-july-13-2026",
+      "date": "2026-07-13",
+      "summary": "7月13日のAI業界主要トピック10選。X上でのMusk/Altman激しい応酬、Google・Microsoft・Salesforce・Snowflake・ServiceNowが結成したAnthropic MCP対抗のAIエージェント接続標準、OpenAI Northslope買収、Gemini 3.5 Pro週内投入予定、中国モデルの米国内シェア急伸などを網羅。",
+      "category": "international"
+    },
+    {
+      "title": "Elon Musk and Sam Altman accuse each other of scamming investors as SpaceX and OpenAI jockey to lead AI revolution",
+      "title_ja": "MuskとAltman、投資家詐取と互いを非難 SpaceXとOpenAIがAI主導権を争う",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/13/elon-musk-sam-altman-feud-scam-accusations-spacex-openai-ipos-grok-gpt-apple-lawsuit/",
+      "date": "2026-07-13",
+      "summary": "AppleがOpenAIを提訴した週末以降、Musk・Altmanが互いを「投資家を騙している」と非難する応酬に発展。SpaceXの宇宙データセンター構想とOpenAIのGPT-5.6 Sol、両社のIPO準備を背景に、Grok 4.5とGPT-5.6の直接対決が業界の力学を規定しつつある。",
+      "category": "international"
+    },
     {
       "title": "AI News Today July 12 2026: 15 Biggest Stories",
       "title_ja": "2026年7月12日 本日のAIニュース：注目15選",
@@ -17,6 +53,24 @@
       "url": "https://unrot.co/blogs/today-top-10-ai-news-july-12-2026",
       "date": "2026-07-12",
       "summary": "7月12日のAI業界主要トピック10選。Apple対OpenAIの営業秘密訴訟、Meta Irisチップ量産計画、SK Hynix上場、Gemini 3.5 Proの遅延、Anthropic Claude ReflectダッシュボードなどをまとめてカバーするダイジェストAIレビュー。",
+      "category": "international"
+    },
+    {
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "title_ja": "Apple提訴を受けMuskとAltmanがXで激しい応酬",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "date": "2026-07-12",
+      "summary": "Appleのトレードシークレット訴訟提起を受け、Elon MuskとSam AltmanがX上で公然と対立を再燃させた。Muskは「Scam Altman strikes again」と挑発し、Altmanは「GPT-5.6 Solが世界最高モデルの証拠」と応酬。Grok 4.5とGPT-5.6 Solのリリース直後のタイミングで、両社のIPO準備・投資家アピール合戦が交錯する構図となった。",
+      "category": "international"
+    },
+    {
+      "title": "Elon Musk and Sam Altman bicker on X after Apple files OpenAI lawsuit",
+      "title_ja": "Apple訴訟後、MuskとAltmanがX上で言い争いを続ける",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5965640-apple-openai-trade-secret-lawsuit/",
+      "date": "2026-07-12",
+      "summary": "Appleの営業秘密訴訟を機にMuskとAltmanの応酬が再燃。Apple元幹部400人超がOpenAIに移籍しハードウェア機密を持ち出したとする訴えを巡り、両CEOはX上で相手を詐欺呼ばわりする泥仕合を展開している。訴訟自体は業界のパワーバランスと人材流動の争点を浮き彫りにした。",
       "category": "international"
     },
     {
@@ -173,6 +227,15 @@
       "category": "international"
     },
     {
+      "title": "デジタル庁、tsuzumiなど国産AIを「さくらのクラウド」で稼働 「日本の自律性確保」目指す",
+      "title_ja": "デジタル庁、tsuzumi・Takane・PLaMoの国産AI3種をさくらのクラウドで稼働開始へ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/",
+      "date": "2026-07-10",
+      "summary": "デジタル庁は7月10日、NTTの「tsuzumi 2」、富士通の「Takane 32B」、Preferred Networksの「PLaMo 2.0 Prime」の3種の国産LLMを、8月からさくらのクラウド上で職員向けAI基盤「Gennai」のチャット機能として稼働させると発表。ガバメントクラウド上での純国産クラウド利用の初事例となり、9〜11月にかけて既存モデルとの比較テストを複数回実施する。",
+      "category": "japan"
+    },
+    {
       "title": "OpenAI makes GPT-5.6 Sol, Terra, and Luna generally available",
       "title_ja": "OpenAI、フロンティア「GPT-5.6」シリーズ Sol/Terra/Luna を7月9日に一般公開──米政府認可を経て段階解禁",
       "source": "Engadget",
@@ -308,6 +371,15 @@
       "date": "2026-07-09",
       "summary": "MetaがMuse Spark 1.1をリリースし、Anthropic/OpenAIが独占するAIコーディング領域に参入。API価格は競合の約4分の1に設定され、Alexandr Wang氏率いるSuperintelligence Labs体制の下でエージェント型AIコーディングの民主化を推進する。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic's new Claude feature is quietly selling you on AI",
+      "title_ja": "AnthropicのClaude新機能「Reflect」、AI利用の可視化と自己観照を促す",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "date": "2026-07-09",
+      "summary": "AnthropicはClaude Free/Pro/Max向けに月次使用状況ダッシュボード「Reflect」をベータ提供開始。閲覧トピック・最も活発だった日・利用パターンなどを可視化し、「Claudeに任せず自分でやり続けたいことは何か」といった内省を促す設問も表示。Wrapped風のリフレクション体験と設定内「Time and focus」の休憩リマインダー機能を組み合わせた。",
+      "category": "company_blog"
     },
     {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
@@ -473,6 +545,15 @@
       "summary": "ジョンズ・ホプキンス大学の研究チームが、既知および新規材料の合成レシピを人間とLLMが生成し、実験室での実証結果を閉ループでフィードバックする手法を報告。既知材料では人間83%対LLM75%、未知材料では人間17%対LLM22%の成功率を示し、この協働により1次元Rock-Salt Perovskite系列の欠損メンバーであるBa3PtO5という新構造プロトタイプの発見に至った。",
       "authors": "Gregory Bassen et al.",
       "category": "arxiv"
+    },
+    {
+      "title": "OpenAI Deployment Company to Acquire Northslope, Palantir-Rooted Applied AI Firm",
+      "title_ja": "OpenAI Deployment Company、Palantirゆかりの応用AI企業Northslopeを買収へ",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+      "date": "2026-07-08",
+      "summary": "OpenAIのエンタープライズ展開子会社「OpenAI Deployment Company」が、Palantir出身者が設立した応用AI企業Northslopeを買収することで合意した。Tomoroに続く2件目の買収で、顧客業務にForward Deployed Engineerを常駐させる体制を数百人規模へ拡張し、ChatGPT Workや政府案件を中心にエンタープライズ支援を強化する。",
+      "category": "international"
     },
     {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
@@ -1721,80 +1802,6 @@
       "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
       "date": "2026-06-26",
       "summary": "AI安全評価機関METRがGPT-5.6 Solのデプロイ前評価結果を公表。OpenAIから事前提供されたモデルを用い、長期自律エージェント能力・サイバー攻撃補助・バイオ知識など複数の危険ドメインで体系的に評価。Solは前モデル比で長期タスク達成率が顕著に向上したが、依然として一部のシナリオで監督なし運用は推奨できないと総括し、緩和策と提供制限の重要性を強調した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-      "date": "2026-06-26",
-      "summary": "MarkTechPostがGPT-5.6三層モデルとultra(マルチサブエージェント)・max reasoning effortモードを技術的に解説。SolはTerminal-Bench 2.1新SOTAなどコーディング・サイバーで顕著な改善を示し、Terraは性能・コストのバランス、Lunaは低レイテンシ向け。米政府の要請で初期は20社程度の限定プレビューで提供される。",
-      "category": "international"
-    },
-    {
-      "title": "Japan's Defense Ministry releases analysis on combating AI-driven 'cognitive warfare,' fake accounts, and deepfakes",
-      "title_ja": "防衛省は\"認知戦\"にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
-      "date": "2026-06-26",
-      "summary": "防衛省は6月26日、9日に開かれた「防衛力変革推進本部」での議論資料を公表し、偽情報で相手の認識や判断に働きかける「認知戦」への対応方針を示した。ロシアのウクライナ侵略でのなりすましサイトやゼレンスキー大統領のディープフェイク事例を分析し、AIで偽情報拡散が加速するなか、情報収集・分析・発信・評価からなる「認知戦対応サイクル」確立の必要性を指摘した。",
-      "category": "japan"
-    },
-    {
-      "title": "Qualcomm warns 'Japan hasn't even begun 6G spectrum debate' as AI-era next-gen comms loom",
-      "title_ja": "「日本は6G周波数の議論すら始まっていない」 クアルコムが抱く危機感と、AI時代の次世代通信",
-      "source": "ITmedia Mobile",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2606/26/news131.html",
-      "date": "2026-06-26",
-      "summary": "クアルコムは、AIやロボットの基盤となる6G周波数の議論が日本でほとんど進んでいない現状に強い危機感を示した。MWC 2026では自由視点映像やペット型ロボなど日本発技術も披露された一方、3GPPは6Gの公式ロゴを採択し標準化が本格化。NTTドコモがdAccountデータを活用するAIサービス「SyncMe」を発表するなど、AI時代の通信インフラ整備で日本の遅れが浮き彫りになっている。",
-      "category": "japan"
-    },
-    {
-      "title": "US allows trusted partners to use Anthropic's Mythos 5 AI model",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
-      "date": "2026-06-26",
-      "summary": "BloombergがClaude Mythos 5の輸出規制が部分解除されたと報道。商務長官ハワード・ラトニックがAnthropic共同創業者トム・ブラウン宛ての書簡で「適切な保護策が整った」と認定し、100社超の米国の信頼できるパートナー(主要企業・政府機関を含む)へのMythos 5提供を承認した。6月12日に発動された全面停止以降、Anthropicは政府と毎日協議を続け「重要な進展」を達成した。Fable 5については書簡で言及されず別途協議継続。",
-      "category": "international"
-    },
-    {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "date": "2026-06-26",
-      "summary": "TechCrunchが、トランプ政権がClaude Mythos 5の利用解禁を発表したと報道。6月12日のホワイトハウス指令により全面停止していた最高性能フロンティアモデルが、100社超の米国「信頼できるパートナー」に限定して再提供される。Anthropicは安全対策を強化したことで規制当局の承認を得た形で、OpenAIのGPT-5.6限定提供発表とほぼ同日のタイミングで発表された。",
-      "category": "international"
-    },
-    {
-      "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release",
-      "date": "2026-06-26",
-      "summary": "CNN Businessが、米政府がサイバーセキュリティ上の懸念から停止していたAnthropicのClaude Mythos 5の提供を限定的に再開すると報じた。6月12日のジェイミー・ジャシーAmazon CEOがベセント財務長官に伝えた「ジェイルブレイク」懸念と、中国によるアクセス懸念で発動された全面停止が、Anthropic側の安全対策強化を経て解除された。100社超の米国機関への提供が認められる一方、より制限の厳しいFable 5の扱いは継続協議中。",
-      "category": "international"
-    },
-    {
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-      "date": "2026-06-26",
-      "summary": "CNBCが、商務省がAnthropicに対しClaude Mythos 5を「信頼できるパートナー」に限定提供する許可を出したと報道。同モデルは高度なサイバー攻撃支援能力を理由に6月12日に輸出規制対象となり全面停止となっていたが、Anthropic側のセーフガード追加で部分解除に至った。同日のOpenAI GPT-5.6限定発表と相まって、米国フロンティアAIが事実上の「政府承認制」運用に統一されつつある現状が浮き彫りとなった。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
-      "date": "2026-06-26",
-      "summary": "Bloombergが、OpenAIが新規株式公開(IPO)を最速2027年に延期する選択肢を検討していると報じた。同社は6月8日にSECへ秘密裏のS-1を提出済みだが、テック株のボラティリティ拡大とSpaceX上場後の不安定さを踏まえ、引受幹事のGoldman SachsとMorgan Stanleyが慎重姿勢を進言。アルトマンCEOが目指す1兆ドル評価額を狙うか、低めの評価で早期上場するかの二択を提示された。報道直後にSoftBank株が13%急落、両幹事行株も大幅安となり市場に衝撃が走った。",
-      "category": "international"
-    },
-    {
-      "title": "SoftBank's Shares Tumble After Report of OpenAI's IPO Delay",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay",
-      "date": "2026-06-26",
-      "summary": "Bloombergが、OpenAIのIPO延期報道を受けSoftBank Group株が一時13%下落し、2024年8月以来最大の下げ幅となったと報道。SoftBankのOpenAI出資額は10月時点で約650億ドルに達する見通しで、IPOの大型キャピタルゲイン期待が時価総額をトヨタ超えまで押し上げていただけに反動が大きい。アルトマンCEOは1兆ドル未満の評価では上場しない方針を示しており、2027年への延期で日本側出資者へのリターン回収も先送りとなる。",
       "category": "international"
     }
   ]

@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-07-13 09:00 (JST)",
+  "lastUpdated": "2026-07-15 09:00 (JST)",
   "articles": [
+    {
+      "title": "AI News Today July 15 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月15日 本日のAIニュース：注目15選",
+      "source": "Build Fast With AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026",
+      "date": "2026-07-15",
+      "summary": "7月15日時点の主要AIニュース15本を集約。Future of Life InstituteのAI Safety Index 2026でAnthropicが最上位C+/OpenAI・DeepMindがC・xAI・DeepSeek・Mistralが不合格、韓国Lee政権による880兆ウォン規模のAI/半導体10年計画、TSMCの過去最高四半期売上、AnthropicのIPO準備加速などを扱う。",
+      "category": "international"
+    },
+    {
+      "title": "Top 10 AI News July 15 2026: AI Labs Get Graded",
+      "title_ja": "2026年7月15日AIニューストップ10：AIラボの通信簿",
+      "source": "Unrot",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-july-15-2026",
+      "date": "2026-07-15",
+      "summary": "7月15日のAI業界主要トピック10選。FLI AI Safety Index 2026の各社評価（AnthropicがC+、OpenAI/DeepMindがC、Meta D+、xAI・DeepSeek・MistralはF）、TSMC 6月売上前年比68%増、AnthropicがSamsungと2nmチップ協議、AI起因の解雇（Mews社170人）、韓国880兆ウォンAI投資計画などを網羅。",
+      "category": "international"
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "title_ja": "Anthropic、Claude for Teachersを発表 米K-12教員に無償提供",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "date": "2026-07-14",
+      "summary": "Anthropicは7月14日、認証済みの米国K-12教員に対しClaudeプレミアム機能、教材スキル、全50州のカリキュラム基準に連動したLearning Commons接続を無償提供する「Claude for Teachers」を発表。データはモデル学習に使わず、FERPA準拠のK-12 DPAで生徒情報を保護。米教員連盟(AFT)と条件・プライバシー整備で連携し、2027年6月30日までに登録した教員には1年間フルアクセスを付与する。デトロイト公立学区でパイロット評価も実施予定。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic launches free Claude for Teachers as AI companies battle for US classrooms",
+      "title_ja": "AnthropicがClaude for Teachersを無償提供、米教室市場でAI企業の陣取り合戦激化",
+      "source": "Chalkbeat",
+      "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+      "date": "2026-07-14",
+      "summary": "Anthropicが7月14日にK-12教員向け「Claude for Teachers」を発表し、AI企業による米国教育市場の獲得競争が新局面に。OpenAIやGoogleが既に教員・学生向けサービスを展開する中、Anthropicは全50州のカリキュラム基準連動と厳格なデータ保護を差別化ポイントに前面に打ち出した。デトロイト公立学区での効果測定パイロットも同時発表。",
+      "category": "international"
+    },
+    {
+      "title": "TSMC posts record Q2 revenue on AI demand: NT$1.27 trillion, up 36% YoY",
+      "title_ja": "TSMC、AI需要で第2四半期売上が過去最高のNT$1.27兆・前年比36%増",
+      "source": "Yahoo Finance / Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
+      "date": "2026-07-14",
+      "summary": "TSMCが7月14日発表した2026年第2四半期(4-6月)売上はNT$1.27兆(約$39.62億)で前年比36%増の四半期過去最高。上半期売上はNT$2,404.48億で前年同期比35.6%増と、AI向けチップ需要が業績を牽引。N3プロセスは年内完売、TSMCの好調は生成AIブームがハードウェア側で継続していることを示す。",
+      "category": "international"
+    },
+    {
+      "title": "TechnoPro to deploy Claude Enterprise across 30,000+ engineers, forming AI CoE for 10,000 AI implementation engineers",
+      "title_ja": "テクノプロ、Claudeを全面導入 3万人超エンジニア対象、AI CoE室でAI実装エンジニア1万名育成",
+      "source": "PR TIMES / TechnoPro Holdings",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000177691.html",
+      "date": "2026-07-14",
+      "summary": "テクノプロ・ホールディングスが7月14日、AnthropicとClaude Enterpriseの包括ライセンス契約を締結。3万人超のエンジニアの生産性・品質・キャリア価値向上に向け全業務プロセスにClaudeを組み込むほか、AI活用専門部門「AI CoE室」を中心にAI実装エンジニア1万名の育成計画を発表した。国内テクノロジー人材大手の全面AI転換事例として注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "SoftBank World 2026 kicks off with focus on AI agents and enterprise infrastructure",
+      "title_ja": "SoftBank World 2026開幕 AIエージェント・エンタープライズ基盤に照準",
+      "source": "SoftBank",
+      "url": "https://www.softbank.jp/biz/about/ai/",
+      "date": "2026-07-14",
+      "summary": "ソフトバンク主催の年次カンファレンス「SoftBank World 2026」が7月14日(JST)より開幕。会期は8月31日まで続き、AIエージェント、業務実行基盤、AIインフラをテーマに講演と発表が集中する。同日、ソフトバンクはSierraとAIエージェントによるカスタマーサポート戦略提携、及びOpenAI技術を活用した「Patching as a Service」の3,000社への提供拡大も発表した。",
+      "category": "japan"
+    },
+    {
+      "title": "AI News Today July 14 2026: 15 Biggest Stories",
+      "title_ja": "2026年7月14日 本日のAIニュース：注目15選",
+      "source": "Build Fast With AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+      "date": "2026-07-14",
+      "summary": "7月14日時点の主要AIニュース15本を集約。OpenAIが米政府に5%出資($42.6B相当)を提案しトランプ大統領らと協議、TSMCが四半期最高売上、GoogleがGemini供給をMeta向けに制限、Anthropic IPO準備・$47B年換算売上、AI起業家への出資記録更新、規制の動きなどをカバー。",
+      "category": "international"
+    },
+    {
+      "title": "Top 10 AI News July 14 2026: OpenAI's Trump Deal and More",
+      "title_ja": "2026年7月14日AIニューストップ10：OpenAIの対トランプ協議、他",
+      "source": "Unrot",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-july-14-2026",
+      "date": "2026-07-14",
+      "summary": "7月14日のAI業界主要トピック10選。OpenAIが米政府に対する5%株式付与($42.6B相当)提案の詳細、Google DeepMindのGemini 3.5 Pro 7月17日ローンチ迫る、上海WAIC 2026開催、NY州が新規大型データセンター建設一時停止、AIスタートアップが$1B超のコンピュート契約、AnthropicがSamsungと2nm AIチップ協議進展などをカバー。",
+      "category": "international"
+    },
     {
       "title": "AI News Today July 13 2026: 15 Biggest Stories",
       "title_ja": "2026年7月13日 本日のAIニュース：注目15選",
@@ -36,6 +117,25 @@
       "date": "2026-07-13",
       "summary": "AppleがOpenAIを提訴した週末以降、Musk・Altmanが互いを「投資家を騙している」と非難する応酬に発展。SpaceXの宇宙データセンター構想とOpenAIのGPT-5.6 Sol、両社のIPO準備を背景に、Grok 4.5とGPT-5.6の直接対決が業界の力学を規定しつつある。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic recruits Monzo co-founder Tom Blomfield to tackle compute bottleneck",
+      "title_ja": "Anthropic、Monzo共同創業者Tom Blomfieldをコンピュート責任チームに獲得",
+      "source": "TechFundingNews",
+      "url": "https://techfundingnews.com/monzo-co-founder-tom-blomfield-takes-leave-from-y-combinator-to-join-anthropic/",
+      "date": "2026-07-13",
+      "summary": "Y Combinator ゼネラルパートナーでMonzo/GoCardless共同創業者のTom Blomfieldが7月13日、YCを一時休職しAnthropicの共同創業者Tom Brownが率いる「Training Compute」チームに参画すると発表。Blomfieldは『AI業界が再帰的自己改良の初期段階に入る中、コンピュート確保は最重要課題』と指摘。5月のAndrej Karpathy参画に続く大型ハイヤーとなる。",
+      "category": "international"
+    },
+    {
+      "title": "Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques",
+      "title_ja": "マスク拡散LLMの高速化：効率的推論手法サーベイ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.12829",
+      "date": "2026-07-13",
+      "authors": "Daehoon Gwak, Minhyung Lee, Junwoo Park, Jaegul Choo",
+      "summary": "自回帰LLMの代替として注目されるMasked Diffusion LLM(MDLM)の推論高速化手法を体系整理したサーベイ。並列デノイズ、キャッシュ機構、動的ステップ数、量子化・蒸留、投機的デコーディング適用など各種技術を分類し、精度と遅延・スループットのトレードオフを比較。今後のMDLMサービング設計の指針となる。",
+      "category": "arxiv"
     },
     {
       "title": "AI News Today July 12 2026: 15 Biggest Stories",
@@ -143,6 +243,16 @@
       "date": "2026-07-11",
       "authors": "N/A",
       "summary": "LLMとの対話における機微データ漏洩を防ぐマルチエージェント型ファイアウォール・アーキテクチャを提案。複数エージェントによる検査層でユーザー入力・モデル応答を段階的にサニタイズし、プライバシー保護と応答品質を両立する設計を評価する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "title_ja": "LLMにおけるメタ認知：基盤・進展・機会",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.11881",
+      "date": "2026-07-11",
+      "authors": "Gabrielle Kaili-May Liu et al. (Yale, UC Irvine)",
+      "summary": "LLMのメタ認知(自己の知識・推論に対する認知)に関する初の包括的サーベイ論文。定義、既存の計測手法、モデル信頼度校正・自己修正・ツール使用判断への応用、そして安全性やアラインメント研究への含意を体系化。今後の研究課題として、内的表現の理解、行動指標との整合、実運用系での評価プロトコル整備を挙げる。",
       "category": "arxiv"
     },
     {
@@ -382,6 +492,16 @@
       "category": "company_blog"
     },
     {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "title_ja": "GATS：層状ワールドモデルを用いたグラフ拡張木探索による効率的エージェント計画",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "date": "2026-07-09",
+      "authors": "Maureese Williams, Dymitr Nowicki",
+      "summary": "LLMエージェント計画の高コスト・確率的振る舞いを解消するため、UCB1ベースの体系的木探索と3層ワールドモデル(L1:記号的アクションマッチング、L2:実行ログからの統計、L3:未知アクション向けLLM推論)を組み合わせた計画フレームワークGATSを提案。合成計画タスクで成功率100%(LATS 92%、ReAct 64%)を達成し、推論時のLLM呼び出しを排除しながら優位な計画性能を示した。",
+      "category": "arxiv"
+    },
+    {
       "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
       "title_ja": "xAIとCursor、金融・法務向けAIモデル「Grok 4.5」を発表──Opus級性能を主張",
       "source": "Bloomberg",
@@ -556,6 +676,15 @@
       "category": "international"
     },
     {
+      "title": "Shanghai to host record-breaking WAIC 2026, over 300 global product debuts starting July 17",
+      "title_ja": "上海WAIC 2026が7月17日開幕 300超の世界初披露、過去最大規模",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202607/1365377.shtml",
+      "date": "2026-07-08",
+      "summary": "「世界人工知能大会(WAIC 2026)」と「グローバルAIガバナンス閣僚級会議」が7月17-20日に上海で開催。会場面積は初の10万m²超、1,100社超が3,000超の展示物を出展し、うち300超が世界初披露。テーマは「Intelligent partners, co-creating the future」。国際チューリング賞受賞者らによる学術トラックも新設、AI安全・グローバルガバナンス・AIデバイド解消も主要議題となる。",
+      "category": "international"
+    },
+    {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
       "title_ja": "Meta、初の自社画像生成AI「Muse Image」を公開 Superintelligence Labs開発、Instagram・WhatsApp・Meta AIに展開",
       "source": "CNBC",
@@ -690,6 +819,15 @@
       "date": "2026-07-07",
       "summary": "Hugging Faceがオープンソースロボット学習ライブラリLeRobotのv0.6.0をリリース。行動前に未来を想像するポリシー、成功可否を判定する報酬モデル、失敗を訓練データに変換するデプロイCLI、6つの新シミュレーションベンチマークを追加し、ロボット学習のクローズドループを実現する。",
       "category": "company_blog"
+    },
+    {
+      "title": "AI Safety Index Summer 2026: Anthropic Tops at C+, xAI/DeepSeek/Mistral Fail",
+      "title_ja": "AI Safety Index 2026夏：Anthropicが首位C+、xAI・DeepSeek・MistralはF",
+      "source": "Future of Life Institute",
+      "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
+      "date": "2026-07-07",
+      "summary": "Future of Life Instituteが7月7日に発表した「AI Safety Index Summer 2026」は主要9社(Anthropic, OpenAI, Google DeepMind, xAI, Z.ai, Meta, DeepSeek, Alibaba Cloud, Mistral)を6ドメイン37指標で評価。首位のAnthropicですらC+にとどまり、OpenAI・DeepMindがC、Meta D+、xAI・DeepSeek・MistralはFと不合格。「トップ企業でさえ安全対策はAI能力の進歩に対して完全に不十分」と結論した。",
+      "category": "international"
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -1679,129 +1817,6 @@
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "date": "2026-06-27",
       "summary": "TechCrunchが、Anthropic Mythos/Fable 5の輸出規制継続を受け、アジアのAIスタートアップが代替フロンティアモデルを相次ぎ投入していると報道。中国サイバーセキュリティ企業360のTulongfengと、東京のSakana AIのFugu(エージェント向け)が「Fable 5・Mythos Preview並み」と謳ってMythos後の空白を埋めにかかった。Sakanaは「タイミングはまったくの偶然」と説明しつつ「輸出規制リスクなしのフロンティア性能」と訴求し、規制が逆に非米国モデルへの需要を生む構図が鮮明に。",
-      "category": "international"
-    },
-    {
-      "title": "Sony Says aibo Will Continue, Next-Generation Model in Development",
-      "title_ja": "ソニー「aiboはやめません」次世代機の開発も明らかに",
-      "source": "ITmedia Mobile",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
-      "date": "2026-06-27",
-      "summary": "ソニーは6月27日のYouTube特別配信で、現行aibo（ERS-1000）の国内販売終了は事業撤退ではないと明言。次世代機の開発が既に進んでおり、ソニーグループが注力するフィジカルAI（現実世界を制御するAI）の中核と位置付ける方針を示した。",
-      "category": "japan"
-    },
-    {
-      "title": "Masayoshi Son Eyes TEPCO Investment to Bring AI Data Centers to Japan",
-      "title_ja": "孫正義氏、東電出資に意欲 「国内AIデータセンター誘致」狙うインフラ戦略",
-      "source": "ITmedia ビジネスオンライン",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
-      "date": "2026-06-27",
-      "summary": "ソフトバンクグループの孫正義会長兼社長が株主総会で、東京電力HDへの出資に意欲を示した。提携が実現すれば電力供給を増やし、米中に後れを取る日本国内へのAIデータセンター誘致と国内AI開発競争力の強化を進める構想を明らかにした。",
-      "category": "japan"
-    },
-    {
-      "title": "Hakuhodo to Launch Ad Service Blocking AI Bots to Curb 14 Trillion Yen Click Fraud",
-      "title_ja": "博報堂、AIの広告クリック水増しを防ぐ新会社設立 「人へのなりすまし閲覧」を排除",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC105FR0Q6A610C2000000/",
-      "date": "2026-06-27",
-      "summary": "博報堂DYホールディングスが、人になりすましたAIによるアドフラウド対策として、生体認証済みの人間のみに広告を配信する新会社を立ち上げると報じられた。世界で年14兆円規模に達するAIボットによる広告クリック水増し被害の抑止を狙う。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic's Mythos 5 AI Model Cleared by U.S. for Wider Use",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable/",
-      "date": "2026-06-27",
-      "summary": "米商務省はAnthropicの最強サイバーセキュリティモデル「Claude Mythos 5」の輸出規制を一部解除し、政府機関を含む100以上の米国企業・組織への提供を認可した。ただし関連モデル「Fable 5」は依然として制限下にある。",
-      "category": "international"
-    },
-    {
-      "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
-      "date": "2026-06-27",
-      "summary": "トランプ政権はAnthropicの主力モデル「Fable 5」の輸出規制を来週にも解除する見通しと報じられた。6月12日以降オフライン状態が続いており、再開には国防総省とNSAの最終承認が必要となる。",
-      "category": "international"
-    },
-    {
-      "title": "Apple, Microsoft Raise iPad, Xbox Prices as AI Demand Drives Costs Higher",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess",
-      "date": "2026-06-27",
-      "summary": "AIブームに伴うデータセンター向け需要急増でメモリチップが歴史的不足となり、AppleとMicrosoftが同日5時間以内にMac、iPad、Xboxの値上げを発表。MacBook Airは1099ドルから1299ドルへ、Xboxは100〜150ドル値上げされる。",
-      "category": "international"
-    },
-    {
-      "title": "Wall Street Bets Billions on Power Firms as AI Boom Drives IPO Rush",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
-      "date": "2026-06-27",
-      "summary": "AIデータセンターの電力需要急増を受け、2026年に少なくとも10社の電力インフラ・クリーンテック企業が上場し、合計116億ドル超を調達。地熱発電のFervo Energyを含むセクター過去最高となった。米国データセンター需要は2030年までに77GWに達する見通し。",
-      "category": "international"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "date": "2026-06-26",
-      "summary": "OpenAIがGPT-5.6シリーズ(フラッグシップSol、汎用Terra、低コストLuna)の限定プレビューを正式発表。Solは過去最強のフロンティアモデルとし、Terminal-Bench 2.1で新SOTAを達成。新たに最大推論effortと複数サブエージェントを協調させる「ultra」モードを導入。サイバー・バイオ・コーディングのエージェント能力が大幅向上したが、米政府要請により当面はトランプ政権承認済みの約20社「trusted partners」限定で提供を開始する。Sol価格は$5/$30 (入力/出力1Mトークン)、Terra $2.5/$15、Luna $1/$6。",
-      "category": "company_blog"
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "date": "2026-06-26",
-      "summary": "TechCrunchが、OpenAIがGPT-5.6 Sol/Terra/Lunaの一般公開をトランプ政権の要請で見送り、当初は政府承認済みの少数顧客のみに限定すると報じた。OpenAI幹部は声明で「この種の政府承認プロセスが恒久的なデフォルトになるべきではない」と述べ、開発者・防御者・グローバルパートナーへの広範な提供を引き続き求める姿勢を強調した。同社は今後数週間で一般公開を目指すとしている。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-      "date": "2026-06-26",
-      "summary": "VentureBeatがGPT-5.6スイートを詳報。Solは長期エージェントタスクの50%を完遂し、コーディングで全社内モデルを超えるSOTAを達成。Terraは GPT-5.5並みの性能で価格半減、Lunaは過去最安帯。新「ultra」モードはマルチサブエージェント連携で複雑作業を加速。提供は政府承認済み約20社限定で開始し、来週以降に拡大予定。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-      "date": "2026-06-26",
-      "summary": "CNBCが、OpenAIがGPT-5.6の段階的提供に関する政府要請に応じ、トランプ政権承認済みの約20社を対象とする限定プレビューで開始したと報道。新モデルの高度なサイバー能力が国家安全保障上の懸念を招いたため、AnthropicのMythos/Fable 5輸出規制と同じ枠組みの下で運用される。OpenAIは段階的拡大を急ぎ、来週以降に対象拡張、数週間以内に一般提供を見込む。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI releases powerful new GPT-5.6 model under restrictions",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
-      "date": "2026-06-26",
-      "summary": "AxiosがGPT-5.6 Sol/Terra/Lunaの公開と、トランプ政権の安全保障要請による「trusted partners」限定提供方針を報道。Solは過去最強・最も「危険度の高い」モデルでサイバー攻撃補助リスクから当面は政府クリアランス必須。OpenAIは「政府承認プロセスを恒久化すべきでない」と表明しつつ、Anthropic Mythos/Fable 5輸出規制と同方式の運用に応じた格好だ。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI agrees to stagger rollout of its most powerful model to only Trump-approved customers",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/26/what-just-happened-between-openai-sol-trump-licensing-clearance/",
-      "date": "2026-06-26",
-      "summary": "FortuneがGPT-5.6 Sol(過去最強のフロンティアモデル)を当面トランプ政権承認済み顧客にのみ提供する段階的ロールアウト合意を解説。AnthropicがMythos/Fable 5輸出規制を受けたのに続き、OpenAIも事実上のライセンス審査体制下に置かれ、米AI業界に「政府承認モデル提供」の新標準が形成されつつあると分析した。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "date": "2026-06-26",
-      "summary": "CNBCが、企業ユーザーがコスト・効率重視に転換しトークン消費量の極大化(tokenmaxxing)から離脱しつつあると報道。OpenAI・Anthropic双方は近年の値下げペースが鈍化し、IPO申請を控える中で収益性確保が焦点に。Fable/MythosやGPT-5.6の輸出規制下でフロンティア提供が縮小する一方、企業は効率重視モデルの選好を強めるなど、AI市場の力学が変わりつつあると指摘した。",
-      "category": "international"
-    },
-    {
-      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
-      "source": "METR",
-      "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
-      "date": "2026-06-26",
-      "summary": "AI安全評価機関METRがGPT-5.6 Solのデプロイ前評価結果を公表。OpenAIから事前提供されたモデルを用い、長期自律エージェント能力・サイバー攻撃補助・バイオ知識など複数の危険ドメインで体系的に評価。Solは前モデル比で長期タスク達成率が顕著に向上したが、依然として一部のシナリオで監督なし運用は推奨できないと総括し、緩和策と提供制限の重要性を強調した。",
       "category": "international"
     }
   ]

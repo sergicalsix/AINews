@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-07-15 09:00 (JST)",
+  "lastUpdated": "2026-07-16 09:00 (JST)",
   "articles": [
+    {
+      "title": "Japan's Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
+      "title_ja": "NVIDIA、日本のロボティクス・製造業と『フィジカルAI』提携を大規模発表",
+      "source": "NVIDIA Blog (Japan)",
+      "url": "https://blogs.nvidia.co.jp/blog/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier/",
+      "date": "2026-07-16",
+      "summary": "NVIDIAは7月16日、来日中のジェンスン・フアンCEOによる基調講演に合わせ、日本の主要企業がNVIDIA Cosmos／Isaac／Metropolis／JetsonといったフィジカルAIスタックを採用し、製造・モビリティ・インフラ・ロボティクスの分野で知能機械の実装を加速していると発表。ロボット・ビジョンAIエージェント向け新モデル『Cosmos 3 Edge』を投入し、Jetson ThorシリーズにT3000／T2000を追加（2027年Q1提供）。フアンCEOは『次のAIの最前線はフィジカルワールド。日本はその一世代に一度の好機を握る』と述べ、日本を『次の産業革命』の主戦場と位置付けた。",
+      "category": "company_blog"
+    },
+    {
+      "title": "富士通・ファナック・安川電機・川崎重工がフィジカルAIで結集 NVIDIA『次の産業革命も日本から生まれる』",
+      "source": "ロボスタ",
+      "url": "https://robotstart.info/article/2026/07/16/382159.html",
+      "date": "2026-07-16",
+      "summary": "NVIDIAが7月16日に開催した『NVIDIA AI Day Japan』で、富士通がファナック、安川電機、川崎重工と連携し、NVIDIA Cosmos／Isaacを組み込んだフィジカルAI協調制御プラットフォームを共同開発することが明らかになった。トヨタもNVIDIAとの次世代車両開発・ソフトウェア工学・Omniverseによる製造最適化で提携を強化。ジェンスン・フアンCEOは『15年の研究を経てフィジカルAIはここにある。次の産業革命の基盤は日本で作られるべき』と語り、44社超の国内連合を紹介した。",
+      "category": "japan"
+    },
+    {
+      "title": "Nvidia unveils new AI model and expands Japan's physical AI ecosystem",
+      "title_ja": "NVIDIA、新AIモデル発表と日本のフィジカルAIエコシステム拡張",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "date": "2026-07-16",
+      "summary": "NVIDIAは7月16日、東京で開催したイベントで新しい世界モデル『Cosmos 3 Edge』を発表し、ロボットやビジョンAIエージェントが物理環境をリアルタイムで知覚・移動できるよう設計したと説明。同時にトヨタ、ソフトバンク、富士通、NEC、ソニー、ホンダなど日本の大手と提携を拡張し、政府主導の国産AI基盤『Noetra』への支援と組み合わせて、日本を米中に続く『第三極』のAI／ロボティクス拠点に育成する構想を示した。",
+      "category": "international"
+    },
+    {
+      "title": "国産AIに44社連合、ものづくり復権へ頭脳研ぐ NVIDIAトップも熱視線",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC138VH0T10C26A7000000/",
+      "date": "2026-07-16",
+      "summary": "経済産業省は7月16日、ソフトバンク・NEC・ソニーG・ホンダなどが設立した国産AI基盤モデル開発の新会社『Noetra（ノエトラ）』へ3873億円を支援すると発表。Noetraは2030年度までにAIロボット向け基盤モデルの開発を目指し、日本の製造・ロボティクスの再興を狙う。ジェンスン・フアンCEO来日と合わせて44社連合の国産AIエコシステム構想が公式化され、汎用LLM開発でなくフィジカルAI領域に焦点を当てる戦略が鮮明になった。",
+      "category": "japan"
+    },
+    {
+      "title": "国産AI基盤モデル開発へ ソフトバンクやNECなどが設立企業に3873億円を支援 経産省 2026年度予算",
+      "source": "TBS NEWS DIG / Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4ffd24627e80d9765017fb5e15a9a91df2e2bc26",
+      "date": "2026-07-16",
+      "summary": "経済産業省は16日、国産AIの基盤を開発するためにソフトバンク、NEC、ソニーグループ、ホンダなどが出資する新会社『Noetra』に対し、2026年度予算から3873億円を支援すると発表。Noetraは今年1月設立され、AIロボット向けの基盤モデルを2030年度までに完成させることを目標に掲げる。日米中の技術覇権競争の中で、経産省は米国依存からの脱却と国内サプライチェーン強化を狙う姿勢を明確にした。",
+      "category": "japan"
+    },
+    {
+      "title": "ソフトバンク、NEC、ソニー、ホンダが国産AI開発の新会社『日本AI基盤モデル開発』",
+      "source": "ビジネス+IT",
+      "url": "https://www.sbbit.jp/article/cont1/184305",
+      "date": "2026-07-16",
+      "summary": "ソフトバンク、NEC、ソニーグループ、ホンダが国産AI基盤モデル開発を担う新会社の設立を正式発表し、経産省の2026年度支援対象として3873億円が投じられることが7月16日の発表会で明かされた。会社名『Noetra』は同日ブランドとともに公表され、フィジカルAIおよびロボティクス向け基盤モデル開発に集中。NVIDIAのフアンCEO来日とも歩調を合わせ、日本発フィジカルAIの国家戦略が具体化した。",
+      "category": "japan"
+    },
+    {
+      "title": "NVIDIAジェンスン・フアンCEOが来日、16日『日本のAIが始まる“大きな発表”』へ",
+      "source": "AI Watch (Impress)",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2125544.html",
+      "date": "2026-07-16",
+      "summary": "NVIDIAのジェンスン・フアンCEOが来日し、7月16日に東京で『日本のAIが始まる』大型発表を実施した。事前告知でフアンCEOは『15年の研究を経てフィジカルAIはここにある。次の産業革命の基盤であり、それは日本で作られるべきだ』と表明。同日、日本の主要ロボット・製造企業44社超との提携、Cosmos 3 Edgeモデル、Jetson Thor新型ハードの発表が行われた。",
+      "category": "japan"
+    },
+    {
+      "title": "NVIDIAがトヨタなど日本産業界と連携強化、フィジカルAI向け新製品も発表",
+      "source": "日経クロステック（xTECH）",
+      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03308/",
+      "date": "2026-07-16",
+      "summary": "NVIDIAは7月16日、トヨタ、富士通、ファナック、安川電機、川崎重工、ソニー、ソフトバンクなど44社超の日本企業と大規模な連携を発表し、ロボット・自動車・製造ラインでNVIDIAのフィジカルAIスタックを共同展開。同時にCosmos 3 EdgeやJetson Thor T3000／T2000といった新ハード・モデル群を公開し、日本の製造業を『次の産業革命』の中核と位置付けた。トヨタは次世代車両開発とOmniverseによる工場最適化での協業を拡大する。",
+      "category": "japan"
+    },
+    {
+      "title": "AI News July 16 2026: Gemini 3.5 Pro Rebuilt From Scratch, Anthropic vs OpenAI on AI Laws, Ode Launches",
+      "title_ja": "2026年7月16日AIニュース：Gemini 3.5 Proゼロから再構築、AI規制でAnthropic対OpenAI、Ode始動",
+      "source": "AIToolsRecap",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-16-2026",
+      "date": "2026-07-16",
+      "summary": "7月16日のAI業界主要トピックを網羅。Google DeepMindがGemini 3.5 Proの基盤アーキテクチャを2.5から完全に破棄し、200万トークンコンテキスト＋Deep Think Reasoning Layerを備えた新設計として7月17日にローンチ延期発表。AnthropicはFRIA的な州法制定を支持しOpenAIは連邦プリエンプションを主張、AIラボ間の規制姿勢が分岐。Anthropic／Blackstone／Hellman&Friedman主導の15億ドル規模AIサービス企業『Ode with Anthropic』が公式始動、CEO Chris Taylor体制で本格稼働へ。",
+      "category": "international"
+    },
+    {
+      "title": "Behind the Curtain: AI godfathers converge on regulations",
+      "title_ja": "AI3大巨頭（Google／OpenAI／Anthropic）が規制論で異例の収斂",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+      "date": "2026-07-16",
+      "summary": "Axiosは7月16日、Google DeepMind、OpenAI、Anthropicの各CEOが過去5週間に相次いで公表したポリシー声明を比較分析し、初めて三者が『同じ診断・同じ処方箋』に収斂したと報じた。3社ともフロンティアモデルは公開前に外部監査を義務付け、認証機関がリスク上限を超えるシステムへのアクセスを制限すべきとの立場を採用。競合しつつも規制枠組みの共通言語が形成されつつあり、米連邦政府や州政府での具体的法案化圧力が一段と高まる見通し。",
+      "category": "international"
+    },
     {
       "title": "AI News Today July 15 2026: 15 Biggest Stories",
       "title_ja": "2026年7月15日 本日のAIニュース：注目15選",
@@ -18,6 +102,60 @@
       "date": "2026-07-15",
       "summary": "7月15日のAI業界主要トピック10選。FLI AI Safety Index 2026の各社評価（AnthropicがC+、OpenAI/DeepMindがC、Meta D+、xAI・DeepSeek・MistralはF）、TSMC 6月売上前年比68%増、AnthropicがSamsungと2nmチップ協議、AI起因の解雇（Mews社170人）、韓国880兆ウォンAI投資計画などを網羅。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "title_ja": "Anthropic／Blackstone、次の1兆ドル市場は『AI導入支援』と宣言",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "date": "2026-07-15",
+      "summary": "TechCrunchは7月15日、Anthropic、Blackstone、Hellman & Friedmanが15億ドル規模で立ち上げた新会社『Ode with Anthropic』を分析。Anthropic／Blackstone／H&Fが各3億ドル、Goldman Sachsが1.5億ドルを出資しGeneral Atlantic・Sequoia・GIC・Apolloらが参加。5月に買収したFractional AIを母体にChris Taylor（CEO）／Eddie Siegel（CTO）体制で始動し、『Claude-first』原則でエンタープライズにフォワードデプロイエンジニアを常駐させる。モデル競争からAI実装ビジネスへの資本シフトが鮮明に。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic, Blackstone, and Hellman & Friedman Introduce Ode with Anthropic, an Enterprise AI Services Firm",
+      "title_ja": "Anthropic／Blackstone／Hellman & Friedman、エンタープライズAIサービス企業『Ode with Anthropic』を正式発表",
+      "source": "AIwire (HPCwire)",
+      "url": "https://www.hpcwire.com/aiwire/2026/07/15/anthropic-blackstone-and-hellman-friedman-introduce-ode-with-anthropic-an-enterprise-ai-services-firm/",
+      "date": "2026-07-15",
+      "summary": "AIwireは7月15日、Anthropic／Blackstone／Hellman & Friedmanが共同で15億ドル規模のエンタープライズAIサービス企業『Ode with Anthropic』を正式立ち上げしたと報道。Goldman Sachs、General Atlantic、Leonard Green、Apollo、GIC、Sequoiaが投資家コンソーシアムに参加。同社はAnthropicのフロンティアモデルとFractional AI由来のエンジニアを組み合わせ、大企業のAI導入設計と実装を一気通貫で担う。CEOはChris Taylor、CTOはEddie Siegel。",
+      "category": "international"
+    },
+    {
+      "title": "Anthropic, Blackstone, and Hellman & Friedman Introduce Ode with Anthropic",
+      "title_ja": "『Ode with Anthropic』設立発表（公式プレスリリース）",
+      "source": "Ode (Press Release)",
+      "url": "https://www.ode.com/press/anthropic-blackstone-and-hellman-friedman-introduce-ode-with-anthropic-an-enterprise-ai-services-firm",
+      "date": "2026-07-15",
+      "summary": "Odeは7月15日、Anthropic、Blackstone、Hellman & Friedmanの3社を主軸とする総額15億ドル規模のAIサービス会社『Ode with Anthropic』の設立を公式発表。組成資本の内訳はAnthropic／BX／H&F各3億ドル＋Goldman Sachs 1.5億ドルで、他にGeneral Atlantic・Leonard Green・Apollo・GIC・Sequoiaが加わる。オペレーションは5月に買収したFractional AIの人員で構成し、Claude優先アーキテクチャで顧客側にフォワードデプロイエンジニアを常駐させる方針を打ち出した。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears",
+      "title_ja": "Anthropic、10月にも大型IPO 投資家ミーティングを準備",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
+      "date": "2026-07-15",
+      "summary": "Bloombergは7月15日、Anthropicが早ければ2026年10月の上場を視野に、主幹事銀行が投資家向けミーティングを数週間内にスケジュールし始めたと報道。バリュエーションは3000億ドル超の可能性が指摘され、OpenAIより先行して株式公開する『メガIPO』となる見通し。Ode設立やGoogle／Broadcomとのマルチギガワット規模の計算リソース契約などエンタープライズ売上加速の材料をもってロードショーに臨む戦略。",
+      "category": "international"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "title_ja": "Mira Murati率いるThinking Machines、初のオープンモデル『Inkling』を公開",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "date": "2026-07-15",
+      "summary": "Mira Murati率いるThinking Machines Labは7月15日、同社初のオープンウェイトモデル『Inkling』を公開。用途別ファインチューニングを前提とした中規模モデルで、『全ての人向けの巨大モデル』ではなくドメイン特化を推す独自路線を鮮明にした。汎用フロンティア競争から距離を置き、企業ごとの最適化とオープンエコシステム構築を戦略軸に据える方針で、Inklingは研究者や開発者向けにチェックポイントを公開。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft Copilot Rolls Out 40+ July Updates Including Claude Option",
+      "title_ja": "Microsoft Copilot、7月に40超のアップデート──Copilot ChatにClaudeが選択可能に",
+      "source": "iNews (Zoombangla)",
+      "url": "https://inews.zoombangla.com/microsoft-copilot-40-updates-july-2026-claude/",
+      "date": "2026-07-15",
+      "summary": "Microsoftは7月にCopilot全般で40件超のアップデートを一挙投入し、Copilot Cowork一般提供、UI再設計、AI生成コンテンツの動画・音声透かし、Agent Builder作成エージェントの社内Agent Store公開などを実装。加えてCopilot ChatにAnthropicのClaudeモデルが選択肢として追加され、複雑な分析・文書理解・構造化生成でユーザーが切り替え可能に。自社製品に競合モデルを取り込むMicrosoftの姿勢は、モデル排他主義よりも統合ハブ戦略への転換を示唆する。",
+      "category": "company_blog"
     },
     {
       "title": "Introducing Claude for Teachers",
@@ -135,6 +273,16 @@
       "date": "2026-07-13",
       "authors": "Daehoon Gwak, Minhyung Lee, Junwoo Park, Jaegul Choo",
       "summary": "自回帰LLMの代替として注目されるMasked Diffusion LLM(MDLM)の推論高速化手法を体系整理したサーベイ。並列デノイズ、キャッシュ機構、動的ステップ数、量子化・蒸留、投機的デコーディング適用など各種技術を分類し、精度と遅延・スループットのトレードオフを比較。今後のMDLMサービング設計の指針となる。",
+      "category": "arxiv"
+    },
+    {
+      "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+      "title_ja": "MemOps：長期対話におけるライフサイクル記憶操作のベンチマーク",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.12893",
+      "date": "2026-07-13",
+      "summary": "長期対話AIエージェントを想定し、記憶の書込・検索・更新・削除・忘却などライフサイクル全体を統一評価する新ベンチマーク『MemOps』を提案。既存のRAG／メモリ拡張LLM評価が単発検索精度に偏っていた課題を指摘し、多ターン下での一貫性・矛盾検知・忘却能力を測る60超のタスクを整備。Claude／GPT／Geminiなど主要モデルで比較評価し、メモリ更新と忘却で性能差が顕著と報告。",
+      "authors": "Zhang et al.",
       "category": "arxiv"
     },
     {
@@ -683,6 +831,16 @@
       "date": "2026-07-08",
       "summary": "「世界人工知能大会(WAIC 2026)」と「グローバルAIガバナンス閣僚級会議」が7月17-20日に上海で開催。会場面積は初の10万m²超、1,100社超が3,000超の展示物を出展し、うち300超が世界初披露。テーマは「Intelligent partners, co-creating the future」。国際チューリング賞受賞者らによる学術トラックも新設、AI安全・グローバルガバナンス・AIデバイド解消も主要議題となる。",
       "category": "international"
+    },
+    {
+      "title": "Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System",
+      "title_ja": "大規模言語モデル応答の総合評価：多因子スコアリングシステム",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.06940",
+      "date": "2026-07-08",
+      "summary": "LLM応答評価のための多因子スコアリングフレームワークを提案。正確性、簡潔性、事実整合性、可読性、一貫性の5軸で自動評価し、複数モデルの回答をGUI上で比較可視化できるツールも実装。単一のLLM-as-a-Judgeより粒度の高いフィードバックを提供し、モデル選定・プロンプト設計の実務改善に有用と主張。",
+      "authors": "Muhammad Anas et al.",
+      "category": "arxiv"
     },
     {
       "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
@@ -1657,166 +1815,6 @@
       "url": "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments",
       "date": "2026-06-29",
       "summary": "PalantirとNVIDIAは6月29日、米政府機関や重要インフラ向けにNVIDIA Nemotronオープンモデルを閉鎖環境で運用する「ソブリンAI」基盤を発表した。エアギャップ環境での完全データ隔離、明示的データ認可、監査可能性などを備え、PalantirのAIP・Foundry・ApolloとNVIDIAの計算基盤を組み合わせる。発表後Palantir株は約4.6%上昇した。",
-      "category": "international"
-    },
-    {
-      "title": "Artificial Intelligence: Council gives final green light to simplify and streamline rules",
-      "title_ja": "EU理事会、AI法簡素化「Digital Omnibus」に最終承認、高リスク規制を延期",
-      "source": "Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
-      "date": "2026-06-29",
-      "summary": "EU理事会は6月29日、AI法（AI Act）の簡素化を盛り込んだ「Digital Omnibus」規則に最終承認を与えた。高リスクAIシステムの適用開始は単独製品で2027年12月2日、組込型は2028年8月2日に延期される一方、非合意のヌード生成やCSAMを含むAI実践は新たに禁止対象となった。透明性義務の猶予期間は6か月から3か月に短縮される。",
-      "category": "international"
-    },
-    {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "title_ja": "TIDAL、AI生成楽曲の収益化を停止し新ポリシー導入",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "date": "2026-06-29",
-      "summary": "音楽ストリーミングTIDALは6月29日、完全AI生成楽曲のプラットフォーム上での収益化を禁止する新ポリシーを発表した。アーティストやグループを偽装するAI生成楽曲は自動ツールで検出し削除する方針で、ポリシーは7月15日に発効する。EVPのTony Gervinoは「ユーザーから完全AI生成音楽に触れたくないとの声が多い」とコメントした。",
-      "category": "international"
-    },
-    {
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "title_ja": "Claude、Microsoft Foundryで一般提供開始",
-      "source": "Anthropic",
-      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
-      "date": "2026-06-29",
-      "summary": "Microsoft Foundry（Azure上）でClaudeが一般提供開始。Azureの認証・課金・ガバナンスを利用しつつ、データ所在地要件に対応する米国データゾーンも選択できる。Messages APIではClaude Opus 4.8とHaiku 4.5が提供され、プロンプトキャッシュや拡張思考にも対応。インフラはNVIDIA GB300 Blackwell Ultra上で稼働する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-      "title_ja": "脳波から文字へ：手術不要の新コミュニケーション「Brain2Qwerty」",
-      "source": "Meta",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
-      "date": "2026-06-29",
-      "summary": "Meta AIは脳に電極を埋め込まずMEG（脳磁図）から文章をリアルタイム復号する研究「Brain2Qwerty v2」を発表。エンドツーエンド深層学習とLLM微調整により単語精度61%（最良被験者で78%）を達成し、非侵襲手法の従来8%を大きく超えた。v1/v2の訓練コードとv1データセットを公開する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Mapping Europe's AI Workforce Opportunity",
-      "title_ja": "欧州のAI労働力機会のマッピング",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu/",
-      "date": "2026-06-29",
-      "summary": "OpenAI Economic Researchは、米国向けに開発したAI Jobs Transition FrameworkをEU労働市場へ拡張。ESCO分類とEurostatデータを用い、EU雇用の18%が自動化リスク、24%が再編、12%が成長、46%は当面変化少と分類した。米国と比べて自動化ポテンシャルの高い職種の比率が低い点も示している。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Helios releases open beta of LLM-powered conversational geospatial analytics platform 'Helios Platform'",
-      "title_ja": "対話型・地理空間解析プラットフォーム「Helios Platform」がオープンβ版を開始",
-      "source": "PR TIMES / 株式会社Helios",
-      "url": "https://prtimes.jp/main/html/rd/p/000000004.000164610.html",
-      "date": "2026-06-29",
-      "summary": "株式会社Heliosは6月29日、自然言語の指示で多種多様な地理空間データを自律的に統合・解析する「Helios Platform」のオープンβ版提供を開始した。最新のLLMエージェントを搭載し、GIS専門人材不足という課題に対し、専門知識不要で複雑なデータ連携から高度な空間解析まで対話的に実行可能にする。7月末～8月上旬の正式リリースまで無料で全機能を利用できる。",
-      "category": "japan"
-    },
-    {
-      "title": "Attractor States Emerge in Multi-Turn LLM Conversations",
-      "title_ja": "マルチターンLLM対話に現れるアトラクタ状態",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.30571",
-      "date": "2026-06-29",
-      "authors": "Ting-Wen Ko, Jonas Geiping",
-      "summary": "7つのLLMと20件の論争的トピックでセルフプレイ／混合プレイ討論を比較し、各モデル固有の「アトラクタ状態」が存在することを示した。たとえばClaude Haikuは強いアトラクタとして他モデルをメタコメント的特性へ引き寄せ、GPT-4.1 nanoは特に影響を受けやすいなど、モデル間相互作用の非対称性を可視化した。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents",
-      "title_ja": "常時稼働エージェント：LLMエージェントの永続メモリ・状態・ガバナンスに関するサーベイ",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.30306",
-      "date": "2026-06-29",
-      "authors": "Tianyu Ding, Aditya Nannapaneni, Bingfan Liu, Ling Zhang",
-      "summary": "arXiv 2606.30306は、常時稼働型LLMエージェントを「相互作用を跨いで永続する状態」に依存するシステムとして再定義し、435件の論文を体系整理した最新サーベイ。取得可能メモリ、タスク台帳、権限、認証情報、コミットメント、来歴・監査記録、共有状態、トリガー条件などをauthority/scope/mutability/provenance/recoverability/actionabilityの6軸で評価し、書き込み→検証→整理→検索→行動→更新→忘却→監査→ロールバックのライフサイクル観点で議論。既存研究は蓄積と検索に集中し、ガバナンス・回復・放棄の設計が手薄と結論付けている。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Kioxia's AI Boom Creates 600 'Billion-Yen' Employees as Stock Surges",
-      "title_ja": "キオクシア、社員600人が「10億り人」 AIが生む富の新景色",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
-      "date": "2026-06-28",
-      "summary": "半導体大手キオクシアの株価がAI向けNANDフラッシュ需要急増で年初来高値の11万2000円に到達し、ベインキャピタル買収時に部長・課長級にも付与されたストックオプションにより約600人の社員が10億円超の資産を手にする見込みとなった。AI時代の富の新たな分配構造を象徴する事例として注目を集めている。",
-      "category": "japan"
-    },
-    {
-      "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
-      "date": "2026-06-28",
-      "summary": "香港の株式調達額は2026年上半期に約440億ドルとなり、前年比29%増で5年ぶり高水準を記録。中国AIモデル企業Zhipuが上場後約2000%上昇するなど、AI投資への熱狂が市場全体を押し上げた。",
-      "category": "international"
-    },
-    {
-      "title": "Apple Mac Price Hikes Caused by Memory Chip 'RAM-ageddon' Driven by AI Demand",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/apple-mac-price-hikes-memory-chip-shortage-ai-ram-ageddon/",
-      "date": "2026-06-28",
-      "summary": "AIデータセンター需要によるメモリチップ不足「RAM-ageddon」がPC業界全体を直撃し、Appleですら値上げを回避できない事態に。MacBookやiPadは20%以上の値上げとなり、夏のPC価格高騰の構図を解説している。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI Limits Next-Gen 'GPT-5.6' to Trusted Partners at US Government's Request, Calls Restrictions 'Not the Permanent Norm'",
-      "title_ja": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
-      "date": "2026-06-28",
-      "summary": "OpenAIは次世代モデル「GPT-5.6」シリーズ（Sol/Terra/Luna）を米政府の要請を受けて、信頼できるパートナー組織に限定してプレビュー提供する。SolはAPIで100万トークンあたり入力$5/出力$30と最高性能を提供する一方、Terraは$2.50/$15、Lunaは$1/$6と価格帯を分け、一般提供（GA）は数週間以内を予定。OpenAIは「ライセンス制の限定提供は恒久的な標準にすべきでない」と懸念を表明し、Cerebras上でSolを毎秒750トークン提供する計画も明らかにした。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan government to invest 10.5 trillion yen in Physical AI by 2040 as part of 370 trillion yen public-private strategy",
-      "title_ja": "フィジカルAIに10.5兆円 戦略17分野への官民投資370兆円、40年度まで",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGKKZO97048290Q6A620C2MM8000/",
-      "date": "2026-06-27",
-      "summary": "日本政府は、ロボットを自律制御する「フィジカルAI」の開発と社会実装に向け、2040年度までに官民合わせ総額10兆5000億円を投じる方針を成長戦略に盛り込んだ。戦略17分野全体への官民投資は370兆円超を目標とし、高市政権の骨太の方針に反映される見通し。日本の強みであるハードウェアとAIの融合領域で、米中テック大手に対する国際競争力の復権を狙う。",
-      "category": "japan"
-    },
-    {
-      "title": "OpenAI begins limited preview of next-gen GPT-5.6 'Sol/Terra/Luna' series after US government coordination",
-      "title_ja": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
-      "date": "2026-06-27",
-      "summary": "OpenAIは6月26日（米国時間）、次世代モデル群「GPT-5.6」シリーズの限定プレビューを開始した。命名はフラッグシップの「Sol」、日常タスク向けバランス型の「Terra」、低コスト高速の「Luna」の3モデルに刷新。米政府との安全性調整を経て信頼されるパートナー企業に先行提供し、数週間以内にChatGPTやCodex、APIで一般展開する計画。APAC（日本含む）での一般提供は第3四半期以降の見込み。",
-      "category": "japan"
-    },
-    {
-      "title": "Honda converts US EV battery factory for AI data center use, betting on AI demand to keep plant running",
-      "title_ja": "ホンダ、米EV電池工場をデータセンター向けに転換 AI需要に存続託す",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC0253F0S6A600C2000000/",
-      "date": "2026-06-27",
-      "summary": "ホンダは、米オハイオ州のLGエナジーソリューションとの合弁EV電池工場で、AIデータセンター向けエネルギー貯蔵システム（ESS）用電池の生産を6月前半に開始した。EV需要が伸び悩むなか、急拡大するAIデータセンター電力需要に転用することで稼働を維持し、EV市場回復までの時間を稼ぐ狙い。GMやフォードも同様の戦略を進めており、米自動車業界全体でAI需要が雇用・設備を支える構図となっている。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan startup funding roundup: Kotoba Technologies raises $10M for real-time voice translation AI",
-      "title_ja": "6月22〜26日 スタートアップ資金調達まとめ読み（コトバテクノロジーズが約16億円調達）",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC26BAL0W6A620C2000000/",
-      "date": "2026-06-27",
-      "summary": "日経が6月22〜26日の国内スタートアップ資金調達をまとめた。AIを使った音声リアルタイム翻訳技術を開発する日米クロスボーダースタートアップのKotoba Technologies（米カリフォルニア州）が1000万ドル（約16億円）を調達。独自の音声基盤モデル「Koto」で、話し終わる前に翻訳を先読みする同時通訳体験を実現する。他にも製薬や食品分野で複数の調達事例が紹介されている。",
-      "category": "japan"
-    },
-    {
-      "title": "US releases powerful Anthropic model Mythos to some US companies",
-      "source": "Semafor",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "date": "2026-06-27",
-      "summary": "Semaforが独占報道としてMythos 5解禁の経緯を詳報。商務省は「2週間前に発令された輸出規制」を一部解除し、Anthropicが100社超の米国信頼できるパートナーにMythos 5を提供することを承認。書簡ではFable 5に触れず、より弱いがコンシューマー向けに最強だったFable 5の扱いは依然不透明。OpenAIのGPT-5.6限定提供と同日の決定で、政府承認型AI提供モデルが米AI業界の新標準として定着しつつあると指摘。",
-      "category": "international"
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "date": "2026-06-27",
-      "summary": "TechCrunchが、Anthropic Mythos/Fable 5の輸出規制継続を受け、アジアのAIスタートアップが代替フロンティアモデルを相次ぎ投入していると報道。中国サイバーセキュリティ企業360のTulongfengと、東京のSakana AIのFugu(エージェント向け)が「Fable 5・Mythos Preview並み」と謳ってMythos後の空白を埋めにかかった。Sakanaは「タイミングはまったくの偶然」と説明しつつ「輸出規制リスクなしのフロンティア性能」と訴求し、規制が逆に非米国モデルへの需要を生む構図が鮮明に。",
       "category": "international"
     }
   ]

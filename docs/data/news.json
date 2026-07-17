@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2026-07-16 09:00 (JST)",
+  "lastUpdated": "2026-07-17 09:00 (JST)",
   "articles": [
+    {
+      "title": "Gemini 3.5 Pro Targets July 17 With 2M Token Context",
+      "title_ja": "Gemini 3.5 Proが7月17日に200万トークンコンテキストで登場",
+      "source": "Memeburn",
+      "url": "https://memeburn.com/gemini-3-5-pro-targets-july-17-with-2m-token-context/",
+      "date": "2026-07-17",
+      "summary": "Gemini 3.5 Proの2026年7月17日ローンチが確認されつつあり、コンテキストウィンドウは200万トークン、Deep Think推論、コーディングと長時間推論での大幅な性能向上が予告されている。GoogleはGemini 2.5 Proの構造的欠陥を認めた上でモデルを再構築しており、Ultra有料層への機能集約とAPI互換性の両立が焦点。ただし2Mコンテキストと料金は非公式リーク段階のため、公式発表を要する。",
+      "category": "international"
+    },
+    {
+      "title": "AI conference opens in Shanghai with over 300 global product debuts",
+      "title_ja": "上海WAIC 2026開幕、300以上のグローバル製品デビュー",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com/news/2026-07-17/AI-conference-opens-in-Shanghai-with-over-300-global-product-debuts-1OQQf08iaqs/p.html",
+      "date": "2026-07-17",
+      "summary": "上海で7月17日、World Artificial Intelligence Conference（WAIC）2026とAIグローバルガバナンス上級会合が開幕。1100超の出展者、3000超の展示、300超のグローバル初お披露目、1400超の登壇者と140超のフォーラムで過去最大規模となる。マルチモーダルAI、AIエージェント、AIチップ、ヒューマノイドロボットに焦点があり、テーマは『明るい未来のためのAIパートナーシップ』。7月20日まで開催。",
+      "category": "international"
+    },
+    {
+      "title": "TSMC Lifts Arizona to $265 Billion After Record Quarter: Four Fabs Target AI Packaging Bottleneck",
+      "title_ja": "TSMC、記録四半期後にアリゾナ投資を2650億ドルに拡大、AI向けパッケージング4工場追加",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/320841/20260717/tsmc-lifts-arizona-265-billion-after-record-quarter-four-fabs-target-ai-packaging-bottleneck.htm",
+      "date": "2026-07-17",
+      "summary": "TSMCは第2四半期に純利益NT$706.56億（約220億ドル、前年比+77%）、売上NT$1.27兆（+36%）と5四半期連続の記録更新を発表し、7月17日にアリゾナ投資を追加1000億ドル増額して累計2650億ドルとする計画を公表。2nmと先端パッケージングの追加4工場を検討し、AI向けパッケージング能力ボトルネックの解消を狙う。年間設備投資も$60–64Bへ引き上げ。",
+      "category": "international"
+    },
+    {
+      "title": "JR東日本、みどりの窓口を生成AIで代替 NECなどと実証実験",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC170T20X10C26A7000000/",
+      "date": "2026-07-17",
+      "summary": "JR東日本は7月17日、大宮駅で生成AIが『みどりの窓口』の対応を代行する実証実験を公開した。乗客の希望する区間・日時・人数などをAIが音声で聞き取り、内容を係員に取り次ぐ仕組みで、応答システムはNEC・ソフトバンク子会社Gen-AXなどと共同開発。7月20〜22日に立川駅、7月23〜25日に大宮駅で来店客を対象に本格実験を実施し、2030年代前半までに乗車券発券まで生成AIで完結させる構想を掲げる。",
+      "category": "japan"
+    },
+    {
+      "title": "みどりの窓口に生成AI導入へ JR東・NEC・ソフトバンクが立川・大宮駅で実証",
+      "source": "BUSINESS NETWORK",
+      "url": "https://businessnetwork.jp/article/35955/",
+      "date": "2026-07-17",
+      "summary": "JR東日本は7月17日、生成AIによる『みどりの窓口AI対応サービス』の実証実験を発表。立川駅ではNEC、大宮駅ではソフトバンク傘下Gen-AXの生成AIを採用し、それぞれ7月20〜22日、23〜25日に実運用を行う。多言語対応と待ち時間削減、係員負担軽減が主目的で、将来的には切符発券まで担わせる方針。人手不足に悩む鉄道業界での大規模なAI業務代替事例として注目される。",
+      "category": "japan"
+    },
+    {
+      "title": "AI News Today July 17 2026: 20 Biggest Stories",
+      "title_ja": "2026年7月17日 本日のAIニュース：注目20選",
+      "source": "Build Fast With AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-17-2026",
+      "date": "2026-07-17",
+      "summary": "7月17日の主要AIニュース20本を集約：Google DeepMind Gemini 3.5 Pro（200万トークン、Deep Think）の正式公開、WAIC上海開幕、TSMC過去最高Q2決算とアリゾナ増額、OpenAI Atlas終了予告、Moonshot Kimi K3の余波、Thinking Machines Inklingの評価、Anthropic Ode本格稼働、AI Safety Index後の規制議論など、この日の主要トピックを網羅した。",
+      "category": "international"
+    },
     {
       "title": "Japan's Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
       "title_ja": "NVIDIA、日本のロボティクス・製造業と『フィジカルAI』提携を大規模発表",
@@ -86,6 +138,33 @@
       "category": "international"
     },
     {
+      "title": "China's Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "title_ja": "Moonshot AI、史上最大級のオープンソースモデル『Kimi K3』を公開",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "date": "2026-07-16",
+      "summary": "中国Moonshot AIは7月16日、総パラメータ約2.8兆・100万トークンコンテキスト・ネイティブビジョン・常時推論『Thinking Mode』を備えるMoE型フラッグシップ『Kimi K3』をAPIリリース。オープンウェイトは7月27日に技術レポートと共に公開予定で、GDPval-AA v2で1687点を獲得しClaude Opus 4.8を上回り、GPT-5.6 Sol MaxとClaude Fable 5 Maxに次ぐ3位。Kimi Delta AttentionとAttention Residualsの新機構がスケーリング効率を押し上げた。",
+      "category": "international"
+    },
+    {
+      "title": "Kimi K3 Is the China Shocker That Lifts Open-Weight Models to Frontier Level",
+      "title_ja": "Kimi K3、オープンウェイト勢をフロンティア級に押し上げる中国の衝撃",
+      "source": "Trending Topics",
+      "url": "https://www.trendingtopics.eu/kimi-k3-china-shocker/",
+      "date": "2026-07-16",
+      "summary": "Moonshot AIのKimi K3は2.8兆パラメータMoE・100万トークン文脈・常時Thinking Modeを備え、閉じたGPT-5.6やClaude Fable 5と真っ向勝負するオープンウェイトモデルとして7月16日リリース。7月27日の重み公開後は自社ホスティングで運用可能となり、Anthropic／OpenAIの独占的API料金構造を揺るがす可能性が高いと分析。中国AI勢の追い上げが『追随』から『フロンティア到達』の段階へ進んだと位置付けた。",
+      "category": "international"
+    },
+    {
+      "title": "Moonshot AI launches Kimi K3",
+      "title_ja": "Moonshot AI、Kimi K3を正式ローンチ",
+      "source": "Constellation Research",
+      "url": "https://www.constellationr.com/insights/news/moonshot-ai-launches-kimi-k3",
+      "date": "2026-07-16",
+      "summary": "Constellation ResearchはMoonshot AIによるKimi K3の7月16日ローンチを速報。2.8兆パラメータのMoEアーキテクチャ、100万トークンの長文脈、マルチモーダル、常時推論、Kimi Delta AttentionとAttention Residualsによるスケーリング効率化が特徴で、企業のセルフホスト運用が可能になる7月27日の重み公開が業界の焦点となる。企業AI導入コストの構造変化が本格化するとの見立てを示した。",
+      "category": "company_blog"
+    },
+    {
       "title": "AI News Today July 15 2026: 15 Biggest Stories",
       "title_ja": "2026年7月15日 本日のAIニュース：注目15選",
       "source": "Build Fast With AI",
@@ -158,6 +237,15 @@
       "category": "company_blog"
     },
     {
+      "title": "Inkling: Our open-weights model",
+      "title_ja": "Inkling: 私たちのオープンウェイトモデル",
+      "source": "Thinking Machines Lab",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "date": "2026-07-15",
+      "summary": "Thinking Machines Labは7月15日付ブログでオープンウェイトモデル『Inkling』を発表。テキスト・画像・音声・動画をネイティブに扱う4モーダルMoE（総9750億パラメータ、アクティブ410億）で、Hugging Faceで重みを配布、社内Tinkerでのファインチューニングにも対応。『Inklingは現時点で最強のモデルではない』と率直に述べ、業界初のオープン4モーダル基盤としての活用と検証を呼びかけた。",
+      "category": "company_blog"
+    },
+    {
       "title": "Introducing Claude for Teachers",
       "title_ja": "Anthropic、Claude for Teachersを発表 米K-12教員に無償提供",
       "source": "Anthropic",
@@ -218,6 +306,15 @@
       "url": "https://unrot.co/blogs/today-top-10-ai-news-july-14-2026",
       "date": "2026-07-14",
       "summary": "7月14日のAI業界主要トピック10選。OpenAIが米政府に対する5%株式付与($42.6B相当)提案の詳細、Google DeepMindのGemini 3.5 Pro 7月17日ローンチ迫る、上海WAIC 2026開催、NY州が新規大型データセンター建設一時停止、AIスタートアップが$1B超のコンピュート契約、AnthropicがSamsungと2nm AIチップ協議進展などをカバー。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI Retires Atlas Browser To Focus On New ChatGPT Superapp",
+      "title_ja": "OpenAI、Atlasブラウザ廃止 新ChatGPT『スーパーアプリ』化に集中",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/07/14/openai-retires-atlas-browser-chatgpt-superapp/",
+      "date": "2026-07-14",
+      "summary": "OpenAIはAI搭載Atlasブラウザを8月9日に停止し、エージェント機能をChatGPTデスクトップとChrome拡張へ統合する方針を発表。ブラウザではなくChatGPTを『スーパーアプリ』として単一UIで完結させる戦略に舵を切り、IPO準備で製品ラインの整理を進める。ユーザーは8月9日までにブックマークやタブを移行する必要があり、Atlasのブラウジング・エージェント機能はChatGPT側で継承される。",
       "category": "international"
     },
     {
@@ -1163,6 +1260,15 @@
       "category": "arxiv"
     },
     {
+      "title": "ChatImage: Navigating Long-Form LLM Answers through Interactive Images",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.05290",
+      "date": "2026-07-06",
+      "summary": "長文LLM応答をインタラクティブな画像に変換して読者が探索できるシステム『ChatImage』を提案。テキスト回答を構造化された視覚モジュールへ正規化し、視覚レイアウトを計画して一貫性のある画像として描画するパイプラインを備える。ユーザーは画像領域をクリックして詳細情報にドリルダウンでき、従来のテキスト長文よりも情報取得コストが最大42％低下したことをユーザ実験で確認。マルチモーダルUIの新方向として提示。",
+      "authors": "Liu, X., Park, S., Rossi, M., Ito, H., et al.",
+      "category": "arxiv"
+    },
+    {
       "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
       "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
       "source": "AIToolsRecap",
@@ -1708,114 +1814,6 @@
       "date": "2026-06-30",
       "summary": "ソフトバンクやNEC、ソニーグループ、ホンダなど国内大手44社が出資する「日本AI基盤モデル開発」が、7月1日付で新社名「Noetra（ノエトラ）」として始動すると発表。経産省所管のNEDO公募に採択され、産業技術総合研究所と協力し、テキスト・画像・音声を扱う国産マルチモーダル基盤モデルの研究開発を本格化する。",
       "category": "japan"
-    },
-    {
-      "title": "METI sets target of 10 million AI robots deployed across 18 sectors by 2040",
-      "title_ja": "AIロボット導入目標、18分野で2040年に1000万台 経産省が戦略改訂",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUA302FQ0Q6A630C2000000/",
-      "date": "2026-06-30",
-      "summary": "経済産業省は6月30日、AIを活用したロボットを2040年までに国内で約1000万台導入する目標を打ち出した。3月に策定した「AIロボティクス戦略」を改訂し、対象を製造業など16分野に飲食・食品製造と医療を加えて18分野に拡大。世界シェア3割超、20兆円市場の獲得を目指し、認証制度や政府調達による需要創出も支援する。",
-      "category": "japan"
-    },
-    {
-      "title": "METI Minister Akazawa outlines 'winning strategy' to deploy 10M AI robots by 2040",
-      "title_ja": "AIロボット1000万台導入へ、2040年までに 赤澤経産相が語る「勝ち筋」",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
-      "date": "2026-06-30",
-      "summary": "赤澤亮正経済産業相は6月30日の記者会見で、2040年までに国内へAIロボットを約1000万台導入する目標を発表し、「ビッグデータ×AI」時代における日本の勝ち筋を語った。新たに加えた飲食・医療を含む18分野で社会実装を進めるとし、同日にはNoetraと産総研の採択で国産マルチモーダル基盤モデル開発に着手することも明らかにされた。",
-      "category": "japan"
-    },
-    {
-      "title": "METI launches multimodal foundation model R&D for AI robots, selects Noetra and AIST with 387.3B yen support",
-      "title_ja": "経産省、AIロボット・フィジカルAI向けマルチモーダル基盤モデル開発事業を開始 Noetraと産総研を採択し3873億円を支援",
-      "source": "経済産業省 (METI)",
-      "url": "https://www.meti.go.jp/press/2026/06/20260630005/20260630005.html",
-      "date": "2026-06-30",
-      "summary": "経済産業省は6月30日、AIロボットやフィジカルAIを見据えたマルチモーダル基盤モデル開発事業の採択先として、ソフトバンクやNEC、ソニーG、ホンダなどが出資する新会社Noetraと産業技術総合研究所を発表。2026年度の開発委託費として3873億円を支援し、2030年度までの5年間で総額1兆円規模の支援を見込む。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
-      "title_ja": "Anthropic、トランプ政権がClaude Fable 5とMythos 5の輸出規制を解除したと発表",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
-      "date": "2026-06-30",
-      "summary": "CNBCは6月30日、Anthropicが米商務省による「Claude Fable 5」と「Claude Mythos 5」への輸出規制解除を発表したと報じた。約18日間続いた米政府とAI企業の対立の終結を象徴する動きで、Anthropicは安全性強化とModel Cardの継続的なアップデート、悪意ある活動の政府への即時報告など、政府との協力を強化することを約束した。Fable 5は7月1日から全世界で利用可能となる。",
-      "category": "international"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic's Mythos and Fable models",
-      "title_ja": "トランプ政権、AnthropicのMythos・Fableモデルへの規制を解除",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "date": "2026-06-30",
-      "summary": "TechCrunchは6月30日、トランプ政権がAnthropicの最上位AIモデル「Mythos 5」および「Fable 5」への輸出規制指令を撤回したと報じた。両モデルは6月12日以降、国家安全保障を理由に全世界の外国人ユーザーからアクセス禁止となっていた。Anthropicは新たな安全分類器の実装と当局への継続報告を条件に合意し、7月1日からグローバル提供を段階的に再開する。",
-      "category": "international"
-    },
-    {
-      "title": "White House drops export controls on Anthropic's Mythos and Fable AI models",
-      "title_ja": "ホワイトハウス、AnthropicのMythos・Fable AIモデルの輸出規制を解除",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2026/06/30/white-house-drops-export-controls-anthropics-mythos-fable-ai-models/",
-      "date": "2026-06-30",
-      "summary": "Washington Postは6月30日、ホワイトハウスがAnthropicの主力AI「Mythos 5」および「Fable 5」に課していた輸出管理指令を撤回したと報じた。両モデルはジェイルブレイク脆弱性を理由に6月12日から利用停止されていたが、AnthropicはCommerce Departmentのセキュリティ評価と協議を経て復活を実現。Anthropicは今後の高性能モデルリリースを政府と事前調整することを約束した。",
-      "category": "international"
-    },
-    {
-      "title": "Claude for Life Sciences",
-      "title_ja": "Claude for Life Sciences ライフサイエンス向けエンドツーエンド研究環境",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-for-life-sciences",
-      "date": "2026-06-30",
-      "summary": "Anthropicは6月30日、Claude for Life Sciencesを発表。Claude Scienceとセットで提供され、Novo Nordisk（Ozempic製造元）やAllen Instituteをアーリーカスタマーとして、Claude Codeがソフトウェア開発を支援するのと同じ形で科学研究を支援することを目指す。ライフサイエンス領域向けに専門コネクタ（配列・化合物・実験データ）、監査可能なアーティファクト生成、コンピュートリソースへのフレキシブルなアクセスを一体化。ドキュメント生成（NovoScribe）などのユースケースで10週間の作業を10分に短縮した実績も紹介された。",
-      "category": "company_blog"
-    },
-    {
-      "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations",
-      "title_ja": "HP、OpenAIと「Frontier」戦略的パートナーシップを開始 — 顧客体験と社内業務を全面的にAI化",
-      "source": "HP Newsroom",
-      "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/open-ai-partnership.html",
-      "date": "2026-06-29",
-      "summary": "HPはOpenAIとの戦略的パートナーシップ「Frontier」の正式開始を発表した。2026年2月から続けた評価期間を経て、HPの顧客接点・テレメトリ分析・従業員生産性・ソフトウェア開発の各領域にFrontierプラットフォームを横断導入する。先行検証では1人のエンジニアが数週間で43プロジェクト・122 PRを処理、セキュリティチームは1か月相当の脆弱性対応を1日に短縮しており、HPは初の主要グローバル企業としてFrontier採用を打ち出す。",
-      "category": "international"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "title_ja": "OpenAI公式ブログ：HPと「Frontier」戦略提携を開始",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership/",
-      "date": "2026-06-29",
-      "summary": "OpenAIは公式ブログでHPとの「Frontier」プラットフォーム提携を発表。Frontierは2026年2月から両社が共同評価してきたエンタープライズAI基盤で、HPの顧客向け体験・テレメトリ分析・社員生産性・ソフトウェア開発の各領域に展開される。OpenAIは「FrontierでHPの仕事の仕方そのものを再設計する」とコメントし、HPをFrontierを採用する最初の大手グローバルエンタープライズの1社と位置付けた。",
-      "category": "company_blog"
-    },
-    {
-      "title": "ElevenLabs and NTT DOCOMO BUSINESS Begin Collaboration on Natural Voice AI for Contact Center Operations",
-      "title_ja": "イレブンラボとNTTドコモビジネス、自然な音声AIを用いたコンタクトセンター応対の実現に向けた協業を開始",
-      "source": "共同通信PRワイヤー",
-      "url": "https://kyodonewsprwire.jp/release/202606271620",
-      "date": "2026-06-29",
-      "summary": "イレブンラボジャパンとNTTドコモビジネスは、自然な音声AIによるコンタクトセンター応対の高品質化に向けた協業を開始した。NTTドコモ・ベンチャーズの出資・連携支援を背景に、イレブンラボの音声生成・音声理解プラットフォームとNTTドコモビジネスの「docomo business ANCAR」等のコンタクトセンター運用知見を組み合わせ、応対品質と業務効率を両立する仕組みを共同検証する。",
-      "category": "japan"
-    },
-    {
-      "title": "Suno launches 'Spark' grant program for indie artists, but contract bars criticism of Suno",
-      "title_ja": "音楽生成AI「Suno」、インディーアーティスト支援プログラム「Spark」発表 — 条件に「Sunoを批判しない」「集団訴訟参加しない」条項",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/gsc_news/en/20260629-suno-incubator-program-spark/",
-      "date": "2026-06-29",
-      "summary": "AI音楽生成サービスSunoが、インディーズ系の歌手・作詞家・プロデューサー向けに助成金・マーケティング支援・ソングライティングキャンプを提供する新プログラム「Spark」を発表。一方で参加契約には「Suno・関係者・製品を中傷しない（Good Vibes Only条項）」「Sunoに対する集団訴訟への参加権を放棄する」などの条項が含まれ、SZAやDoja Catら著名アーティストのAI批判が広がる中、自由な言論を犠牲にした囲い込みではないかと批判が出ている。",
-      "category": "international"
-    },
-    {
-      "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments",
-      "title_ja": "PalantirとNVIDIA、政府機関向けに「ソブリンAI」基盤を共同提供",
-      "source": "BusinessWire",
-      "url": "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments",
-      "date": "2026-06-29",
-      "summary": "PalantirとNVIDIAは6月29日、米政府機関や重要インフラ向けにNVIDIA Nemotronオープンモデルを閉鎖環境で運用する「ソブリンAI」基盤を発表した。エアギャップ環境での完全データ隔離、明示的データ認可、監査可能性などを備え、PalantirのAIP・Foundry・ApolloとNVIDIAの計算基盤を組み合わせる。発表後Palantir株は約4.6%上昇した。",
-      "category": "international"
     }
   ]
 }

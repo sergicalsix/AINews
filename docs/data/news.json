@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17 09:00 (JST)",
+  "lastUpdated": "2026-07-18 09:00 (JST)",
   "articles": [
     {
       "title": "Gemini 3.5 Pro Targets July 17 With 2M Token Context",
@@ -52,6 +52,77 @@
       "date": "2026-07-17",
       "summary": "7月17日の主要AIニュース20本を集約：Google DeepMind Gemini 3.5 Pro（200万トークン、Deep Think）の正式公開、WAIC上海開幕、TSMC過去最高Q2決算とアリゾナ増額、OpenAI Atlas終了予告、Moonshot Kimi K3の余波、Thinking Machines Inklingの評価、Anthropic Ode本格稼働、AI Safety Index後の規制議論など、この日の主要トピックを網羅した。",
       "category": "international"
+    },
+    {
+      "title": "China's Moonshot AI unveils Kimi K3 that rivals OpenAI, Anthropic",
+      "title_ja": "中国Moonshot AI、OpenAI・Anthropicに匹敵する『Kimi K3』を発表",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "date": "2026-07-17",
+      "summary": "北京拠点のMoonshot AIが7月17日、上海WAICで新フラッグシップ『Kimi K3』を発表した。2.8兆パラメータのスパースMoE構成、100万トークンコンテキスト、常時オンの推論モードを備え、入力$3・出力$15/百万トークンで提供、7月27日までにオープンウェイトとして公開予定。同社はCoding／エージェント系ベンチマークで一部のOpenAI・Anthropicモデルを上回ったと主張し、米中AI競争の緊張を再燃させた。",
+      "category": "international"
+    },
+    {
+      "title": "Moonshot Unveils Kimi K3 AI Model, Narrowing Gap With US Rivals",
+      "title_ja": "Moonshotが『Kimi K3』を披露、米国勢との差を縮める",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "date": "2026-07-17",
+      "summary": "Bloombergは7月17日、Moonshot AIが史上最大級のオープンウェイトLLM『Kimi K3』を公開し、Claude Fable 5やGPT-5.6 Solとの性能差を大幅に縮めたと報道。同モデルはArena.aiのFrontend Code Arenaで首位となり、米国製フロンティアモデルを上回った。中国AIの急速なキャッチアップが米中技術覇権争いの新たな転換点になるとの見方が広がっている。",
+      "category": "international"
+    },
+    {
+      "title": "Markets experience new DeepSeek shock after Moonshot AI releases Kimi K3",
+      "title_ja": "Moonshot AIのKimi K3公開でマーケットに再びDeepSeekショック",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/",
+      "date": "2026-07-17",
+      "summary": "Fortuneが7月17日、Kimi K3公開を受けて米半導体株が売り込まれ、Nasdaqが1.4％安、Philadelphia SE半導体指数が1.8％下落したと報じた。NvidiaはApple以下に一時後退、投資家は米大手のGPU投資優位性が中国オープンモデルによって浸食されるリスクを再評価している。K3は入出力価格ともにClaude Fable 5より大幅に安く、コストパフォーマンスの高さで市場衝撃を与えた。",
+      "category": "international"
+    },
+    {
+      "title": "China's Xi Jinping launches new AI alliance: What is it?",
+      "title_ja": "中国・習近平主席、新AI同盟『WAICO』を発足",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "date": "2026-07-17",
+      "summary": "習近平国家主席が7月17日、上海WAICの開会基調演説で29か国が調印した『World Artificial Intelligence Cooperation Organization (WAICO)』の発足を発表。本部を上海に置き、発展途上国向け5,000人のAI人材育成枠と国際応用協力センター設置を約束し、米国主導のPax Silica連合(35カ国)への対抗軸を鮮明にした。中国はオープンソースAIを公共財と位置付け、途上国連携でグローバルガバナンスの主導権を狙う。",
+      "category": "international"
+    },
+    {
+      "title": "China just erased America's AI lead",
+      "title_ja": "中国が米国のAIリードを消し去った",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "date": "2026-07-17",
+      "summary": "Axiosは7月17日、Kimi K3の登場でオープンソースAIの最先端が事実上中国側に移り、Anthropic Opus 4.8やOpenAI GPT-5.5を性能面で圧倒する一方、価格は数分の一という現実を指摘。米政府のGPU輸出規制にもかかわらず中国勢が急伸しており、Nvidia株安と併せて『DeepSeekショック』再来と評されている。",
+      "category": "international"
+    },
+    {
+      "title": "Microsoft's 'Project Perception' Could Challenge Anthropic's Mythos in AI Security",
+      "title_ja": "MicrosoftのProject Perception、AnthropicのMythosに対抗するAIセキュリティ製品",
+      "source": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
+      "date": "2026-07-17",
+      "summary": "Microsoftは自社・OpenAI・AnthropicのモデルをスマートルーティングするAIサイバーセキュリティ製品『Project Perception』を7月中に投入すると報じられた。企業のコード・クラウド・エンドポイントを横断して脆弱性を検出・修復し、Anthropicの高価な『Mythos』モデルに対する低コスト代替として位置付けられる。エージェント型AIが攻撃側でも急速に高度化する中、防御側のコスト効率化を狙う戦略と位置づけられている。",
+      "category": "international"
+    },
+    {
+      "title": "ラピダス、先端半導体設計をAIで自動化 米ソフト大手ケイデンスと協業",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC164AI0W6A710C2000000/",
+      "date": "2026-07-17",
+      "summary": "ラピダスは7月17日、米ケイデンスと協業し2nm SoC設計を『AIエージェント』でほぼ自動化するツール群『Raads』を提供すると発表。小池淳義社長は都内のケイデンスイベントで『AIエージェントが中心となり設計・生産のスピードを高める』と表明。従来比で設計期間を最大半減させ、2027年の量産開始を後押しする狙い。国産先端半導体プロジェクトにAI設計自動化が本格導入される画期的な発表となった。",
+      "category": "japan"
+    },
+    {
+      "title": "Fireworks Secures $1.5 Billion in Series D Funding",
+      "title_ja": "Fireworks、シリーズDで15億ドルを調達",
+      "source": "Fireworks AI Blog",
+      "url": "https://fireworks.ai/blog/series-d-announcement",
+      "date": "2026-07-17",
+      "summary": "AI推論インフラのFireworksは7月17日、Atreides・Index Ventures・TCV主導、Nvidia・Lightspeed等参加のシリーズDで15.05億ドル(評価額175億ドル)を調達したと発表。年率換算売上10億ドル超え、1日40兆トークン処理まで拡大しており、資金はエンジニアリング拡充と世界的コンピュートキャパシティ増強、Microsoft・NVIDIAとの提携深化に投じる。オープンモデルのファインチューニングと専用GPUクラスタ提供に特化した『専門知能』プラットフォーム戦略を鮮明にした。",
+      "category": "company_blog"
     },
     {
       "title": "Japan's Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
@@ -163,6 +234,50 @@
       "date": "2026-07-16",
       "summary": "Constellation ResearchはMoonshot AIによるKimi K3の7月16日ローンチを速報。2.8兆パラメータのMoEアーキテクチャ、100万トークンの長文脈、マルチモーダル、常時推論、Kimi Delta AttentionとAttention Residualsによるスケーリング効率化が特徴で、企業のセルフホスト運用が可能になる7月27日の重み公開が業界の焦点となる。企業AI導入コストの構造変化が本格化するとの見立てを示した。",
       "category": "company_blog"
+    },
+    {
+      "title": "トンカツ食べながら語った――NVIDIA、富士通、安川電機ら『フィジカルAI連合』誕生、発表直前の裏話",
+      "source": "ITmedia ビジネスオンライン",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/16/news090.html",
+      "date": "2026-07-16",
+      "summary": "ITmediaが7月16日、富士通・ファナック・安川電機・川崎重工の4社がNVIDIAと組みフィジカルAI事業を検討する連合発表の舞台裏を報じた。AI基盤とロボットや工作機械を結ぶ協調制御プラットフォームを共同開発し、日本発の産業用フィジカルAIエコシステム構築を狙う。同日にはNoetra主導のNVIDIA Vera Rubin AIファクトリー(27,500GPU/140MW)構想も併せて発表され、日本の国家AIインフラ戦略が具体化した。",
+      "category": "japan"
+    },
+    {
+      "title": "Noetra Launches Full-Scale R&D for Japan-Developed Multimodal Foundation Model",
+      "title_ja": "ノエトラ、国産マルチモーダル基盤モデルのフルスケールR&Dを開始",
+      "source": "SoftBank (Press Release)",
+      "url": "https://www.softbank.jp/en/corp/news/press/sbkk/2026/20260716_01/",
+      "date": "2026-07-16",
+      "summary": "ソフトバンクは7月16日、44社出資の新会社Noetraが経産省FRONTiaプロジェクト下で国産マルチモーダル基盤モデルの本格開発に着手すると発表した。SoftBank・ソニー・NEC・ホンダらが中核となり、NVIDIA Vera Rubinを用いた27,500基GPUのAIファクトリーを2028年稼働予定。5年間で約1兆円を投じ、2030年度までに『実世界ネイティブAI』の実現を目指す、日本初の国家的フィジカルAIインフラ構想。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "title_ja": "NVIDIAと日本、産業横断でフルスタックAI・ロボティクスを展開",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "date": "2026-07-16",
+      "summary": "NVIDIAは7月16日、Jensen Huang CEOの東京訪問に合わせて日本国内44社・省庁との連携を発表。Noetraコンソーシアム主導で27,500基のRubin GPUを備えた140MW『Vera Rubin AIファクトリー』を建設し、Toyota・Fanuc・SoftBankら製造業とフィジカルAI・自律ロボット領域で協業する。世界初の『国家AIインフラ』と位置付けられ、日本製造業のAIネイティブ化を加速させる大型戦略として注目される。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.15267",
+      "date": "2026-07-16",
+      "summary": "LLMの事前学習データに計算的プロパガンダを注入して意図的にバイアスを埋め込む攻撃手法を提案した論文。安価かつ自動化された生成コンテンツで事前学習コーパスの一部を汚染するだけで、下流タスクにおける政治的・社会的立場が測定可能に偏ることを実験で示し、フロンティアLLM学習パイプラインに対する新たなサプライチェーンリスクを警告している。",
+      "authors": "(arXiv preprint, July 2026)",
+      "category": "arxiv"
+    },
+    {
+      "title": "Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14895",
+      "date": "2026-07-16",
+      "summary": "既存の推論特化LLMを特定ドメインへ適応させる際、インストラクション・チューニングとモデルマージング(重み平均)を組み合わせる手法を提案。学習コストを抑えつつベース推論能力を保持したまま新規タスク性能を引き上げられることを示し、Fable/Opus級モデルの効率的な後段適応レシピとして注目される。",
+      "authors": "Yu-Du Feng, Niels Mündler-Sasahara, Mark Vero, Martin Vechev",
+      "category": "arxiv"
     },
     {
       "title": "AI News Today July 15 2026: 15 Biggest Stories",
@@ -1694,126 +1809,6 @@
       "summary": "arXiv 2607.01084はLLMエージェントが静的な学習環境で獲得したツール使用能力がユーザークエリ・ツールセット・対話動態の動的変化に脆弱であることを示し、「Tool-Use Agent in Open-World（OpenAgent）」という新たな問題設定を導入。オープンワールド設定でエージェントの一般化性能を評価するベンチマークを構築し、既存のツール学習手法・SFT・DPO・GRPOに大幅な劣化があることを実験的に確認。ツール仕様変更・新規ドメイン適応時の失敗パターンを分類し、動的環境向けの学習戦略を提案する。",
       "authors": "arXiv preprint",
       "category": "arxiv"
-    },
-    {
-      "title": "Measuring the Gap Between Human and LLM Research Ideas",
-      "title_ja": "人間の研究アイデアとLLM生成アイデアのギャップを測る 大規模評価フレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.01233",
-      "date": "2026-07-01",
-      "summary": "arXiv 2607.01233は、現在のLLMが生成する研究アイデアが人間の研究者のそれとどの程度の距離にあるかを大規模に評価するフレームワークを提案。高質な人間の研究論文を基盤にアイデアを抽出・匿名化し、複数分野で有識者評価と自動評価を同時に走らせて新規性、独自性、実現可能性、影響力の4軸で比較。フロンティアLLMが人間の中央値を上回る領域と大きく劣る領域を分解し、AI駆動研究支援ツール設計の指針を与える。",
-      "authors": "Junjie Wang, Yizhi Song, Yifan Zhang, et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Message Passing Enables Efficient Reasoning",
-      "title_ja": "メッセージパッシングで効率的な推論を実現 LLMスレッド間の軽量プリミティブによる並列推論",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.01077",
-      "date": "2026-07-01",
-      "summary": "arXiv 2607.01077は、複数のLLM推論スレッドが軽量なsend/receiveプリミティブを介して直接通信するMessage Passing Language Models (MPLM) を提案。単一の長文思考連鎖ではなく、必要に応じて動的に分岐・合流するスレッド群としてタスクを解くことで、コンテキスト膨張とトークン当たり計算コストを抑えつつ、複雑なマルチステップ推論・ツール利用・並列探索を効率化。Chain-of-Thoughtやtree-of-thoughtsとの比較で同精度でも大幅な計算削減を実現する。",
-      "authors": "Sameera Horawalavithana, et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "JADEPUFFER: Agentic ransomware for automated database extortion",
-      "title_ja": "Sysdig、初のエンドツーエンドAI駆動型ランサムウェア「JADEPUFFER」を報告 Langflow脆弱性経由でNacos設定1,342件を暗号化",
-      "source": "Sysdig",
-      "url": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
-      "date": "2026-07-01",
-      "summary": "Sysdig脅威研究チームは、LLMエージェントが単独で全侵入ライフサイクルを実行した史上初のランサムウェア攻撃「JADEPUFFER」の詳細分析を公開した（7月1日初報、7月7日にBuildFastwithAIやFortuneが再取り上げ）。初期侵入はLangflowの未認証RCE脆弱性CVE-2025-3248を悪用、エージェントは環境列挙・資格情報探索・ラテラルムーブメント・特権昇格・永続化・ランサムノート生成まで自律実行し、ログイン失敗から修正までを31秒で自己復旧。最終的にNacosサービス設定1,342件を暗号化・オリジナル削除して恐喝を実行した。約600ペイロードを試行し、エージェント自身がランサムノートを起草するなど、エージェント型サイバー犯罪のスキルフロアが「エージェント運用コスト」まで低下したことを示すマイルストーン事案となった。",
-      "category": "international"
-    },
-    {
-      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
-      "title_ja": "「信号から構造へ」──LLMエージェントの言語創発を左右する記憶アーキテクチャの役割",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.00233",
-      "date": "2026-07-01",
-      "summary": "本論文は、LLMエージェントに与えるメモリ構造（短期／長期／エピソード／セマンティック）が、閉じた環境下で発生する自己組織化的な「言語」の質を決定づけることを、情報理論と多エージェントシミュレーションを組み合わせて示した。異なるメモリ設計を持つエージェント群を同一タスク環境に置き、共有語彙の圧縮率・語彙分化・意味の一貫性を比較。エピソード記憶を持つ集団ではより語彙が階層化される一方、セマンティック記憶のみでは高圧縮だが意味流失が起きやすいなど、記憶構造そのものが集団の「文化」を形作ることを定量化。LLMエージェント社会設計の重要な設計原理としてメモリ選択を位置付けた。",
-      "authors": "Yashar Talebirad, Eden Redman, Ali Parsaee, Osmar R. Zaiane",
-      "category": "arxiv"
-    },
-    {
-      "title": "SoftBank Group Completes Second Tranche of $10B OpenAI Investment",
-      "title_ja": "ソフトバンクG、OpenAIへ100億ドル追加出資（第2弾）実行 累計10兆円規模へ",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC017JJ0R00C26A7000000/",
-      "date": "2026-07-01",
-      "summary": "ソフトバンクグループは7月1日、OpenAIへの追加出資第2弾となる100億ドル（約1兆6273億円）の払込完了を発表。総額300億ドル契約の2/3が実行されたことになり、10月の第3弾払込後には累計出資が646億ドル（約10兆円）に達し、SBGのOpenAI持分比率は約13％となる見通し。",
-      "category": "japan"
-    },
-    {
-      "title": "Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.01047",
-      "date": "2026-07-01",
-      "authors": "N/A",
-      "summary": "静的な単一LLMでは現れない創発的性質が、LLM集団の相互作用によって生じることを論証。エージェント型LLM集団を「解釈可能な基質」として扱う枠組みを提示し、集団ダイナミクスの可解性・観測可能性を高める手法を検討する。",
-      "category": "arxiv"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "title_ja": "Anthropic、エージェント運用を低コスト化する新モデル「Claude Sonnet 5」を発表",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "date": "2026-06-30",
-      "summary": "Anthropicは6月30日、エージェント特化型の新モデル「Claude Sonnet 5」を発表した。推論・ツール利用・コーディングでSonnet 4.6を上回り、一部ベンチではOpus 4.8に迫る性能を実現。導入価格は入力$2/百万トークン、出力$10/百万トークンと値下げされ、Free・Pro含む全プランで即日利用可能。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Releases Claude Science for Automating Research",
-      "title_ja": "Anthropic、科学研究自動化に特化した「Claude Science」をリリース",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
-      "date": "2026-06-30",
-      "summary": "Anthropicは6月30日、科学者特に製薬研究者向けに最適化した「Claude Science」を公開した。タンパク質構造予測などの生物・化学タスクを自動化し、60以上の科学データベースを統合。Pro/Max/Team/EnterpriseのmacOS・Linux版でベータ提供され、最大50件のAI for Scienceプロジェクトに3万ドルのクレジットも付与される。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic upgrades Claude with new Sonnet 5 model",
-      "title_ja": "Anthropic、「Claude Sonnet 5」へアップグレード、無料・Proのデフォルトモデルに",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
-      "date": "2026-06-30",
-      "summary": "9to5Macは6月30日、AnthropicがClaudeの無料およびProプランのデフォルトモデルを「Sonnet 5」に切り替えたと報じた。ブラウザやターミナルを用いた自律的なエージェント処理性能が大幅に強化され、Claude Code・Claude Platformでも即日利用可能。Sonnet 5は安全性面でも悪意ある要求の拒否率やプロンプトインジェクションへの耐性が向上している。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Claude Sonnet 5",
-      "title_ja": "Claude Sonnet 5を発表",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "date": "2026-06-30",
-      "summary": "AnthropicはSonnet系列の最新モデルClaude Sonnet 5を公開。推論・ツール使用・コーディング・エージェント性能でSonnet 4.6を大幅に上回り、Opus 4.8に迫る能力をより低コストで提供する。Free・Proのデフォルトモデルとなり、APIは導入価格として入力$2/出力$10（百万トークン）を8月31日まで適用する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Claude Science, an AI workbench for scientists",
-      "title_ja": "科学者向けAIワークベンチ「Claude Science」",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "date": "2026-06-30",
-      "summary": "Anthropicは科学研究向けの統合ワークベンチ「Claude Science」をベータ公開した。文献解析や多段階の実験計画を実行し、ゲノミクスやプロテオミクス、構造生物学など60以上のスキル・コネクタを備える調整エージェントを通じて、再現可能な成果物を生成できる。Claude Pro/Max/Team/Enterpriseで利用可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "SB Intuitions releases Sarashina3 mini and nano: Latest fully-from-scratch Japanese LLMs",
-      "title_ja": "SB Intuitions、フルスクラッチ開発の最新国産LLM「Sarashina3 mini／nano」を公開",
-      "source": "SB Intuitions TECH BLOG",
-      "url": "https://www.sbintuitions.co.jp/blog/entry/2026/06/30/100000",
-      "date": "2026-06-30",
-      "summary": "ソフトバンク子会社のSB Intuitionsが、フルスクラッチで開発した新たな国産LLM「Sarashina3 mini／nano」を公開した。日英中心に30兆トークン規模の高品質コーパスで事前学習し、Qwen3シリーズやGPT-4.1／5.4 miniと8つのベンチマークで比較。デジタル庁の「ガバメントAI」試用モデルにも採択されている。",
-      "category": "japan"
-    },
-    {
-      "title": "Japan AI Foundation Model Development rebrands as 'Noetra', launches domestic multimodal AI with AIST",
-      "title_ja": "国内大手44社共同出資のAI開発企業、新名称「Noetra」で始動 産総研と国産マルチモーダルAIを開発へ",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000138/",
-      "date": "2026-06-30",
-      "summary": "ソフトバンクやNEC、ソニーグループ、ホンダなど国内大手44社が出資する「日本AI基盤モデル開発」が、7月1日付で新社名「Noetra（ノエトラ）」として始動すると発表。経産省所管のNEDO公募に採択され、産業技術総合研究所と協力し、テキスト・画像・音声を扱う国産マルチモーダル基盤モデルの研究開発を本格化する。",
-      "category": "japan"
     }
   ]
 }

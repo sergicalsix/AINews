@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-07-19 09:00 (JST)",
+  "lastUpdated": "2026-07-20 09:00 (JST)",
   "articles": [
+    {
+      "title": "2026 World AI Conference concludes in Shanghai after four-day gathering",
+      "title_ja": "2026年世界AI会議、上海で4日間の会期を終え閉幕",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260720/e2550c55ecfd413188eb965e304c8be2/c.html",
+      "date": "2026-07-20",
+      "summary": "上海で7月17〜20日に開催された世界AI会議（WAIC）が閉幕。展示者1,100社超・出展3,000点超で300以上のグローバル新製品が発表され、AIガバナンスに関するハイレベル会合と併催されて世界的な議論の場となった。",
+      "category": "international"
+    },
+    {
+      "title": "Etched targets $20 billion valuation with back-to-back rounds as inference chip demand hits $1 billion",
+      "source": "MarketScale",
+      "url": "https://www.marketscale.com/industries/software-and-technology/etched-targets-a-20-billion-valuation-with-back-to-back-rounds-as-inference-chip-demand-hits-1-billion",
+      "date": "2026-07-20",
+      "summary": "AI推論専用チップを開発するEtchedが、Jane Street主導で最大200億ドル、Sequoia主導で100億ドルの二本立て資金調達を交渉中と報じられた。顧客からの推論チップ需要は年間10億ドル規模に達しており、NVIDIA以外のTransformer特化アクセラレータへの投資家関心の高さを示す。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today July 20 2026: 16 Biggest Stories",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-20-2026-16-biggest-stories",
+      "date": "2026-07-20",
+      "summary": "7月20日の主要AIニュースを16本紹介するダイジェスト。EUのGoogle DMA拘束命令、Gemini 3.5 Proのローンチ遅延、SAPによるPrior Labs買収と10億ユーロ超投資、Oracleのスターゲート原資確保に伴う3万人規模の人員削減、Feyn LabsのSQRLモデル公開などをカバー。",
+      "category": "international"
+    },
     {
       "title": "Alibaba's Qwen Unveils Preview of Flagship AI Model Qwen 3.8 Max",
       "title_ja": "アリババQwen、2.4兆パラメータの最上位モデル『Qwen 3.8 Max』プレビュー公開",
@@ -17,6 +42,14 @@
       "url": "https://mlq.ai/news/alibaba-launches-qwen-38-with-24-trillion-parameters-claims-near-frontier-performance/",
       "date": "2026-07-19",
       "summary": "MLQは7月19日、Qwen 3.8-Max-Previewの詳細を報道。コーディング、フルスタック開発、データ分析、オフィスワークフローでQwen 3.7-Maxを大幅に上回るとされ、Alibaba CloudのToken Plan／Qoder経由でAPI提供。プレビュー段階のため正式ベンチマークは非公開だが、Kimi K3ショックに続く中国発の大型モデル攻勢としてマーケットの関心を集めている。",
+      "category": "international"
+    },
+    {
+      "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot's Kimi K3 Open-Weight Launch",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+      "date": "2026-07-19",
+      "summary": "アリババが世界AI会議で2.4兆パラメータ・1M トークン文脈のマルチモーダル基盤モデル Qwen3.8-Max のプレビューを発表。ムーンショットのKimi K3公開のわずか数日後で、中国勢によるフロンティア追撃の勢いが加速している。ただしベンチマークやモデルカード、重みは未公開でベンダー主張に留まる。",
       "category": "international"
     },
     {
@@ -54,6 +87,15 @@
       "date": "2026-07-18",
       "summary": "The Decoderは7月18日、Anthropicが7月20日以降にFable 5の恒久的なプラン組込を実施する一方、通常上限自体を33%削減しFable 5はさらにその50%までに制限すると詳報。Pro・Team StandardユーザーはAPI従量課金に移行、$100の一時クレジットで穴埋めするが、実質的な値上げ・機能縮小と受け止められている。OpenAI GPT-5.6 Solのコスト優位性が市場価格圧力の主因と指摘。",
       "category": "international"
+    },
+    {
+      "title": "Kimi K3 shock: US expert says Chinese model close to Anthropic's Claude Fable",
+      "title_ja": "中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+      "date": "2026-07-18",
+      "summary": "月之暗面（ムーンショットAI）の新モデル「Kimi K3」について米AI専門家が、アンソロピックの最新モデル「Claude Fable」を上回るには至らないが僅差に迫っているとの評価を示したと報じた。オープンウェイトの中国モデルが最上位プロプライエタリと肉薄する新局面を象徴する事例として国内でも注目が集まる。",
+      "category": "japan"
     },
     {
       "title": "Gemini 3.5 Pro Targets July 17 With 2M Token Context",
@@ -186,6 +228,38 @@
       "date": "2026-07-17",
       "summary": "NVIDIAは7月16-17日、SoftBank・Sony・NEC・Honda等が共同設立した新会社Noetra Corp.と連携し、13,750基のVera CPUと27,500基のRubin GPUで構成する140MW規模の国家AIファクトリーを構築すると発表。経済産業省のFRONTiaプロジェクト向け計算基盤として、製造・物流・医療分野を含む『Real-World Native AI（フィジカルAI）』を国産で推進する。ジェンスン・フアンCEOが7月17日に来日し協業拡大を表明した。",
       "category": "japan"
+    },
+    {
+      "title": "SK Group Chairman Chey urges long-term hold on SK Hynix, warns of AI memory supply gap",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260717/sk-chief-says-sk-hynix-shares-likely-to-trend-upward-on-strong-memory-chip-demand",
+      "date": "2026-07-17",
+      "summary": "SKグループ会長のチェ・テウォン氏が済州フォーラムで、AI向けメモリ需要は来年60〜100%増となる一方、業界に新規供給能力がほぼないと指摘。SKハイニックスの長期保有を投資家に呼び掛けるとともに、韓国は製品ではなく「知能」を輸出すべきだと語り、AI主権を巡る各国の緊張感が強まっていることを示した。",
+      "category": "international"
+    },
+    {
+      "title": "Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.15977",
+      "date": "2026-07-17",
+      "summary": "LLMの拒否応答が必ずしも安全性を担保しないという問題を提起。コンテンツを「ユーモア化」する形で有害情報を引き出すジェイルブレイク攻撃を体系化し、既存の拒否ベースの安全性評価では見逃されがちな潜在的リスクをベンチマークで定量化した。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.16117",
+      "date": "2026-07-17",
+      "summary": "言語表現の圧縮率と下流タスクの効用（rate-utility）のフロンティアを、トークン・バイト・ピクセルの各エンコーディングで統制条件下に比較。同一言語内容に対して符号長と精度のトレードオフを可視化し、非トークン化アプローチの適用領域を再検討する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.16131",
+      "date": "2026-07-17",
+      "summary": "科学的主張の検証をマルチモーダルに行うToolSciVerを提案。画像・表・図など視覚的ツールを呼び出せるエージェントを強化学習で最適化し、根拠が非テキスト要素に依存する科学論文レベルの主張に対して事実検証性能を改善した。",
+      "category": "arxiv"
     },
     {
       "title": "Japan's Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
@@ -353,6 +427,15 @@
       "authors": "Anonymous authors (Tongji University, Tsinghua University 他)"
     },
     {
+      "title": "EU Commission orders Google to open Android to rival AI assistants and share Search data under DMA",
+      "title_ja": "EU、DMAでGoogleにAndroidの外部AIアシスタント開放とSearchデータ共有を命令",
+      "source": "European Commission (Digital Markets Act)",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "date": "2026-07-16",
+      "summary": "欧州委員会が7月16日、デジタル市場法に基づく2件の拘束力ある決定を採択し、GoogleにGemini同等のAndroid統合を外部AIアシスタントに提供するよう命じ、あわせて匿名化した検索データを競合検索エンジンに共有するよう義務付けた。データ共有は2027年1月、Android相互運用は2027年7月までに実施義務が発生する。",
+      "category": "international"
+    },
+    {
       "title": "AI News Today July 15 2026: 15 Biggest Stories",
       "title_ja": "2026年7月15日 本日のAIニュース：注目15選",
       "source": "Build Fast With AI",
@@ -431,6 +514,15 @@
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "date": "2026-07-15",
       "summary": "Thinking Machines Labは7月15日付ブログでオープンウェイトモデル『Inkling』を発表。テキスト・画像・音声・動画をネイティブに扱う4モーダルMoE（総9750億パラメータ、アクティブ410億）で、Hugging Faceで重みを配布、社内Tinkerでのファインチューニングにも対応。『Inklingは現時点で最強のモデルではない』と率直に述べ、業界初のオープン4モーダル基盤としての活用と検証を呼びかけた。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Japan's Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models",
+      "title_ja": "国内企業・スタートアップ、NVIDIA Nemotronオープンモデルで産業特化AIを構築",
+      "source": "GlobeNewswire (NVIDIA)",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3328186/0/en/Japan-s-Enterprises-and-Startups-Build-Industry-Specialized-AI-With-NVIDIA-Nemotron-Open-Models.html",
+      "date": "2026-07-15",
+      "summary": "NVIDIAが日本の企業・スタートアップとNemotronオープンモデルを用いて産業特化AIを構築していることを発表。Sakana AIはFugu モデルルーティング基盤にNemotronを統合し、タスクごとに最適モデルを動的選択できる仕組みを拡張した。",
       "category": "company_blog"
     },
     {
@@ -1708,107 +1800,6 @@
       "date": "2026-07-02",
       "summary": "AnthropicはApple Foundation Modelsフレームワークに対応するSwiftパッケージ「ClaudeForFoundationModels」をベータ公開した。iOS 27・iPadOS 27・macOS 27・visionOS 27・watchOS 27で、Appleオンデバイスモデルと同じLanguageModelSession API（respond(to:)/ストリーミング/ガイド生成/ツール呼び出し）でサーバーサイドClaudeを利用可能。ウェブ検索・ウェブフェッチ・コード実行などのサーバーサイドツールも1往復で実行できる。リクエストはアプリから直接Claude APIへ送られAppleは経由せず、課金は標準API料金でAnthropicアカウントに請求される。",
       "category": "company_blog"
-    },
-    {
-      "title": "New analytics and cost controls are available for Claude Enterprise",
-      "title_ja": "AnthropicがClaude Enterpriseに管理者向け詳細アナリティクスとスペンドアラートを追加",
-      "source": "Anthropic",
-      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "date": "2026-07-02",
-      "summary": "AnthropicはClaude Enterpriseに、グループ/ユーザー別のコスト・利用状況（作成アーティファクト・編集ファイル・使用スキル/コネクタ）を可視化するアナリティクスダッシュボード、チャット/Cowork/Claude Code横断でモデル既定と権限を制御するモデルエンタイトルメント、組織スペンド上限の75%/90%で管理者に通知するアラート、Admin APIによるスクリプト運用を追加。ユーザーは75%/95%閾値で通知され、離脱せずに上限引き上げをリクエスト可能。エージェント化で通常チャットとは異なる利用/コストパターンとなる状況に対応する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Restored 'Fable 5': How Anthropic responded to the US Government's directive",
-      "title_ja": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-      "date": "2026-07-02",
-      "summary": "ITmedia NEWSは7月2日、Anthropicが米商務省の輸出規制解除を受けてClaude Fable 5を再展開するに至った経緯を解説した。Fable 5は6月10日リリース、3日後にAmazon研究者が発見した脆弱性発見手法を受けて商務省が輸出規制を発令。AnthropicはOpus 4.8・GPT-5.5・Kimi K2.7でも同じ手法が有効で「Mythos級固有の問題ではない」と検証し、報告されたバイパス手法を99%以上遮断する改良版セーフティ分類器を実装。有償プラン（Pro/Max/Team/一部Enterprise）で7月7日まで週次上限50%で先行開放、以降は従量課金となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Cloudflare changes AI crawler access rules",
-      "title_ja": "Cloudflare、AIクローラのアクセスルールを変更 用途別ブロック・監視を全顧客に開放",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/07/02/cloudflare-ai-crawler-controls/",
-      "date": "2026-07-02",
-      "summary": "Help Net Securityは7月2日、CloudflareがAIクローラを「Search/Agent/Training」の3カテゴリに分類して制御する新オプションを発表したと報じた。無料プラン含む全顧客が対象で、多目的クローラは複数ポリシー横断で評価される。9月15日以降、新規ドメインでは広告収益化ページでTrainingとAgentが既定でブロックされ、収益依存のパブリッシャーがAI経由の無償スクレイピングを制御しやすくなる。BotBase（Enterprise Bot Management向けの既知ボット検索カタログ）も同時公開され、検出ID・分類・トラフィック追跡を統合的に扱える。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "title_ja": "Microsoft、$25億出資・6000人規模の「Frontier Company」を新設 顧客常駐でエンタープライズAI導入を伴走",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "date": "2026-07-02",
-      "summary": "TechCrunchは7月2日、Microsoftが$25億を投じ独立子会社「Microsoft Frontier Company」を設立したと報じた。約6000人の業界スペシャリストとAIエンジニアを顧客組織に常駐派遣し、AIシステムの共同設計・展開・運用最適化を担う。Americas/Asiaエンタープライズを6年率いたRodrigo Kede Lima氏が社長に就任。パイロットで止まっているエンタープライズAIをROI・ガバナンス・データ保護要件を満たす形で本番運用にスケールさせることを目的とし、6月30日にAWSが発表した$10億のフォワードデプロイエンジニアリング拡張に対する直接的な対抗策と位置付けられる。",
-      "category": "international"
-    },
-    {
-      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
-      "title_ja": "推論型LLMは長編テレビドラマの話者認識を向上させる DramaSR-532Kベンチマーク公開",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.02504",
-      "date": "2026-07-02",
-      "summary": "arXiv 2607.02504は、長編テレビドラマにおいて発話をキャラクタに帰属させる困難な話者認識タスクに推論型LLMを導入した研究を提案。900以上のユニークキャラクタにまたがる53.2万件のアノテーション付き対話行を含む大規模ベンチマーク「DramaSR-532K」を新設し、直近の会話文脈だけでなくシリーズ全体の設定・関係性・過去エピソードを踏まえた多段推論が話者曖昧性の解消に有効であることを実証。従来の埋め込みベース話者識別と比較し、推論チェーンを介した長距離文脈統合が特に脇役や新規キャラクタの識別で大きな精度向上をもたらすと報告している。",
-      "authors": "(arXiv:2607.02504)",
-      "category": "arxiv"
-    },
-    {
-      "title": "Online Safety Monitoring for LLMs",
-      "title_ja": "LLMのオンライン安全性モニタリング 外部検証器と閾値校正でリアルタイム不安全応答を検出",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.02510",
-      "date": "2026-07-02",
-      "summary": "arXiv 2607.02510は、アライメント訓練後もLLMが運用段階で不安全出力を生成し続ける問題に対し、リアルタイムでこれを検出するオンラインモニタを提案。外部検証モデルからの信号を用い、リスク制御に基づく閾値校正を通じて警報判定を行う。事前配布ラベル不要で運用可能なほか、既存の内的アラインメントと直交する層として重ねられ、閉じたリスク保証を提供する点を実験的に示している。",
-      "authors": "Peizhi Niu, Melih Kandemir, Chandramauli Chakraborty, et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Redeploying Claude Fable 5",
-      "title_ja": "Claude Fable 5の提供を再開",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "date": "2026-07-01",
-      "summary": "Anthropicは7月1日、米商務省による輸出規制解除を受けてClaude Fable 5の全世界提供を再開した。約2週間前に発生したAmazon Web Services研究者報告のジェイルブレイク脆弱性に対し新たなサイバーセキュリティ分類器を導入し、99%以上のケースで問題プロンプトを遮断する。ブロックされたリクエストは自動的にClaude Opus 4.8にフォールバックされ、Claude.ai・Claude Platform・Claude Code・Claude Coworkで即日利用可能。Pro/Max/Team向けには7月7日まで通常の週次利用上限の50%相当が付与される。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
-      "title_ja": "Anthropic、7月1日にClaude Fable 5を再展開 米輸出規制解除で新サイバーセキュリティ分類器を追加",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
-      "date": "2026-07-01",
-      "summary": "MarkTechPostは7月1日、AnthropicがClaude Fable 5を全世界で再展開したことを詳報した。米商務省の輸出規制解除を受け、Amazon研究者報告のジェイルブレイク手法を99%以上遮断する新分類器を実装。ブロック検知時はClaude Opus 4.8へ自動フォールバックし、AWS・Google Cloud・Microsoft Foundryでの復旧も順次進行中。ただし新分類器は保守的で通常のコーディング要求で偽陽性が増える可能性がある。",
-      "category": "international"
-    },
-    {
-      "title": "Japan plans sovereign AI model and 10 million AI robots by 2040",
-      "title_ja": "日本、2040年までに国産AIモデルとAIロボット1000万台の展開を計画",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
-      "date": "2026-07-01",
-      "summary": "The Japan Timesは7月1日、日本政府が国産マルチモーダル基盤モデルの開発とAI搭載ロボット1000万台の展開計画を発表したと報じた。SoftBankやNEC、Sony Group、Hondaが出資する新会社Noetraと産総研（AIST）が主導し、政府は5年間で最大1兆円（約61億ドル）の支援を予定。米中技術覇権への依存低減、労働力不足対応、フィジカルAI領域の主権確立を目的とする。",
-      "category": "japan"
-    },
-    {
-      "title": "'Claude Fable 5' is back: export controls including Mythos 5 to be lifted, Anthropic announces",
-      "title_ja": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
-      "date": "2026-07-01",
-      "summary": "ITmedia NEWSは7月1日、AnthropicがClaude Fable 5の全世界提供再開を発表したと報じた。6月12日から続いていた米政府の輸出規制が同月30日付で解除され、7月1日以降Claude.ai・Platform・Code・Coworkで利用可能に。合意条件として、脆弱性の自主検出と対応、悪意ある活動の政府へのリアルタイム通報、次世代モデルの政府事前協議が義務化される。",
-      "category": "japan"
-    },
-    {
-      "title": "US Government lifts export controls on 'Fable 5/Mythos 5' - Anthropic to restore access from tomorrow",
-      "title_ja": "米政府「Fable 5／Mythos 5」の輸出規制解除 Anthropic「明日からアクセス回復」",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000146/",
-      "date": "2026-07-01",
-      "summary": "ITmedia AI+は7月1日、米商務省がAnthropicの高性能AIモデル「Fable 5」と「Mythos 5」への輸出規制を解除したと報じた。Fable 5は7月2日から全世界のClaude.ai・Claude Platform・Claude Code・Claude Coworkで利用可能となるが、7月7日までは通常の週次利用制限の50%に制限される。Mythos 5は引き続き米国内の特定組織向けの限定提供が継続される。",
-      "category": "japan"
     }
   ]
 }

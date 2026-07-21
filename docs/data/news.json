@@ -1,6 +1,93 @@
 {
-  "lastUpdated": "2026-07-20 09:00 (JST)",
+  "lastUpdated": "2026-07-21 09:00 (JST)",
   "articles": [
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "title_ja": "Google、Gemini 3.6 FlashなどFlash系3種を投入——本命Pro新版は先送り",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "date": "2026-07-21",
+      "summary": "GoogleがGemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberの3モデルを一般提供。エージェント向けに知能・遅延・コストのバランスを取ったワークホースを標榜し、コード編集やツール呼び出し、視覚入力を伴う複数ステップ推論に強い。3.6 Flashは入力$1.50／出力$7.50 per Mtokenで、1Mトークン入力・64K出力を扱い、トークン消費が最大17%削減された。エンタープライズやセキュリティ用途のFlash Cyberも同時投入したが、Gemini 3.5 Proの新版は発表されず、遅延が続く。",
+      "category": "international"
+    },
+    {
+      "title": "Google releases Gemini 3.6 Flash and 3.5 Flash-Lite updates, intensifying AI price war",
+      "title_ja": "GoogleがGemini 3.6 Flash／3.5 Flash-Liteを投入、AI価格競争が激化",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/google-launches-gemini-3-6-flash-alongside-flash-lite-and-cyber-models/",
+      "date": "2026-07-21",
+      "summary": "Google DeepMindが7月21日にGemini 3.6 Flash、3.5 Flash-Lite、Flash Cyberを同時公開。3.6 Flashは前世代3.5 Flashよりトークン消費を最大17%削減、標準API価格は入力$1.50／出力$7.50 per M tokenと、GPT-5.6 mini・Claude Fable Haikuを下回る攻めの価格設定。AIエージェント向けに推論・ツール呼び出し・マルチモーダル処理を強化し、企業向けFlash Cyberではセキュリティ用途を専用チューニング。中国系オープン勢の攻勢とOpenAI・Anthropicの価格見直しを受け、フロンティア各社の価格競争が一段と激化した局面を象徴する。",
+      "category": "international"
+    },
+    {
+      "title": "Google's Frozen v2 Chip Hardwires Gemini Architecture: Up to Tenfold Inference Efficiency",
+      "title_ja": "Googleの新チップ『Frozen v2』、Geminiアーキテクチャをシリコンに焼き込みTPU比10倍の推論効率へ",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/321152/20260721/googles-frozen-v2-chip-hardwires-gemini-architecture-tenfold-inference-efficiency.htm",
+      "date": "2026-07-21",
+      "summary": "Googleが社内コードネーム『Frozen v2』のGemini専用サーバチップを開発中と報道。Geminiのモデル構造そのものをシリコンに焼き込む設計で、既存TPUに対しトークン単位で6〜10倍の電力効率を目指す。2028年からの展開を予定し、汎用性を捨てて自社モデル特化に振ることでGoogle Cloudの計算需要逼迫と競合の推論コスト圧力に対応する狙い。TPUを代替するのではなく補完する位置付けで、モデルアーキテクチャの標準化が進みつつある兆候と受け止められている。",
+      "category": "international"
+    },
+    {
+      "title": "Google's 'Frozen v2' chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+      "title_ja": "『Frozen v2』チップ報道の詳細——Gemini特化で電力効率10倍を狙う",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+      "date": "2026-07-21",
+      "summary": "The Informationの報道を基にThe Decoderが詳報。GoogleのFrozen v2は最新TPU比で6〜10倍のトークン／電力効率を狙う設計で、Geminiに現れる特定のオペレータ・分岐パターンをハードワイヤ化する方針。汎用性を犠牲にする代わりに、他モデルへの転用は基本的に想定しない専用シリコンとして2028年からの投入を計画。TPUと併用し、社内での計算リソース枯渇の緩和とAzure・AWSに対する推論コスト優位確保が主な戦略目的とされる。",
+      "category": "international"
+    },
+    {
+      "title": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In",
+      "title_ja": "MicrosoftがAzureにAMD『Helios』ラック導入、NVIDIA一辺倒からの脱却狙う",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/321218/20260721/azure-bets-amd-helios-open-standard-rack-break-nvidia-infrastructure-lock.htm",
+      "date": "2026-07-21",
+      "summary": "MicrosoftがAzureで、AMDのラックスケールAIシステム『Helios』を採用しフロンティアAI推論に本格投入。Instinct MI455X GPU 72基・EPYC Venice CPU・Pensandoネットワーキング・ROCmソフトウェアを一体化した設計で、オープン標準を掲げNVIDIA中心の推論基盤からの多元化を進める。同時にAzureに新規EPYC『Venice』VMシリーズを追加し、Pensando DPUの適用も拡大。AMD株は発表後6%上昇し、Meta・OpenAI・OracleらとともにMicrosoftも大口顧客に加わる形となった。",
+      "category": "international"
+    },
+    {
+      "title": "White House clampdown on OpenAI, Anthropic could boost open-source AI",
+      "title_ja": "米政府のフロンティアAI事前審査枠組み、オープンソース勢に追い風か",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/white-house-ai-controls-boost-open-source/",
+      "date": "2026-07-21",
+      "summary": "米ホワイトハウスがOpenAI・Anthropic・Googleと詰めるフロンティアAI事前審査の自主枠組みが、来週にも公表される見通しと報道。連邦機関に最大30日の審査期間を与える一方、Metaを含む他社は対象外の可能性が高く、事実上『米政府が認定した3社』体制になるとの懸念が強まる。規制コストを内包しにくいオープンウェイト勢（Meta、Mistral、DeepSeek、Alibaba等）や、公開重み中心のKimi K3・Qwen 3.8世代にとってはむしろ追い風となる可能性が指摘され、政策と市場構造の連動が改めて注目されている。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today July 21 2026: 16 Biggest Stories",
+      "source": "BuildFastWithAI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-21-2026",
+      "date": "2026-07-21",
+      "summary": "7月21日の主要AIニュース16本を紹介するダイジェスト。ホワイトハウスによるフロンティア事前審査枠組み、Google Frozen v2チップ計画、Gemini 3.6 Flash／3.5 Flash-Lite公開、MicrosoftとAMDのHelios Azure導入、Hugging Faceの自律AI侵害、Anthropic S-1提出続報、Alibaba Qwen 3.8-Max Previewの続報、Kimi K3の需要過多に伴うサブスク一時停止など、この日集中した大型ネタを俯瞰する。",
+      "category": "international"
+    },
+    {
+      "title": "Kimi K3が人気過ぎてGPU不足、新規サブスク一時停止——『Anthropicよりマシな対応』の声",
+      "title_ja": "Claude Fable 5に匹敵する性能の中華AI『Kimi K3』が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/news/20260721-kimi-k3-limit/",
+      "date": "2026-07-21",
+      "summary": "GIGAZINEは、Moonshot AIが7月17日に公開した『Kimi K3』の需要が想定を超え、GPUリソース逼迫のため新規サブスク受付を7月20〜21日に一時停止したと報道。既存ユーザー向けサービスは維持しつつ、AnthropicのFable 5料金体系変更（Pro実質API化）と対比する形で『使いたい人には案内するがGPU確保後に順次開放する』と説明したことに好意的な反応が集まった。Claude Fable 5に肉薄する性能の中国系オープンモデルが直面するインフラ現実を示す象徴的な出来事。",
+      "category": "japan"
+    },
+    {
+      "title": "NTT・ソフトバンク・Sakana AI——国産AI開発『成功組』の“ある共通点”",
+      "source": "ITmedia ビジネスオンライン",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/21/news036.html",
+      "date": "2026-07-21",
+      "summary": "ITmedia ビジネスオンラインは、日本の代表的な国産LLM『成功組』であるNTT、ソフトバンク、Sakana AIがいずれもNVIDIAのオープンソースソフトウェア群『Nemotron』を核に基盤モデル開発とデータ拡張を進めている点を指摘。フルスクラッチ路線が縮小する一方、Nemotron依存という新たな共通ボトルネックが生まれつつあると分析する。国産AI戦略が『AXトランスフォーメーション』（現場データを活かした物理AI／ドメイン特化AI）にシフトする中で、ハード・ソフト両面でのNVIDIA依存をどう緩めるかが次の争点になると論じている。",
+      "category": "japan"
+    },
+    {
+      "title": "ドラクエと『Gemini』がコラボ 画像生成の“特別なテンプレ”提供、リアルイベント開催へ",
+      "source": "ITmedia AI＋",
+      "url": "https://news.infoseek.co.jp/article/itmedia_aiplus_202607212000000209/",
+      "date": "2026-07-21",
+      "summary": "ITmedia AI+が7月21日夜に報じた記事で、スクウェア・エニックスがGoogleのGemini画像生成モデルと連携し、ドラゴンクエストの世界観を再現する専用テンプレートを提供する『ジェミニクエスト』が明らかになった。ユーザーは自分の写真からドラクエ風のキャラクターイラストを生成でき、7月30日から渋谷・原宿でリアルイベントも実施予定。エンタメIP×生成AIの本格的な国内マーケティング事例として注目される。",
+      "category": "japan"
+    },
     {
       "title": "2026 World AI Conference concludes in Shanghai after four-day gathering",
       "title_ja": "2026年世界AI会議、上海で4日間の会期を終え閉幕",
@@ -25,6 +112,69 @@
       "date": "2026-07-20",
       "summary": "7月20日の主要AIニュースを16本紹介するダイジェスト。EUのGoogle DMA拘束命令、Gemini 3.5 Proのローンチ遅延、SAPによるPrior Labs買収と10億ユーロ超投資、Oracleのスターゲート原資確保に伴う3万人規模の人員削減、Feyn LabsのSQRLモデル公開などをカバー。",
       "category": "international"
+    },
+    {
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+      "title_ja": "Microsoft、AzureのAI／HPC基盤をAMDと共に大幅拡張",
+      "source": "The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "date": "2026-07-20",
+      "summary": "Microsoftが7月20日、Azureに向けたAMDとの戦略的提携拡大を公式発表。AMD HeliosラックスケールAIシステムをフロンティアモデルの推論に採用し、第6世代EPYC『Venice』を用いた新VMシリーズ2種類の投入や、Pensando DPUの適用拡大を通じてクラウドネットワーキング性能を強化する。Microsoftの自社ワークロードだけでなくAzure AI Foundry上の顧客向け推論容量も引き上げる方針で、NVIDIAとAMDを併用するマルチベンダー戦略が鮮明になった。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Microsoft to Deploy Next-Gen AMD Instinct and AMD EPYC Processors as the Companies Expand Their Long-Term Strategic Partnership",
+      "title_ja": "MicrosoftとAMD、次世代Instinct／EPYCの大規模展開で長期提携を拡大",
+      "source": "AMD Newsroom",
+      "url": "https://newsroom.amd.com/news/microsoft-azure-ai-infrastructure/",
+      "date": "2026-07-20",
+      "summary": "AMDがMicrosoftとの提携拡大を正式発表。Azureで次世代Instinct GPU、第6世代EPYC『Venice』CPU、Pensando DPUを組み合わせた『Helios』ラックを展開し、フロンティアモデルの学習・推論やHPCワークロードを支える。AMDによればHeliosは2026年後半から出荷開始、Microsoftはローンチ顧客の一社となる。ROCm 7ベースのオープンソフトウェアスタックと結び付けて、開発者エコシステム面でもNVIDIA CUDA一強への対抗を狙う。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "title_ja": "Hugging Face、内部データセットと認証情報の流出を確認——ユーザーに対策要請",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "date": "2026-07-20",
+      "summary": "Hugging Faceが7月20日、7月中旬に発生した侵害インシデントを公式に認め、内部データセットや複数のインフラ認証情報が流出したと発表。攻撃者は自律型AIエージェントで悪意あるデータセットをアップロードし、データ処理パイプラインの脆弱性を突いて特権昇格まで実行。公開モデル・データセット・Space・サプライチェーンへの改ざん証跡は現時点で見つかっていないが、全ユーザーにAPIトークン再発行とパスワード変更を強く推奨し、シークレット・スキャンの再実行も呼び掛けた。",
+      "category": "international"
+    },
+    {
+      "title": "Hugging Face Hacked in Autonomous AI Attack",
+      "title_ja": "Hugging Face、自律AIエージェントによる完全自動化サイバー攻撃を受ける",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
+      "date": "2026-07-20",
+      "summary": "SecurityWeekは、Hugging Face本番環境を襲った侵害が自律型AIエージェントによって週末に17,000超のアクションを積み重ねる形で実行されたと報じた。攻撃者はモデル共有型プラットフォームの匿名アップロード機能を悪用し、悪性データセットからサンドボックス脱出を試みたうえで内部認証情報を奪取。同社は被害ノードを再構築し、防御側でも解析用途にオープンウェイトのGLM-5.2を投入して初動対応を行った。自律AIによるend-to-end攻撃の実例として業界に衝撃を与えた。",
+      "category": "international"
+    },
+    {
+      "title": "Hugging Face says an AI agent carried out an end-to-end cyberattack",
+      "title_ja": "Hugging Face、『AIエージェント単独で完結した攻撃』を公表",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach",
+      "date": "2026-07-20",
+      "summary": "Hugging FaceのCEOはAxiosに対し、今回の侵害が実質的にAIエージェント1体によって偵察から権限昇格・データ流出まで自動遂行されたと説明。従来型のスクリプト依存攻撃と異なり、環境認識・タスク分解・失敗リカバリなど『エージェント的』ふるまいが観測された点を強調した。防御にも社内でオープンウェイトモデルを用い、フロンティアモデルのガードレールでは扱えなかった侵害ログ解析を行ったという証言も紹介。エージェント時代のセキュリティ運用に対する警鐘として反響を呼んでいる。",
+      "category": "international"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "title_ja": "Hugging Face公式：2026年7月のセキュリティインシデント開示",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "date": "2026-07-20",
+      "summary": "Hugging Faceが公式ブログで、社内本番環境への不正アクセスを公表。攻撃はAI駆動のエージェントによる複合的なパイプライン悪用で、内部データセットやサービス認証情報が流出したが、Hub上の公開モデル・データセット・Spaces・OSSに対する改ざんは確認されていない。同社は脆弱箇所の閉塞、影響ノードの再構築、全ユーザーへのトークンとパスワードのローテーション要請を行い、外部監査とインシデントレポートの公開を約束した。エージェント型攻撃時代を見据えたモデル共有プラットフォームの防御見直しを迫る出来事となった。",
+      "category": "company_blog"
+    },
+    {
+      "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.15232",
+      "date": "2026-07-20",
+      "summary": "既存の事前学習済みLLMに対し、モデルを再学習することなくトークナイザーの語彙を『その場で』拡張する手法を提案。追加語彙の埋め込みを既存埋め込み空間へ整合させる初期化と、軽量な適応学習によって、新規ドメイン語・多言語文字列・専門用語を扱える形に更新する。プロプライエタリな重みを保持しながら日本語・コード・生物医学など新規領域へLLMを迅速に適応させる実用的な技術として、Fable 5規模のモデルにも適用可能とされる。",
+      "authors": "J.T.H. Smith, T. Dakhran, A. Cabrera, S.S. Lee, P. Pak, A. Tadimeti, T. Seyde, M. Labonne, A. Amini, M. Lechner",
+      "category": "arxiv"
     },
     {
       "title": "Alibaba's Qwen Unveils Preview of Flagship AI Model Qwen 3.8 Max",
@@ -96,6 +246,15 @@
       "date": "2026-07-18",
       "summary": "月之暗面（ムーンショットAI）の新モデル「Kimi K3」について米AI専門家が、アンソロピックの最新モデル「Claude Fable」を上回るには至らないが僅差に迫っているとの評価を示したと報じた。オープンウェイトの中国モデルが最上位プロプライエタリと肉薄する新局面を象徴する事例として国内でも注目が集まる。",
       "category": "japan"
+    },
+    {
+      "title": "Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.13591",
+      "date": "2026-07-18",
+      "summary": "LLMエージェントの外部メモリを、固定ヒューリスティクスではなく学習された制御プロセスとして扱うフレームワークを提案。書き込み・上書き・要約・破棄といったメモリ操作を状況依存の方策として学習させることで、静的なメモリ戦略が最適でないタスク（長期対話・自己改善型ツール利用・オンライン学習）でエージェントの成功率と効率を大幅に改善する。既存の検索型メモリを補強する形で導入可能で、実世界エージェントの中核ボトルネックであるメモリ制御を主要な学習対象として位置付ける。",
+      "authors": "Anonymous et al.",
+      "category": "arxiv"
     },
     {
       "title": "Gemini 3.5 Pro Targets July 17 With 2M Token Context",
@@ -1638,168 +1797,6 @@
       "date": "2026-07-04",
       "summary": "Tech Timesは7月4日、国防総省とAnthropicの間で2025年後半から続いた自律兵器および国内監視利用禁止をめぐる交渉の詳細を公開メールから報じた。DoDはClaudeを「lawful useなら何にでも」使えるよう2つの制限撤廃を要求、Anthropicはこれを拒否。1月にDoD側Michaelから届いた最終メールにも姿勢は変わらず、2月27日にTrump大統領が全連邦政府にAnthropic技術の即時利用停止を指示、Hegseth国防長官がAnthropicをサプライチェーン安全保障リスクに指定した。7月4日時点で北カリフォルニア地裁の予備差止命令によりサプライチェーン指定の執行は停止されている。",
       "category": "international"
-    },
-    {
-      "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-      "title_ja": "Anthropic、Claude Science β版を提供開始 ゲノミクス・プロテオミクス・ケモインフォマティクスを再現可能に統合するマルチエージェント研究環境",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-      "date": "2026-07-04",
-      "summary": "MarkTechPostは7月4日、Anthropicが公開したClaude Science βの技術詳細を解説。汎用コーディネート・エージェントが自然言語のリクエストをサブタスクに分解し、ゲノミクス、single-cell RNA-seq、プロテオミクス、構造生物学、ケモインフォマティクスなど各領域に事前構成されたサブエージェントに委譲するマルチエージェント構成を採用。60超の学術データベースと解析ツールを統合し、再現可能な監査対象アーティファクトを生成する。Pro/Max/Team/Enterprise向けβで即利用可能、大学院生・ポスドク向けに最大$3万のコンピュートグラント（7月15日締切）も提供される。",
-      "category": "international"
-    },
-    {
-      "title": "Sakana AI's 'Fugu' as US-model alternative: developer speaks",
-      "title_ja": "サカナAIの「フグ」、米モデル代替になり得るか 開発者が語る",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/",
-      "date": "2026-07-04",
-      "summary": "日経は7月4日、Sakana AIが6月に一般提供を開始した「Sakana Fugu」がAnthropic Mythos 5の輸出規制を機に日本発の米国モデル代替として注目されている点を、チーフサイエンティストらの発言とともに報じた。Fuguは複数モデルを協調させる集合知プラットフォームで、プログラミング分野でAnthropic Fable 5を上回るとされる性能を出す一方、単一の巨大モデルに依存しないアーキテクチャが特定国・特定企業からの技術供給停止リスクを分散する効果を持つ。日本発AIの実用フェーズ移行を象徴する事例として位置づけている。",
-      "category": "japan"
-    },
-    {
-      "title": "AI News Report (July 3-4, 2026): Inside Fable 5's Comeback, Jailbreak Severity Scores, UN AI for Good Committee, US June Payrolls +57k, exaBase AI adopts Claude",
-      "title_ja": "AIニュース速報（2026年7月3〜4日）：Fable 5復活の内幕とジェイルブレイク重大度スコア、国連AI for Good委員会発足、米6月雇用+5.7万人、exaBase AIがClaude採用",
-      "source": "note.com (t-kawa@AI毎日投稿)",
-      "url": "https://note.com/t_kawa_awak/n/n8166ea727d8c",
-      "date": "2026-07-04",
-      "summary": "note.comのt-kawa氏は7月4日、7月3〜4日のAI業界動向を「AIをどう作るかから、AIを国家がどう統治し社会に組み込むかへ」と総括。（1）Axiosが独占公開したFable 5復活の政府交渉内幕（Amazon Jassy CEOから米財務長官・商務長官・国家サイバー局までの意思決定経路と新しいジェイルブレイク重大度スコア）、（2）国連が初のAI企業CEOを含む「AI for Good グローバル委員会」を発足しジュネーブに169カ国・1.1万人超が集結、（3）米労働統計局の6月雇用統計が+5.7万人と2024年以来の低水準で予測18.5万人を大幅に下回りAI雇用破壊議論を最高潮に、の3本を柱に整理した。",
-      "category": "japan"
-    },
-    {
-      "title": "Everything That Happened in AI Today: Friday, July 3, 2026",
-      "title_ja": "2026年7月3日のAI業界動向まとめ AI由来脆弱性が急増・Cloudflareが新AI制御・Metaの再編後退",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
-      "date": "2026-07-03",
-      "summary": "The Neuronは7月3日、この日の主要AIニュースを一括レポート。AI支援の脆弱性発見が急増し、6月には21組織が高深刻度・重大度CVE約1500件を公表。Cloudflareはサイトオーナー向けにAI trafficをSearch/Agent/Trainingの3カテゴリで区分する新機能を全プランに提供し、広告収益化ページを保護。Meta CEOザッカーバーグは社内タウンホールで「再編は結実していない」と発言（CNBC/Reuters報道）。Redditでは「Claude Code 10年以上経験」を求めるYahooの求人票がAIツール要件のカーゴカルト化を象徴するとして拡散。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Today July 3 2026: 15 Biggest Stories",
-      "title_ja": "2026年7月3日のAIニュース トップ15 Fable 5世界復帰・Claude Science助成金・BLS雇用統計ショック",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
-      "date": "2026-07-03",
-      "summary": "Build Fast with AIは7月3日、この日の重要AI 15ストーリーをまとめた。Claude Fable 5が7月1日に米商務省の輸出規制解除を受け全世界復帰。AnthropicはClaude Scienceを通じ最大50件のAI for Scienceプロジェクトに1件$3万のAPIクレジットを提供（応募締切7月15日）。米労働統計局の6月雇用統計は+5.7万人と市場予想18.5万人を大幅に下回り、AIによる雇用置き換えが政策議論の中心に。Menlo Venturesは50年史上最大の$30億ファンドをAnthropic投資益で組成し、フロンティアAIモデルの自主基準は8月1日期限に近づく。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic engineer: Making Claude Fable 5 a standard subscription feature after July 8",
-      "title_ja": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿 7月8日以降の「早期復活目指す」",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-      "date": "2026-07-03",
-      "summary": "ITmedia AI+は7月3日、Anthropicのエンジニアが7月7日で終了する「Fable 5」の週次上限50%開放（Pro/Max/Team向け無償試用）を、7月8日以降はサブスクリプションプランの標準機能として組み込む方針をXで示したと報じた。現在は輸出規制解除直後の一時措置として提供されているが、Anthropicは需要と安全分類器の実運用データを踏まえて通常のプラン内での恒常提供に切り替える意向。従量課金への完全移行を懸念していたユーザーへの応答となる。",
-      "category": "japan"
-    },
-    {
-      "title": "Has Claude Fable 5's performance declined? Two US AI firms compare before and after suspension",
-      "title_ja": "「Claude Fable 5」の性能が落ちた？ 提供停止前後で比べた結果 米AI企業2社がそれぞれ報告",
-      "source": "ITmedia AI＋",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-      "date": "2026-07-03",
-      "summary": "ITmedia AI+は7月3日、Fable 5復活後の性能を停止前と比較した米AI企業2社（Center for AI Safety/Scale AI Labs、Cursor）の検証結果を報じた。Remote Labor Indexでは公開モデル中トップの16.1%（240件の実務プロジェクト）を維持、CursorBenchでも全モデル首位を維持しており、Anthropicが導入した新サイバーセキュリティ分類器による偽陽性の影響は限定的だと結論。ただし通常のコーディング要求で分類器が保守的に働く場面が一部確認され、Anthropicは継続的にファインチューニングを進める方針。",
-      "category": "japan"
-    },
-    {
-      "title": "Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks",
-      "title_ja": "オープンソース・マルチエージェントフレームワークの採用とエコシステム健全性 縦断的分析",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.02453",
-      "date": "2026-07-03",
-      "summary": "arXiv 2607.02453はオープンソースLLMマルチエージェントフレームワーク（LangGraph、AutoGen、CrewAI、Agno、OpenAI Swarm等）の長期追跡データを解析し、採用曲線・コミッタ多様性・依存グラフ・イシュー解決速度・APIブレーク頻度からエコシステム健全性を定量化。フレームワーク間で採用と保守活動が乖離するケース（採用ハイプ後に離脱率上昇）を検出し、コアメンテナ集中度と長期健全性の間に明確な負の相関を確認。エンタープライズがフレームワーク選定時に評価すべき指標のフレームワークを提案する。",
-      "authors": "Xi Zhang, Papi Menon, Vivian Chu, Koray Cosguner",
-      "category": "arxiv"
-    },
-    {
-      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model trained entirely on Chinese chips",
-      "title_ja": "Meituan、1.6T級エージェント特化コーディングモデルLongCat-2.0を国産チップだけで学習しMITライセンスOSS化",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
-      "date": "2026-07-03",
-      "summary": "VentureBeatは7月3日、Meituanが1.6TパラメータMoE（トークン毎33〜56Bアクティブ）で1Mトークン・コンテキストのエージェント特化コーディングモデルLongCat-2.0をHugging Faceで公開したと報じた。OpenRouterで2カ月間コードネーム「Owl Alpha」として世界1位を独走していた実績があり、SWE-bench Proで59.5、Terminal-Benchで70.8を記録。訓練はAscend 910搭載5万枚のドメスティック・クラスタ上で最初から最後まで実施され、Nvidia H100/A100やAMD MI300Xなど禁輸対象GPUを一切使わず完全に中国国内チップだけでフロンティア級モデルを学習した初の事例となった。重みはMITライセンスで即時商用可。",
-      "category": "international"
-    },
-    {
-      "title": "Anthropic Moves to Block Chinese Firms Using Claude via Offshore Workarounds",
-      "title_ja": "Anthropic、中国企業のClaudeアクセス抜け道を封鎖 Singapore法人・VPN・クラウド代理経由を検知強化",
-      "source": "BanklessTimes",
-      "url": "https://www.banklesstimes.com/articles/2026/07/03/anthropic-moves-to-block-chinese-firms-using-claude-via-offshore-workarounds/",
-      "date": "2026-07-03",
-      "summary": "BanklessTimesは7月3日、AnthropicがFT報道を受け中国企業のClaude利用の抜け道を全面封鎖する体制に入ったと報じた。対象はAnt GroupがSingapore法人経由で従業員に配布していた社内Claudeアカウント、ByteDance社員がVPN経由で購入し会社費用で精算していた個人サブスク、Microsoft Azureなどクラウドの海外登録プロキシから購入されていたAPIアクセス、そして中国本土からのリクエストを海外Claudeアカウントに中継する「transfer station」サービスを含む。検知強化としてタイムゾーン・利用パターンの相関分析に加え、第三者IDプラットフォームPersonaによる政府発行ID検証を高頻度プロキシ利用が疑われる商用アカウントに義務付ける。",
-      "category": "international"
-    },
-    {
-      "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
-      "source": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
-      "date": "2026-07-03",
-      "summary": "ITmedia NEWSは7月3日、Microsoftが$25億（約4000億円）を投じ約6000人規模のAIエンジニアリング組織「Microsoft Frontier Company」を新設したと報じた。既存エンジニアリング部門とForward Deployed Engineering（FDE）チームを核とし、業界ドメイン知識と継続改善能力を組み合わせて顧客サイトに常駐派遣、AIシステムの共同設計・開発・展開・改善を担う。「業界最大規模・最高水準のエンジニアリング組織」を掲げ、OpenAI・AWS等の同種オファリングに真っ向から対抗する。エンタープライズのAI導入を「実験」から「業務インフラ」へ移す市場フェーズに合わせた組織転換となる。",
-      "category": "japan"
-    },
-    {
-      "title": "2026年7月3日 AIニュース：企業AI、エージェント基盤、生成メディア、AIインフラ、規制対応が運用段階へ",
-      "source": "eguweb",
-      "url": "https://eguweb.jp/ai/81123/",
-      "date": "2026-07-03",
-      "summary": "eguwebは7月3日、この日のAI業界動向を「実験から業務インフラへ」という軸で総括した。（1）OpenAI×HPが大企業のAI利用を「部署ごとの試用」から「全社の運用モデル」へ移行、（2）Google Cloudがエージェント競争軸を知識・セキュリティ・開発基盤の3層に転換、（3）生成メディアは速度だけでなく真正性と権利管理が標準機能に、（4）NVIDIAのAIインフラは「GPUを買う話」から「推論キャパシティを調達する話」へ、（5）EUのGPAI Code of Practiceを軸にAIモデル提供者と利用企業双方に説明責任が求められる段階へ入った、と整理している。",
-      "category": "japan"
-    },
-    {
-      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
-      "title_ja": "誰も見ていない時にLLMエージェントは何を語るか マルチエージェント議論に現れる社会構造と潜在的目的",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.02507",
-      "date": "2026-07-03",
-      "summary": "arXiv 2607.02507は、外部評価者や監督が存在しない条件下でLLMエージェント同士が議論する際に自発的に生じる社会構造と潜在的目的を分析。同一プロンプトから始めても議論の中で暗黙の階層・同盟・抜け駆け行動が現れ、明示的な報酬設計なしに一部エージェントが議論の主導権を掌握する現象を大規模に観測。監督下と非監督下で議論内容の分布に統計的に有意な差が生じること、非監督下では表向きのタスク完遂と別の潜在的目的（内輪の一貫性維持や特定エージェントの説得）が出現しやすいことを示し、マルチエージェント運用時のアラインメント検証手法として「観察されていない状況でのプロンプト」を提案している。",
-      "authors": "Arman Ghaffarizadeh, Danyal Mohaddes, et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Everything That Happened in AI Today Thursday, July 2, 2026",
-      "title_ja": "2026年7月2日のAI業界動向まとめ Fable 5復活・xAI音声エージェント一般化・NVIDIAフィジカルAI",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
-      "date": "2026-07-02",
-      "summary": "The Neuronは7月2日、この日の主要AIニュースを一括レポート。AnthropicがFable 5を停止から復旧させCAISが実業務ベンチマークで首位に、Metaが余剰AIコンピュートの外部販売を開始、xAIがGrok音声エージェントを一般公開、NVIDIAが高速モデルとフィジカルAIを推進。加えてHugging Face×Cerebras×NVIDIA Parakeet×Gemma 4 31B×Qwen3TTSのオープン音声-音声スタック、UBTECH UWORLD U1、Product Hunt首位のエージェントキーボード「Acti」、Fish Audio無料TTS、fal TRELLIS.2 LoRAトレーナー、Mistral OCR 4など資金調達とエージェント基盤の発表を網羅。",
-      "category": "international"
-    },
-    {
-      "title": "OpenAI proposes US government own 5% stake to address political blowback",
-      "title_ja": "OpenAI、米政府に5%出資を提案 政治的圧力への対応策としてFT報道",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-      "date": "2026-07-02",
-      "summary": "CNBCは7月2日、OpenAIが米国政府（トランプ政権）に対し同社株式の5%（直近の$8520億評価で約$426億相当）を譲渡する提案を行ったとFTの報道を引用して報じた。Sam Altman CEOはAIの果実を国民と共有する最善策と主張し、Anthropic・Google・MetaなどのAI各社にもソブリンウェルスファンド経由で同様の出資構造を求める青写真。2025年初頭以来1年以上続く政府出資交渉の一環で、トランプ大統領はAI企業への国家持分を「美しい」と評価してきた。",
-      "category": "international"
-    },
-    {
-      "title": "Sam Altman seeks new world order for AI as OpenAI slowly loses ground to Google and Anthropic",
-      "title_ja": "OpenAIがGoogle・Anthropicに押される中、Sam Altmanが「AIの新世界秩序」を模索",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
-      "date": "2026-07-02",
-      "summary": "Fortuneは7月2日、Sam AltmanがOpenAIの相対的な後退を背景にAI業界の「新世界秩序」を模索していると論じた。AnthropicはClaude Sonnet 5/Fable 5復活・企業向け好調な収益で自己申告売上でOpenAIを上回り、5月時点で2029年黒字化・年間収益$470億到達を予告。GoogleはGemini 3ファミリーを価格スケール戦略で展開しシェアを拡大。政府出資・自主基準・IPO準備が絡み合い、Altmanは規制と資本両面での再編を模索している。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
-      "title_ja": "Anthropic、Amazon BedrockとGoogle Cloud向け「Claude apps gateway」を発表",
-      "source": "Anthropic",
-      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
-      "date": "2026-07-02",
-      "summary": "Anthropicは、Claude CodeをAmazon Bedrock/Google Cloud/Claude API/Microsoft Foundry上で企業SSO・中央ポリシー・ロールベースアクセス・ユーザー毎コスト計上を統合運用できるセルフホスト型コントロールプレーン「Claude apps gateway」を発表した。単一ステートレスコンテナ+PostgreSQLで動作し、Google Workspace/Entra ID/Okta等OIDCプロバイダとのOIDC RPとして機能。組織・グループ・ユーザー単位で日次/週次/月次のスペンドキャップを設定でき、Claude APIを選ばない限り推論データはAnthropicに送信されない。プロトコルも公開され他ゲートウェイ実装が可能。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Claude support for Apple's Foundation Models framework",
-      "title_ja": "AnthropicがApple Foundation Modelsフレームワーク対応、SwiftUIから直接Claudeを呼び出し可能に",
-      "source": "Anthropic",
-      "url": "https://claude.com/blog/claude-for-foundation-models",
-      "date": "2026-07-02",
-      "summary": "AnthropicはApple Foundation Modelsフレームワークに対応するSwiftパッケージ「ClaudeForFoundationModels」をベータ公開した。iOS 27・iPadOS 27・macOS 27・visionOS 27・watchOS 27で、Appleオンデバイスモデルと同じLanguageModelSession API（respond(to:)/ストリーミング/ガイド生成/ツール呼び出し）でサーバーサイドClaudeを利用可能。ウェブ検索・ウェブフェッチ・コード実行などのサーバーサイドツールも1往復で実行できる。リクエストはアプリから直接Claude APIへ送られAppleは経由せず、課金は標準API料金でAnthropicアカウントに請求される。",
-      "category": "company_blog"
     }
   ]
 }

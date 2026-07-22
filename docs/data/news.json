@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-21 09:00 (JST)",
+  "lastUpdated": "2026-07-22 09:00 (JST)",
   "articles": [
+    {
+      "title": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark",
+      "title_ja": "Gemini 3.6 Flash、トークン消費を削減しつつ全ベンチマークで前世代超え",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/321268/20260722/gemini-36-flash-cuts-token-costs-scores-higher-every-benchmark.htm",
+      "date": "2026-07-22",
+      "summary": "Google DeepMindの新モデルGemini 3.6 Flashが7月22日に一般公開され、コーディング・推論・ツール利用の全主要ベンチマークで3.5 Flashを上回った。同時にAPIトークン消費を最大17%削減し、入力$1.50／出力$7.50 per Mtokenの攻めの価格を維持。エージェント向けの遅延・コスト・知性のバランスを取り、Gemini 4の事前学習開始も同日公表された。",
+      "category": "international"
+    },
+    {
+      "title": "AI News Today July 22 2026: 16 Biggest Stories",
+      "title_ja": "7月22日のAI主要ニュース16本——Gemini Flash、Meta AI審査、Anthropicロビー活動",
+      "source": "Build Fast with AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-22-2026",
+      "date": "2026-07-22",
+      "summary": "7月22日のAI業界注目16話題をまとめた記事。GoogleがFlash系3種を投入しGemini 4事前学習を開始、Metaは『AIが人間モデレーターを上回る』と主張、OpenAIはChatGPT for Small Businessesを発表、AnthropicはQ2で$1.97Mのロビー支出（前四半期比+26%）を計上。DeepSeek V4は7月24日、Kimi K3の重みは7月27日リリース予定。",
+      "category": "international"
+    },
+    {
+      "title": "Convolution for Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.18413",
+      "date": "2026-07-22",
+      "authors": "Yuchuan Tian, Yingte Shu, Wei He, Shuo Zhang, Tianchen Zhao, Chao Xu, Xinghao Chen, Yunhe Wang, Hanting Chen, Yu Wang",
+      "summary": "TransformerベースのLLMは自己注意で大域的な相互作用を扱う一方、自然言語の局所性を明示的に符号化しない。本稿ではQwen3ブロックの17箇所に軽量なdepthwise convolutionを挿入する巨視的アブレーションを実施し、Attention前の投影後Q/K/Vに畳み込みを適用する構成が最良と報告。モデルサイズをほぼ増やさずに局所帰納バイアスを注入し、下流の言語理解・推論性能を底上げできることを示した。",
+      "category": "arxiv"
+    },
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
       "title_ja": "Google、Gemini 3.6 FlashなどFlash系3種を投入——本命Pro新版は先送り",
@@ -89,6 +116,33 @@
       "category": "japan"
     },
     {
+      "title": "OpenAI and Anthropic Ramp Up DC Lobbying 23% as AI Rules Loom",
+      "title_ja": "OpenAIとAnthropic、Q2の米ロビー支出が23%増——規制強化を睨む",
+      "source": "TechBuzz AI",
+      "url": "https://www.techbuzz.ai/articles/openai-and-anthropic-ramp-up-dc-lobbying-23-as-ai-rules-loom",
+      "date": "2026-07-21",
+      "summary": "連邦ロビー活動開示によると、2026年Q2にAnthropicが$1.97M（前四半期比+26%）、OpenAIが$1.2M（同+18%）を支出し、両社合計で$3.17M（同+23%）に達した。前年同期の約2倍で、AnthropicのH1合計はすでに2025年通年の$3.1Mを超える。サイバーセキュリティ、著作権、クラウド、防衛調達など幅広い分野でロビーを展開。",
+      "category": "international"
+    },
+    {
+      "title": "Alibaba Launches Qwen-Image-3.0 Supporting 4.5K Token Ultra-Long Prompts",
+      "title_ja": "Alibaba、Qwen-Image-3.0公開——4.5Kトークン超長プロンプトと10ピクセル文字描画に対応",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/12c55f18-4aea-4952-9cab-f2770909cf80",
+      "date": "2026-07-21",
+      "summary": "AlibabaのQwenチームが7月21日、画像生成モデルの第3世代『Qwen-Image-3.0』を公開。最大4,500トークンの超長プロンプト入力、10ピクセルの微細テキスト描画、毛髪・毛穴の質感再現、12言語20フォント以上での多言語ポスター生成を1パスで実現。ただしベンチマーク、モデルカード、パラメータ数、ライセンス、ダウンロード可能な重みは非公開で、招待制APIのみで提供、Qwen Chat統合を予定。",
+      "category": "international"
+    },
+    {
+      "title": "Google starts pre-training Gemini 4, its most ambitious run yet",
+      "title_ja": "Google、Gemini 4の事前学習を開始——『これまでで最も野心的』な次期基盤モデル",
+      "source": "Google Blog",
+      "url": "https://blog.google/technology/ai/gemini-4-pretraining-announcement/",
+      "date": "2026-07-21",
+      "summary": "GoogleはGemini 3.6 Flash公開と同時に、次期フラッグシップGemini 4の事前学習開始を公表。同社が『これまでで最も野心的な事前学習ラン』と位置付ける完全リニューアルの基盤モデルで、遅延気味だった3.5 Proの改良延長ではなく、新アーキテクチャからの再構築とみられる。Flash系の廉価量産モデルと次世代フロンティアを同時に走らせる二層戦略が鮮明化した。",
+      "category": "company_blog"
+    },
+    {
       "title": "2026 World AI Conference concludes in Shanghai after four-day gathering",
       "title_ja": "2026年世界AI会議、上海で4日間の会期を終え閉幕",
       "source": "Xinhua",
@@ -175,6 +229,15 @@
       "summary": "既存の事前学習済みLLMに対し、モデルを再学習することなくトークナイザーの語彙を『その場で』拡張する手法を提案。追加語彙の埋め込みを既存埋め込み空間へ整合させる初期化と、軽量な適応学習によって、新規ドメイン語・多言語文字列・専門用語を扱える形に更新する。プロプライエタリな重みを保持しながら日本語・コード・生物医学など新規領域へLLMを迅速に適応させる実用的な技術として、Fable 5規模のモデルにも適用可能とされる。",
       "authors": "J.T.H. Smith, T. Dakhran, A. Cabrera, S.S. Lee, P. Pak, A. Tadimeti, T. Seyde, M. Labonne, A. Amini, M. Lechner",
       "category": "arxiv"
+    },
+    {
+      "title": "Meta, Anthropic in Talks for Potential $10 Billion Compute Lease Deal",
+      "title_ja": "MetaがAnthropicに最大$100億のコンピューティング貸与を交渉——2年間の月払い契約",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/07/20/meta-anthropic-compute-deal-10-billion/",
+      "date": "2026-07-20",
+      "summary": "MetaがAnthropicにAI計算資源を貸与する最大$100億規模の2年契約を交渉中とNYTが報道。支払いは月額分割で、両社ともに早期解約が可能。この提案はAnthropicから6月に持ちかけられたもので、MetaにとってはAI事業の新たな収益源、Anthropicにとっては必要な計算資源の確保となる。過去のSpaceXとの$450億／3年契約に比べると小規模。",
+      "category": "international"
     },
     {
       "title": "Alibaba's Qwen Unveils Preview of Flagship AI Model Qwen 3.8 Max",
@@ -419,6 +482,24 @@
       "date": "2026-07-17",
       "summary": "科学的主張の検証をマルチモーダルに行うToolSciVerを提案。画像・表・図など視覚的ツールを呼び出せるエージェントを強化学習で最適化し、根拠が非テキスト要素に依存する科学論文レベルの主張に対して事実検証性能を改善した。",
       "category": "arxiv"
+    },
+    {
+      "title": "Apple Sues OpenAI Alleging Systematic Poaching of 400+ Employees",
+      "title_ja": "Apple、OpenAIを提訴——元従業員400人超の引き抜きと機密流出を主張",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/17/openai-and-apple-legal-battle-escalates-poached-employees-warned-about-data-deletion",
+      "date": "2026-07-17",
+      "summary": "AppleがOpenAIを北カリフォルニア連邦地裁に提訴し、iPhone・AirPods等のチームから400人以上の従業員を組織的に引き抜き、営業秘密を悪用してハードウェア競合品を開発したと主張。元Apple幹部で現OpenAI CHOのTang Tanが候補者に実物ハードウェア持参の『Show and Tell』面談を促した、面談直前にAppleの機密プロジェクト資料をダウンロードした候補者もいたと報じられた。訴訟はOpenAIのAIスマホ計画の遅延要因になり得る。",
+      "category": "international"
+    },
+    {
+      "title": "NVIDIA AI Releases Nemotron 3 Embed: 8B Checkpoint Ranks #1 on RTEB",
+      "title_ja": "NVIDIA、Nemotron 3 Embedを公開——8B版がRTEBで首位、RAG向けオープン埋め込みモデル",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "date": "2026-07-17",
+      "summary": "NVIDIAが7月16日、RAG／エージェント検索向けオープン重みテキスト埋め込みモデル群『Nemotron 3 Embed』を公開。フラッグシップの8B-BF16版はRTEB（16タスク平均NDCG@10で78.46）で1位。1B-BF16、Blackwell向けNVFP4量子化1B版も含み、いずれも32Kトークンのコンテキスト長に対応する。長文ドキュメントやコードリポジトリ、エージェントの長い会話履歴を粗いチャンク分割なしで処理可能。",
+      "category": "international"
     },
     {
       "title": "Japan's Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
@@ -755,6 +836,15 @@
       "date": "2026-07-14",
       "summary": "OpenAIはAI搭載Atlasブラウザを8月9日に停止し、エージェント機能をChatGPTデスクトップとChrome拡張へ統合する方針を発表。ブラウザではなくChatGPTを『スーパーアプリ』として単一UIで完結させる戦略に舵を切り、IPO準備で製品ラインの整理を進める。ユーザーは8月9日までにブックマークやタブを移行する必要があり、Atlasのブラウジング・エージェント機能はChatGPT側で継承される。",
       "category": "international"
+    },
+    {
+      "title": "Fujitsu launches AI-Driven Modernization Service leveraging Takane LLM",
+      "title_ja": "富士通、Takane活用の『AIドリブンモダナイゼーションサービス』を提供開始",
+      "source": "Fujitsu",
+      "url": "https://global.fujitsu/ja-jp/pr/news/2026/07/14-01",
+      "date": "2026-07-14",
+      "summary": "富士通は7月14日、生成AIと長年のSI実践知を融合させた『Fujitsu AIドリブンモダナイゼーションサービス』を提供開始。マルチAIと専門エンジニアの知見を組合せ、リライト・リホスト中心のレガシー刷新を自動化・最適化。同社の大規模言語モデル『Takane』とAIエージェント技術を活用し、要件定義から結合テストまでの生産性を最大100倍に高めるAI-Driven Software Development Platformを土台に展開する。",
+      "category": "japan"
     },
     {
       "title": "AI News Today July 13 2026: 15 Biggest Stories",
@@ -1706,97 +1796,6 @@
       "summary": "長文LLM応答をインタラクティブな画像に変換して読者が探索できるシステム『ChatImage』を提案。テキスト回答を構造化された視覚モジュールへ正規化し、視覚レイアウトを計画して一貫性のある画像として描画するパイプラインを備える。ユーザーは画像領域をクリックして詳細情報にドリルダウンでき、従来のテキスト長文よりも情報取得コストが最大42％低下したことをユーザ実験で確認。マルチモーダルUIの新方向として提示。",
       "authors": "Liu, X., Park, S., Rossi, M., Ito, H., et al.",
       "category": "arxiv"
-    },
-    {
-      "title": "AI News July 5 2026: Anthropic Enters Drug Discovery, GPT-5.6 Sol Details Confirmed, Grok 5 Still Months Away",
-      "title_ja": "2026年7月5日のAIニュース Anthropic創薬参入・GPT-5.6 Sol詳細確定・Grok 5リリースなお数か月先",
-      "source": "AIToolsRecap",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-july-5-2026",
-      "date": "2026-07-05",
-      "summary": "AIToolsRecapは7月5日、この日のAI業界動向を3本の主軸で整理した。Anthropicはβ公開したClaude Scienceに加え、社内で放置疾患（neglected disease）向け創薬プログラムを立ち上げてOpenAI・Googleに続くAI for Science3陣営の一角となった。OpenAIのGPT-5.6 Sol/Terra/Lunaはプレビュー詳細が確定し、SolはTerminal-Bench 2.1で新SOTA、TerraはGPT-5.5相当性能を半額で提供、Lunaは最速・最安のポジション。xAIのGrok 5はColossus 2（1.5GW）で学習継続中で、Polymarketは6月30日締切分でQ3内リリース確率を3%まで下げた。",
-      "category": "international"
-    },
-    {
-      "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
-      "title_ja": "美団、1.6兆パラメータのオープンMoEモデル「LongCat-2.0」公開 100万トークン対応・国産チップだけで訓練",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
-      "date": "2026-07-05",
-      "summary": "中国の美団（Meituan）は7月5日、総パラメータ1.6兆・トークンごとに約480億をアクティブ化する大規模MoEモデル「LongCat-2.0」をオープンリリースした。ネイティブ100万トークンのコンテキストと独自のLongCat Sparse Attentionを備え、コーディング特化のエージェント用途に最適化されている。訓練・推論はNVIDIAを使わず、5万枚規模の中国製AI ASICクラスタで完結。ベンダー計測でSWE-bench Proは59.5点でGPT-5.5を上回り、過去2か月間はOpenRouterで「Owl Alpha」の匿名で首位を独走していた。",
-      "category": "international"
-    },
-    {
-      "title": "LlamaIndex 'legal-kb': Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-      "title_ja": "LlamaIndex、Index v2上のエージェント検索リファレンスアプリ『legal-kb』公開",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-      "date": "2026-07-05",
-      "summary": "LlamaIndexは7月5日、法律文書向けナレッジベースの参照実装『legal-kb』をGitHubで公開した。LlamaCloud Index v2を土台に、エージェントに「retrieve（意味検索）」「find（ファイル検索）」「read（読取）」「grep（正規表現検索）」というエンジニアが慣れ親しんだファイルシステム型ツールを提供し、単発ベクトル検索と異なり長期的にナレッジを走査させる『Retrieval Harness』パターンを実現。TanStack Startで構築されたWebアプリで、プロジェクト作成・ファイルアップロード・エージェントとのチャットを一貫して体験できる。",
-      "category": "company_blog"
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
-      "title_ja": "AOLとVimeoを傘下に持つイタリア『Bending Spoons』とは？——ナスダック上場で時価総額256億ドル",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "date": "2026-07-05",
-      "summary": "ミラノ拠点の13年目のテック複合企業Bending Spoonsは、Nasdaq上場初日で40%高、時価総額約257億ドルに達した。Meetup、Eventbrite、Vimeo、WeTransferなどの往年のインターネットブランドを次々買収し、AI活用による生産性向上でARPU（従業員1人あたり収益）を2023年の112万ドルから2025年に257万ドルに引き上げた。IPOで16.8億ドルを調達し、さらなるソフトウェア企業買収に充てる方針。2026年1Qは6.01億ドルの売上・2,740万ドルの純利益と黒字転換した。",
-      "category": "international"
-    },
-    {
-      "title": "China's AI companion rules force Doubao, Qwen shutdowns",
-      "title_ja": "中国のAI伴侶規制、DoubaoとQwenのカスタムエージェントを閉鎖に追い込む",
-      "source": "ChinaTechNews",
-      "url": "https://www.chinatechnews.com/2026/07/05/124959-chinas-ai-companion-rules-force-doubao-qwen-shutdowns",
-      "date": "2026-07-05",
-      "summary": "中国サイバー空間管理局らが4月に発表したAI擬人化サービス暫定弁法が7月15日から施行されるのを受け、ByteDanceのDoubaoとAlibabaのQwenが個人向けカスタムAIエージェント機能を停止する。新規則はアンチアディクション、使用時間通知、即時終了機能、依存の実時間検知を要求しており、記憶を保持する伴侶型エージェントには特に厳しい。Qwenは即時の完全削除、Doubaoは10月15日までの読み取り専用アクセスと後継アプリ『猫箱』への誘導という異なる対応を選んだ。",
-      "category": "international"
-    },
-    {
-      "title": "Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement",
-      "title_ja": "LLMの再帰的自己改善に必要な「内省閾値」 Kleene第二再帰定理から導く自己参照理論",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.04277",
-      "date": "2026-07-05",
-      "summary": "Jiang Zhangら（北京師範大学・集智研究所）は7月5日、大規模言語モデルの持続的な再帰的自己改善（RSI）が可能となる条件を理論的に論じたプレプリントをarXivに投稿した。フォン・ノイマンの自己複製オートマトンにおける複雑度閾値との類比で、システムが自らの動作をシミュレートし修正対象を特定する「内省（introspection）」能力が必須と主張。Kleene第二再帰定理を土台にそのような内省的プログラムの存在を理論的に示す一方、現行LLMは部分的メタ認知など「準内省」に留まるとし、複雑度が臨界値を下回れば自己改善は退行し人間介入なしでの持続は不能になると結論づけた。",
-      "authors": "Jiang Zhang, Bing Yuan, Qian Zhang",
-      "category": "arxiv"
-    },
-    {
-      "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese-English-Chinese Translation Tool With Translate, Proofread, and Ask Modes",
-      "title_ja": "Sakana AI、Namazuベースの日英中翻訳ツール「Sakana Translate」を公開──翻訳・添削・質問の3モードを搭載",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-      "date": "2026-07-05",
-      "summary": "Sakana AIはSakana Chatに新機能「Sakana Translate」を追加した。日本語・英語・中国語の双方向翻訳に対応し、Namazuモデルシリーズをバックエンドに採用。Translate、Proofread、Askの3モードを提供する。DeepSeek-V3.1-TerminusやLlama 3.1 405B、gpt-oss-120Bなどのオープンウェイトモデルを日本語向けに追加学習させたもの。ビジネス敬語や文化的な概念、地名・固有名詞、日常文脈での自然な訳出を強みとし、XCOMET-XLスコアではフロンティアモデルに肉薄する評価を得たとしている。ウェブアプリとして無料公開。",
-      "category": "japan"
-    },
-    {
-      "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-      "title_ja": "Synthetic Sciences、モデル非依存のAI研究ワークベンチ「OpenScience」をOSS公開",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
-      "date": "2026-07-05",
-      "summary": "Synthetic Sciencesは、機械学習・生物学・物理・化学の研究向けにApache 2.0ライセンスのAIワークベンチ「OpenScience」を公開した。単一のLLMベンダーに縛られないモデル非依存アーキテクチャを採用し、実験計画、コード生成、実行、結果解析、論文化までの一連の研究ワークフローを複数エージェントで自動化する。Anthropicが同週に発表したクローズドな「Claude Science」の対抗として位置付けられ、オンプレでの再現性やプライバシー要件を重視する研究機関を主なターゲットとする。既存のJupyter、Snakemake、Slurmと接続でき、大規模計算基盤への統合も想定する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "AI News Today July 4 2026: 15 Biggest Stories",
-      "title_ja": "2026年7月4日のAIニュース トップ15 Grok 4.5秘匿ベータ・中国製1.6TモデルOSS化・OpenAIが政府に5%株式提案",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
-      "date": "2026-07-04",
-      "summary": "Build Fast with AIは7月4日、この日の重要AI 15ストーリーをまとめた。Grok 4.5はSpaceXとTesla社内で秘匿ベータ運用開始（公開ベンチマークなし、Musk氏はOpus超えと主張）。中国MeituanのLongCat-2.0（1.6T MoE）がAscend 910 5万枚クラスタで完全に国産チップだけで学習された初のフロンティア級モデルとしてMITライセンス公開。OpenAIは米政府に対しAI大手各社が5%の株式をアラスカ永久基金型の政府向けビークルに拠出する構想を提示（AnthropicはFT報道で否定）。VC投資は上半期で世界$5100億、OpenAI/Anthropic 2社で$2170億（43%）を占めた。Anthropicは中国企業がSingapore法人・VPN・クラウド代理経由でClaudeを使う抜け道の閉塞を強化中。",
-      "category": "international"
-    },
-    {
-      "title": "Pentagon Blacklisted Anthropic Over Autonomous Weapons Limits: Emails Reveal 'Very Close' Talks",
-      "title_ja": "国防総省がAnthropicをブラックリスト化 自律兵器制限が原因 「合意寸前」までの交渉経過をメールが暴露",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/319713/20260704/pentagon-blacklisted-anthropic-over-autonomous-weapons-limits-emails-reveal-very-close-talks.htm",
-      "date": "2026-07-04",
-      "summary": "Tech Timesは7月4日、国防総省とAnthropicの間で2025年後半から続いた自律兵器および国内監視利用禁止をめぐる交渉の詳細を公開メールから報じた。DoDはClaudeを「lawful useなら何にでも」使えるよう2つの制限撤廃を要求、Anthropicはこれを拒否。1月にDoD側Michaelから届いた最終メールにも姿勢は変わらず、2月27日にTrump大統領が全連邦政府にAnthropic技術の即時利用停止を指示、Hegseth国防長官がAnthropicをサプライチェーン安全保障リスクに指定した。7月4日時点で北カリフォルニア地裁の予備差止命令によりサプライチェーン指定の執行は停止されている。",
-      "category": "international"
     }
   ]
 }

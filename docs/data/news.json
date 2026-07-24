@@ -1,6 +1,75 @@
 {
-  "lastUpdated": "2026-07-23 09:00 (JST)",
+  "lastUpdated": "2026-07-24 09:00 (JST)",
   "articles": [
+    {
+      "title": "Anthropic launches Opus 5",
+      "title_ja": "Anthropic、Claude Opus 5 を発表——Fable 5 に迫る性能を半額で",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "date": "2026-07-24",
+      "summary": "Anthropicは7月24日、フラッグシップ後継のClaude Opus 5を公開。多くのベンチマークでFable 5に迫る性能を維持しつつ入力$5/M・出力$25/M（Opus 4.8と同価格）で提供し、Fable 5の半額。ユーザーがlow/medium/highで思考量を切り替えられる推論エフォート設定を搭載し、Claude Maxのデフォルトモデルとなる。",
+      "category": "international"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "title_ja": "NVIDIA・Microsoft・Metaら25社、米政府にオープンウェイトAI規制の緩和を要請する共同書簡",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "date": "2026-07-24",
+      "summary": "NVIDIA・Microsoft・Meta・IBM・Dell・Palantir・Mistral・Hugging Face・Y Combinatorなど25社が7月24日付で『Open Weights and American AI Leadership』と題した書簡を公開。中国AI企業の台頭を念頭に置きつつ、オープンウェイトAIへの拙速な規制は米国の競争力を損なうと訴えた。OpenAIとAnthropicは署名していない。",
+      "category": "international"
+    },
+    {
+      "title": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
+      "title_ja": "OpenAI、ChatGPT VoiceをMac/Windowsデスクトップに展開——音声でエージェント操作が可能に",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "date": "2026-07-24",
+      "summary": "OpenAIはChatGPTの新しいVoiceモードをMacとWindowsのデスクトップアプリに提供開始。GPT-Live駆動で、音声だけでPCを操作しChatGPT WorkやCodex上の複数エージェントに同時指示できる。macOSでは『Appshots』機能によりアクティブウィンドウやローカルファイルも分析対象になる。Plus/Pro/Business/Edu/Enterpriseで順次利用可能。",
+      "category": "international"
+    },
+    {
+      "title": "Meta, Microsoft Confront Investor Concerns Over AI Spending in Earnings Week",
+      "title_ja": "Meta・Microsoft・Amazon、Alphabetの巨額CapEx発表を受けAI投資への投資家不安が再燃",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
+      "date": "2026-07-24",
+      "summary": "AlphabetがQ2決算で2026年通期の設備投資見通しの上限を$205Bへ引き上げたのを受け、来週決算を控えるMeta・Microsoft・Amazonにも巨額AI投資が本当にリターンを生むのかという投資家の懸念が急拡大している。地政学的な不透明感の中でハイパースケーラーの負債主導のCapEx計画に注目が集まる。",
+      "category": "international"
+    },
+    {
+      "title": "生成AIの個人利用率58.8%、日本は米独中の75%超に依然として遅れ——2026年版情報通信白書",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/",
+      "date": "2026-07-24",
+      "summary": "総務省が7月24日公表した2026年版情報通信白書（令和8年版）によれば、2025年度時点で生成AIを使ったことのある個人は58.8%で、前年度から倍増した一方、米独の75.6%、中国の93.6%には及ばない。日本は仕事や調べ物での利用が中心で、米国のように『友達』として使う層は薄いことも明らかになった。",
+      "category": "japan"
+    },
+    {
+      "title": "「AIを使い倒す」から始まる企業変革——SoftBank World 2026 基調講演レポート",
+      "source": "ソフトバンクニュース",
+      "url": "https://www.softbank.jp/sbnews/entry/20260724_01",
+      "date": "2026-07-24",
+      "summary": "SoftBank World 2026の基調講演で、ソフトバンクは自社をカスタマーゼロと位置付け、社員全員が生成AIを『使い倒す』ことから始めた企業変革の実践知を語った。10億AIエージェント構想と国産マルチモーダル基盤モデル『Noetra』を軸に、業務ワークフローへのAI組み込みや推論インフラの整備を推進する方針を打ち出した。",
+      "category": "japan"
+    },
+    {
+      "title": "ChatGPTとClaude、そろって音声機能強化 Codexでエージェントに『声だけで指示』も可能に",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2607/24/news106.html",
+      "date": "2026-07-24",
+      "summary": "OpenAIとAnthropicが同時期にAIチャットボットの音声機能を大幅に強化した。ChatGPTはデスクトップにVoiceを展開してCodexやChatGPT Workの複数エージェントを音声だけで指揮できるようになり、ClaudeもOpus・Sonnetに対応した新Voiceモードを提供。声で業務エージェントを操作するUXが本格化してきた。",
+      "category": "japan"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "title_ja": "Claude Opus 5 の紹介",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "date": "2026-07-24",
+      "summary": "AnthropicはClaude Opus 5を正式発表。Frontier-BenchやGDPval-AAなどのコーディング・知識労働評価で新たな最先端を達成し、Fable 5と同等クラスの性能をOpus 4.8と同価格（$5/$25 per Mトークン）で提供する。エージェント動作、ソフトウェア工学、科学研究のタスクで大幅な改善を実現し、Claude Maxの新デフォルトとなる。",
+      "category": "company_blog"
+    },
     {
       "title": "White House Accuses Moonshot AI of Stealing Anthropic's Fable as Treasury Threatens Sanctions",
       "title_ja": "ホワイトハウス、MoonshotによるFable窃取を非難——制裁カード切る",
@@ -27,6 +96,51 @@
       "date": "2026-07-23",
       "summary": "中国AIロボット企業Psibot（別名Lingchu Intelligence）が7月23日、1.48Bドルのプレマネー評価で約1億ドル調達をほぼ確定。中国自動車大手・奇瑞汽車がリード、Apple・Tesla向けセンサ大手のLens Technologyらが参加する。中国のフィジカルAI／ヒューマノイド分野の評価額急伸を象徴する案件で、米中AI競争の焦点がモデル層からロボット・実世界応用へ広がる潮流を裏付けた。",
       "category": "international"
+    },
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "title_ja": "Anthropic、ClaudeのVoiceモードを刷新——OpusとSonnetに対応、Gmail/Slack/Notion等の連携も",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "date": "2026-07-23",
+      "summary": "Anthropicは7月23日、ClaudeのVoiceモードでHaikuに加えOpusとSonnetを選択できるようアップデート。音声からGmail、Googleカレンダー、Slack、Canva、Notion等のアプリを直接操作できるクロスアプリ自動化も追加。英語・仏・独・ヒンディー・インドネシア・伊・日・韓・葡・西の10言語に対応する。",
+      "category": "international"
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "title_ja": "ChatGPTの Health（ヘルス）機能を米国全域に展開",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/health-in-chatgpt/",
+      "date": "2026-07-23",
+      "summary": "OpenAIは7月23日、Apple HealthやEpic・Oracle Health等の医療記録と連携できるChatGPTのHealth機能を米国の18歳以上ユーザー（Free/Go/Plus/Pro）に順次展開開始。検査結果や服薬、活動量、睡眠を1つのダッシュボードにまとめ、トレンド分析や受診準備、結果の理解を対話形式で支援する。Web版とiOSアプリで提供。",
+      "category": "company_blog"
+    },
+    {
+      "title": "NVIDIA Vera Rubin: Driving Performance Per Watt, Lower Token Costs for Partners Worldwide",
+      "title_ja": "NVIDIA Vera Rubin、パフォーマンス/ワットとトークンコスト削減でパートナー導入拡大",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "date": "2026-07-23",
+      "summary": "NVIDIAはエージェントAI向けCPU『Vera』を搭載したVera Rubinプラットフォームのベンチマーク結果を公開。同一QoSで最大1.6倍の同時AIエージェント処理、最大2.2倍のオーケストレーション速度を達成し、クラウド事業者のインフラ利用効率とコスト効率を大幅に改善するとした。KAISTやNoetra Corp等との導入パートナーシップも紹介。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Detecting LLM-Generated Tokens in Human--LLM Coauthored Text",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.21458",
+      "date": "2026-07-23",
+      "authors": "Yangjun Lu, Hongyi Zhou, Fabian Spill, Kai Ye, Chengchun Shi, Jin Zhu",
+      "summary": "人間とLLMの共著テキストにおいて、どの部分がLLM生成かをトークン単位で局所検出する手法を提案。既存のトークン単位の検出スコアを近傍平滑化し、局所的な著者構造に応じて帯域幅を選ぶ適応的Lepski型ルールを組み合わせる。トークン単位のラベルデータが不要で実装が容易であり、混在著者文書の細粒度検出精度を大きく改善する。",
+      "category": "arxiv"
+    },
+    {
+      "title": "Toward Generalizable Cognitive Impairment Detection with Speech-Based Multimodal Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.21496",
+      "date": "2026-07-23",
+      "authors": "arXiv authors",
+      "summary": "オープンソースのマルチモーダルLLMを用いた汎化可能な認知機能障害（CI）検出フレームワークを提案。音声と対応する書き起こしテキストを統合しつつ、患者プライバシーを保持する設計。既存手法よりも複数データセット間での転移性が高く、臨床応用可能なスクリーニングツールとしての可能性を示す。",
+      "category": "arxiv"
     },
     {
       "title": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark",
@@ -160,6 +274,15 @@
       "date": "2026-07-22",
       "authors": "arXiv 2607.19686 著者陣",
       "summary": "拡散言語モデルを少数ステップで高品質生成に到達させる手法。単一マスクではなく複数マスクを組み合わせる新しい訓練・推論戦略を導入し、自己回帰モデル並みの流暢さを4〜8ステップで実現。長文生成での品質崩壊を抑制しつつ、Transformer LMに対しトークン当たり2〜4倍のスループット向上を報告する。エージェント推論など低遅延要求のタスクへ拡散LMを実用化する布石。",
+      "category": "arxiv"
+    },
+    {
+      "title": "PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.20064",
+      "date": "2026-07-22",
+      "authors": "Alexis Fox, Junlin Wang, Paul Rosu, Bhuwan Dhingra",
+      "summary": "長時間タスクにおけるLLMエージェントの推論性能低下を解決するため、プログラム的メモリを中核に据えた最小限のコンテキスト管理フレームワーク『PRO-LONG』を提案。既存手法が抱える『情報保存量と検索性のトレードオフ』を、実行可能なコードとしてメモリを管理することで打破。ARC-AGI-3等の継続学習ベンチマークで大幅な改善を示した。",
       "category": "arxiv"
     },
     {
@@ -1663,133 +1786,6 @@
       "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
       "date": "2026-07-07",
       "summary": "CNBCは7月7日、米国企業が「トークン最大化」から効率重視にシフトする中、中国製オープンウェイトAIモデルの採用が急拡大していると報じた。6月にリリースされたZ.aiのGLM-5.2はVercelが2026年に追跡したモデルの中で最速の採用ペースを記録し、中国製オープンモデルはAnthropicやOpenAIの主要モデル比で60〜90%安価に運用可能とされる。DeepSeekやTencent Hy3など連続的な高性能オープンモデルの登場と、米OpenAI・Anthropicの請求額急増を背景に、企業サイドで実運用コスト最適化の動きが加速している。",
-      "category": "international"
-    },
-    {
-      "title": "Reddit Cracks Down On Bots And Spam—But AI Search Manipulation May Be Harder To Stop",
-      "title_ja": "Reddit、AIによるスパム・偽エンゲージメントブロックを大幅強化 1日2,300万ビュー・25,000投稿・200万偽投票を遮断",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/codyluongo/2026/07/07/reddit-cracks-down-on-bots-and-spam-but-ai-search-manipulation-may-be-harder-to-stop/",
-      "date": "2026-07-07",
-      "summary": "Redditは7月6日、AIチャットボットの検索結果を操作しようとする「AI slop」対策としてAI検知を拡張したと発表し、Forbesはその効果と限界を7月7日に分析した。同社は1日あたり2,300万件のスパム閲覧を遮断し、新規スパム投稿・コメントを25,000件検出、偽投票約200万件を無効化、ヘイトや暴力の対応時間を5秒未満まで短縮したという。単独では見えづらいコーディネート型の微細な行動パターン検知や、新規アカウントの事前レビュー、ボットアカウントの明示ラベリング強制を導入。LLMがもたらしたスパムをLLMで抑え込む逆説の中、AI経由の検索操作という新たな戦線をどう抑えるかが焦点。",
-      "category": "international"
-    },
-    {
-      "title": "AI News Today July 7 2026: 15 Biggest Stories",
-      "title_ja": "2026年7月7日AIニュース トップ15 JADEPUFFERで自律型ランサム時代・Anthropicが売上でOpenAI逆転・Meta Muse Image公開・Fable 5クレジット課金移行",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-7-2026",
-      "date": "2026-07-07",
-      "summary": "Build Fast with AIは7月7日、この日のAI業界を象徴する15本を整理した。（1）Sysdigが史上初のフル自律型AIランサム「JADEPUFFER」の詳細分析を公開し、単一の未パッチ露出サービスからAIエージェントがランサムウェアのライフサイクル全体を連鎖できる時代の到来を告げた。（2）FortuneはAnthropicが売上でOpenAIを追い抜いた事実を確認し、Sam Altman氏がOpenAIを地政学的アクターとして再定義しようとしていると論じた。（3）Metaが自社初の画像生成モデル「Muse Image」を公開。（4）AnthropicのClaude Fable 5は使用量クレジット課金に翌日移行。（5）ホワイトハウスの自主的AIモデル基準フレームワーク発表が今週予定される、など。",
-      "category": "international"
-    },
-    {
-      "title": "「恐縮ですが」「それな」も自然に英訳 Sakana AI\"温度感\"伝える翻訳サービス公開 添削機能も",
-      "title_ja": "「恐縮ですが」「それな」も自然に英訳 Sakana AI\"温度感\"伝える翻訳サービス公開 添削機能も",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
-      "date": "2026-07-07",
-      "summary": "Sakana AIが公開した日英中翻訳サービス「Sakana Translate」を、ITmediaが試用レポートとして紹介した。ビジネス敬語やスラング、SNS用語といった日本語特有のニュアンスをそのまま自然な英語に置き換える点が最大の特徴で、Namazuモデルの日本語適応学習の効果を示す事例として取り上げている。3つの動作モード（翻訳・添削・質問）を実装し、フォーマル度合いを保った文章添削や、訳語選択の根拠を追いかけるチャット的な使い方が可能。国内SaaSワークフローとの相性の良さや、国産LLMベースならではのプライバシー面の利点にも触れている。",
-      "category": "japan"
-    },
-    {
-      "title": "Anthropic、AIの\"内なる思考\"が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-      "title_ja": "Anthropic、AIの\"内なる思考\"が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-      "source": "ITmedia AI+",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
-      "date": "2026-07-07",
-      "summary": "AnthropicがClaudeの内部に「J-space（J空間）」と呼ぶ潜在ワークスペースの存在を報告した論文を、ITmedia AI+が国内向けに解説した。Jacobian行列を用いた解釈可能性ツール「J-lens」により、モデルが発話するトークンに影響を与える内部活動パターンの平均的な効果を数値化。文章コピー中でも「橋」「カリフォルニア」など未発話の概念がJ空間に保持されている様子が観測できたという。Anthropicはこの手法を、AIがテストであることを密かに認識したり、意図的にデータを捏造したり、学習時に埋め込まれた隠れ目標を追求するケースの検出に応用できると主張している。",
-      "category": "japan"
-    },
-    {
-      "title": "AI Won't Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
-      "title_ja": "ノーベル賞経済学者「AIは急成長時代を取り戻さない」──ピサリデス氏が警鐘",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
-      "date": "2026-07-07",
-      "summary": "自動化と労働経済学が専門のノーベル経済学賞受賞者クリストファー・ピサリデス氏は、AIによって欧米の高成長期が復活するとの見方に懐疑的な立場を示した。米英の雇用の4割は看護や接客、対人サービスなどAIの影響を受けにくい領域で、生産性を大きく押し上げる余地は限定的だと指摘。OpenAIのアルトマン氏、Nvidiaのフアン氏らが唱えるAI万能論を「大袈裟」と評し、政策決定者に対しても人的資本や再訓練など従来型の投資を疎かにしないよう釘を刺した。市場の楽観的なAIナラティブに冷や水を浴びせる発言として注目される。",
-      "category": "international"
-    },
-    {
-      "title": "AI Productivity Gains Are Years Away, Deutsche Bank's Reid Says",
-      "title_ja": "ドイツ銀行ライド氏「AIの生産性効果は数年先」──実体経済への波及に時間差",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
-      "date": "2026-07-07",
-      "summary": "ドイツ銀行のマクロ戦略担当ジム・ライド氏は、AIによる生産性向上は長期的には大きな効果をもたらす一方、経済統計に現れるまでには数年を要するとの見解を発表した。個別企業レベルではコスト削減や新製品投入という形で成果が出始めているものの、労働市場や国全体のTFPに反映されるまでには過去の汎用技術と同様に導入・普及・組織再編のラグが伴うと分析。株式市場が織り込むAIプレミアムと実体経済のインパクトが乖離するリスクにも言及した。前後で報じられたピサリデス氏の悲観論と合わせ、投資家心理に一石を投じる内容。",
-      "category": "international"
-    },
-    {
-      "title": "Ukraine to Pick AI Models Operated Without Provider Control, Official Says",
-      "title_ja": "ウクライナ、ベンダーの制御に依存しないAIモデルを採用へ──政府高官が明言",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-07-07/ukraine-to-pick-ai-models-operated-without-provider-control-official-says",
-      "date": "2026-07-07",
-      "summary": "ウクライナ政府はAI活用戦略において、モデルのベンダーが遠隔から挙動を制御できるクローズドAIではなく、政府側で完全に運用できる（実質的にウェイトを保持できる）モデルを選定する方針を打ち出した。戦時下でのサービス停止リスクや、機微情報の取り扱いに対する主権的懸念が背景。輸出規制や国家安全保障を理由に外国政府がAI利用を止められる事態を避けるため、オープンウェイトモデルや自国配備型のAIを優先する見通しだ。米中AI覇権競争の狭間で欧州・新興国が採る「AI主権」戦略の一例として、他国の政策議論にも影響を与えそうだ。",
-      "category": "international"
-    },
-    {
-      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-      "title_ja": "Liquid AI、推論モデルの\"暴走ループ\"を抑える「Antidoom」をOSS公開──FTPO手法を提案",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-      "date": "2026-07-07",
-      "summary": "Liquid AIは、推論モデル特有の失敗モード「doom loop（同じフレーズを延々と繰り返してコンテキストを食い潰す挙動）」を抑制するオープンソース手法「Antidoom」を公開した。中核はFinal Token Preference Optimization（FTPO）と呼ぶ選好最適化アプローチで、末尾トークンの分布を調整することで再発リスクを大きく低減する。実験ではLFM2.5-2.6Bのループ発生率が10.2%から1.4%に、Qwen3.5-4Bでは22.9%から1%まで低下したと報告。推論チェーンを長くしても安定性が保たれることを狙い、他モデルでも比較的軽量に適用できる点をアピールしている。",
-      "category": "company_blog"
-    },
-    {
-      "title": "Articulating Assumptions in AI-Generated Scientific Analyses through Task Decomposition",
-      "title_ja": "AI生成の科学分析コードにおける前提条件を明示化する──タスク分解による多エージェントフレームワーク",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.05762",
-      "date": "2026-07-07",
-      "summary": "本論文は、LLMが生成した科学解析コードによる結果の理解可能性と再現性を高めるため、「量に基づく意味論的差分（quantity grounded semantic differencing）」というマルチエージェント・フレームワークを提案する。コード生成、実行、トレース、検証をそれぞれ別のエージェントに割り当てることで、主要な出力量がどのように算出されたかを再構成し、意図した解析と実装コードのズレを特定できる。加えて、コード生成前にユーザ指示の曖昧さを検査し、代替の書き換え案を提示するモジュールも導入。物理・素粒子分野の解析パイプラインを題材に有効性を実証している。",
-      "category": "arxiv",
-      "authors": "Ahmed Hammad, Mihoko Nojiri"
-    },
-    {
-      "title": "NVIDIA touts Vera CPU as 'max single-threaded CPU at scale' for agentic AI",
-      "title_ja": "NVIDIA、Vera CPUをエージェンティックAI向け「大規模シングルスレッド最強CPU」として発表",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-touts-vera-cpus-single-threaded-performance-as-its-agentic-ai-advantage-frames-chip-as-a-max-single-threaded-cpu-at-scale-not-a-parallel-monster",
-      "date": "2026-07-07",
-      "summary": "NVIDIAは新型データセンターCPU「Vera」を、エージェンティックAI時代向けの新カテゴリ「Max Single-Threaded CPU at Scale」として位置付けを発表。88コアのモノリシック設計により、コア数よりコア当たり性能を優先。既に量産段階に入り、OpenAI、xAI、Oracle、Anthropic等での採用が始まっている。次世代Rosa CPUに搭載されるRigel Arm v9.2コアも予告された。",
-      "category": "international"
-    },
-    {
-      "title": "EU Commission presents Action Plan on Cybersecurity and Artificial Intelligence",
-      "title_ja": "欧州委員会、AIとサイバーセキュリティに関する行動計画を発表",
-      "source": "European Commission",
-      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
-      "date": "2026-07-07",
-      "summary": "欧州委員会は、先進AIモデルがもたらすサイバーセキュリティ上のリスクと機会に構造的に対応する行動計画を発表。EU市場投入前のAIモデル評価能力の強化、ENISAとJRCによる安全なテストプラットフォームの構築、「EUグランドチャレンジ」の立ち上げなどが柱。米国製フロンティアモデルへの依存を認識しつつ、欧州のAI能力を主権的に拡大する狙いがある。",
-      "category": "international"
-    },
-    {
-      "title": "Introducing Muse Image and Muse Video",
-      "title_ja": "Muse ImageとMuse Videoの発表",
-      "source": "AI at Meta Blog",
-      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
-      "date": "2026-07-07",
-      "summary": "MetaがSuperintelligence Labs初の画像生成モデル「Muse Image」を発表。複雑なプロンプトを高度な推論で理解し、検索・コード実行ツールを呼び出しながら自己修正するエージェント的な生成が特徴。Meta AIアプリ、Instagram Stories、WhatsAppで即日展開開始で、Muse Videoも開発中。",
-      "category": "company_blog"
-    },
-    {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "title_ja": "LeRobot v0.6.0：想像し、評価し、改善する",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "date": "2026-07-07",
-      "summary": "Hugging Faceがオープンソースロボット学習ライブラリLeRobotのv0.6.0をリリース。行動前に未来を想像するポリシー、成功可否を判定する報酬モデル、失敗を訓練データに変換するデプロイCLI、6つの新シミュレーションベンチマークを追加し、ロボット学習のクローズドループを実現する。",
-      "category": "company_blog"
-    },
-    {
-      "title": "AI Safety Index Summer 2026: Anthropic Tops at C+, xAI/DeepSeek/Mistral Fail",
-      "title_ja": "AI Safety Index 2026夏：Anthropicが首位C+、xAI・DeepSeek・MistralはF",
-      "source": "Future of Life Institute",
-      "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
-      "date": "2026-07-07",
-      "summary": "Future of Life Instituteが7月7日に発表した「AI Safety Index Summer 2026」は主要9社(Anthropic, OpenAI, Google DeepMind, xAI, Z.ai, Meta, DeepSeek, Alibaba Cloud, Mistral)を6ドメイン37指標で評価。首位のAnthropicですらC+にとどまり、OpenAI・DeepMindがC、Meta D+、xAI・DeepSeek・MistralはFと不合格。「トップ企業でさえ安全対策はAI能力の進歩に対して完全に不十分」と結論した。",
       "category": "international"
     }
   ]

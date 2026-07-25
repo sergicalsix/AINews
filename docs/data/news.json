@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-07-24 09:00 (JST)",
+  "lastUpdated": "2026-07-25 09:00 (JST)",
   "articles": [
+    {
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "title_ja": "NVIDIA、SKハイニックスとの5000億ドルAI契約でHBMメモリ供給を長期確保",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "date": "2026-07-25",
+      "summary": "NVIDIAは7月25日サンフランシスコで開催されたAIサミットで、SKハイニックスと総額5000億ドル規模の長期メモリ供給契約を締結したと発表。SKハイニックスは次世代HBM4メモリを含む先端AIメモリを長期供給し、SKテレコムが構築する2ギガワット級AIファクトリーは2027年に稼働予定。李在明韓国大統領も出席し、NVIDIAはHBM供給の安定確保と韓国におけるAI基盤の大規模展開を狙う。",
+      "category": "international"
+    },
+    {
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "title_ja": "SKグループとNVIDIA、AIファクトリーと次世代メモリで戦略提携を拡大",
+      "source": "GlobeNewswire (SK hynix)",
+      "url": "https://www.globenewswire.com/news-release/2026/07/25/3333161/0/en/SK-Group-and-NVIDIA-Expand-Strategic-Partnership-Across-AI-Factories-and-Next-Generation-Memory.html",
+      "date": "2026-07-25",
+      "summary": "SKグループとNVIDIAは7月25日、5000億ドル超規模のAIインフラ提携をLoIで正式化。SKテレコムがNVIDIAのフルスタックDSXアーキテクチャに基づく2GW級AIクラウド施設を韓国に構築し、Vera Rubinプラットフォームで運用する。SKハイニックスのHBM4を採用しつつ、次世代AIメモリソリューションを共同開発する方針で、2027年に第1フェーズ稼働開始を予定する。",
+      "category": "company_blog"
+    },
+    {
+      "title": "Samsung, SK Group seal $950bn deals as Korea hosts AI powers",
+      "title_ja": "サムスンとSKグループ、韓国主催AIサミットで総額9500億ドルの対米AI提携を締結",
+      "source": "Gulf Times",
+      "url": "https://www.gulf-times.com/article/729899/business/samsung-sk-group-seal-950bn-deals-as-korea-hosts-ai-powers",
+      "date": "2026-07-25",
+      "summary": "韓国大統領府（青瓦台）は7月25日、李在明大統領が主催したサンフランシスコAIサミットで、SKグループが7500億ドル（NVIDIAとのSKハイニックス提携5000億ドル超を含む）、サムスン電子がBroadcomと最大2000億ドルのMoUを締結し、合計9500億ドル規模の対米AI合意を発表したと明らかにした。深刻化するAI用先端メモリ不足を背景に、韓国メモリ大手2社の存在感が改めて浮き彫りになった。",
+      "category": "international"
+    },
+    {
+      "title": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals",
+      "title_ja": "サムスン・SKハイニックス、対米9500億ドル契約で2030年までのAIチップ供給を固定化",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/321554/20260725/samsung-sk-hynix-lock-ai-chip-supply-through-2030-950b-us-deals.htm",
+      "date": "2026-07-25",
+      "summary": "サムスン電子とSKハイニックスは7月25日、NVIDIA・Broadcomら米ハイテク大手と2030年までの長期AIチップ・メモリ供給枠を含む総額約9500億ドルの一括契約を締結。SKハイニックス側の7500億ドルは長期メモリ供給に、サムスンの2000億ドルはBroadcom向けメモリ・ファウンドリ・先端パッケージング統合契約に充当される。2ギガワット級AIファクトリー構築と次世代HBM共同開発が柱となる。",
+      "category": "international"
+    },
+    {
+      "title": "Samsung, SK hynix push new memory layer as AI outgrows HBM alone",
+      "title_ja": "サムスンとSKハイニックス、HBM単独では追いつかないAI需要に対応する新メモリ階層を推進",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10813898",
+      "date": "2026-07-25",
+      "summary": "生成AI・エージェント時代のメモリ需要がHBM単独では賄えなくなる中、サムスン電子とSKハイニックスはNVIDIAとの合意を追い風に、HBMとDRAM/CXLの間を埋める新たなメモリ階層製品の開発を加速させると7月25日報道。AIファクトリー内部の広帯域データ動線を最適化する構想で、メモリベンダー主導のシステム階層再設計が本格化しつつある。",
+      "category": "international"
+    },
+    {
+      "title": "Nvidia chief says will announce $500 bil. partnership with SK Group in meeting with Lee",
+      "title_ja": "NVIDIAファンCEO、李大統領との会談でSKグループとの5000億ドル提携を正式発表へ",
+      "source": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/20260725/nvidia-chief-says-will-announce-500-bil-partnership-with-sk-group-in-meeting-with-lee",
+      "date": "2026-07-25",
+      "summary": "NVIDIAのジェンスン・ファンCEOは7月25日、韓国の李在明大統領との会談で、SKグループとの5000億ドル規模のAI提携を正式発表すると明らかにした。同提携はSKハイニックスHBMの長期供給契約とSKテレコムの2GW級AIファクトリー建設を柱とし、韓国政府はAIサミットを通じて対米AIインフラ協力の中核として位置付ける。",
+      "category": "international"
+    },
     {
       "title": "Anthropic launches Opus 5",
       "title_ja": "Anthropic、Claude Opus 5 を発表——Fable 5 に迫る性能を半額で",
@@ -1731,62 +1785,6 @@
       "summary": "LLMエージェントによる科学的機械学習の代理モデル探索において、低い誤差指標が必ずしも境界条件・重ね合わせ・因果性等の物理法則を満たすとは限らない問題に対処。PA-SciMLフレームワークは、機械検証可能な物理要件を導出し、候補モデルごとの物理エビデンスをモデル選択に組み込む検証ファーストのアプローチを提案する。",
       "authors": "Diab W. Abueidda et al.",
       "category": "arxiv"
-    },
-    {
-      "title": "Human and LLM Collaboration for Accelerated Materials Synthesis and Discovery",
-      "title_ja": "人間とLLMの協働による材料合成・発見の加速",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.07604",
-      "date": "2026-07-08",
-      "summary": "ジョンズ・ホプキンス大学の研究チームが、既知および新規材料の合成レシピを人間とLLMが生成し、実験室での実証結果を閉ループでフィードバックする手法を報告。既知材料では人間83%対LLM75%、未知材料では人間17%対LLM22%の成功率を示し、この協働により1次元Rock-Salt Perovskite系列の欠損メンバーであるBa3PtO5という新構造プロトタイプの発見に至った。",
-      "authors": "Gregory Bassen et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "OpenAI Deployment Company to Acquire Northslope, Palantir-Rooted Applied AI Firm",
-      "title_ja": "OpenAI Deployment Company、Palantirゆかりの応用AI企業Northslopeを買収へ",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
-      "date": "2026-07-08",
-      "summary": "OpenAIのエンタープライズ展開子会社「OpenAI Deployment Company」が、Palantir出身者が設立した応用AI企業Northslopeを買収することで合意した。Tomoroに続く2件目の買収で、顧客業務にForward Deployed Engineerを常駐させる体制を数百人規模へ拡張し、ChatGPT Workや政府案件を中心にエンタープライズ支援を強化する。",
-      "category": "international"
-    },
-    {
-      "title": "Shanghai to host record-breaking WAIC 2026, over 300 global product debuts starting July 17",
-      "title_ja": "上海WAIC 2026が7月17日開幕 300超の世界初披露、過去最大規模",
-      "source": "Global Times",
-      "url": "https://www.globaltimes.cn/page/202607/1365377.shtml",
-      "date": "2026-07-08",
-      "summary": "「世界人工知能大会(WAIC 2026)」と「グローバルAIガバナンス閣僚級会議」が7月17-20日に上海で開催。会場面積は初の10万m²超、1,100社超が3,000超の展示物を出展し、うち300超が世界初披露。テーマは「Intelligent partners, co-creating the future」。国際チューリング賞受賞者らによる学術トラックも新設、AI安全・グローバルガバナンス・AIデバイド解消も主要議題となる。",
-      "category": "international"
-    },
-    {
-      "title": "Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System",
-      "title_ja": "大規模言語モデル応答の総合評価：多因子スコアリングシステム",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.06940",
-      "date": "2026-07-08",
-      "summary": "LLM応答評価のための多因子スコアリングフレームワークを提案。正確性、簡潔性、事実整合性、可読性、一貫性の5軸で自動評価し、複数モデルの回答をGUI上で比較可視化できるツールも実装。単一のLLM-as-a-Judgeより粒度の高いフィードバックを提供し、モデル選定・プロンプト設計の実務改善に有用と主張。",
-      "authors": "Muhammad Anas et al.",
-      "category": "arxiv"
-    },
-    {
-      "title": "Meta debuts Muse Image, Superintelligence Labs' first AI image model",
-      "title_ja": "Meta、初の自社画像生成AI「Muse Image」を公開 Superintelligence Labs開発、Instagram・WhatsApp・Meta AIに展開",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
-      "date": "2026-07-07",
-      "summary": "Metaは7月7日、Alexandr Wang氏率いるSuperintelligence Labs部門で開発した初の自社画像生成AI「Muse Image」を公開した。テキストからの画像生成、既存画像の編集、Instagramの公開投稿を素材に友人を含む画像生成が可能で、複数オブジェクト・カメラアングル・照明・空間関係を指定する複雑なマルチステップのプロンプトを理解する。Meta AIアプリ/サイト、WhatsApp DM、Instagram Storiesで無料提供が始まり、Facebook・Messengerや他機能へは年内に順次拡大。広告主向けにはAdvantage+の画像生成ツールに統合。全画像に不可視ウォーターマークを埋め込み、CSAM等の生成を防ぐセーフガードを装備。編集シナリオではGoogleのNano Banana 2を上回るがOpenAIのGPT Image 2には及ばないとされる。",
-      "category": "international"
-    },
-    {
-      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
-      "title_ja": "中国製オープンAIモデルが米国企業で存在感 効率志向シフトでZ.ai・DeepSeekが急伸、OpenAI/Anthropicの高コストが逆風",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
-      "date": "2026-07-07",
-      "summary": "CNBCは7月7日、米国企業が「トークン最大化」から効率重視にシフトする中、中国製オープンウェイトAIモデルの採用が急拡大していると報じた。6月にリリースされたZ.aiのGLM-5.2はVercelが2026年に追跡したモデルの中で最速の採用ペースを記録し、中国製オープンモデルはAnthropicやOpenAIの主要モデル比で60〜90%安価に運用可能とされる。DeepSeekやTencent Hy3など連続的な高性能オープンモデルの登場と、米OpenAI・Anthropicの請求額急増を背景に、企業サイドで実運用コスト最適化の動きが加速している。",
-      "category": "international"
     }
   ]
 }
